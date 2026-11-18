@@ -1,0 +1,28 @@
+# audio de evaluación (uso local, no redistribuir)
+eval/asr/*.mp3
+eval/asr/*.wav
+eval/asr/*.m4a
+eval/asr/chunks/
+# modelos y cachés
+models/
+*.gguf
+*.safetensors
+*.bin
+.cache/
+# entornos y dependencias
+.venv/
+venv/
+node_modules/
+.tools/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+.DS_Store
+# worktrees de subagentes
+.claude/worktrees/
+config/local.yaml
+.claude/scheduled_tasks.lock
+eval/asr/ref.log
+eval/asr/ref_chunks/
+data/sessions/

@@ -1,0 +1,2155 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+| club = [[Real Betis]]
+| season = [[2024–25 in Spanish football|2024–25]]
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| chrtitle = President
+| chairman = [[:es:Ángel Haro|Ángel Haro]]
+| ownertitle = 
+| owner = 
+| mgrtitle = Head coach
+| manager = [[Manuel Pellegrini]]
+| stdtitle = 
+| stadium = {{nowrap|[[Estadio Benito Villamarín|Benito Villamarín]]}}
+| league = [[La Liga]]
+| league result = [[2024–25 La Liga|6th]]
+| cup1 = [[Copa del Rey]]
+| cup1 result = [[2024–25 Copa del Rey|Round of 16]]
+| cup2 = [[UEFA Conference League]]
+| cup2 result = [[2024–25 UEFA Conference League|Runners-up]]
+| league topscorer = <br>[[Isco]] (9)
+| season topscorer = <br>Isco (12)
+| highest attendance = 58,538<br>{{nowrap|(vs [[Sevilla FC|Sevilla]], 30 March 2025)}}
+| lowest attendance = 35,779<br>{{nowrap|(vs [[Helsingin Jalkapalloklubi|HJK]], 19 December 2024)}}
+| average attendance = 51,542<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+| largest win = [[CD Gévora|Gévora]] 1–6 Real Betis
+| largest loss = [[FC Barcelona|Barcelona]] 5–1 Real Betis
+| pattern_la1 = _betis2425h
+| pattern_b1 = _betis2425h
+| pattern_ra1 = _betis2425h
+| pattern_sh1 = _betis2425h
+| pattern_so1 = _betis2425hl
+| leftarm1 = FFFFFF
+| body1 = 007700
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = 007700
+| pattern_la2 = 
+| pattern_b2 = _betis2425a
+| pattern_ra2 = 
+| pattern_sh2 = _betis2425a
+| pattern_so2 = _betis2425al
+| leftarm2 = 000000
+| body2 = cfff00
+| rightarm2 = 000000
+| shorts2 = 000000
+| socks2 = cfff00
+| pattern_la3 = _betis2425t
+| pattern_b3 = _betis2425t
+| pattern_ra3 = _betis2425t
+| pattern_sh3 = _betis2425t
+| pattern_so3 = _betis2425tl
+| leftarm3 = 00B3DE
+| body3 = 056B9C
+| rightarm3 = 00B3DE
+| shorts3 = 056B9C
+| socks3 = 056B9C
+| prevseason = [[2023–24 Real Betis season|2023–24]]
+| nextseason = [[2025–26 Real Betis season|2025–26]]
+}}
+The '''2024–25 season''' was the 118th season in the [[History of Real Betis Balompié|history]] of '''[[Real Betis]]''', and the club's tenth consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]] and the [[2024–25 UEFA Conference League|UEFA Conference League]], reaching the [[2025 UEFA Conference League final|final]] of the latter competition.
+
+== Players ==
+=== First-team squad ===
+{{updated|28 February 2025}}<ref>{{cite web|url=https://www.realbetisbalompie.es/primer-equipo/plantilla/|title=Plantilla|publisher=Real Betis|language=es|access-date=25 October 2018|archive-date=29 June 2017|archive-url=https://web.archive.org/web/20170629171534/https://www.realbetisbalompie.es/primer-equipo/plantilla/|url-status=live}}</ref>
+{{Fs start}}
+{{Fs player|no=1|pos=GK|nat=ESP|name=[[Fran Vieites]]}}
+{{Fs player|no=2|pos=DF|nat=ESP|name=[[Héctor Bellerín]]}}
+{{Fs player|no=3|pos=DF|nat=ESP|name=[[Diego Llorente]]}}
+{{Fs player|no=4|pos=MF|nat=USA|name=[[Johnny Cardoso]]}}
+{{Fs player|no=5|pos=DF|nat=ESP|name=[[Marc Bartra]]}}
+{{Fs player|no=6|pos=DF|nat=BRA|name=[[Natan (footballer, born 2001)|Natan]]|other=on loan from [[SSC Napoli|Napoli]]}}
+{{Fs player|no=7|pos=FW|nat=BRA|name=[[Antony (footballer, born 2000)|Antony]]|other=on loan from [[Manchester United F.C.|Manchester United]]}}
+{{Fs player|no=9|nat=ARG|pos=FW|name=[[Chimy Ávila]]}}
+{{Fs player|no=10|pos=FW|nat=MAR|name=[[Abde Ezzalzouli]]}}
+{{Fs player|no=11|nat=DRC|pos=FW|name=[[Cédric Bakambu]]}}
+{{Fs player|no=12|pos=DF|nat=SUI|name=[[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]]}}
+{{Fs player|no=13|pos=GK|nat=ESP|name=[[Adrián (footballer)|Adrián]]}}
+{{Fs player|no=14|pos=MF|nat=POR|name=[[William Carvalho]]}}
+{{Fs mid}}
+{{Fs player|no=15|pos=DF|nat=FRA|name=[[Romain Perraud]]}}
+{{Fs player|no=16|pos=MF|nat=ESP|name=[[Sergi Altimira]]}}
+{{Fs player|no=18|pos=MF|nat=ESP|name=[[Pablo Fornals]]}}
+{{Fs player|no=19|pos=FW|nat=COL|name=[[Cucho Hernández]]}}
+{{Fs player|no=20|pos=MF|nat=ARG|name=[[Giovani Lo Celso]]}}
+{{Fs player|no=21|pos=MF|nat=ESP|name=[[Marc Roca]]}}
+{{Fs player|no=22|pos=MF|nat=ESP|name=[[Isco]]}}
+{{Fs player|no=23|pos=DF|nat=SEN|name=[[Youssouf Sabaly]]}}
+{{Fs player|no=24|pos=FW|nat=ESP|name=[[Aitor Ruibal]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=32|pos=DF|nat=SEN|name=[[Nobel Mendy]]}}
+{{Fs end}}
+
+=== Reserve team ===
+{{Main|Betis Deportivo Balompié}}
+{{Fs start}}
+{{Fs player|no=30|pos=GK|nat=ESP|name=[[Germán García Fernández|Germán García]]}}
+{{Fs player|no=31|pos=GK|nat=POR|name=[[Guilherme Sousa Carvalho Fernandes|Guilherme Fernandes]]}}
+{{Fs player|no=33|pos=DF|nat=ESP|name=[[Xavier Pleguezuelo Selva|Xavi Pleguezuelo]]}}
+{{Fs player|no=34|pos=MF|nat=ESP|name=[[Carlos Guirao (footballer)|Carlos Guirao]]|other=on loan from [[CD Leganés B|Leganés B]]}}
+{{Fs player|no=36|pos=FW|nat=ESP|name=[[Jesús Rodríguez (footballer, born 2005)|Jesús Rodríguez]]}}
+{{Fs player|no=37|pos=MF|nat=ESP|name=[[Dani Pérez (footballer)|Dani Pérez]]}}
+{{Fs player|no=40|pos=DF|nat=ESP|name=[[Ángel Ortiz (footballer, born 2004)|Ángel Ortiz]]}}
+{{Fs mid}}
+{{Fs player|no=41|pos=GK|nat=ESP|name=[[Manuel González Pallarés|Manu González]]}}
+{{Fs player|no=42|pos=DF|nat=ESP|name=[[Pablo Busto]]}}
+{{Fs player|no=43|pos=DF|nat=ESP|name=[[Lucas Alcázar]]}}
+{{Fs player|no=46|pos=MF|nat=ESP|name=[[Mateo Flores (footballer)|Mateo Flores]]}}
+{{Fs player|no=47|pos=MF|nat=ESP|name=[[Carlos Reina Luengo|Carlos Reina]]}}
+{{Fs player|no=52|pos=FW|nat=ESP|name=[[Pablo García (footballer, born 2006)|Pablo García]]}}
+{{Fs player|no=57|pos=DF|nat=ESP|name=[[Sergio Arribas (footballer, born 2003)|Sergio Arribas]]}}
+{{Fs end}}
+
+=== Out on loan ===
+{{Fs start}}
+{{Fs player|no=|pos=GK|nat=POR|name=[[Rui Silva (footballer, born 1994)|Rui Silva]]|other=at [[Sporting CP]] until 30 June 2025}}
+{{Fs player|no=|pos=DF|nat=COL|name=[[Keimer Andrés Sandoval Rodríguez|Keimer Sandoval]]|other=at [[Red Star Belgrade]] until 30 June 2026}}
+{{Fs player|no=|pos=DF|nat=ESP|name=[[Ricardo Visus]]|other=at [[Almere City FC|Almere City]] until 30 June 2025}}
+{{Fs player|no=|pos=DF|nat=ESP|name=[[Álex Pérez (footballer, born 2006)|Álex Pérez]]|other=at [[Inter Milan]] until 30 June 2025}}
+{{Fs player|no=|pos=MF|nat=ESP|name=[[Iker Losada]]|other=at [[RC Celta de Vigo|Celta Vigo]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Álex Collado]]|other=at [[Al-Kholood Club|Al-Kholood]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Yanis Senhadji]]|other=at [[Hércules CF|Hércules]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Borja Iglesias]]|other=at [[RC Celta de Vigo|Celta Vigo]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Juanmi (footballer, born 1993)|Juanmi]]|other=at [[Getafe CF|Getafe]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Collado, Álex|{{flagicon|ESP}} [[Álex Collado]]}}
+|{{fbaicon|KSA}} [[Al-Okhdood Club|Al-Okhdood]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web | url=https://www.estadiodeportivo.com/futbol/betis/otra-opcion-para-salida-alex-collado-del-betis-20240617-455297.html | title=Otra opción para la salida de Álex Collado del Betis |website=Estadio Deportivo |language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Iglesias, Borja|{{flagicon|ESP}} [[Borja Iglesias]]}}
+|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite news|url=https://www.football-espana.net/2024/05/25/bayer-leverkusen-against-borja-iglesias-transfer|title=Bayer Leverkusen opt against Borja Iglesias transfer|first=Feargal|last=Brennan|date=25 May 2024|website=Football España}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Juanmi|{{flagicon|ESP}} [[Juanmi (footballer, born 1993)|Juanmi]]}}
+|{{fbaicon|ESP}} [[Cádiz CF|Cádiz]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Riad, Chadi|{{flagicon|MAR}} [[Chadi Riad]]}}
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|€3,000,000{{Cref2|†|group=TR}}
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.football-espana.net/2024/04/06/barcelona-to-re-sign-defender-for-net-price-of-e4m-immediate-sale-anticipated-for-e15m|title=Barcelona to re-sign defender for net price of €4m, immediate sale anticipated for €15m|date=6 April 2024|website=Football España}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Perraud, Romain|{{flagicon|FRA}} [[Romain Perraud]]}}
+|{{fbaicon|ENG}} [[Southampton F.C.|Southampton]]
+|€3,500,000
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://onefootball.com/en/news/oficial-romain-perraud-ya-es-jugador-del-real-betis-39671578|title=Oficial&#124; Romain Perraud ya es jugador del Real Betis|date=2 July 2024|website=OneFootball|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Roca, Marc|{{flagicon|ESP}} [[Marc Roca]]}}
+|{{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]]
+|€4,500,000
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.leedsunited.com/en/news/marc-roca-joins-real-betis-on-permanent-deal|title=Marc Roca joins Real Betis on permanent deal|publisher=Leeds United F.C.|date=28 June 2024|access-date=28 June 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Losada, Iker|{{flagicon|ESP}} [[Iker Losada]]}}
+|{{fbaicon|ESP}} [[Racing de Ferrol|Racing Ferrol]]
+|€1,800,000
+|{{dts|6 July 2024}}
+|<ref>{{cite news|url=https://onefootball.com/it/notizie/iker-losada-aterriza-en-el-real-betis-39725527|title=Iker Losada aterriza en el Real Betis|date=7 July 2024|website=OneFootball|language=es}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Adrián|{{flagicon|ESP}} [[Adrián (footballer)|Adrián]]}}
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|Free
+|{{dts|7 July 2024}}
+|<ref>{{cite web|url=https://www.eldesmarque.com/futbol/mercado-de-fichajes/20240707/adrian-san-miguel-fichaje-betis-2026_300376645.html|title=Adrián San Miguel ficha por el Betis hasta 2026|first=Álvaro|last=Borrego|date=7 July 2024|website=ElDesmarque|language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Llorente, Diego|{{flagicon|ESP}} [[Diego Llorente]]}}
+|{{fbaicon|ENG}} [[Leeds United F.C.|Leeds United]]
+|€3,250,000
+|{{dts|9 July 2024}}
+|<ref>{{cite news|url=https://onefootball.com/en/news/diego-llorente-moves-to-real-betis-after-concluding-roma-loan-39739940|title=Diego Llorente moves to Real Betis after concluding Roma loan|date=7 August 2024|website=OneFootball}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Rodriguez, Ricardo|{{flagicon|SUI}} [[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]]}}
+|Free agent
+|Free
+|{{dts|5 August 2024}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/ricardo-rodriguez-new-reinforcement-for-real-betis-balompie-30375|title=Ricardo Rodriguez, new reinforcement for Real Betis Balompié|date=5 August 2024|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Natan|{{flagicon|BRA}} [[Natan (footballer, born 2001)|Natan]]}}
+|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|Loan
+|{{dts|15 August 2024}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-ssc-napoli-agree-on-natan-s-loan-30416|title=Real Betis and SSC Napoli agree on Natan's loan|date=15 August 2024|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Vitor Roque|{{flagicon|BRA}} [[Vitor Roque]]}}
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|Loan
+|{{dts|26 August 2024}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-fc-barcelona-agree-on-the-loan-of-vitor-roque-30446|title=Real Betis and FC Barcelona agree on the loan of Vitor Roque|publisher=Real Betis|date=26 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Lo Celso, Giovani|{{flagicon|ARG}} [[Giovani Lo Celso]]}}
+|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|€5,000,000
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://onefootball.com/pt-br/noticias/giovani-lo-celso-fue-presentado-como-nuevo-jugador-de-real-betis-de-espana-39971484|title=Giovani Lo Celso fue presentado como nuevo jugador de Real Betis de España|date=12 September 2024|website=OneFootball}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Antony|{{flagicon|BRA}} [[Antony (footballer, born 2000)|Antony]]}}
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|Loan
+|{{dts|25 January 2025}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-manchester-united-agree-on-antony-s-loan-30972|title=Real Betis and Manchester United agree on Antony's loan|date=25 January 2025|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Hernandez, Cucho|{{flagicon|COL}} [[Cucho Hernández]]}}
+|{{fbaicon|USA}} [[Columbus Crew]]
+|€13,000,000
+|{{dts|3 February 2025}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-columbus-crew-sc-reach-agreement-for-the-transfer-of-cucho-hernandez-31016|title=Real Betis and Columbus Crew SC reach agreement for the transfer of 'Cucho' Hernández|date=3 February 2025|publisher=Real Betis}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 90px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Sokratis|{{flagicon|GRE}} [[Sokratis Papastathopoulos]]}}
+|Retired
+|N/A
+|{{dts|1 July 2024}}
+|<ref>{{Cite web |last=Espina |first=José A. |date=19 May 2024 |title=Sokratis anuncia su retirada |url=https://as.com/futbol/primera/sokratis-anuncia-su-retirada-n/ |access-date=19 May 2024 |website=[[Diario AS]] |language=es |archive-url=https://web.archive.org/web/20240519080640/https://as.com/futbol/primera/sokratis-anuncia-su-retirada-n/ |archive-date=19 May 2024 |url-status=dead}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Miranda, Juan|{{flagicon|ESP}} [[Juan Miranda (footballer)|Juan Miranda]]}}
+|{{fbaicon|ITA}} [[Bologna FC 1909|Bologna]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://football-italia.net/official-bologna-sign-free-agent-miranda-betis/|title=Miranda Official: Bologna sign free agent from Real Betis at 24|date=3 July 2024|website=Football Italia}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Bravo, Claudio|{{flagicon|CHI}} [[Claudio Bravo]]}}
+|Retired
+|N/A
+|{{dts|1 July 2024}}
+|<ref>{{cite news |title= VIDEO. ¡Adiós, Capitán! Claudio Bravo anuncia su retiro del fútbol profesional|trans-title= Video. Goodbye, Captain! Claudio Bravo announces his retirement from professional football|url=https://www.adnradio.cl/2024/08/26/adios-capitan-claudio-bravo-anuncia-su-retiro-del-futbol-profesional/ |access-date=26 August 2024 |publisher=ADN Radio|date=26 August 2024|language=Spanish}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Rodríguez, Guido|{{flagicon|ARG}} [[Guido Rodríguez]]}}
+|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.mundodeportivo.com/futbol/betis/20240701/1002274399/betis-oficial-guido-rodriguez-sigue.html|title=El Betis hace oficial que Guido Rodríguez no sigue|date=1 July 2024|website=Mundo Deportivo|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Rober González|{{flagicon|ESP}} [[Rober (footballer)|Rober González]]}}
+|{{fbaicon|NED}} [[NEC Nijmegen]]
+|€1,200,000
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.diariodesevilla.es/realbetis/nec-nijmegen-ejerce-oficialmente-opcion-compra-rober_0_2000214717.html|title=El NEC Nijmegen ejerce oficialmente la opción de compra por Rober González|first=Pedro J.|last=González|date=20 June 2024|website=Diario de Sevilla|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort| |{{flagicon|ESP}} [[Juan Cruz (footballer, born 2000)|Juan Cruz]]}}
+|{{fbaicon|ESP}} [[CD Leganés|Leganés]]
+|€1,000,000<ref>{{cite web | url=https://www.sport.es/es/noticias/segunda-division/leganes-lograr-ascenso-efectiva-compra-103276581 | title=Juan Cruz, el primer 'fichaje' del Leganés de Primera | date=3 June 2024 }}</ref>{{Cref2|†|group=TR}}
+|{{dts|1 July 2024}}
+|<ref>{{cite news | url=https://www.realbetisbalompie.es/noticias/primer-equipo/juan-cruz-traspasado-al-cd-leganes-30224 | title=Juan Cruz, traspasado al CD Leganés |publisher=Real Betis |language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Riad, Chadi|{{flagicon|MAR}} [[Chadi Riad]]}}
+|{{fbaicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]]
+|€15,000,000
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.marca.com/futbol/betis/2024/06/14/66558586268e3e8f258b4580.html|title=Betis y Crystal Palace hacen oficial el traspaso de Chadi Riad|date=14 June 2024|website=Marca|language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Willian José|{{flagicon|BRA}} [[Willian José]]}}
+|{{fbaicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|Undisclosed
+|{{dts|1 July 2024}}
+|<ref>{{cite web|publisher=FC Spartak Moscow|url=https://spartak.com/media/news/19fde2f6-df2f-4e65-ad1f-5aacfd839659|title=Виллиан Жозе — новый форвард "Спартака"|date=1 July 2024|language=ru}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Senhadji, Yanis|{{flagicon|ESP}} [[Yanis Senhadji]]}}
+|{{fbaicon|ESP}} [[CD Tenerife|Tenerife]]
+|Loan
+|{{dts|2 July 2024}}
+|<ref>{{cite web|url=https://radiomarcatenerife.com/?p=176992|title=OFICIAL &#124; El Tenerife ficha a Yanis Senhadji|first=Joel|last=Rodríguez|date=19 June 2024|website=Radio Marca Tenerife|language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Abner|{{flagicon|BRA}} [[Abner Vinícius|Abner]]}}
+|{{fbaicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|€8,000,000
+|{{dts|5 July 2024}}
+|<ref>{{cite news|url=https://www.getfootballnewsfrance.com/2024/official-abner-vinicius-joins-lyon-in-e8m-deal/|title=Official &#124; Abner Vinicius joins Lyon in €8m deal|website=Get French Football News|date=5 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} [[Borja Iglesias]]
+|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|Loan
+|{{dts|19 July 2024}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-rc-celta-de-vigo-reached-an-agreement-for-the-loan-of-borja-iglesias-30329|title=Real Betis and RC Celta de Vigo reached an agreement for the loan of Borja Iglesias|publisher=Real Betis|date=19 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ARG}} [[Germán Pezzella]]
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|€4,500,000<ref>{{cite web|url=https://www.marca.com/futbol/betis/2024/08/05/66b0ff71ca47418d068b4590.html|title=Pezzella cierra su segunda etapa en el Betis y firma por River|first=R.|last=Guevarra|date=5 August 2024|website=Marca|language=es}}</ref>
+|{{dts|5 August 2024}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/pezzella-leaves-for-river-plate-30376|title=Pezzella leaves for River Plate|publisher=Real Betis|date=5 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Perez, Ayoze|{{flagicon|ESP}} [[Ayoze Pérez]]}}
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|€4,000,000
+|{{dts|13 August 2024}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/ayoze-leaves-to-villareal-cf-30411|title=Ayoze leaves to Villareal CF|date=13 August 2024|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Collado, Álex|{{flagicon|ESP}} [[Álex Collado]]}}
+|{{fbaicon|KSA}} [[Al-Kholood Club|Al-Kholood]]
+|Loan
+|{{dts|22 August 2024}}
+|<ref>{{Cite web|url=https://onefootball.com/es/noticias/oficial-alex-collado-cedido-al-al-kholood-39930628|title=Oficial &#124; Alex Collado cedido al Al-Kholood|date=26 August 2024|website=OneFootball}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Fekir, Nabil|{{flagicon|FRA}} [[Nabil Fekir]]}}
+|{{fbaicon|UAE}} [[Al Jazira Club|Al Jazira]]
+|Undisclosed
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://www.footmercato.net/a3861481615550066507-nabil-fekir-quitte-le-real-betis-pour-al-jazira|title=Nabil Fekir quitte le Real Betis pour Al-Jazira|first=Samuel|last=Zemour|date=30 August 2024|website=Foot Mercato}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Rodri|{{flagicon|ESP}} [[Rodri (footballer, born 2000)|Rodri]]}}
+|{{fbaicon|QAT}} [[Al-Arabi SC (Qatar)|Al-Arabi]]
+|€4,000,000
+|{{dts|8 September 2024}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-al-arabi-sc-agree-on-a-transfer-of-rodri-30504|title=Real Betis and Al Arabi SC agree on a transfer of Rodri|date=8 September 2024|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Diao, Assane|{{flagicon|ESP}} [[Assane Diao]]}}
+|{{fbaicon|ITA}} [[Como 1907|Como]]
+|€12,000,000
+|{{dts|7 January 2025}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-como-1907-reach-an-agreement-for-the-transfer-of-assane-diao-30911|title=Real Betis and Como 1907 reach an agreement for the transfer of Assane Diao|date=7 January 2025|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Silva, Rui|{{flagicon|POR}} [[Rui Silva (footballer, born 1994)|Rui Silva]]}}
+|{{fbaicon|POR}} [[Sporting CP]]
+|Loan
+|{{dts|14 January 2025}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-sporting-clube-de-portugal-reach-an-agreement-for-the-loan-of-rui-silva-30937|title=Real Betis and Sporting Clube de Portugal reach an agreement for the loan of Rui Silva|date=14 January 2025|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Losada, Iker|{{flagicon|ESP}} [[Iker Losada]]}}
+|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|Loan
+|{{dts|30 January 2025}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-rc-celta-de-vigo-reach-an-agreement-for-the-loan-of-iker-losada-30996|title=Real Betis and RC Celta de Vigo reach an agreement for the loan of Iker Losada|date=30 January 2025|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Juanmi|{{flagicon|ESP}} [[Juanmi (footballer, born 1993)|Juanmi]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Loan
+|{{dts|31 January 2025}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-and-getafe-cf-reach-an-agreement-for-the-loan-of-juanmi-31001|title=Real Betis and Getafe CF reach an agreement for the loan of Juanmi|date=31 January 2025|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Vitor Roque|{{flagicon|BRA}} [[Vitor Roque]]}}
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|Loan terminated
+|{{dts|28 February 2025}}
+|<ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/real-betis-balompie-and-fc-barcelona-agree-to-terminate-vitor-roque-rsquo-s-loan-deal-31110|title=Real Betis Balompié and FC Barcelona agree to terminate Vitor Roque’s loan deal|publisher=Real Betis|date=28 February 2025}}</ref>
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|†|n=0|group=TR|<sup>†</sup> Loan transfer made permanent}}
+{{Cnote2 End}}
+
+=== New contracts ===
+{| class="wikitable"
+|-
+! Position !! Player !! Date !! Until !! Ref.
+|-
+| align="center" |{{sort|3|MF}} || {{flagicon|ESP}} [[Aitor Ruibal]] || 11 September 2024 || 30 June 2028 || <ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/aitor-ruibal-extends-his-contract-with-real-betis-30513|title=Aitor Ruibal extends his contract with Real Betis|date=11 September 2024|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|4|FW}} || {{flagicon|MAR}} [[Abde Ezzalzouli]] || 30 October 2024 || 30 June 2029 || <ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/ez-abde-extends-his-contract-with-real-betis-30670|title=Ez Abde extends his contract with Real Betis|date=30 October 2024|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|3|MF}} || {{flagicon|USA}} [[Johnny Cardoso]] || 4 February 2025 || 30 June 2030 || <ref>{{cite news|url=https://en.realbetisbalompie.es/news/latest_news/johnny-cardoso-extends-his-contract-with-real-betis-31020|title=Johnny Cardoso extends his contract with Real Betis|date=4 February 2025|publisher=Real Betis}}</ref>
+|-
+| align="center" |{{sort|2|DF}} || {{flagicon|ESP}} [[Marc Barta]] || 23 April 2025 || 30 June 2027 || <ref>[https://en.realbetisbalompie.es/news/latest_news/marc-bartra-extends-his-contract-with-real-betis-31300 Marc Bartra extends his contract with Real Betis]</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+The pre-season began on 8 July, with the team camping in [[Seefeld in Tirol|Seefeld]], Austria from 10–20 July. The pre-season concluded on 10 August.<ref>{{cite web|url=https://www.realbetisbalompie.es/noticias/actualidad/definidas-las-fechas-y-lugares-de-concentracion-de-la-pretemporada-del-real-betis-30194|title=Definidas las fechas y lugares de concentración de la pretemporada del Real Betis|publisher=Real Betis|language=es}}</ref> The match on 7 August was supposed to be against [[Raja CA]], but the club was unable to travel due to internal issues.<ref>{{cite news|url=https://www.realbetisbalompie.es/noticias/actualidad/el-real-betis-jugara-finalmente-contra-el-cadiz-cf-en-la-linea-30353|title=El Real Betis jugará finalmente contra el Cádiz CF en La Línea|publisher=Real Betis|language=es}}</ref>
+
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 20 July 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[SV Austria Salzburg|Austria Salzburg]]
+|score = 1–5
+|report = https://en.realbetisbalompie.es/match/sv-austria-salzburg/betis/15247/2025/
+|team2 = Real Betis
+|goals1 =
+*[[Johannes Zottl|Zottl]] {{goal|41}} 
+|goals2 =
+*[[Marcos Fernández Sánchez|Fernández]] {{goal|12||14}} 
+*[[Pablo García (footballer, born 2006)|García]] {{goal|63||71}} 
+*[[Romain Perraud|Perraud]] {{goal|88}} 
+|stadium = Max-Aicher-Stadion
+|location = [[Salzburg]], Austria
+|attendance = 700
+|referee = Damir Karlic ([[Austrian Football Association|Austria]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 26 July 2024
+|time = 19:30 [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]])
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 1–0
+|report = https://en.realbetisbalompie.es/match/liverpool/betis/274/2025/
+|team2 = Real Betis
+|goals1 =
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|34}}
+*[[Wataru Endō|Endō]] {{yel|44}}
+*[[Jarell Quansah|Quansah]] {{yel|49}}
+|goals2 =
+*[[Aitor Ruibal|Ruibal]] {{yel|90+3}}
+|stadium = [[Acrisure Stadium]]
+|location = [[Pittsburgh]], United States
+|attendance = 42,679
+|referee = Mark Allatin ([[United States Soccer Federation|United States]])
+|result = L
+}}
+{{Football box collapsible
+|round = Snapdragon Cup
+|date = 31 July 2024
+|time = 19:00 [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC−7]])
+|team1 = [[Manchester United F.C.|Manchester United]]
+|score = 3–2
+|report = https://en.realbetisbalompie.es/match/manchester-united-fc/betis/43764/2025/
+|team2 = Real Betis
+|goals1 =
+*[[Marcus Rashford|Rashford]] {{goal|18|pen.}}
+*[[Amad Diallo|Amad]] {{goal|24}}
+*[[Casemiro]] {{goal|31}}
+*[[Hannibal Mejbri|Mejbri]] {{yel|90+1}}
+*[[Will Fish|Fish]] {{yel|90+1}}
+|goals2 =
+*[[Iker Losada|Losada]] {{goal|15}}
+*[[Diego Llorente|Llorente]] {{goal|61}}
+*[[Johnny Cardoso|Cardoso]] {{yel|85}}
+|stadium = [[Snapdragon Stadium]]
+|location = [[San Diego]], United States
+|attendance = 26,248
+|referee = Alexis Da Silva ([[United States Soccer Federation|United States]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = Cancelled
+|report = 
+|team2 = [[PEC Zwolle]]
+|goals1 =
+|goals2 =
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 
+|referee = 
+|result = P
+|note = The match was cancelled.<ref>{{cite web|url=https://www.diariodesevilla.es/realbetis/betis-cancela-amistoso-presentacion-frente-pec-villamarin_0_2000118580.html|title=El Betis cancela el amistoso de presentación frente al PEC Zwolle en el Benito Villamarín|first=Pedro J.|last=González|date=19 June 2024|website=Diario de Sevilla|language=es}}</ref>
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 4–1
+|report = https://en.realbetisbalompie.es/match/betis/al-ittihad/23594/2025/
+|team2 = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|goals1 =
+*[[Aitor Ruibal|Ruibal]] {{goal|24}}
+*[[Nabil Fekir|Fekir]] {{goal|45}}
+*[[Marc Roca|Roca]] {{goal|58}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{goal|72}}
+|goals2 =
+*[[Moussa Diaby|Diaby]] {{goal|40}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 26,452<ref>{{Cite web|url=https://www.estadiodeportivo.com/futbol/betis/betis-ittihad-presentacion-inmejorable-para-despertar-ilusion-20240803-460015.html|title=Betis 4-1 Al Ittihad: Carta de presentación inmejorable para despertar ilusión|date=3 August 2024|website=Estadio Deportivo}}</ref>
+|referee = Mario Melero López
+|result = W
+}}
+{{football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 7 August 2024
+|time = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 0–0
+|report = https://en.realbetisbalompie.es/match/cadiz/betis/78684/2025/
+|team2 = [[Cádiz CF|Cádiz]]
+|goals1 = 
+*[[Lucas Alcázar|Alcázar]] {{yel|21}}
+|goals2 = 
+*[[Víctor Chust|Chust]] {{yel|36}}
+*[[Samu Almagro|Almagro]] {{yel|89}}
+|stadium = [[Estadio Municipal de La Línea de la Concepción|Estadio Municipal]]
+|location = [[La Línea de la Concepción]]
+|attendance = 
+|referee = José Palomares Gutierrez
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 10 August 2024
+|time = 15:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|score = 1–1
+|report = https://en.realbetisbalompie.es/match/bayer-leverkusen/betis/43766/2025/
+|team2 = Real Betis
+|goals1 =
+*[[Jeanuël Belocian|Belocian]] {{goal|78}}
+|goals2 =
+*[[William Carvalho|Carvalho]] {{yel|43}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{goal|52}}
+|penaltyscore = 3–1
+|penalties1 =
+*[[Patrik Schick|Schick]] {{pengoal}}
+*[[Amine Adli|Adli]] {{pengoal}}
+*[[Aleix García|García]] {{penmiss}}
+*[[Robert Andrich|Andrich]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Juanmi (footballer, born 1993)|Juanmi]]
+*{{penmiss}} [[Ricardo Rodriguez (footballer)|Rodriguez]]
+*{{penmiss}} [[Iker Losada|Losada]]
+*{{penmiss}} [[Rodri (footballer, born 2000)|Rodri]]
+|stadium = [[BayArena]]
+|location = [[Leverkusen]], Germany
+|attendance = 28,395
+|referee = [[Sascha Stegemann]] ([[German Football Association|Germany]])
+|result = D
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=3
+|c1=[[2024–25 La Liga|La Liga]] |fm1=15 August 2024 |lm1=23 May 2025 |sr1=Matchday 1 |fp1=6th |w1=16 |d1=12 |l1=10 |f1=57 |a1=50
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=31 October 2024 |lm2=15 January 2025 |sr2=First round |fp2=Round of 16 |w2=3 |d2=0 |l2=1 |f2=11 |a2=7
+|c3=[[2024–25 UEFA Conference League|UEFA Conference League]] |fm3=22 August 2024 |lm3=28 May 2025 |sr3=Play-off round |fp3=Runners-up |w3=9 |d3=4 |l3=4 |f3=28 |a3=16
+|s=[https://int.soccerway.com/teams/spain/real-betis/2025/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=BET}}
+
+==== Results summary ====
+{{Fb rs|hw=9|hd=7|hl=3|hgf=32|hga=21|aw=7|ad=5|al=7|agf=25|aga=29}}
+{{Fb rs footer |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| rnd3=4 |rnd4=5 |rnd5=3<sup>1</sup>
+| label1=Ground
+| res1=H/A/A/H/H/H/A/H/A/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/A/H
+| label2=Result
+| res2=D/D/L/W/W/L/D/W/L/W/W/D/D/L/L/D/W/D/L/L/W/D/L/W/W/W/W/W/W/D/L/W/W/W/D/D/L/D
+| label3=Position
+| pos3=11/11/17/14/12/11/11/8/10/7/6/7/7/9/10/11/9/9/10/12/10/10/11/8/7/6/6/6/6/6/6/6/5/6/6/6/6/6
+| label4=Points
+| pos4=1p/2p/2p/5p/8p/8p/9p/12p/12p/15p/18p/19p/20p/20p/20p/20p/23p/24p/25p/25p/28p/29p/29p/32p/35p/38p/41p/44p/47p/48p/48p/51p/54p/57p/58p/59p/59p/60p
+| color_W=green1|text_W=Win
+| color_D=yellow1|text_D=Draw
+| color_L=red1|text_L=Loss
+<!-- | color_P=lightgrey|text_P=Postponed -->
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+Notes: {{plainlist|
+* <sup>'''1'''</sup> Matchday 3 (vs [[Getafe CF|Getafe]]) was postponed due to Real Betis' involvement in the [[2024–25 UEFA Conference League|UEFA Conference League]].}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 15 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-girona-fc-1
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Marc Bartra|Bartra]] {{goal|6}}
+*[[Romain Perraud|Perraud]] {{yel|83}}
+*[[Aitor Ruibal|Ruibal]] {{yel|87}}
+|goals2 =
+*[[Gabriel Misehouy|Misehouy]] {{goal|72}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 54,084
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 25 August 2024
+|time = 19:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-real-betis-2
+|team2 = Real Betis
+|goals1 =
+*[[Aleksandar Sedlar|Sedlar]] {{yel|4}}, {{sentoff|0|86}}
+|goals2 =
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{yel|27}}
+*[[Romain Perraud|Perraud]] {{yel|64}}
+*[[Marc Roca|Roca]] {{yel|77}}
+*[[Chimy Ávila|Ávila]] {{yel|89}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,623
+|referee = Mateo Busquets Ferrer
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-real-betis-4
+|team2 = Real Betis
+|goals1 =
+*[[Vinícius Júnior|Vinícius]] {{yel|59}}
+*[[Dani Carvajal|Carvajal]] {{yel|65}}
+*[[Kylian Mbappé|Mbappé]] {{goal|67||75|pen.}}
+|goals2 =
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 73,072
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 13 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-cd-leganes-5
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Adrián (footballer)|Adrián]] {{yel|41}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|74}}
+*[[Vitor Roque]] {{goal|86}}
+|goals2 =
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{yel|11}}
+*[[Valentin Rosier|Rosier]] {{yel|37}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 48,089
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 18 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-getafe-cf-3
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Romain Perraud|Perraud]] {{yel|38}}
+*[[Pablo Fornals|Fornals]] {{yel|43}}
+*[[Giovani Lo Celso|Lo Celso]] {{goal|61|pen.|74}}
+*[[Rui Silva (footballer, born 1994)|Silva]] {{yel|88}}
+|goals2 =
+*[[Álex Sola|Sola]] {{yel|12}}
+*[[Carles Aleñá|Aleñá]] {{yel|13}}
+*[[Omar Alderete|Alderete]] {{yel|15}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|58}}
+*[[Diego Rico|Rico]] {{yel|64}}
+*[[Mauro Arambarri|Arambarri]] {{goal|90+3}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 48,547
+|referee = Juan Luis Pulido Santana
+|result = W
+|note = The match was originally scheduled for 28 August 2024, but was postponed due to Real Betis' participation in the [[2024–25 UEFA Conference League|UEFA Conference League]].<ref>{{cite web|url=https://www.estadiodeportivo.com/futbol/betis/confirma-partido-aplazado-del-real-betis-horarios-jornada-laliga-20240711-457921.html|title=Se confirma el partido aplazado del Real Betis: horarios de la jornada 2, 3 y 4 de LaLiga|date=11 July 2024|website=Estadio Deportivo|language=es}}</ref><ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/18/6671da88e2704e0d2b8b45a2.html|title=El Betis-Getafe del 28 de agosto tendrá que ser reubicado en otra fecha|date=18 June 2024|website=Marca|language=es}}</ref>
+}}
+{{Football box collapsible
+|round = 6
+|date = 23 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rcd-mallorca-6
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|7}}, {{yel|35}}
+*[[Héctor Bellerín|Bellerín]] {{yel|21}}
+*[[Chimy Ávila|Ávila]] {{yel|34}}
+|goals2 =
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{goal|8}}, {{yel|65}}
+*[[José Manuel Copete|Copete]] {{yel|81}}
+*[[Valery Fernández|Valery]] {{goal|90+3}}
+*[[Mateu Morey|Morey]] {{yel|90+5}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 47,017
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 26 September 2024
+|time = 18:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-real-betis-7
+|team2 = Real Betis
+|goals1 =
+*[[Alberto Moleiro|Moleiro]] {{goal|9}}, {{yel|54}}
+*[[Jasper Cillessen|Cillessen]] {{yel|62}}
+*[[Enzo Loiodice|Loiodice]] {{yel|70}}
+*[[Benito Ramírez|Benito]] {{yel|86}}
+|goals2 =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|45+3}}
+*[[Marc Roca|Roca]] {{yel|57}}
+*[[Sergi Altimira|Altimira]] {{yel|64}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 22,722
+|referee = [[José María Sánchez Martínez]]
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 29 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rcd-espanyol-8
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Marc Roca (footballer)|Roca]] {{yel|64}}
+*[[Sergi Altimira|Altimira]] {{yel|77}}
+*[[Giovani Lo Celso|Lo Celso]] {{goal|85}}
+|goals2 =
+*[[Jofre Carreras|Carreras]] {{yel|26}}
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{yel|74}}
+*[[Pol Lozano|Lozano]] {{yel|82}}
+*[[Omar El Hilali|El Hilali]] {{yel|90+6}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 53,065
+|referee = [[Alejandro Hernández Hernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[Seville derby|9]]
+|date = 6 October 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-real-betis-9
+|team2 = Real Betis
+|goals1 =
+*[[Dodi Lukebakio|Lukebakio]] {{goal|50|pen.}}
+*[[Nemanja Gudelj|Gudelj]] {{yel|54}}
+*[[Tanguy Nianzou|Nianzou]] {{sentoff|2|76|90}}
+*[[Ørjan Nyland|Nyland]] {{yel|78}}
+*[[José Ángel Carmona|Carmona]] {{yel|81}}
+*[[Lucien Agoumé|Agoumé]] {{yel|84}}
+|goals2 =
+*[[Abde Ezzalzouli|Ezzalzouli]] {{yel|20}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|52}}
+*[[Chimy Ávila|Ávila]] {{yel|83}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 42,571
+|referee = [[Juan Martínez Munuera]]
+|result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 19 October 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-real-betis-10
+|team2 = Real Betis
+|goals1 =
+*[[Lucas Torró|Torró]] {{goal|59}}
+*[[Flavien Enzo Boyomo|Boyomo]] {{yel|72}}
+*[[Moi Gómez|Gómez]] {{yel|90+8}}
+|goals2 =
+*[[Vitor Roque]] {{goal|7}}
+*[[Chimy Ávila|Ávila]] {{goal|73}}
+*[[Pablo Fornals|Fornals]] {{yel|80}}
+*[[Natan (footballer, born 2001)|Natan]] {{sentoff|0|90+5}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 21,045
+|referee = Alejandro Muñiz Ruiz
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 October 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-atletico-de-madrid-11
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[José María Giménez|Giménez]] {{goal|4|o.g.}}
+*[[Romain Perraud|Perraud]] {{yel|75}}
+*[[Aitor Ruibal|Ruibal]] {{yel|83}}
+|goals2 =
+*[[Reinildo Mandava|Mandava]] {{yel|7}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|66}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 52,621 
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Athletic Bilbao]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-real-betis-12
+|team2 = Real Betis
+|goals1 =
+*[[Álex Berenguer|Berenguer]] {{goal|68}}
+|goals2 =
+*[[Pablo Fornals|Fornals]] {{goal|52}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 46,898
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rc-celta-13
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Johnny Cardoso|Cardoso]] {{yel|35}}
+*[[Vitor Roque]] {{goal|40}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|83}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{yel|90+4}}
+*[[Marc Bartra|Bartra]] {{goal|90+5}}
+|goals2 =
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{goal|13}}
+*[[Anastasios Douvikas|Douvikas]] {{goal|82}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 54,015
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 14
+|date = 23 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-real-betis-14
+|team2 = Real Betis
+|goals1 =
+*[[César Tárrega|Tárrega]] {{goal|8}}, {{yel|90+5}}
+*[[Enzo Barrenechea|Barrenechea]] {{yel|20}}
+*[[Hugo Duro|Duro]] {{goal|50||53}}
+*[[Diego López (footballer, born May 2002)|López]] {{goal|56}}
+*[[André Almeida (footballer, born 2000)|Almeida]] {{yel|86}}
+*[[José Gayà|Gayà]] {{yel|90}}
+*[[César Tárrega|Tárrega]] {{yel|90+5}}
+|goals2 =
+*[[Hugo Duro|Duro]] {{goal|14|o.g.}}
+*[[Chimy Ávila|Ávila]] {{goal|66}}
+*[[Cédric Bakambu|Bakambu]] {{yel|88}}
+*[[Youssouf Sabaly|Sabaly]] {{yel|90}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 43,975
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-real-betis-15
+|team2 = Real Betis
+|goals1 =
+*[[Diego Llorente|Llorente]] {{goal|14|o.g.}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|31|pen.}}, {{yel|45+2}}
+*[[Nayef Aguerd|Aguerd]] {{yel|45+6}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|47}}
+|goals2 =
+*[[Marc Bartra|Bartra]] {{yel|45+2}}
+*[[Chimy Ávila|Ávila]] {{yel|79}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 28,119
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 16
+|date = 7 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-fc-barcelona-16
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Mateo Flores (footballer)|Flores]] {{yel|35}}
+*[[Giovani Lo Celso|Lo Celso]] {{goal|68|pen.}}
+*[[Assane Diao|Diao]] {{goal|90+4}}
+|goals2 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|39}}
+*[[Frenkie de Jong|De Jong]] {{yel|66}}
+*[[Ferran Torres|Torres]] {{goal|82}}
+*[[Héctor Fort|Fort]] {{yel|90}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 51,749
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-real-betis-17
+|team2 = Real Betis
+|goals1 =
+*[[Pape Gueye|Gueye]] {{yel|26}}
+*[[Kiko Femenía|Femenía]] {{yel|39}}
+*[[Álex Baena|Baena]] {{goal|55}},  {{yel|60}}
+*[[Yeremy Pino|Pino]] {{yel|67}}
+*[[Dani Parejo|Parejo]] {{yel|87}}
+|goals2 =
+*[[Vitor Roque]] {{goal|32}}, {{yel|65}}
+*[[Chimy Ávila|Ávila]] {{sentoff|0|34}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|35}}, {{goal|47}}
+*[[Cédric Bakambu|Bakambu]] {{yel|36}}
+*[[Aitor Ruibal|Ruibal]] {{yel|51}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 18,757
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rayo-vallecano-18
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Isco]] {{goal|37|pen.}}
+|goals2 =
+*[[Pathé Ciss|Ciss]] {{yel|27}}
+*[[Álvaro García (footballer, born 1992)|García]] {{yel|36}}
+*[[Isi Palazón|Palazón]] {{goal|51}}, {{yel|81}}
+*[[Alfonso Espino|Espino]] {{yel|90+4}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 53,121 
+|referee = Víctor García Verdura
+|result = D
+}}
+{{Football box collapsible
+|round = 19
+|date = 11 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-real-betis-19
+|team2 = Real Betis
+|goals1 =
+*[[Marcos André]] {{yel|42}}
+*[[Kike Pérez|K. Pérez]] {{goal|58}}, {{yel|71}}
+|goals2 =
+*[[Diego Llorente|Llorente]] {{yel|26}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|70}}
+*[[Johnny Cardoso|Cardoso]] {{yel|77}}
+*[[Vitor Roque]] {{yel|90+12}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21,911
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 20
+|date = 18 January 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-deportivo-alaves-20
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Jesús Rodríguez (footballer, born 2005)|J. Rodríguez]] {{goal|28}}
+*[[Vitor Roque]] {{yel|34}}
+*[[Diego Llorente|Llorente]] {{yel|37}}
+*[[Romain Perraud|Perraud]] {{sentoff|0|55}}
+*[[Isco]] {{yel|90+2}}
+*[[Johnny Cardoso|Cardoso]] {{yel|90+4}}
+|goals2 =
+*[[Kike García (Spanish footballer)|Kike]] {{goal|11|pen.|80||84}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|34}}
+*[[Abdel Abqar|Abqar]] {{yel|54}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|63}}
+*[[Tomás Conechny|Conechny]] {{yel|76}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|82}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 50,021
+|referee = [[Alejandro Hernández Hernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 25 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-real-betis-21
+|team2 = Real Betis
+|goals1 =
+*[[Cyle Larin|Larin]] {{yel|46}}
+*[[Omar Mascarell|Mascarell]] {{yel|48}}, {{sentoff|0|73}}
+|goals2 =
+*[[Abde Ezzalzouli|Ezzalzouli]] {{yel|16}}
+*[[Cédric Bakambu|Bakambu]] {{yel|80}}, {{goal|90+6}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 19,452
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-athletic-club-22
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Isco]] {{goal|15}}, {{yel|49}}
+*[[Romain Perraud|Perraud]] {{goal|45+2}}
+*[[Cédric Bakambu|Bakambu]] {{yel|61}}
+*[[Marc Roca|Roca]] {{yel|90+2}}
+|goals2 =
+*[[Aitor Paredes|Paredes]] {{goal|33}}
+*[[Oihan Sancet|Sancet]] {{goal|69}}, {{yel|77}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 49,292
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 23
+|date = 8 February 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-real-betis-23
+|team2 = Real Betis
+|goals1 =
+*[[Fran Beltrán|Beltrán]] {{goal|63}}, {{yel|90+4}}
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{goal|65}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|72}}
+*[[Williot Swedberg|Swedberg]] {{goal|87}}
+*[[Borja Iglesias|Iglesias]] {{yel|90+4}}
+|goals2 =
+*[[Romain Perraud|Perraud]] {{yel|8}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|10}}, {{yel|68}}
+*[[Diego Llorente|Llorente]] {{goal|22}}, {{yel|90+4}}
+*[[Isco]] {{yel|61}}
+*[[Vitor Roque]] {{yel|90+4}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,651
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-real-sociedad-24
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Giovani Lo Celso|Lo Celso]] {{penmiss}} {{small|33'}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|51}}
+*[[Marc Roca|Roca]] {{goal|64||69}}
+|goals2 =
+*[[Jon Aramburu|Aramburu]] {{yel|6}}
+*[[Igor Zubeldia|Zubeldia]] {{sentoff|0|20}}
+*[[Aihen Muñoz|Muñoz]] {{yel|31}}
+*[[Sheraldo Becker|Becker]] {{sentoff|0|75}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 48,758
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-real-betis-25
+|team2 = Real Betis
+|goals1 =
+*[[Álvaro Rodríguez (footballer, born 2004)|Rodríguez]] {{yel|79}}
+*[[Borja Mayoral|Mayoral]] {{goal|82}}
+*[[Domingos Duarte|Duarte]] {{sentoff|2|90|90+6}}
+|goals2 =
+*[[Isco]] {{goal|18||77|pen.}}
+*[[Antony (footballer, born 2000)|Antony]] {{sentoff|0|90+4}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 13,964
+|referee = Javier Alberola Rojas
+|result = W
+|note = Antony's red card was later rescinded following an appeal by Real Betis.<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/c7vzdynz2m5o|title=Real Betis: Antony free to face Real Madrid after winning red card appeal|publisher=BBC Sport|date=26 February 2025|access-date=26 February 2025}}</ref>
+}}
+{{Football box collapsible
+|round = 26
+|date = 1 March 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 2–1 
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-real-madrid-26 
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Johnny Cardoso|Cardoso]] {{goal|34}}
+*[[Isco]] {{goal|54|pen.}}, {{yel|81}}
+*[[Ezequiel Ávila|Ávila]] {{yel|82}}
+*[[Sergi Altimira|Altimira]] {{yel|90}}
+|goals2 =
+*[[Brahim Díaz|Brahim]] {{goal|10}}, {{yel|32}}
+*[[Antonio Rüdiger|Rüdiger]] {{yel|53}}
+*[[David Alaba|Alaba]] {{yel|57}}
+*[[Vinícius Júnior|Vinícius]] {{yel|86}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 55,873 
+|referee = [[Alejandro Hernández Hernández]] 
+|result = W 
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis
+|score = 1–0 
+|report  = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-ud-las-palmas-27 
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Diego Llorente|Llorente]] {{yel|19}}, {{goal|65}}
+*[[Johnny Cardoso|Cardoso]] {{yel|80}}
+*[[Isco]] {{penmiss}} {{small|90+5'}}
+|goals2 =
+*[[Viti (footballer)|Viti]] {{yel|30}}
+*[[Álex Muñoz|Á. Muñoz]] {{yel|38}}
+*[[Stefan Bajčetić|Bajčetić]] {{yel|39}}
+*[[Dário Essugo|Essugo]] {{sentoff|2|53|61}}
+*[[Jaime Mata|Mata]] {{yel|64}}
+*[[Javier Muñoz (Spanish footballer)|J. Muñoz]] {{yel|67}}
+*[[Juanma Herzog|Herzog]] {{yel|90+1}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 49,292 
+|referee = [[José María Sánchez Martínez]] 
+|result = W 
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-real-betis-28
+|team2 = Real Betis
+|goals1 =
+*[[Yvan Neyou|Neyou]] {{yel|26}}
+*[[Dani Raba|Raba]] {{goal|29||44}}
+*[[Valentin Rosier|Rosier]] {{yel|65}}
+|goals2 =
+*[[Romain Perraud|Perraud]] {{yel|38}}
+*[[Isco]] {{goal|64|pen.}}
+*[[Cedric Bakambu|Bakambu]] {{goal|78}}
+*[[Cucho Hernández|Hernández]] {{goal|82}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 11,691
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = [[Seville derby|29]]
+|date = 30 March 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-sevilla-fc-29
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Johnny Cardoso|Cardoso]] {{goal|25}}
+*[[Adrián (footballer)|Adrián]] {{yel|36}}
+*[[Cucho Hernández|Hernández]] {{goal|45+3}}
+*[[Isco]] {{yel|56}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|90+1}}
+|goals2 =
+*[[Rubén Vargas|Vargas]] {{goal|17}}
+*[[José Ángel Carmona|Carmona]] {{yel|36}}
+*[[Loïc Badé|Badé]] {{yel|86}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|90+5}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 58,538
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 30
+|date = 5 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-real-betis-30 
+|team2 = Real Betis
+|goals1 =
+*[[Gavi (footballer)|Gavi]] {{goal|7}}
+*[[Eric García (footballer, born 2001)|García]] {{yel|77}}
+*[[Jules Koundé|Koundé]] {{yel|87}}
+|goals2 =
+*[[Natan (footballer, born 2001)|Natan]] {{yel|14}}, {{goal|17}}
+|stadium = [[Estadi Olímpic Lluís Companys|Lluís Companys Olympic Stadium]]
+|location = [[Barcelona]]
+|attendance = 47,043
+|referee = [[Jesús Gil Manzano]]
+|result = D
+}}
+{{Football box collapsible
+|round = 31
+|date = 13 April 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-villarreal-cf-31
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Aitor Ruibal|Ruibal]] {{goal|3}}
+|goals2 =
+*[[Juan Foyth|Foyth]] {{yel|8}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{yel|12}}, {{goal|26}}
+*[[Ayoze Pérez|Pérez]] {{goal|48}}
+*[[Luiz Júnior (footballer, born 2001)|Luiz Júnior]] {{yel|52}}
+*[[Sergi Cardona|Cardona]] {{yel|86}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 54,778
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 21 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Girona FC|Girona]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-real-betis-32
+|team2 = Real Betis
+|goals1 =
+*[[Arthur Melo|Arthur]] {{yel|52}}
+*[[Alejandro Francés|Francés]] {{yel|65}}
+*[[Cristhian Stuani|Stuani]] {{goal|85}}
+*[[David López (footballer, born 1989)|López]] {{yel|90+3}}
+|goals2 =
+*[[Johnny Cardoso|Cardoso]] {{goal|6}}
+*[[Aitor Ruibal|Ruibal]] {{yel|26}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|39}}
+*[[Isco]] {{goal|42}}
+*[[Romain Perraud|Perraud]] {{yel|90+1}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,535
+|referee = [[Alejandro Hernández Hernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 33
+|date = 24 April 2025
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 5–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-real-valladolid-cf-33
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Jesús Rodríguez (footballer, born 2005)|J. Rodríguez]] {{goal|17}}
+*[[Cucho Hernández|Hernández]] {{goal|64}}
+*[[Isco]] {{goal|66}}
+*[[Aitor Ruibal|Ruibal]] {{yel|72}}
+*[[Romain Perraud|Perraud]] {{goal|84}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|90}}
+|goals2 =
+*[[Chuki (footballer)|Chuki]] {{goal|41}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 46,458
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-real-betis-34
+|team2 = Real Betis
+|goals1 =
+*[[Roberto Fernández (footballer, born 2002)|Fernández]] {{goal|28}}
+*[[Omar El Hilali|El Hilali]] {{yel|35}}
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{yel|52}}
+|goals2 =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|85}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|90+1}}
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 29,126
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 35
+|date = 11 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-ca-osasuna-35
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Romain Perraud|Perraud]] {{yel|23}}
+*[[Cucho Hernández|Hernández]] {{goal|64}}
+*[[Sergi Altimira|Altimira]] {{yel|77}}
+*[[Antony (footballer, born 2000)|Antony]] {{yel|90+5}}
+|goals2 =
+*[[Alejandro Catena|Catena]] {{yel|9}}
+*[[Ante Budimir|Budimir]] {{yel|45+1}}, {{goal|75}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 52,839
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 36
+|date = 15 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Rayo Vallecano]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-real-betis-36
+|team2 = Real Betis
+|goals1 =
+*[[Iván Balliu|Balliu]] {{yel|9}}
+*[[Jorge de Frutos|De Frutos]] {{goal|37}}
+*[[Florian Lejeune|Lejeune]] {{goal|45+6}}
+|goals2 =
+*[[Marc Bartra|Bartra]] {{yel|45+5}}
+*[[Cucho Hernández|Hernández]] {{goal|51}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|53}}
+*[[Isco]] {{goal|61|pen.}}
+*[[William Carvalho|Carvalho]] {{yel|88}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 13,480
+|referee = Pablo González Fuertes
+|result = D
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]]
+|score = 4–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-real-betis-37
+|team2 = Real Betis
+|goals1 =
+*[[Julián Alvarez|Alvarez]] {{goal|10||75}}
+*[[Robin Le Normand|Le Normand]] {{goal|45+3}}
+*[[Nahuel Molina|Molina]] {{yel|90+3}}
+*[[Ángel Correa|Correa]] {{goal|90+6}}
+|goals2 =
+*[[Pablo Fornals|Fornals]] {{goal|67}}
+*[[Nobel Mendy|Mendy]] {{yel|89}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 62,269
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 23 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis
+|score = 1–1 
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-valencia-cf-38
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Antony (footballer, born 2000)|Antony]] {{goal|40}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|90+3}}
+|goals2 =
+*[[César Tárrega|Tárrega]] {{yel|59}}
+*[[Rafa Mir|Mir]] {{goal|75}}, {{yel|83}}
+*[[Hugo Duro|Duro]] {{yel|90+4}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 51,141 
+|referee = Victor García Verdura
+|result = D 
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 31 October 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CD Gévora|Gévora]]
+|score = 1–6
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-gevora-real-betis-2
+|team2 = Real Betis
+|goals1 =
+*[[Jorge Rodríguez (footballer, born 1999)|Rodríguez]] {{yel|43}}
+*[[Juanma (footballer, born 1996)|Juanma]] {{goal|90+1|pen.}}
+|goals2 =
+*[[Sergi Altimira|Altimira]] {{goal|6}}
+*[[Assane Diao|Diao]] {{goal|26}}
+*[[Cédric Bakambu|Bakambu]] {{goal|28}}, {{yel|59}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{goal|68}}
+*[[Ricardo Rodriguez (footballer)|R. Rodriguez]] {{yel|73}}
+*[[Vitor Roque]] {{goal|79||87}}
+*[[Romain Perraud|Perraud]] {{yel|90+1}}
+|stadium = [[Estadio Francisco de la Hera]]
+|location = [[Almendralejo]]
+|attendance = 8,724
+|referee = [[José María Sánchez Martínez]]
+|result = W
+|note = The match was played at the Estadio Francisco de la Hera in Almendralejo, instead of Gévora's regular stadium, the Municipal de Gévora in Gévora, as it did not meet the broadcasting requirements.
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 4 December 2024
+|time = 19:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UE Sant Andreu|Sant Andreu]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-sant-andreu-real-betis-3
+|team2 = Real Betis
+|goals1 =
+*[[Dani Torices|Torices]] {{yel|30}}
+*[[Sergi Serrano|Serrano]] {{goal|36}}
+*[[Guillermo Torres (footballer, born 1999)|Torres]] {{yel|78}}
+*[[Nil Torreguitart|Torreguitart]] {{yel|80}}
+|goals2 =
+*[[Aitor Ruibal|Ruibal]] {{yel|11}}
+*[[Chimy Ávila|Ávila]] {{goal|26}}, {{yel|66}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{yel|78}}
+*[[Vitor Roque]] {{penmiss}} {{small|79'}}
+*[[Marc Bartra|Bartra]] {{goal|79}}
+*[[Youssouf Sabaly|Sabaly]] {{yel|86}}
+*[[Fran Vieites|Vieites]] {{yel|90}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|90+6}}
+|stadium = [[Camp Municipal Narcís Sala|Narcís Sala]]
+|location = [[Barcelona]]
+|attendance = 6,563
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 4 January 2025
+|time = 15:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[SD Huesca|Huesca]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-sd-huesca-real-betis-4
+|team2 = Real Betis
+|goals1 =
+*[[Jorge Pulido|Pulido]] {{yel|70}}
+*[[Javi Hernández (footballer, born 2004)|Hernández]] {{yel|73}}
+*[[Patrick Soko|Soko]] {{yel|90+5}}
+|goals2 =
+*[[Isco]] {{goal|38}}
+|stadium = [[Estadio El Alcoraz|El Alcoraz]]
+|location = [[Huesca]]
+|attendance = 7,500
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 15 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 5–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-fc-barcelona-real-betis-5
+|team2 = Real Betis
+|goals1 =
+*[[Gavi (footballer)|Gavi]] {{goal|3}}, {{yel|63}}
+*[[Jules Koundé|Koundé]] {{goal|27}}
+*[[Raphinha]] {{yel|50}}, {{goal|58}}
+*[[Ferran Torres|Torres]] {{goal|67}}
+*[[Lamine Yamal|Yamal]] {{goal|75}}
+|goals2 =
+*[[Marc Bartra|Bartra]] {{yel|42}}
+*[[Vitor Roque]] {{goal|84|pen.}}
+*[[Mateo Flores (footballer)|Flores]] {{yel|86}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 46,019
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+
+=== UEFA Conference League ===
+{{main|2024–25 UEFA Conference League}}
+
+==== Play-off round ====
+{{main|1=2024–25 UEFA Conference League qualifying phase and play-off round#Play-off round|l1=2024–25 UEFA Conference League play-off round}}
+
+The draw for the play-off round was held on 5 August 2024.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League qualifying phase and play-off round (Main Path)#Kryvbas Kryvyi Rih v Real Betis|First leg]]
+|date = 22 August 2024
+|time = 20:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Kryvbas Kryvyi Rih (2020)|Kryvbas Kryvyi Rih]] {{fbaicon|UKR}}
+|score = 0–2
+|report = https://www.uefa.com/uefaconferenceleague/match/2041904/
+|team2 = {{fbaicon|ESP}} Real Betis
+|goals1 =
+*[[Prince Kwabena Adu|Adu]] {{yel|43}}
+|goals2 =
+*[[Chimy Ávila|Ávila]] {{goal|13}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{yel|33}}
+*[[Rodri (footballer, born 2000)|Rodri]] {{goal|62}}
+|stadium = [[Košická futbalová aréna]]
+|location = [[Košice]], Slovakia
+|attendance = 4,372
+|referee = Arda Kardeşler ([[Turkish Football Federation|Turkey]])
+|result = W
+|note = Due to the [[Russian invasion of Ukraine]], Kryvbas Kryvyi Rih were required to play their home match at a neutral venue.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0272-148740475a92-1b97baa3e9d7-1000/ |title=Decisions from today's extraordinary UEFA Executive Committee meeting |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 February 2022 |access-date=25 February 2022}}</ref>
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League qualifying phase and play-off round (Main Path)#Real Betis v Kryvbas Kryvyi Rih|Second leg]]
+|date = 29 August 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 3–0
+|aggregatescore = 5–0
+|report = https://www.uefa.com/uefaconferenceleague/match/2041928/
+|team2 = {{fbaicon|UKR}} [[FC Kryvbas Kryvyi Rih (2020)|Kryvbas Kryvyi Rih]]
+|goals1 =
+*[[Aitor Ruibal|Ruibal]] {{goal|40}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|41||43}}
+|goals2 =
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 41,445
+|referee = Igor Pajac ([[Croatian Football Federation|Croatia]])
+|result = W
+}}
+
+==== League phase ====
+{{main|2024–25 UEFA Conference League league phase}}
+
+The draw for the league phase was held on 30 August 2024.
+
+{{:2024–25 UEFA Conference League league phase|transcludesection=Table|showteam=BET}}
+
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| res1=A/H/H/A/A/H
+| label2=Result
+| res2=L/D/W/L/W/W
+| label3=Position
+| pos3=26/27/18/22/17/15
+| label4=Points
+| pos4=0p/1p/4p/4p/7p/10p
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1-8=green1|color_9-16=blue1|color_17-24=blue2
+| source=[https://www.uefa.com/uefaconferenceleague/fixtures-results/ UEFA]
+}}
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League league phase#Legia Warsaw v Real Betis|1]]
+|date = 3 October 2024
+|time = 18:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Legia Warsaw]] {{fbaicon|POL}}
+|score = 1–0
+|report = https://www.uefa.com/uefaconferenceleague/match/2042230/
+|team2 = {{fbaicon|ESP}} Real Betis
+|goals1 =
+*[[Steve Kapuadi|Kapuadi]] {{goal|23}}, {{yel|88}}
+*[[Luquinhas]] {{yel|26}}
+*[[Maxi Oyedele|Oyedele]] {{yel|76}}
+*[[Paweł Wszołek|Wszołek]] {{yel|79}}
+|goals2 =
+*[[Johnny Cardoso|Cardoso]] {{yel|61}}
+*[[Aitor Ruibal|Ruibal]] {{yel|80}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|90+2}}
+*[[Romain Perraud|Perraud]] {{yel|90+3}}
+|stadium = [[Polish Army Stadium]]
+|location = [[Warsaw]], Poland
+|attendance = 25,385
+|referee = Luca Pairetto ([[Italian Football Federation|Italy]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League league phase#Real Betis v Copenhagen|2]]
+|date = 24 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 1–1
+|report = https://www.uefa.com/uefaconferenceleague/match/2042242/
+|team2 = {{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|goals1 =
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|8}}
+*[[Aitor Ruibal|Ruibal]] {{yel|37}}
+*[[Chimy Ávila|Ávila]] {{yel|76}}
+*[[Pablo Fornals|Fornals]] {{yel|77}}
+|goals2 =
+*[[Mohamed Elyounoussi|Elyounoussi]] {{yel|32}}
+*[[Kevin Diks|Diks]] {{goal|77|pen.}}, {{yel|86}}
+*[[Elias Achouri|Achouri]] {{yel|82}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 45,702
+|referee = [[Willy Delajod]] ([[French Football Federation|France]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League league phase#Real Betis v Celje|3]]
+|date = 7 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.uefa.com/uefaconferenceleague/match/2042263/
+|team2 = {{fbaicon|SVN}} [[NK Celje|Celje]]
+|goals1 =
+*[[Natan (footballer, born 2001)|Natan]] {{goal|75}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{goal|90+4}}
+|goals2 =
+*[[Žan Karničnik|Karničnik]] {{yel|35}}
+*[[Armandas Kučys|Kučys]] {{yel|49}}
+*[[Juanjo Nieto|Nieto]] {{yel|54}}, {{goal|81}}
+*[[Lovro Štubljar|Štubljar]] {{yel|90+1}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 37,618
+|referee = Novak Simović ([[Football Association of Serbia|Serbia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League league phase#Mladá Boleslav v Real Betis|4]]
+|date = 28 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FK Mladá Boleslav|Mladá Boleslav]] {{fbaicon|CZE}}
+|score = 2–1
+|report = https://www.uefa.com/uefaconferenceleague/match/2042288/
+|team2 = {{fbaicon|ESP}} Real Betis
+|goals1 =
+*[[Marek Suchý|Suchý]] {{yel|16}}
+*[[Daniel Mareček|Mareček]] {{yel|45+1}}
+*[[Matyáš Vojta|Vojta]] {{goal|51}}
+*[[Patrik Vydra|Vydra]] {{goal|54}}
+|goals2 =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|17}}, {{sentoff|0|89}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|64}}
+*[[Diego Llorente|Llorente]] {{yel|67}}
+|stadium = [[Lokotrans Aréna]]
+|location = [[Mladá Boleslav]], Czech Republic
+|attendance = 3,960
+|referee = Daniel Schlager ([[German Football Association|Germany]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League league phase#Petrocub Hîncești v Real Betis|5]]
+|date = 12 December 2024
+|time = 19:45 [[Eastern European Time|EET]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Petrocub Hîncești|Petrocub Hîncești]] {{fbaicon|MDA}}
+|score = 0–1
+|report = https://www.uefa.com/uefaconferenceleague/match/2042307/
+|team2 = {{fbaicon|ESP}} Real Betis
+|goals1 =
+*[[Dumitru Demian|Demian]] {{yel|14}}
+*[[Teodor Lungu|Lungu]] {{yel|53}}
+|goals2 =
+*[[Cédric Bakambu|Bakambu]] {{goal|54}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{yel|75}}
+|stadium = [[Zimbru Stadium]]
+|location = [[Chișinău]], Moldova
+|attendance = 5,354
+|referee = Lothar D'hondt ([[Royal Belgian Football Association|Belgium]])
+|result = W
+|note = The match was played at Zimbru Stadium in Chișinău, instead of Petrocub Hîncești's regular stadium, [[Stadionul Municipal (Hîncești)|Stadionul Municipal]] in [[Hîncești]], which did not meet UEFA requirements.
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League league phase#Real Betis v HJK|6]]
+|date = 19 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 1–0
+|report = https://www.uefa.com/uefaconferenceleague/match/2042315/
+|team2 = {{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+|goals1 =
+*[[Johnny Cardoso|Cardoso]] {{goal|27}}
+*[[Aitor Ruibal|Ruibal]] {{yel|38}}
+|goals2 =
+*[[Santeri Hostikka|Hostikka]] {{yel|55}}
+*[[Georgios Kanellopoulos|Kanellopoulos]] {{yel|84}}
+*[[Hassane Bandé|Bandé]] {{yel|90+2}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 35,779
+|referee = Patrik Kolarić ([[Croatian Football Federation|Croatia]])
+|result = W
+}}
+
+==== Knockout phase ====
+{{main|2024–25 UEFA Conference League knockout phase}}
+
+===== Knockout phase play-offs =====
+The draw for the knockout phase play-offs was held on 20 December 2024.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Gent v Real Betis|First leg]]
+|date = 13 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[K.A.A. Gent|Gent]] {{fbaicon|BEL}}
+|score = 0–3
+|report =
+https://www.uefa.com/uefaconferenceleague/match/2044400/
+|team2 = {{fbaicon|ESP}} Real Betis
+|goals1 =
+*[[Dante Vanzeir|Vanzeir]] {{yel|61}}
+|goals2 =
+*[[Youssouf Sabaly|Sabaly]] {{yel|14}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|47}}
+*[[Cédric Bakambu|Bakambu]] {{goal|72}}
+*[[Sergi Altimira|Altimira]] {{goal|84}}
+|stadium = [[Planet Group Arena]]
+|location = [[Ghent]], Belgium
+|attendance = 11,051
+|referee = Horațiu Feșnic ([[Romanian Football Federation|Romania]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Real Betis v Gent|Second leg]]
+|date = 20 February 2025
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 0–1
+|aggregatescore = 3–1
+|report = https://www.uefa.com/uefaconferenceleague/match/2044408/
+|team2 = {{fbaicon|BEL}} [[K.A.A. Gent|Gent]]
+|goals1 =
+*[[Chimy Ávila|Ávila]] {{yel|23}}
+*[[Vitor Roque]] {{sentoff|0|82}}
+|goals2 =
+*[[Leonardo Lopes|Lopes]] {{yel|40}}
+*[[Archie Brown (footballer)|Brown]] {{goal|87}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 51,510
+|referee = Damian Sylwestrzak ([[Polish Football Association|Poland]])
+|result = L
+}}
+
+===== Round of 16 =====
+The draw for the round of 16 was held on 21 February 2025.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Real Betis v Vitória de Guimarães|First leg]]
+|date = 6 March 2025
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 2–2
+|report = https://www.uefa.com/uefaconferenceleague/match/2044800/
+|team2 = {{fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]] 
+|goals1 =
+*[[Cédric Bakambu|Bakambu]] {{goal|48}}
+*[[Aitor Ruibal|Ruibal]] {{yel|54}}
+*[[Isco]] {{goal|75}}, {{yel|86}}
+*[[Antony (footballer, born 2000)|Antony]] {{yel|81}}
+*[[Chimy Ávila|Ávila]] {{yel|90+5}}
+|goals2 =
+*[[João Mendes (footballer, born 1994)|Mendes]] {{goal|51}}
+*[[Nélson Oliveira|Oliveira]] {{goal|81}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 44,366
+|referee = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Vitória de Guimarães v Real Betis|Second leg]]
+|date = 13 March 2025
+|time = 20:00 [[Western European Time|WET]] ([[UTC+00:00|UTC+0]])
+|team1 = [[Vitória S.C.|Vitória de Guimarães]] {{fbaicon|POR}}
+|score = 0–4
+|aggregatescore = 2–6
+|report = https://www.uefa.com/uefaconferenceleague/match/2044808/
+|team2 = {{fbaicon|ESP}} Real Betis 
+|goals1 =
+*[[Umaro Embaló|Embaló]] {{yel|43}}
+*[[Nélson Oliveira|Oliveira]] {{yel|45+1}}
+*[[Tiago Silva (footballer, born 1993)|T. Silva]] {{yel|49}}
+*[[João Mendes (footballer, born 2000)|Mendes]] {{yel|70}}
+*[[Miguel Maga (footballer, born 2002)|Maga]] {{yel|78}}
+|goals2 =
+*[[Cédric Bakambu|Bakambu]] {{goal|5||20}}
+*[[Sergi Altimira|Altimira]] {{yel|41}}
+*[[Diego Llorente|Llorente]] {{yel|45+1}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|58}}
+*[[Isco]] {{goal|80}}
+|stadium = [[Estádio D. Afonso Henriques]]
+|location = [[Guimarães]], Portugal
+|attendance = 28,994
+|referee = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+
+===== Quarter-finals =====
+The draw for the order of the quarter-final legs was held on 21 February 2025, after the draw for the round of 16.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Real Betis v Jagiellonia Białystok|First leg]]
+|date = 10 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 2–0
+|report = https://www.uefa.com/uefaconferenceleague/match/2044836/
+|team2 = {{fbaicon|POL}} [[Jagiellonia Białystok]] 
+|goals1 =
+*[[Isco]] {{yel|17}}
+*[[Cedric Bakambu|Bakambu]] {{goal|24}}
+*[[Jesús Rodríguez (footballer, born 2005)|J. Rodríguez]] {{goal|45+2}}
+|goals2 =
+*[[Miki Villar|Villar]] {{yel|17}}
+*[[Taras Romanczuk|Romanczuk]] {{yel|90+2}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 56,442
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Jagiellonia Białystok v Real Betis|Second leg]]
+|date = 17 April 2025
+|time = 18:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Jagiellonia Białystok]] {{fbaicon|POL}}
+|score = 1–1
+|aggregatescore = 1–3
+|report = https://www.uefa.com/uefaconferenceleague/match/2044840/
+|team2 = {{fbaicon|ESP}} Real Betis 
+|goals1 =
+*[[Jesús Imaz|Imaz]] {{yel|44}}
+*[[Darko Churlinov|Churlinov]] {{goal|81}}, {{yel|82}}
+*[[Tomás Silva (footballer, born 1999)|Silva]] {{yel|90+3}}
+|goals2 =
+*[[Antony (footballer, born 2000)|Antony]] {{yel|39}}
+*[[Youssouf Sabaly|Sabaly]] {{yel|65}}
+*[[Cédric Bakambu|Bakambu]] {{goal|78}}
+|stadium = [[Stadion Miejski (Białystok)|Białystok City Stadium]]
+|location = [[Białystok]], Poland
+|attendance = 20,003
+|referee = [[Clément Turpin]] ([[French Football Federation|France]])
+|result = D
+}}
+
+===== Semi-finals =====
+The draw for the order of the semi-final legs was held on 21 February 2025, after the draw for the round of 16 and quarter-finals.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Real Betis v Fiorentina|First leg]]
+|date = 1 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.uefa.com/uefaconferenceleague/match/2044844/
+|team2 = {{fbaicon|ITA}} [[ACF Fiorentina|Fiorentina]] 
+|goals1 =
+*[[Cédric Bakambu|Bakambu]] {{yel|6}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|6}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|64}}
+*[[Romain Perraud|Perraud]] {{yel|73}}
+|goals2 =
+*[[Fabiano Parisi|Parisi]] {{yel|64}}
+*[[Luca Ranieri|Ranieri]] {{goal|73}}
+*[[Michael Folorunsho|Folorunsho]] {{yel|73}}
+*[[Yacine Adli|Adli]] {{yel|84}}
+*[[Rolando Mandragora|Mandragora]] {{yel|90+5}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 56,417
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Conference League knockout phase#Fiorentina v Real Betis|Second leg]]
+|date = 8 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[ACF Fiorentina|Fiorentina]] {{fbaicon|ITA}}
+|score = 2–2
+|aet = yes
+|aggregatescore = 3–4
+|report = https://www.uefa.com/uefaconferenceleague/match/2044846/
+|team2 = {{fbaicon|ESP}} Real Betis 
+|goals1 =
+*[[Robin Gosens|Gosens]] {{goal|34||42}}
+*[[Dodô (footballer, born 1998)|Dodô]] {{yel|43}}
+*[[Amir Richardson|Richardson]] {{yel|77}}
+*[[Marin Pongračić|Pongračić]] {{yel|77}}
+*[[Moise Kean|Kean]] {{yel|84}}
+*[[Nicolò Fagioli|Fagioli]] {{yel|87}}
+*[[Luca Ranieri|Ranieri]] {{yel|99}}
+*[[Michael Folorunsho|Folorunsho]] {{yel|110}}
+|goals2 =
+*[[Antony (footballer, born 2000)|Antony]] {{goal|30}}
+*[[Pablo Fornals|Fornals]] {{yel|43}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|84}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|97}}
+*[[Aitor Ruibal|Ruibal]] {{yel|99}}
+*[[Fran Vieites|Vieites]] {{yel|120+3}}
+|stadium = [[Stadio Artemio Franchi]]
+|location = [[Florence]], Italy
+|attendance = 21,252
+|referee = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result = D
+}}
+
+=====Final=====
+{{main|2025 UEFA Conference League final}}
+{{Football box collapsible
+|round = [[2025 UEFA Conference League final|Final]]
+|date = 28 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Betis {{fbaicon|ESP}}
+|score = 1–4
+|report = https://www.uefa.com/uefaconferenceleague/match/2044464/
+|team2 = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1 =
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|9}}
+*[[Antony (footballer, born 2000)|Antony]] {{yel|88}}
+*[[Romain Perraud|Perraud]] {{yel|90+5}}
+|goals2 =
+*[[Benoît Badiashile|Badiashile]] {{yel|55}}
+*[[Enzo Fernández|Fernández]] {{goal|65}}
+*[[Nicolas Jackson|Jackson]] {{goal|70}}
+*[[Cole Palmer|Palmer]] {{yel|79}}
+*[[Jadon Sancho|Sancho]] {{goal|83}}, {{yel|85}}
+*[[Moisés Caicedo|Caicedo]] {{goal|90+1}}
+|stadium = [[Wrocław Stadium]]
+|location = [[Wrocław]], Poland
+|attendance = 39,754
+|referee = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result = L
+}}
+
+== Statistics ==
+=== Appearances and goals ===
+:''Last updated 23 November 2024.''
+{{Efs start|[[2024–25 La Liga|La Liga]]|[[2024–25 Copa del Rey|Copa del Rey]]|[[2024–25 UEFA Conference League|UEFA<br>Conference League]]}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Goalkeepers''
+{{Efs player|no=1 |name=[[Rui Silva (footballer, born 1994)|Rui Silva]]|pos=GK|nat=POR                |14   |0 |0    |0 |2    |0 }}
+{{Efs player|no=13|name=[[Adrián (footballer)|Adrián]]|pos=GK|nat=ESP                                 |16    |0 |0    |0 |6    |0 }}
+{{Efs player|no=25|name=[[Fran Vieites]]|pos=GK|nat=ESP                                               |4    |0 |4    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Defenders''
+{{Efs player|no=2 |name=[[Héctor Bellerín]]|pos=DF|nat=ESP                                            |6+3  |0 |0    |0 |0+2  |0 }}
+{{Efs player|no=3 |name=[[Diego Llorente]]|pos=DF|nat=ESP                                             |29+1   |2 |1+1    |0 |7+1  |0 }}
+{{Efs player|no=5 |name=[[Marc Bartra]]|pos=DF|nat=ESP                                                |23+2  |2 |2    |1 |7+2    |0 }}
+{{Efs player|no=6 |name=[[Natan (footballer, born 2001)|Natan]]|pos=DF|nat=BRA                        |23+8  |1 |4    |0 |13+1    |1 }}
+{{Efs player|no=12|name=[[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]]|pos=DF|nat=SUI           |15+3  |0 |3    |0 |9  |0 }}
+{{Efs player|no=15|name=[[Romain Perraud]]|pos=DF|nat=FRA                                             |22+6 |2 |2+1  |0 |5+2  |0 }}
+{{Efs player|no=23|name=[[Youssouf Sabaly]]|pos=DF|nat=SEN                                            |20+2  |0 |2+2    |0 |6+1    |0 }}
+{{Efs player|no=32|name=[[Nobel Mendy]]|pos=DF|nat=SEN                                                |1+1    |0 |1    |0 |1+1    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Midfielders''
+{{Efs player|no=4 |name=[[Johnny Cardoso]]|pos=MF|nat=USA                                             |24+4  |3 |2+1  |0 |9+3    |1 }}
+{{Efs player|no=14|name=[[William Carvalho]]|pos=MF|nat=POR                                           |6+8    |0 |0    |0 |0+1  |0 }}
+{{Efs player|no=16|name=[[Sergi Altimira]]|pos=MF|nat=ESP                                             |22+10  |0 |3+1    |1 |8+6  |1 }}
+{{Efs player|no=18|name=[[Pablo Fornals]]|pos=MF|nat=ESP                                              |22+4 |2 |0+1    |0 |8+1  |0 }}
+{{Efs player|no=20|name=[[Giovani Lo Celso]]|pos=MF|nat=ARG                                           |15+10  |8 |2    |0 |4+2    |1 }}
+{{Efs player|no=21|name=[[Marc Roca]]|pos=MF|nat=ESP                                                  |11+3    |2 |0    |0 |1+1  |0 }}
+{{Efs player|no=22|name=[[Isco]]|pos=MF|nat=ESP                                                       |17+5    |9 |2    |1 |6+2    |2 }}
+{{Efs player|no=34|name=[[Carlos Guirao (footballer)|Carlos Guirao]]|pos=MF|nat=ESP                   |2    |0 |0+1  |0 |0    |0 }}
+{{Efs player|no=37|name=[[Dani Pérez (footballer)|Dani Pérez]]|pos=MF|nat=ESP                                                 |0    |0 |0    |0 |0+2  |0 }}
+{{Efs player|no=46|name=[[Mateo Flores (footballer)|Mateo Flores]]|pos=MF|nat=ESP                     |1+5  |0 |1+3    |0 |3+4    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|''Forwards''
+{{Efs player|no=7 |name=[[Antony (footballer, born 2000)|Antony]]|pos=FW|nat=BRA                      |15+2  |5 |0    |0 |8  |4 }}
+{{Efs player|no=9 |name=[[Chimy Ávila]]|pos=FW|nat=ARG                                                |6+13  |2 |1+1    |1 |7+3    |0 }}
+{{Efs player|no=10|name=[[Abde Ezzalzouli]]|pos=FW|nat=MAR                                            |23+9 |2 |1+1    |1 |5+7  |3 }}
+{{Efs player|no=11|name=[[Cédric Bakambu]]|pos=FW|nat=COD                                             |6+19  |2 |2+1    |1 |11+2  |7 }}
+{{Efs player|no=19|name=[[Cucho Hernández]]|pos=FW|nat=COL                                             |14+1  |5 |0    |0 |0  |0 }}
+{{Efs player|no=24|name=[[Aitor Ruibal]]|pos=FW|nat=ESP                                               |13+16  |1 |2    |0 |8+4    |1 }}
+{{Efs player|no=36|name=[[Jesús Rodríguez Caraballo|Jesús Rodríguez]]|pos=FW|nat=ESP                  |15+6    |2 |2+1  |0 |5+2    |1 }}
+{{Efs player|no=38|name=[[Assane Diao]]|pos=FW|nat=ESP                                                |2+8  |1 |1    |1 |4+2  |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center| Players who transferred out during the season
+{{Efs player|no=|name=[[Rodri (footballer, born 2000)|Rodri]]|pos=MF|nat=ESP                        |1+2  |0 |0    |0 |2    |1 }}
+{{Efs player|no= |name=[[Nabil Fekir]]|pos=MF|nat=FRA                                                |2    |0 |0    |0 |1    |0 }}
+{{Efs player|no= |name=[[Juanmi (footballer, born 1993)|Juanmi]]|pos=FW|nat=ESP                      |2+5  |0 |1    |1 |2+3  |1 }}
+{{Efs player|no= |name=[[Vitor Roque]]|pos=FW|nat=BRA                                                |14+8  |4 |2+2  |3 |3+4  |0 }}
+{{Efs player|no=|name=[[Iker Losada]]|pos=MF|nat=ESP                                                |3+7  |0 |2+1    |0 |1+1  |0 }}
+|}
+
+=== Goalscorers ===
+{| class="wikitable"
+|-
+! Position !! Players !! La Liga !! Copa del Rey !! Conference League || Total
+|-
+| MF || {{fbaicon|ESP}} [[Isco]] || 9 || 1 || 2 || '''12'''
+|-
+| FW || {{fbaicon|COD}} [[Cédric Bakambu]] || 2 || 1 || 7 || '''10'''
+|-
+| MF || {{fbaicon|BRA}} [[Antony (footballer, born 2000)|Antony]] || 5 || 0 || 4 || '''9'''
+|-
+| MF || {{fbaicon|ARG}} [[Giovani Lo Celso]] || 8 || 0 || 1 || '''9'''
+|-
+| MF || {{fbaicon|MAR}} [[Abdessamad Ezzalzouli]] || 2 || 1 || 4 || '''7'''
+|-
+| FW || {{fbaicon|BRA}} [[Vitor Roque]] || 4 || 3 || 0 || '''7'''
+|-
+| FW || {{fbaicon|COL}} [[Cucho Hernández]] || 5 || 0 || 0 || '''5'''
+|-
+| MF || {{fbaicon|USA}} [[Johnny Cardoso]] || 3 || 0 || 1 || '''4'''
+|-
+| MF || {{fbaicon|ESP}} [[Jesús Rodríguez (footballer, born 2005)|Jesús Rodríguez]] || 2 || 1 || 1 || '''4'''
+|-
+| DF || {{fbaicon|ESP}} [[Marc Bartra]] || 2 || 1 || 0 || '''3'''
+|-
+| FW || {{fbaicon|ARG}} [[Chimy Ávila]] || 2 || 1 || 0 || '''3'''
+|-
+| DF || {{fbaicon|BRA}} [[Natan (footballer, born 2001)|Natan]] || 1 || 1 || 1 || '''3'''
+|-
+| MF || {{fbaicon|ESP}} [[Sergi Altimira]] || 0 || 1 || 1 || '''2'''
+|-
+| FW || {{fbaicon|SEN}} [[Assane Diao]] || 1 || 1 || 0 || '''2'''
+|-
+| MF || {{fbaicon|ESP}} [[Pablo Fornals]] || 2 || 0 || 0 || '''2'''
+|-
+| DF || {{fbaicon|ESP}} [[Diego Llorente]] || 2 || 0 || 0 || '''2'''
+|-
+| DF || {{fbaicon|FRA}} [[Romain Perraud]] || 2 || 0 || 0 || '''2'''
+|-
+| MF || {{fbaicon|ESP}} [[Marc Roca]] || 2 || 0 || 0 || '''2'''
+|-
+| MF || {{fbaicon|ESP}} [[Mateo Flores (footballer)|Mateo Flores]] || 0 || 1 || 0 || '''1'''
+|-
+| FW || {{fbaicon|ESP}} [[Juanmi (footballer, born 1993)|Juanmi]] || 0 || 0 || 1 || '''1'''
+|-
+| MF || {{fbaicon|ESP}} [[Iker Losada]] || 0 || 1 || 0 || '''1'''
+|-
+| DF || {{fbaicon|SUI}} [[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]] || 0 || 1 || 0 || '''1'''
+|-
+| DF || {{fbaicon|ESP}} [[Aitor Ruibal]] || 1 || 0 || 0 || '''1'''
+|}
+
+== References ==
+{{Reflist}}
+
+{{Real Betis Balompié}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Real Betis season}}
+[[Category:Real Betis seasons]]
+[[Category:Spanish football clubs 2024–25 season|Real Betis]]
+[[Category:2024–25 UEFA Conference League participants seasons|Real Betis]]
+[[Category:2024 in Seville]]
+[[Category:2025 in Seville]]

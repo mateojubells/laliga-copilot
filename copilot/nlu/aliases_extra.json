@@ -1,0 +1,132 @@
+{
+ "_doc": "Apodos y formas mal oídas añadidos a mano. 'source' dice de dónde sale cada uno: 'general' = uso habitual en narración; 'dev' = visto en la PRIMERA parte del audio real o en el split dev. Prohibido añadir nada visto en test.",
+ "players": {
+  "barcelona/raphinha": {
+   "aliases": [
+    "rapha"
+   ],
+   "source": "general"
+  },
+  "barcelona/lewandowski": {
+   "aliases": [
+    "robert"
+   ],
+   "asr_aliases": [
+    "roberts"
+   ],
+   "source": "general+dev"
+  },
+  "barcelona/dani-olmo": {
+   "asr_aliases": [
+    "daniel mol",
+    "dani olbo",
+    "dario olmo"
+   ],
+   "source": "dev"
+  },
+  "barcelona/cubarsi": {
+   "asr_aliases": [
+    "kouarsik",
+    "pau kouarsik",
+    "kubarski",
+    "kubarsik",
+    "cuarzi",
+    "pau covarsi",
+    "cubar si"
+   ],
+   "source": "dev"
+  },
+  "barcelona/kounde": {
+   "asr_aliases": [
+    "conde"
+   ],
+   "source": "dev"
+  },
+  "barcelona/lamine-yamal": {
+   "asr_aliases": [
+    "lamin jamal",
+    "la min",
+    "la min jamal",
+    "la minjamal",
+    "la minchamal",
+    "alamin"
+   ],
+   "source": "dev"
+  },
+  "barcelona/inigo-martinez": {
+   "asr_aliases": [
+    "nigo"
+   ],
+   "source": "dev"
+  },
+  "barcelona/casado": {
+   "asr_aliases": [
+    "marcasado",
+    "marca soto"
+   ],
+   "source": "dev"
+  },
+  "valladolid/hein": {
+   "asr_aliases": [
+    "heim",
+    "haynes",
+    "heintz",
+    "gein"
+   ],
+   "source": "dev"
+  },
+  "valladolid/amallah": {
+   "asr_aliases": [
+    "amala",
+    "malak"
+   ],
+   "source": "dev"
+  },
+  "valladolid/comert": {
+   "asr_aliases": [
+    "comer"
+   ],
+   "cased_only": true,
+   "source": "dev"
+  },
+  "valladolid/lucas-rosa": {
+   "asr_aliases": [
+    "lucas rocha",
+    "luis rosas",
+    "luis rosa"
+   ],
+   "source": "dev"
+  },
+  "valladolid/marcos-andre": {
+   "asr_aliases": [
+    "marcos andres"
+   ],
+   "source": "dev"
+  },
+  "barcelona/ter-stegen": {
+   "asr_aliases": [
+    "marc andre",
+    "marc andres",
+    "marc andres ter stegen"
+   ],
+   "source": "dev"
+  }
+ },
+ "teams": {
+  "valladolid": {
+   "aliases": [
+    "vallisoletano",
+    "vallisoletanos",
+    "valle soletano",
+    "equipo vallisoletano"
+   ],
+   "source": "general+dev"
+  },
+  "barcelona": {
+   "aliases": [
+    "futbol club barcelona"
+   ],
+   "source": "general"
+  }
+ }
+}

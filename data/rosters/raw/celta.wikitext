@@ -1,0 +1,1370 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[RC Celta de Vigo|Celta Vigo]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[:es:Marián Mouriño Terrazo|Marián Mouriño Terrazo]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Claudio Giráldez]]
+|stdtitle           = 
+|stadium            = [[Balaídos]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|7th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Round of 16]]
+|league topscorer   = <br>[[Borja Iglesias]] (11)
+|season topscorer   = <br>Borja Iglesias (11)
+|highest attendance = 
+|lowest attendance  = 
+|average attendance = 21,385<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = 
+|largest loss       = 
+ |pattern_la1 = _celta2425h
+ |pattern_b1  = _celta2425h
+ |pattern_ra1 = _celta2425h
+ |pattern_sh1 = _celta2425h
+ |pattern_so1 = 
+ |leftarm1    = FFFFFF
+ |body1       = FFFFFF
+ |rightarm1   = FFFFFF
+ |shorts1     = FFFFFF
+ |socks1      = A5D9FF
+|pattern_la2        = _celta2425a
+|pattern_b2         = _celta2425a
+|pattern_ra2        = _celta2425a
+|pattern_sh2        = _celta2425a
+|pattern_so2        = _celta2425al
+|leftarm2           = 
+|body2              = 
+|rightarm2          = 
+|shorts2            = 
+|socks2             = 
+| pattern_la3 = _celta2425t
+| pattern_b3 = _celta2425t
+| pattern_ra3 = _celta2425t
+| pattern_sh3 = _celta2425t
+| pattern_so3 = _celta2425tl
+| leftarm3 = F96815
+| body3 = F96815
+| rightarm3 = F96815
+| shorts3 = F96815
+| socks3 = F96815
+|prevseason         = [[2023–24 RC Celta de Vigo season|2023–24]]
+|nextseason         = [[2025–26 RC Celta de Vigo season|2025–26]]
+}}
+The '''2024–25 season''' was the 102nd season in the history of '''[[RC Celta de Vigo]]''', and the club's 13th consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+==Players==
+
+=== First-team squad ===
+{{updated|23 August 2024}}
+{{Fs start}}
+{{Fs player|no=1|nat=ESP|pos=GK|name=[[Iván Villar]]}}
+{{Fs player|no=2|nat=SWE|pos=DF|name=[[Carl Starfelt]]}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=[[Óscar Mingueza]]}}
+{{Fs player|no=4|nat=ESP|pos=DF|name=[[Unai Núñez]]}}
+{{Fs player|no=5|nat=ESP|pos=DF|name=[[Sergio Carreira]]}}
+{{Fs player|no=6|nat=GUI|pos=MF|name=[[Ilaix Moriba]]|other=on loan from [[RB Leipzig]]}}
+{{Fs player|no=7|nat=ESP|pos=FW|name=[[Borja Iglesias]]|other=on loan from [[Real Betis|Betis]]}}
+{{Fs player|no=8|nat=ESP|pos=MF|name=[[Fran Beltrán]]}}
+{{Fs player|no=9|nat=GRE|pos=FW|name=[[Anastasios Douvikas]]}}
+{{Fs player|no=10|nat=ESP|pos=FW|name=[[Iago Aspas]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=11|nat=ARG|pos=FW|name=[[Franco Cervi]]}}
+{{Fs player|no=12|nat=ESP|pos=FW|name=[[Alfon (footballer)|Alfon]]}}
+{{Fs player|no=13|nat=ESP|pos=GK|name=[[Vicente Guaita]]}}
+{{Fs player|no=14|nat=USA|pos=MF|name=[[Luca de la Torre]]}}
+{{Fs mid}}
+{{Fs player|no=15|nat=GHA|pos=DF|name=[[Joseph Aidoo (Ghanaian footballer)|Joseph Aidoo]]}}
+{{Fs player|no=16|nat=BRA|pos=MF|name=[[Jailson (footballer, born 1995)|Jailson]]}}
+{{Fs player|no=17|nat=CIV|pos=FW|name=[[Jonathan Bamba]]}}
+{{Fs player|no=18|nat=ESP|pos=FW|name=[[Pablo Durán]]}}
+{{Fs player|no=19|nat=SWE|pos=MF|name=[[Williot Swedberg]]}}
+{{Fs player|no=20|nat=ESP|pos=DF|name=[[Kevin Vázquez]]}}
+{{Fs player|no=21|nat=SRB|pos=DF|name=[[Mihailo Ristić (footballer)|Mihailo Ristić]]}}
+{{Fs player|no=22|nat=ESP|pos=DF|name=[[Javier Manquillo]]}}
+{{Fs player|no=23|nat=ARG|pos=FW|name=[[Tadeo Allende]]}}
+{{Fs player|no=24|nat=ESP|pos=DF|name=[[Carlos Domínguez (Spanish footballer)|Carlos Domínguez]]}}
+{{Fs player|no=25|nat=ESP|pos=MF|name=[[Damián Rodríguez (footballer, born 2003)|Damián Rodríguez]]}}
+{{Fs player|no=30|nat=ESP|pos=FW|name=[[Hugo Álvarez (footballer, born 2003)|Hugo Álvarez]]}}
+{{Fs player|no=33|nat=ESP|pos=MF|name=[[Hugo Sotelo]]}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 65px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Paciência, Gonçalo|{{flagicon|POR}} [[Gonçalo Paciência]]}}
+|{{fbaicon|GER}} [[VfL Bochum]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web | url=https://onefootball.com/es/noticias/paciencia-una-salida-que-puede-costarle-dinero-al-celta-39585469 | title=Paciência, una salida que puede costarle dinero al Celta }}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Núñez, Unai|{{flagicon|ESP}} [[Unai Núñez]]}}
+|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|€10,000,000
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.football-espana.net/2024/03/02/celta-vigo-to-splash-out-e10m-for-permanent-signing-of-athletic-club-defender|title=Celta Vigo to splash out €10m for permanent signing of Athletic Club defender|first=John|last=Menzies|date=2 March 2024|website=Football España}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} [[Borja Iglesias]]
+|{{fbaicon|ESP}} [[Real Betis]]
+|Loan
+|{{dts|19 July 2024}}
+|<ref>{{Cite web|url=https://rccelta.es/equipo/actualidad/borja-iglesias-regresa-a-casa-rebosante-de-ilusion-y-cargado-de-goles/|title=Borja Iglesias returns home full of hope and loaded with goals|date=19 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|GUI}} [[Ilaix Moriba]]
+|{{fbaicon|GER}} [[RB Leipzig]]
+|Loan
+|{{dts|7 August 2024}}
+|<ref>{{cite web |date=7 August 2024 |title=RC Celta completes its midfield with the quality and strength of Ilaix Moriba |url=https://rccelta.es/en/equipo/actualidad/rc-celta-completes-its-midfield-with-the-quality-and-strength-of-ilaix-moriba/ |access-date=7 August 2024 |publisher=[[RC Celta de Vigo]]}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]]
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|Free
+|{{dts|28 August 2024}}
+|<ref>{{cite web|url=https://rccelta.es/en/equipo/actualidad/rc-celta-strengthens-with-the-versatility-and-hierarchy-of-full-back-marcos-alonso/|title=RC Celta strengthens with the versatility and hierarchy of full-back Marcos Alonso|publisher=RC Celta Vigo|date=28 August 2024|access-date=28 August 2024}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|De León, Lautaro|{{flagicon|URU}} [[Lautaro de León]]}}
+|{{fbaicon|AND}} [[FC Andorra]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://as.com/futbol/primera/oficial-lautaro-se-desvincula-del-celta-n/|title=Oficial: Lautaro se desvincula del Celta|first=Clemente|last=Garrido|date=1 July 2024|website=Diario AS}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Tapia, Renato|{{flagicon|PER}} [[Renato Tapia]]}}
+|{{fbaicon|ESP}} [[CD Leganés]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://rccelta.es/en/equipo/actualidad/renato-tapia-ends-his-contract-with-rc-celta/|title=Renato Tapia ends his contract with RC Celta|date=30 June 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Strand Larsen, Jørgen|{{flagicon|NOR}} [[Jørgen Strand Larsen]]}}
+|{{fbaicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|Loan
+|{{dts|2 July 2024}}
+|<ref>{{Cite web|url=https://onefootball.com/en/news/wolves-confirm-loan-signing-of-celta-vigo-striker-39706872|title=Wolves confirm loan signing of Celta Vigo striker|date=2 July 2024|website=OneFootball}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} {{sortname|José|Fontán}}
+|{{fbaicon|POR}} [[FC Arouca|Arouca]]
+|Undisclosed
+|{{dts|3 July 2024}}
+|<ref>{{cite web|url=https://desporto.sapo.pt/futebol/primeira-liga/artigos/jose-fontan-e-a-nova-adicao-ao-eixo-defensivo-do-arouca|title=Jose Fontán é a nova adição ao eixo defensivo do Arouca|trans-title=Jose Fontán is the new addition of the defensive unit of Arouca|publisher=[[SAPO (company)|SAPO]]|language=pt|date=4 July 2024|accessdate=5 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} {{sortname|Carlos|Dotor}}
+|{{fbaicon|ESP}} [[Real Oviedo]]
+|Loan
+|{{dts|21 July 2024}}
+|<ref>{{Cite web|url=https://rccelta.es/equipo/actualidad/carlos-dotor-jugara-en-el-real-oviedo-la-proxima-temporada/|title=Carlos Dotor to play for Real Oviedo next season|date=21 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Manu Sánchez (footballer, born 2000)|Manu Sánchez]]
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|Loan
+|{{dts|23 July 2024}}
+|<ref>{{Cite web|url=https://as.com/futbol/el-alaves-anuncia-la-llegada-de-manu-sanchez-cedido-n/|title=El Alavés anuncia la llegada de Manu Sánchez cedido|first=Javier|last=Lekuona|date=23 July 2024|website=Diario AS|access-date=23 July 2024|archive-url=https://web.archive.org/web/20241202051040/https://as.com/futbol/el-alaves-anuncia-la-llegada-de-manu-sanchez-cedido-n/|archive-date=2 December 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Pérez, Carles|{{flagicon|ESP}} [[Carles Pérez]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Loan
+|{{dts|30 July 2024}}
+|<ref>[https://rccelta.es/en/equipo/actualidad/carles-perez-jugara-en-el-getafe-la-proxima-temporada/]</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Kevin Vázquez]]
+|{{fbaicon|ESP}} [[Sporting de Gijon]]
+|Free
+|{{dts|28 August 2024}}
+|<ref>{{cite web|url=https://rccelta.es/equipo/actualidad/kevin-vazquez-dice-adios-al-rc-celta-despues-de-una-carrera-historica/|title=Kevin Vázquez dice adiós al RC Celta después de una carrera histórica|trans-title=Kevin Vázquez bids farewell to RC Celta after an historical career|publisher=RC Celta Vigo|language=es|date=28 August 2024|accessdate=29 August 2024}}</ref><ref>{{cite web|url=https://www.realsporting.com/noticias/comunicado-oficial-kevin-vazquez|title=Comunicado oficial: Kevin Vázquez|trans-title=Official announcement: Kevin Vázquez|publisher=Sporting Gijón|language=es|date=28 August 2024|accessdate=29 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Unai Nuñez]]
+|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|Loan
+|{{dts|28 August 2024}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/en/news/2024/08/28/unai-nunez-returns-to-athletic-club-on-loan/|title=Unai Nuñez returns to Athletic Club on loan|publisher=Athletic Club|date=28 August 2024|access-date=29 August 2024}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = Friendly
+|date = 13 July 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[S.L. Benfica|Benfica]]
+|score = 2–2
+|report = 
+|team2 = Celta Vigo
+|goals1 =
+*[[Vangelis Pavlidis|Pavlidis]] {{goal|13|pen.|28}}
+|goals2 =
+*[[Iago Aspas|Aspas]] {{goal|70}}
+*[[Pablo Durán|Durán]] {{goal|74}}
+|stadium = [[Estádio Municipal de Águeda]]
+|location = [[Águeda]], Portugal
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 20 July 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[F.C. Vizela|Vizela]]
+|score = 0–4
+|report = https://rccelta.es/equipo/actualidad/rc-celta-vs-fc-vizela-4-0-resumen-y-goles-highlights-pretemporada-rc-celta/
+|team2 = Celta Vigo
+|goals1 =
+|goals2 =
+*[[Anastasios Douvikas|Douvikas]] {{goal|2||22||39}}
+*[[Pablo Durán|Durán]] {{goal|60}}
+|stadium = Estadio Municipal de A Lomba
+|location = [[Vilagarcía de Arousa]]
+|attendance = 
+|referee = Álvaro Juncal Moreira
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 23 July 2024
+|time = 12:00
+|team1 = Celta Vigo
+|score = 2-1
+|report = 
+|team2 = [[Sporting de Gijón|Sporting Gijón]]
+|goals1 =*[[Anastasios Douvikas|Douvikas]] {{goal|27}}
+*[[Franco Cervi|Cervi]] {{goal|87}}
+|goals2 =*[[Jordy Caicedo|Caicedo]] {{goal|8}}
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 26 July 2024
+|time = 
+|team1 = Celta Vigo
+|score = 1-0
+|report = 
+|team2 = [[Gil Vicente F.C.|Gil Vicente]]
+|goals1 =*[[Anastasios Douvikas|Douvikas]] {{goal|72}}
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 3 August 2024
+|time = {{UTZ|15:00|1}}
+|team1 = [[Luton Town F.C.|Luton Town]]
+|score =1-3 
+|report = 
+|team2 = Celta Vigo
+|goals1 =*[[Alfie Doughty|Doughty]] {{goal|67}}
+|goals2 =*[[Williot Swedberg|Swedberg]] {{goal|34}}
+*[[Pablo Durán|Durán]] {{goal|83}}
+*[[Iago Aspas|Aspas]] {{goal|86}}
+|stadium =[[Kenilworth Road]] 
+|location =[[Luton]] 
+|attendance = 
+|referee = 
+|result =W 
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 10 August 2024
+|time = {{UTZ|15:00|1}}
+|team1 = [[West Ham United]]
+|score = 2–2
+|report = 
+|team2 = Celta Vigo
+|goals1 =
+*[[Jarrod Bowen|Bowen]] {{goal|6}}
+*[[Lucas Paquetá|Paquetá]] {{goal|35}}
+|goals2 =
+*[[Mihailo Ristić (footballer)|Ristić]] {{goal|21}}
+*[[Pablo Durán|Durán]] {{goal|66}}
+|penaltyscore = 6–5
+|stadium = [[London Stadium]] 
+|location = [[London]], England
+|attendance = 
+|referee = 
+|result = D
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=16 August 2024 |lm1=23–25 May 2025 |sr1=Matchday 1 |fp1=7th |w1=16 |d1=7 |l1=15 |f1=59|a1=57
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=30 October 2024 |lm2=5 January 2025 |sr2=First round |fp2=Round of 16 |w2=3 |d2=0 |l2=1 |f2=17 |a2=8
+|u=18 May 2025
+|s=[https://int.soccerway.com/teams/spain/real-club-celta-de-vigo/2033/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=CEL}}
+
+==== Results summary ====
+{{Fb rs |hw=11 |hd=3 |hl=5 |hgf=32 |hga=21 |aw=5 |ad=4 |al=10 |agf=27 |aga=36 }}
+{{Fb rs footer |u=18 May 2025 |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=18 May 2025
+| header=Round
+| label1=Ground
+| res1=H/H/A/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A
+| label2=Result
+| res2=W/W/L/L/W/L/L/D/W/L/L/W/D/D/L/W/L/W/L/L/D/L/W/D/W/D/W/W/D/W/L/L/W/L/W/W/L/W
+| label3=Position
+| pos3=1/1/3/8/5/8/10/10/9/10/11/10/11/11/12/10/13/11/12/13/13/13/12/14/10/10/9/8/7/7/7/8/7/7/7/7/7/7
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 16 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Celta Vigo
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-deportivo-alaves-1
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Iago Aspas|Aspas]] {{yel|9}}, {{goal|84}}
+*[[Claudio Giráldez]] {{yel|61}}
+*[[Williot Swedberg|Swedberg]] {{goal|66}}
+|goals2 =
+*[[Kike García (Spanish footballer)|Garcia]] {{goal|17}}
+*[[Tomás Conechny|Conechny]] {{yel|45+2}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,477
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 2
+|date = 23 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Celta Vigo
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-valencia-cf-2
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Óscar Mingueza|Mingueza]] {{goal|23}}, {{yel|25}}
+*[[Iago Aspas|Aspas]] {{goal|28}}, 
+*[[Fran Beltrán|Beltrán]] {{goal|60}}
+*[[Damián Rodríguez (footballer, born 2003)|Damián]] {{yel|78}}
+*[[Jonathan Bamba|Bamba]] {{yel|88}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|14}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 23,519
+|referee = José Luis Munuera Montero
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 26 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 4–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rc-celta-3
+|team2 = Celta Vigo
+|goals1 =
+*[[Sergi Cardona|Cardona]] {{goal|26}}
+*[[Kiko Femenía|Femenía]] {{yel|55}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|60}}
+*[[Jailson (footballer, born 1995)|Jailson]] {{goal|64|o.g.}}
+*[[Raúl Albiol|Albiol]] {{yel|81}}
+*[[Pape Gueye|Gueye]] {{yel|85}}
+*[[Dani Parejo|Parejo]] {{penmiss}} {{small|90+10'}}, {{goal|90+10}}
+*[[Nicolas Pépé|Pépé]] {{yel|90+11}}
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|12}}
+*[[Óscar Mingueza|Mingueza]] {{goal|31}}
+*[[Ilaix Moriba|Moriba]] {{yel|52}}
+*[[Carl Starfelt|Starfelt]] {{goal|80}}
+*[[Williot Swedberg|Swedberg]] {{yel|88}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|90+8}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,651
+|referee = [[Miguel Ángel Ortiz Arias]]
+|result = L
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 17:00
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-rc-celta-4
+|team2 = Celta Vigo
+|goals1 =
+*[[Flavien Enzo Boyomo|Boyomo]] {{goal|21}}
+*[[Carlos Domínguez (Spanish footballer)|Domínguez]] {{goal|45|o.g.}}
+*[[Abel Bretones|Bretones]] {{goal|62}}
+*[[Lucas Torró]] {{yel|66}}
+*[[Rubén García (footballer, born 1993)|Rubén García]] {{yel|74}}
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|29}}
+*[[Alfon González|Alfon]] {{sent off|0|86}}
+*[[Moi Gómez|Gómez]] {{goal|90+1|o.g.}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,908
+|referee = [[Juan Martínez Munuera]]
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 15 September 2024
+|time = 14:00
+|team1 = Celta Vigo
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-real-valladolid-cf-5
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{goal|22}}, {{yel|41}}
+*[[Borja Iglesias|Iglesias]] {{goal|35}}
+*[[Hugo Sotelo|Sotelo]] {{yel|61}}
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{yel|68}}
+*[[Anastasios Douvikas|Douvikas]] {{goal|90+1}}
+|goals2 =
+*[[Lucas Rosa|Rosa]] {{yel|40}}
+*[[Chuki (footballer)|Chuki]] {{yel|45+2}}
+*[[Raúl Moro|Moro]] {{goal|50}}
+*[[Selim Amallah|Amallah]] {{yel|55}}
+*[[Mario Martín|Martín]] {{sent off|0|81}}
+*[[Stanko Jurić|Jurić]] {{yel|84}}
+*[[Juanmi Latasa|Latasa]] {{yel|87}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 21,670
+|referee = Francisco José Hernández Maeso
+|result = W
+}} 
+{{Football box collapsible
+|round = 6
+|date = 22 September 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Athletic Bilbao]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rc-celta-6
+|team2 = Celta Vigo
+|goals1 =
+*[[Gorka Guruzeta|Guruzeta]] {{goal|4||39}}
+*[[Álex Berenguer|Berenguer]] {{yel|20}}
+*[[Aitor Paredes|Paredes]] {{yel|30}}
+*[[Beñat Prados|Prados]] {{yel|52}}
+*[[Álvaro Djaló|Djaló]] {{goal|80}}
+|goals2 =
+*[[Iago Aspas|Aspas]] {{goal|25|pen.}}
+*[[Hugo Sotelo|Sotelo]] {{yel|50}}
+*[[Ilaix Moriba|Moriba]] {{yel|86}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,737
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 26 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Celta Vigo
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-atletico-de-madrid-7
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Carl Starfelt|Starfelt]] {{yel|33}}
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{yel|90+2}}
+|goals2 =
+*[[Reinildo Mandava|Mandava]] {{yel|38}}
+*[[José María Giménez|Giménez]] {{yel|76}}
+*[[Julián Alvarez|Alvarez]] {{goal|90}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 21,533
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 8
+|date = 29 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Celta Vigo
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-girona-fc-8
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|78}}
+*[[Iago Aspas|Aspas]] {{goal|81}}
+|goals2 =
+*[[Yangel Herrera|Herrera]] {{goal|38}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 21,347
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = D
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 17:30
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-rc-celta-9
+|team2 = Celta Vigo
+|goals1 =
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{yel|45+1}}
+*[[Jaime Mata|Mata]] {{yel|70}}
+*[[José Campaña|Campaña]] {{yel|82}}
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|28}}
+*[[Fran Beltrán]] {{yel|32}}
+*[[Javier Manquillo|Manquillo]] {{yel|42}}
+*[[Ilaix Moriba|Moriba]] {{sentoff|2|54|55}}
+*[[Óscar Mingueza|Mingueza]] {{yel|55}}
+*[[Iago Aspas|Aspas]] {{sentoff|2|55|56}}
+*[[Anastasios Douvikas|Douvikas]] {{yel|75}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 21,482
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{footballbox collapsible
+|round      = 10
+|date       = 19 October 2024
+|time       = {{UTZ|21:00|2}}
+|team1      = Celta Vigo
+|score      = 1–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-real-madrid-10
+|team2      = [[Real Madrid]]
+|goals1     = 
+*[[Williot Swedberg|Swedberg]] {{goal|51}}
+*[[Hugo Sotelo|Sotelo]] {{yel|82}}
+|goals2     =
+*[[Kylian Mbappé|Mbappé]] {{goal|20}}
+*[[Vinícius Júnior|Vinícius]] {{goal|66}}
+*[[Lucas Vázquez|Vázquez]] {{yel|75}}
+|stadium    = [[Balaídos|ABANCA Balaídos]]
+|location   = [[Vigo]]
+|attendance = 24,445
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 October 2024
+|time = 20:00
+|team1 = [[CD Leganés|Leganés]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-rc-celta-11
+|team2 = Celta Vigo
+|goals1 =
+*[[Diego García (footballer, born 2000)|Diego]] {{goal|59}}
+*[[Renato Tapia|Tapia]] {{yel|71}}
+*[[Yvan Neyou|Neyou]] {{yel|75}}
+*[[Darko Brasanac|Darko]] {{goal|78}}
+*[[Sergio González (footballer, born 1992)|Sergio]] {{goal|82}}
+|goals2 =
+*[[Carl Starfelt|Starfelt]] {{yel|62}}
+*[[Óscar Mingueza|Mingueza]] {{yel|84}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,358
+|referee = [[Mario Melero López]]
+|result = L
+}}
+{{Football box collapsible
+|round = 12
+|date = 5 November 2024
+|time = 21:00
+|team1 = Celta Vigo
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-getafe-cf-12
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Anastasios Douvikas|Douvikas]] {{goal|7}}, {{yel|24}}
+|goals2 =
+*[[Nabil Aberdin|Nabil]] {{yel|22}}
+*[[Juan Berrocal|Berrocal]] {{sentoff|2|55|65}}
+*[[Omar Alderete|Alderete]] {{yel|90+1}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 19,502
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Betis]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rc-celta-13
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Johnny Cardoso|Cardoso]] {{yel|35}}
+*[[Vitor Roque]] {{goal|40}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|83}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{yel|90+4}}
+*[[Marc Bartra|Bartra]] {{goal|90+5}}
+|goals2 =
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{goal|13}}
+*[[Anastasios Douvikas|Douvikas]] {{goal|82}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 54,015
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round      = 14
+|date       = 23 November 2024
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[RC Celta de Vigo|Celta Vigo]]
+|score      = 2–2
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-fc-barcelona-14
+|team2      = Barcelona
+|goals1     =
+*[[Iago Aspas|Aspas]] {{yel|45+1}}
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{yel|60}}
+*[[Alfon (footballer)|Alfon]] {{goal|84}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{goal|86}}
+*[[Hugo Sotelo|Sotelo]] {{yel|87}}
+*[[Ilaix Moriba|Moriba]] {{yel|90+3}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|90+5}}
+|goals2     =
+*[[Gerard Martín (footballer)|Martín]] {{yel|3}}
+*[[Raphinha]] {{goal|15}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|61}}
+*[[Marc Casadó|Casadó]] {{sentoff|2|75|82}}
+*[[Héctor Fort|Fort]] {{yel|80}}
+*[[Fermín López|Fermín]] {{yel|90+1}}
+|stadium    = [[Balaídos|Abanca-Balaídos]]
+|location   = [[Vigo]]
+|attendance = 24,573
+|referee    = César Soto Grado
+|result     = D
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 19:30
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-rc-celta-15
+|team2 = Celta Vigo
+|goals1 =
+*[[Irvin Cardona|Cardona]] {{goal|40}}
+*[[Leandro Cabrera|Cabrera]] {{goal|53}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|55}}
+*[[Joan García]] {{yel|86}}
+*[[Walid Cheddira|Cheddira]] {{goal|87}}
+*[[Manolo González]] {{yel|88}}
+|goals2 =
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|35}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|45+1}}
+*[[Iago Aspas|Aspas]] {{goal|83|pen.}}
+|stadium = [[RCDE Stadium]]
+|location = [[Barcelona]]
+|attendance = 23,792
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 21:00
+|team1 = Celta Vigo
+|score = 2–0
+|report = https://www.laliga.com/en-ES/match/temporada-2024-2025-laliga-ea-sports-rc-celta-rcd-mallorca-16
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{goal|32}}
+*[[Javi Rodríguez (footballer)|Javi Rodríguez]] {{yel|44}}
+*[[Iago Aspas|Aspas]] {{goal|82}}
+|goals2 =
+*[[Antonio Raíllo]] {{sentoff|0|78}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,861
+|referee = [[Ricardo De Burgos Bengoetxea]]
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 14 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rc-celta-17
+|team2 = Celta Vigo
+|goals1 =
+*[[Lucien Agoumé|Agoumé]] {{yel|45}}
+*[[Manu Bueno|Bueno]] {{goal|65}}
+*[[Gonzalo Montiel|Montiel]] {{yel|83}}
+*[[Loïc Badé|Badé]] {{yel|90+3}}
+*[[Álvaro Fernández (footballer, born 1998)|Fernández]] {{yel|90+3}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|90+4}}
+*[[Darío Benavides|Benavides]] {{yel|90+5}}
+*[[Álvaro Miguel García Pascual|Pascual]] {{yel|90+6}}
+|goals2 =
+*[[Pablo Durán|Durán]] {{yel|48}}
+*[[Carl Starfelt|Starfelt]] {{yel|89}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|90+3}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 37,295
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}} 
+{{Football box collapsible
+|round = 18
+|date = 21 December 2024
+|time = 16:15
+|team1 = Celta Vigo
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-real-sociedad-18
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Pablo Durán|Durán]] {{goal|40||45+1}}, {{yel|70}}
+*[[Javi Rodríguez (footballer)|Javi]] {{yel|61}}
+*[[Carl Starfelt|Starfelt]] {{yel|69}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|20}}
+*[[Beñat Turrientes|Turrientes]] {{yel|28}}
+*[[Sheraldo Becker|Becker]] {{yel|56}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|71}}
+*[[Takefusa Kubo|Take]] {{yel|83}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,956
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 19
+|date = 10 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Rayo Vallecano]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-rc-celta-19
+|team2 = Celta Vigo
+|goals1 =
+*[[Adrián Embarba|Embarba]] {{goal|5}}
+*[[Pathé Ciss|Ciss]] {{yel|21}}
+*[[Abdul Mumin|Mumin]] {{yel|27}}
+*[[Jorge de Frutos|De Frutos]] {{goal|63}}
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|26}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{sent off|2|37|90+4}}
+*[[Franco Cervi|Cervi]] {{yel|43}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = Madrid
+|attendance = 12,955 
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Celta Vigo
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-athletic-club-20
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Ilaix Moriba|Moriba]] {{yel|60}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{goal|74}}
+*[[Óscar Mingueza|Mingueza]] {{sentoff|0|90+6}}
+|goals2 =
+*[[Álex Berenguer|Berenguer]] {{goal|62}}
+*[[Daniel Vivian (footballer)|Vivian]] {{goal|71}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,279
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 27 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rc-celta-21
+|team2 = Celta Vigo
+|goals1 =
+*[[Kike García (Spanish footballer)|Kike]] {{goal|6|pen.}}, {{yel|82}}
+*[[Abdel Abqar|Abqar]] {{yel|78}}
+|goals2 =
+*[[Marcos Alonso (footballer, born 1990)|M.Alonso]] {{yel|34}}
+*[[Mihailo Ristić (footballer)|Ristic]] {{yel|64}}
+*[[Pablo Durán|Durán]] {{goal|66}}
+*[[Hugo Álvarez (footballer, born 2003)|H.Álvarez]] {{yel|81}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 13,612
+|referee = Francisco José Hernández Maeso
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rc-celta-22
+|team2 = Celta Vigo
+|goals1 =
+*[[Luis Rioja|Rioja]] {{goal|44}}
+*[[Enzo Barrenechea|Barrenechea]] {{yel|67}}
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{goal|68}}
+|goals2 =
+*[[Pablo Durán|Durán]] {{goal|65}}
+*[[Ilaix Moriba|Moriba]] {{yel|67}}
+*[[Carl Starfelt|Starfelt]] {{yel|83}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 42,273
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 8 February 2025
+|time = 14:00
+|team1 = Celta Vigo
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-real-betis-23
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Fran Beltrán|Beltrán]] {{goal|63}}, {{yel|90+4}}
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{goal|65}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|72}}
+*[[Williot Swedberg|Swedberg]] {{goal|87}}
+*[[Borja Iglesias|Iglesias]] {{yel|90+4}}
+|goals2 =
+*[[Romain Perraud|Perraud]] {{yel|8}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|10}}, {{yel|68}}
+*[[Diego Llorente|Llorente]] {{goal|22}}, {{yel|90+4}}
+*[[Isco]] {{yel|61}}
+*[[Vitor Roque]] {{yel|90+4}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,651
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 24
+|date = 24 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Atlético Madrid]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rc-celta-24
+|team2 = Celta Vigo
+|goals1 = 
+*[[Pablo Barrios (footballer)|Barrios]] {{sent off|0|7}}
+*[[Rodrigo De Paul|De Paul]] {{yel|65}}
+*[[Robin Le Normand|Le Normand]] {{yel|67}}
+*[[José María Giménez|Giménez]] {{yel|67}}
+*[[Alexander Sørloth|Sørloth]] {{goal|81}}
+|goals2 =
+*[[Carlos Domínguez (Spanish footballer)|Domínguez]] {{yel|31}}
+*[[Pablo Durán|Durán]] {{yel|47}}
+*[[Iago Aspas|Aspas]] {{goal|68|pen.}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|72}}
+*[[Iker Losada|Losada]] {{yel|80}}
+*[[Borja Iglesias|Iglesias]] {{yel|90+3}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 64,211
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 21:00 
+|team1 = Celta Vigo
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-ca-osasuna-25
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Fer López|López]] {{yel|38}}
+*[[Iago Aspas|Aspas]] {{goal|69|pen.}}
+|goals2 =
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,005
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 26
+|date = 1 March 2025
+|time = 14:00
+|team1 = [[Girona FC|Girona]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-rc-celta-26
+|team2 = Celta Vigo
+|goals1 = 
+*[[Viktor Tsygankov|Tsygankov]] {{goal|21}}
+*[[Yangel Herrera|Herrera]] {{goal|68}}
+|goals2 = 
+*[[Iker Losada|Losada]] {{goal|36}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|51|pen.}}
+|stadium = [[Estadi Montilivi]]
+|location = [[Girona]]
+|attendance = 11,449
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 8 March 2025
+|time = 14:00 
+|team1 = Celta Vigo
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-cd-leganes-27
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Óscar Mingueza|Mingueza]] {{goal|26}}, {{yel|90+3}}
+*[[Alfon (footballer)|Alfon]] {{goal|46}}
+*[[Damián Rodríguez (footballer, born 2003)|Damián]] {{yel|56}}
+*[[Jailson (footballer, born 1995)|Jailson]] {{yel|70}}
+|goals2 =
+*[[Matija Nastasić|Nastasić]] {{yel|9}}
+*[[Valentin Rosier|Rosier]] {{goal|19}}
+*[[Jorge Sáenz|Sáenz]] {{yel|76}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 17,326
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 28
+|date = 15 March 2025
+|time = 14:00 
+|team1 = [[Real Valladolid]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rc-celta-28
+|team2 = Celta Vigo
+|goals1 =
+*[[Raúl Moro|Moro]] {{yel|82}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|90+1}}
+|goals2 =
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|37}}, {{goal|83|pen.}}
+*[[Alfon (footballer)|Alfon]] {{yel|56}}
+*[[Óscar Mingueza|Minguezan]] {{yel|65}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 17,521
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 29
+|date = 31 March 2025
+|time = 21:00
+|team1 = Celta Vigo
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-ud-las-palmas-29
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 = 
+*[[Alfon González|Alfon]] {{goal|45+2}}
+*[[Iker Losada|Losada]] {{yel|45+5}}
+*[[Javi Rodríguez (footballer)|Javi]] {{yel|79}}
+*[[Fer López]] {{yel|83}}
+|goals2 = 
+*[[Alberto Moleiro|Moleiro]] {{goal|48}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 18,549
+|referee = Juan Martínez Munuera
+|result = D
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 18:30 [[Central European Summer Time|CEDT]] ([[UTC+02:00|UTC+2]])
+|team1 = Mallorca
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-rc-celta-30
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =*[[Martin Valjent|Valjent]] {{goal|17}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|41}}
+*[[Manu Morlanes|Morlanes]] {{yel|45+4}}
+*[[José Manuel Copete|Copete]] {{yel|53}}
+|goals2 = *[[Alfon (footballer)|Alfon]] {{goal|53}}
+*[[Fer López|López]] {{goal|72}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18,291
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 12 April 2025
+|time = 18:30
+|team1 = Celta Vigo
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-rcd-espanyol-31
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 = 
+*[[Javi Rodríguez (footballer)|Javi]] {{yel|45+4}}
+*[[Jailson]] {{yel|65}}
+|goals2 = 
+*[[Roberto Fernández (footballer, born 2002)|Roberto]] {{goal|28||63}}
+*[[Pol Lozano|Lozano]] {{yel|44}}
+*[[Javier Puado|Puado]] {{yel|77}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 19,801
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 19 April 2025
+|time = 16:15
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 4–3
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-rc-celta-32
+|team2 = Celta Vigo
+|goals1 = 
+*[[Ferran Torres|F.Torres]] {{goal|13}}
+*[[Dani Olmo|Olmo]] {{goal|64}}
+*[[Raphinha]] {{goal|68||90+8|pen.}}, {{yel|90+2}} 
+*[[Iñigo Martínez|I.Martínez]] {{yel|90+3}}
+|goals2 = 
+*[[Borja Iglesias|Iglesias]] {{goal|15||52||62}}
+*[[Iago Aspas|Aspas]] {{yel|90+2}}
+*[[Óscar Mingueza|Mingueza]] {{yel|90+8}}
+|stadium = [[Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 48,569
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = 17:00 
+|team1 = Celta Vigo
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-villarreal-cf-33
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 = 
+*[[Fer López]] {{goal|45}}
+*[[Fran Beltrán|Beltrán]] {{yel|45+1}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|48}}
+*[[Borja Iglesias|Iglesias]] {{goal|53}}
+*[[Iago Aspas|Aspas]] {{goal|87|pen.}}
+|goals2 =
+*[[Eric Bailly|Bailly]] {{sentoff|0|37}}
+*[[Nicolas Pépé|N.Pépé]] {{yel|85}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 19,324
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = 14:00 
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-rc-celta-34
+|team2 = Celta Vigo
+|goals1 = 
+*[[Arda Güler|Güler]] {{goal|33}}
+*[[Kylian Mbappé|Mbappé]] {{goal|39||48}}
+|goals2     =
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{goal|69}}
+*[[Williot Swedberg|Swedberg]] {{goal|76}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 67,661
+|referee    = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) 
+|team1 = Celta Vigo
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-sevilla-fc-35
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Ilaix Moriba|Moriba]] {{goal|19}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{sentoff|0|45+6}}
+*[[Óscar Mingueza|Mingueza]] {{goal|65}}
+*[[Borja Iglesias|Iglesias]] {{goal|90+1}}
+|goals2 =
+*[[Nemanja Gudelj|Gudelj]] {{goal|45+8|pen.}}
+*[[Isaac Romero|Romero]] {{yel|74}}
+*[[Kike Salas|Salas]] {{yel|90+4}}, {{goal|90+8}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 20,281
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 36
+|date = 13 May 2025
+|time = 20:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Sociedad]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rc-celta-36
+|team2 = Celta Vigo
+|goals1 =
+*[[Aihen Muñoz|Muñoz]] {{yel|63}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|87}}
+*[[Luka Sučić|Sučić]] {{yel|90+6}}
+|goals2 =
+*[[Alfon (footballer)|Alfon]] {{goal|44}}
+*[[Ilaix Moriba|Moriba]] {{yel|71}}
+|stadium = [[Anoeta Stadium]]
+|location = [[San Sebastián]]
+|attendance = 25,124
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Celta Vigo
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-rayo-vallecano-37
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|10|pen.}}, {{yel|32}}
+*[[Yoel Lago|Lago]] {{yel|68}}
+|goals2 =
+*[[Isi Palazón|Palazón]] {{goal|17}}
+*[[Jorge de Frutos|De Frutos]] {{goal|45+2}}
+*[[Óscar Valentín|Valentín]] {{yel|57}}
+*[[Florian Lejeune|Lejeune]] {{yel|68}}
+*[[Pathé Ciss|Ciss]] {{yel|90+4}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 21,482
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Getafe
+|score = 1–2
+|report = 
+|team2 = Celta Vigo
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Getafe]]
+|attendance = 
+|referee = 
+|result = W
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 30 October 2024
+|time = {{UTZ|21:00|1}}
+|team1 = [[UD San Pedro]]
+|score = 1–5
+|report = 
+|team2 = Celta Vigo
+|goals1 =
+*[[Kiko Carmona|Carmona]] {{goal|15}}
+|goals2 =
+*[[Alfon (footballer)|Alfon]] {{goal|4}}
+*[[Pablo Durán|Durán]] {{goal|18}}
+*[[Tadeo Allende|Allende]] {{goal|41}}
+*[[Anastasios Douvikas|Douvikas]] {{goal|61||83}}
+|stadium = [[Estadio Municipal Antonio Naranjo|Antonio Naranjo]]
+|location = [[San Pedro de Alcántara]]
+|attendance = 
+|referee = [[Juan Luis Pulido Santana]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 3 December 2024
+|time = {{UTZ|21:00|1}}
+|team1 = [[Salamanca CF UDS|Salamanca]]
+|score = 0–7
+|report = 
+|team2 = Celta Vigo
+|goals1 =
+|goals2 =
+*[[Williot Swedberg|Swedberg]] {{goal|5}}
+*[[Hugo Sotelo|Sotelo]] {{goal|36|pen.}}
+*[[Pablo Durán|Durán]] {{goal|43}}
+*[[Tadeo Allende|Allende]] {{goal|65}}
+*[[Carlos Domínguez (Spanish footballer)|Domínguez]] {{goal|69}}
+*[[Fer López|López]] {{goal|78||89}}
+|stadium = [[Helmántico Stadium|Helmántico]]
+|location = [[Villares de la Reina]]
+|attendance = 
+|referee = [[Adrián Cordero Vega]]
+|result = W
+}}
+{{Football box collapsible
+|round = Round of 32
+|date = 5 January 2025
+|time = 15:30
+|team1 = [[Racing de Santander|Racing Santander]]
+|score = 2–3
+|report = 
+|team2 = Celta Vigo
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Santander, Spain|Santander]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Round of 16
+|date = 16 January 2025
+|time = 21:00
+|team1 = [[Real Madrid]]
+|score = 5–2
+|report = 
+|team2 = Celta Vigo
+|goals1 =[[Mbappé]] {{goal|37}}
+[[Vinícius Júnior|Vinícius]] {{goal|48}}
+[[Endrick Felipe|Endrick]] {{goal|108,119}}
+[[Federico Valverde|Valverde]] {{goal|112}}
+|goals2 =[[Jonathan Bamba|Bamba]] {{goal|83}}
+[[Marcos Alonso Mendoza|Alonso Mendoza]] {{goal|90+1 (P)}}
+|stadium = [[Santiago Bernabéu Stadium]]
+|location = [[Madrid]]
+|attendance = 
+|referee = 
+|result = L
+}}
+
+== Statistics ==
+=== Goalscorers ===
+{| class="wikitable"
+|-
+! Position !! Players !! La Liga !! Copa del Rey || Total
+|-
+| FW || {{fbaicon|ESP}} [[Borja Iglesias]] || 11 || 0 || '''11'''
+|-
+| FW || {{fbaicon|ESP}} [[Iago Aspas]] || 10 || 0 || '''10'''
+|-
+| FW || {{fbaicon|ESP}} [[Alfon (footballer)|Alfon]] || 5 || 3 || '''8'''
+|-
+| FW || {{fbaicon|ESP}} [[Pablo Duran]] || 4 || 2 || '''6'''
+|-
+| FW || {{fbaicon|GRE}} [[Anastasios Douvikas]] || 3 || 2 || '''5'''
+|-
+| MF || {{fbaicon|SWE}} [[Williot Swedberg]] || 4 || 1 || '''5'''
+|-
+| MF || {{fbaicon|ESP}} [[Hugo Álvarez (footballer, born 2003)|Hugo Álvarez]] || 4 || 0 || '''4'''
+|-
+| DF || {{fbaicon|ESP}} [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]] || 3 || 1 || '''4'''
+|-
+| MF || {{fbaicon|ESP}} [[Fer López]] || 2 || 2 || '''4'''
+|-
+| MF || {{fbaicon|ESP}} [[Óscar Mingueza]] || 4 || 0 || '''4'''
+|-
+| DF || {{fbaicon|ESP}} [[Javi Rodríguez (footballer)|Javi Rodríguez]] || 3 || 0 || '''3'''
+|-
+| FW || {{fbaicon|ARG}} [[Tadeo Allende]] || 0 || 2 || '''2'''
+|-
+| MF || {{fbaicon|ESP}} [[Fran Beltrán]] || 2 || 0 || '''2'''
+|-
+| FW || {{fbaicon|CIV}} [[Jonathan Bamba]] || 0 || 1 || '''1'''
+|-
+| DF || {{fbaicon|ESP}} [[Carlos Domínguez (Spanish footballer)|Carlos Domínguez]] || 0 || 1 || '''1'''
+|-
+| MF || {{fbaicon|ESP}} [[Iker Losada]] || 1 || 0 || '''1'''
+|-
+| MF || {{fbaicon|GUI}} [[Ilaix Moriba]] || 1 || 0 || '''1'''
+|-
+| MF || {{fbaicon|ESP}} [[Hugo Sotelo]] || 0 || 1 || '''1'''
+|-
+| DF || {{fbaicon|SWE}} [[Carl Starfelt]] || 1 || 0 || '''1'''
+|}
+
+== References ==
+{{Reflist}}
+
+{{RC Celta de Vigo}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 RC Celta de Vigo season}}
+[[Category:RC Celta de Vigo seasons]]
+[[Category:Spanish football clubs 2024–25 season|Celta de Vigo]]
+[[Category:2024 in Galicia (Spain)]]
+[[Category:2025 in Galicia (Spain)]]

@@ -1,0 +1,1531 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[Valencia CF]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Lay Hoon Chan]]<br>''(until 4 March)''<br>[[Kiat Lim]]<br>''(from 4 March)''
+|ownertitle         = 
+|owner              = [[Peter Lim]]
+|mgrtitle           = Head coach
+|manager            = [[Rubén Baraja]]<br>''(until 23 December)''<br>[[Carlos Corberán]]<br>''(from 24 December)''
+|stdtitle           = 
+|stadium            = [[Mestalla Stadium|Mestalla]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|12th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Quarter-finals]]
+|league topscorer   = <br>[[Hugo Duro]] (11)
+|season topscorer   = <br>Hugo Duro (11)
+|highest attendance = 46,673 vs [[FC Barcelona|Barcelona]]
+|lowest attendance  = 37,586 vs [[Deportivo Alavés|Alavés]]
+|average attendance = 43,042<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = 
+|largest loss       = 
+| pattern_la1 = _valencia2425h
+| pattern_b1 = _valencia2425h
+| pattern_ra1 = _valencia2425h
+| pattern_sh1 = _valencia2425h
+| pattern_so1 = 
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = 000000
+| socks1 = 000000
+| pattern_la2 = _valencia2425h
+| pattern_b2 = _valencia2425a
+| pattern_ra2 = _valencia2425h
+| pattern_sh2 = _valencia2425h
+| pattern_so2 = 
+| leftarm2 = 000000
+| body2 = 000000
+| rightarm2 = 000000
+| shorts2 = 000000
+| socks2 = 000000
+|pattern_la3        = _valencia2425t
+|pattern_b3         = _valencia2425t
+|pattern_ra3        = _valencia2425t
+|pattern_sh3        = _valencia2425t
+|pattern_so3        = 
+|leftarm3           = FC8228
+|body3              = FC8228
+|rightarm3          = FC8228
+|shorts3            = 47785A
+|socks3             = 47785A
+|prevseason         = [[2023–24 Valencia CF season|2023–24]]
+|nextseason         = [[2025–26 Valencia CF season|2025–26]]
+}}
+The '''2024–25 season''' was the 106th season in the history of '''[[Valencia CF]]''', and the club's 38th consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+== Summary ==
+Head coach [[Rubén Baraja]]'s tenure was prolonged for another season on 19 June, extending his contract to 2026.<ref>{{Cite web|url=https://onefootball.com/en/news/ruben-baraja-im-happy-and-above-all-proud-to-be-able-to-continue-fulfilling-my-dream-of-being-coach-of-valencia-cf-39646921|title=Rubén Baraja: "I'm happy and, above all, proud to be able to continue fulfilling my dream of being coach of Valencia CF"|date=11 July 2024|website=OneFootball}}</ref> On 23 December 2024, having achieved only two wins during [[2024–25 La Liga|the season]], Baraja was sacked.<ref>{{cite web|url=https://www.valenciacf.com/comunicado-oficial-ruben-baraja1|title=Comunicado oficial {{!}} Rubén Baraja|trans-title=Official announcement {{!}} Rubén Baraja|publisher=Valencia CF|language=es|date=23 December 2024|access-date=15 August 2025}}</ref><ref>{{cite news|url=https://www.ultimahora.es/deportes/futbol/2024/12/23/2296267/valencia-prescinde-ruben-baraja-tras-partidos-solo-dos-victorias.html|title=El Valencia destituye a Rubén Baraja|trans-title=Valencia dismiss Rubén Baraja|newspaper=[[Última Hora (Spain)|Última Hora]]|last=Lizón|first=Javier|language=es|date=23 December 2024|access-date=15 August 2025}}</ref> The following day, former Valencia youth player Carlos Corberán signed a 3-year deal to become the new head coach.<ref>{{cite web |url=https://www.mundodeportivo.com/us/en/20241225/711723/carlos-corberan-appointed-as-valencia-s-new-coach.html |title=Carlos Corberán appointed as Valencia’s new coach |publisher=Mundo Deportivo |date=25 December 2024 }}</ref>
+
+== Players ==
+=== First-team squad ===
+{{updated|30 August 2024}}<ref>{{cite news|title=Team|url=https://www.valenciacf.com/en/sports/en-first-team-01/team?team=players|publisher=Valencia CF|access-date=11 August 2022|archive-date=21 December 2022|archive-url=https://web.archive.org/web/20221221072034/https://www.valenciacf.com/en/sports/en-first-team-01/team?team=players|url-status=live}}</ref>
+{| class="wikitable sortable" style="text-align:center; font-size:100%;width:90%;"
+|-
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| No.
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| Pos.
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| Nat.
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| Player
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| Date of birth (age)
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| Signed in
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| Contract ends
+! style="background:#FFFFFF; color:#000000; border:2px solid #E86100;" text-align:center;"| Signed from
+|-
+! colspan="8" style="background:#000000; color:#FFFFFF; border:2px solid #E86100;" text-align:center;"| Goalkeepers
+|-
+| 1 
+| [[Goalkeeper (association football)|GK]] 
+| {{flagicon|ESP}} 
+| align=center| [[Jaume Doménech]]
+| {{birth date and age2|2025|6|30|1990|11|5|df=y}}
+| 2015
+| 2025
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 13
+| [[Goalkeeper (association football)|GK]] 
+| {{flagicon|MKD}} 
+| align=center| [[Stole Dimitrievski]]
+| {{birth date and age2|2025|6|30|1993|12|25|df=y}}
+| 2024
+| 2026
+| align=left| {{fbaicon|ESP}} [[Rayo Vallecano]]
+|-
+| 25
+| [[Goalkeeper (association football)|GK]]
+| {{flagicon|GEO}} 
+| align=center| [[Giorgi Mamardashvili]]
+| {{birth date and age2|2025|6|30|2000|9|29|df=y}}
+| 2021
+| 2025
+| align=left| {{fbaicon|GEO}} [[FC Dinamo Tbilisi|Dinamo Tbilisi]]
+|-
+! colspan="8" style="background:#000000; color:#FFFFFF; border:2px solid #E86100;" text-align:center;"| Defenders
+|-
+| 2
+| [[Defender (association football)|DF]] 
+| {{flagicon|BEL}} 
+| align=center| [[Maximiliano Caufriez|Maxi Caufriez]] 
+| {{birth date and age2|2025|6|30|1997|2|16|df=y}} 
+| 2024
+| 2025
+| align=left| {{fbaicon|FRA}} [[Clermont Foot|Clermont]]
+|-
+| 3
+| [[Defender (association football)|DF]] 
+| {{flagicon|ESP}} 
+| align=center| [[Cristhian Mosquera]] 
+| {{birth date and age2|2025|6|30|2004|6|27|df=y}} 
+| 2021
+| 2025
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 4
+| [[Defender (association football)|DF]]
+| {{flagicon|GUI}}
+| align=center| [[Mouctar Diakhaby]]
+| {{birth date and age2|2025|6|30|1996|12|19|df=y}} 
+| 2018
+| 2027
+| align=left| {{fbaicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|-
+| 12
+| [[Defender (association football)|DF]] 
+| {{flagicon|POR}} 
+| align=center| [[Thierry Correia]]
+| {{birth date and age2|2025|6|30|1999|3|9|df=y}}
+| 2019
+| 2026
+| align=left| {{fbaicon|POR}} [[Sporting CP]]
+|-
+| 14
+| [[Defender (association football)|DF]] 
+| {{flagicon|ESP}} 
+| align=center| [[José Gayà]] (''[[Captain (association football)|captain]]'')
+| {{birth date and age2|2025|6|30|1995|5|25|df=y}} 
+| 2012
+| 2027
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 15
+| [[Defender (association football)|DF]] 
+| {{flagicon|ESP}} 
+| align=center| [[César Tárrega]] 
+| {{birth date and age2|2025|6|30|2002|2|22|df=y}} 
+| 2021
+| 2028
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 20
+| [[Defender (association football)|DF]] 
+| {{flagicon|GLP|local}}
+| align=center| [[Dimitri Foulquier]] 
+| {{birth date and age2|2025|6|30|1993|3|23|df=y}} 
+| 2021
+| 2025
+| align=left| {{fbaicon|ESP}} [[Granada CF|Granada]]
+|-
+| 21
+| [[Defender (association football)|DF]] 
+| {{flagicon|ESP}} 
+| align=center| [[Jesús Vázquez (footballer, born 2003)|Jesús Vázquez]] 
+| {{birth date and age2|2025|6|30|2003|1|2|df=y}} 
+| 2021
+| 2025
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 24
+| [[Defender (association football)|DF]] 
+| {{flagicon|ESP}} 
+| align=center| [[Yarek Gąsiorowski|Yarek]] 
+| {{birth date and age2|2025|6|30|2005|1|19|df=y}} 
+| 2023
+| 2027
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+! colspan="8" style="background:#000000; color:#FFFFFF; border:2px solid #E86100;" text-align:center;"| Midfielders
+|-
+| 5
+| [[Midfielder|MF]] 
+| {{flagicon|ARG}} 
+| align=center| [[Enzo Barrenechea]]
+| {{birth date and age2|2025|6|30|2001|5|22|df=y}} 
+| 2024
+| 2025
+| align=left| {{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+|-
+| 6
+| [[Midfielder|MF]] 
+| {{flagicon|ESP}} 
+| align=center| [[Hugo Guillamón]]
+| {{birth date and age2|2025|6|30|2000|1|31|df=y}} 
+| 2018
+| 2026
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 8
+| [[Midfielder|MF]] 
+| {{flagicon|ESP}} 
+| align=center| [[Javier Guerra Moreno|Javi Guerra]] 
+| {{birth date and age2|2025|6|30|2003|5|13|df=y}} 
+| 2021
+| 2027
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 10
+| [[Midfielder|MF]] 
+| {{flagicon|POR}}
+| align=center| [[André Almeida (footballer, born 2000)|André Almeida]]
+| {{birth date and age2|2025|6|30|2000|5|30|df=y}} 
+| 2022
+| 2027
+| align=left| {{fbaicon|POR}} [[Vitória S.C.|Vitória de Guimarães]]
+|-
+| 16
+| [[Midfielder|MF]] 
+| {{flagicon|ESP}} 
+| align=center| [[Diego López (footballer, born May 2002)|Diego López]]
+| {{birth date and age2|2025|6|30|2002|5|13|df=y}}
+| 2021
+| 2026
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+| 18
+| [[Midfielder|MF]] 
+| {{flagicon|ESP}} 
+| align=center| [[Pepelu]]
+| {{birth date and age2|2025|6|30|1998|8|11|df=y}} 
+| 2023
+| 2028
+| align=left| {{fbaicon|ESP}} [[Levante UD|Levante]]
+|-
+| 23
+| [[Midfielder|MF]]  
+| {{flagicon|ESP}} 
+| align=center| [[Fran Pérez (footballer, born 2002)|Fran Pérez]]
+| {{birth date and age2|2025|6|30|2003|9|9|df=y}} 
+| 2020
+| 2026
+| align=left| {{fbaicon|ESP}} [[Valencia CF Mestalla|Valencia Mestalla]]
+|-
+! colspan="8" style="background:#000000; color:#FFFFFF; border:2px solid #E86100;" text-align:center;"| Forwards
+|-
+| 7
+| [[Forward (association football)|FW]] 
+| {{flagicon|ESP}} 
+| align=center| [[Sergi Canós]]
+| {{birth date and age2|2025|6|30|1997|2|2|df=y}} 
+| 2023
+| 2027
+| align=left| {{fbaicon|ENG}} [[Brentford F.C.|Brentford]]
+|-
+| 9
+| [[Forward (association football)|FW]] 
+| {{flagicon|ESP}} 
+| align=center| [[Hugo Duro]]
+| {{birth date and age2|2025|6|30|1999|11|10|df=y}} 
+| 2021
+| 2026
+| align=left| {{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|-
+| 11
+| [[Forward (association football)|FW]] 
+| {{flagicon|ESP}} 
+| align=center| [[Rafa Mir]]
+| {{birth date and age2|2025|6|30|1997|6|18|df=y}}
+| 2024
+| 2025
+| align=left| {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|-
+| 17
+| [[Forward (association football)|FW]] 
+| {{flagicon|ESP}} 
+| align=center| [[Dani Gómez (footballer, born 1998)|Dani Gómez]]
+| {{birth date and age2|2025|6|30|1998|7|30|df=y}}
+| 2024
+| 2025
+| align=left| {{fbaicon|ESP}} [[Levante UD|Levante]]
+|-
+| 22
+| [[Forward (association football)|FW]] 
+| {{flagicon|ESP}} 
+| align=center| [[Luis Rioja]]
+| {{birth date and age2|2025|6|30|1993|10|16|df=y}} 
+| 2024
+| 2026
+| align=left| {{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|-
+| 30
+| [[Forward (association football)|FW]] 
+| {{flagicon|ESP}} 
+| align=center| [[Germán Valera]]
+| {{birth date and age2|2025|6|30|2002|3|16|df=y}} 
+| 2024
+| 2028
+| align=left| {{fbaicon|ESP}} [[Atlético Madrid]]
+|-
+|}
+
+=== Reserve team ===
+{{Main|Valencia CF Mestalla}}
+{{Fs start}}
+{{Fs player|no=27|nat=ESP|pos=MF|name=[[David Otorbi]]}}
+{{Fs player|no=28|nat=GHA|pos=MF|name=[[Ali Fadal]]}}
+{{Fs player|no=29|nat=ESP|pos=DF|name=[[Álex Serradell Garralaga|Álex Serradell]]}}
+{{Fs player|no=32|nat=ESP|pos=MF|name=[[Martín Tejón]]}}
+{{Fs mid}}
+{{fs player|no=34|nat=ESP|pos=GK|name=[[Raúl Jiménez Latorre|Raúl Jiménez]]}}
+{{Fs player|no=38|nat=ESP|pos=DF|name=[[Iker Córdoba Sánchez|Iker Córdoba]]}}
+{{Fs player|no=39|nat=ESP|pos=DF|name=[[Rodrigo Abajas Martín|Rodrigo Abajas]]}}
+{{Fs player|no=42|nat=CRC|pos=FW|name=[[Warren Madrigal]]|other=<small>on loan from [[Deportivo Saprissa|Saprissa]]</small>}}
+{{Fs end}}
+
+=== Out on loan ===
+{{Fs start}}
+{{Fs player|no=|nat=ESP|pos=GK|name=[[Cristian Rivero (footballer)|Cristian Rivero]]|other=at [[Albacete Balompié|Albacete]] until 30 June 2025}}
+{{Fs player|no=|nat=SUI|pos=DF|name=[[Eray Cömert]]|other=at [[Real Valladolid|Valladolid]] until 30 June 2025}}
+{{Fs player|no=|nat=TUR|pos=DF|name=[[Cenk Özkacar]]|other=at [[Real Valladolid|Valladolid]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Hugo González (Spanish footballer)|Hugo González]]|other=at [[FC Cartagena|Cartagena]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Alberto Marí]]|other=at [[Real Zaragoza|Zaragoza]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Comert, Eray|{{flagicon|SUI}} [[Eray Cömert]]}}
+|{{fbaicon|FRA}} [[FC Nantes|Nantes]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.blanquinegres.com/el-nantes-comunica-al-valencia-la-decisio-sobre-comert/|title=ÚLTIMA HORA: El Nantes comunica al València la decisió sobre Cömert|first=Mauro|last=Pérez|date=23 May 2024|website=Blanquinegres|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Castillejo, Samu|{{flagicon|ESP}} [[Samu Castillejo]]}}
+|{{fbaicon|ITA}} [[US Sassuolo Calcio|Sassuolo]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.fichajes.com/a5649077654053481107-valencia-el-incierto-futuro-de-samu-castillejo|title=Valencia &#124; El incierto futuro de Samu Castillejo|first=Juan C.|last=Navarro|date=7 June 2024|website=Fichajes|language=es}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Dimitrievski, Stole|{{flagicon|MKD}} [[Stole Dimitrievski]]}}
+|{{fbaicon|ESP}} [[Rayo Vallecano]]
+|Free
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.relevo.com/futbol/liga-primera/valencia-dimitrievski-pase-pase-mamardashvili-20240521122919-nt.html|title=El Valencia ficha a Stole Dimitrievski|date=21 May 2024|website=Relevo}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Mir, Rafa|{{flagicon|ESP}} [[Rafa Mir]]}}
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|Loan
+|{{dts|11 July 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/official-statement-rafa-mir|title=Official Statement {{!}} Rafa Mir|publisher=Valencia CF|date=11 July 2024|access-date=11 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Gomez, Dani|{{flagicon|ESP}} [[Dani Gómez (footballer, born 1998)|Dani Gómez]]}}
+|{{fbaicon|ESP}} [[Levante UD|Levante]]
+|Loan
+|{{dts|2 August 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/en/17225816502872380|title=Official Statement {{!}} Dani Gómez|publisher=Valencia CF|date=2 August 2024|access-date=2 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Rioja, Luis|{{flagicon|ESP}} [[Luis Rioja]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|€1,500,000<ref>{{cite web|url=https://www.marca.com/futbol/valencia/2024/08/22/66c70cf3268e3ede288b457c.html|title=El Valencia ficha a Luis Rioja: andquot;Se ha hecho un poco largo, estoy listoandquot;|date=22 August 2024|website=Marca|language=es}}</ref>
+|{{dts|22 August 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/en/17243380962416950|title=Official Statement {{!}} Luis Rioja|publisher=Valencia CF|date=22 August 2024|access-date=22 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Caufriez, Maximiliano|{{flagicon|BEL}} [[Maximiliano Caufriez]]}}
+|{{fbaicon|FRA}} [[Clermont Foot|Clermont]]
+|Loan
+|{{dts|29 August 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/en/17249468966096390|title=Official Statement {{!}} Maximiliano Caufriez|publisher=Valencia CF|date=29 August 2024|access-date=29 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Valera, German|{{flagicon|ESP}} [[Germán Valera]]}}
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|Undisclosed
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/comunicado-oficial-german-valera|title=Comunicado Oficial {{!}} Germán Valera|publisher=Valencia CF|language=es|date=30 August 2024|access-date=30 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Barrenechea, Enzo|{{flagicon|ARG}} [[Enzo Barrenechea]]}}
+|{{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/cwyx60gl9pqo|title=Aston Villa transfer news: Enzo Barrenechea joins Valencia on loan|date=30 August 2024|access-date=30 August 2024|website=BBC Sport}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Sadiq, Umar|{{flagicon|NGA}} [[Umar Sadiq]]}}
+|{{fbaicon|ESP}} [[Real Sociedad]]
+|Loan
+|{{dts|4 January 2025}}
+|<ref>https://www.valenciacf.com/official-statement-umar-sadiq</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 115px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Yaremchuk, Roman|{{flagicon|UKR}} [[Roman Yaremchuk]]}}
+|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|End of loan
+|{{dts|30 June 2024}}
+|<ref>{{cite news|url=https://onefootball.com/en/news/club-brugges-record-signing-will-not-remain-with-valencia-despite-wanting-to-do-so-39465421|title=Club Brugge's record signing will not remain with Valencia despite wanting to do so|date=7 June 2024|access-date=7 June 2024|website=OneFootball}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Amallah, Selim|{{flagicon|MAR}} [[Selim Amallah]]}}
+|{{fbaicon|ESP}} [[Real Valladolid|Valladolid]]
+|End of loan
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://as.com/futbol/primera/amallah-cierra-con-lesion-una-temporada-gris-n/|title=Amallah cierra con lesión una temporada gris|first=David|last=Esteve|date=24 May 2024|website=Diario AS|language=es}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Rivero, Cristian|{{flagicon|ESP}} [[Cristian Rivero (footballer)|Cristian Rivero]]}}
+|{{fbaicon|ESP}} [[Albacete Balompié|Albacete]]
+|Loan
+|{{dts|5 July 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/comunicado-oficial-cristian-rivero|title=Comunicado Oficial {{!}} Cristian Rivero|publisher=Valencia CF|language=es|date=5 July 2024|access-date=5 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Cömert, Eray|{{flagicon|SUI}} [[Eray Cömert]]}}
+|{{fbaicon|ESP}} [[Real Valladolid|Valladolid]]
+|Loan
+|{{dts|10 July 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/comunicado-oficial-eray-comert|title=Comunicado Oficial {{!}} Eray Cömert|publisher=Valencia CF|language=es|date=10 July 2024|access-date=10 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Mari, Alberto|{{flagicon|ESP}} [[Alberto Marí]]}}
+|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.valenciacf.com/official-statement-alberto-mari|title=Official Statement {{!}} Alberto Marí|date=30 August 2024|publisher=Valencia CF|access-date=30 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Castillejo, Samu|{{flagicon|ESP}} [[Samu Castillejo]]}}
+|
+|Contract termination
+|{{dts|30 August 2024}}
+|<ref>{{cite web|url=https://www.marca.com/futbol/valencia/2024/08/30/66d198b146163fe4158b458b.html|title=El Valencia despide a Castillejo|first=Fernando|last=Álvarez|date=30 August 2024|access-date=30 August 2024|newspaper=Marca|language=es}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 20 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 0–0
+|report = 
+|team2 = [[CD Castellón|Castellón]]
+|goals1 =
+|goals2 =
+|stadium = [[:es:Ciudad Deportiva de Paterna|Ciudad Deportiva]]
+|location = [[Paterna]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 24 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 0–1
+|report = https://www.valenciacf.com/match-report-valencia-cf-continue-their-preseason-preparation-with-match-against-alaves-0-1
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+|goals2 = [[Tomás Conechny|Conechny]] {{goal|53}}
+|stadium = [[:es:Ciudad Deportiva de Paterna|Ciudad Deportiva]]
+|location = [[Paterna]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 27 July 2024
+|time = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[PSV Eindhoven]]
+|score = 2–1
+|report = https://www.valenciacf.com/en/17221033765359240
+|team2 = Valencia
+|goals1 =
+*[[Ismael Saibari|Saibari]] {{goal|3||24}}
+|goals2 =
+*[[Sergi Canos|Canos]] {{goal|18}}
+|stadium = [[Philips Stadion]]
+|location = [[Eindhoven]], Netherlands
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 31 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 0–0
+|report = https://www.valenciacf.com/match-report-valencia-cf-draw-0-0-with-levante-ud
+|team2 = [[Levante UD|Levante]]
+|goals1 =
+|goals2 =
+|stadium = [[:es:Ciudad Deportiva de Paterna|Ciudad Deportiva]]
+|location = [[Paterna]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 15:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Leeds United F.C.|Leeds United]]
+|score = 2–1
+|report = https://www.valenciacf.com/en/17227006541172810
+|team2 = Valencia
+|goals1 =
+*[[Mateo Joseph|Joseph]] {{goal|14}}
+*[[Georginio Rutter|Rutter]] {{goal|41}}
+|goals2 =
+*[[Martín Tejón|Tejón]] {{goal|89}}
+|stadium = [[Elland Road]]
+|location = [[Leeds]], England
+|attendance = 32,973
+|referee = James Bell ([[The Football Association|England]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Orange Trophy]]
+|date = 10 August 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 3–2
+|report = https://www.valenciacf.com/valencia-cf-end-preseason-with-trofeu-taronjawin-3-2
+|team2 = [[Eintracht Frankfurt]]
+|goals1 =
+*[[Rafa Mir|Mir]] {{goal|4}}
+*[[Hugo Duro|Duro]] {{goal|16}}
+*[[Pepelu]] {{penmiss}} {{small|31'}}
+*[[Alberto Marí|Marí]] {{goal|88}}, {{yel|90+1}}
+|goals2 =
+*[[Omar Marmoush|Marmoush]] {{goal|8|pen.}}
+*[[Éric Junior Dina Ebimbe|Dina Ebimbe]] {{goal|72}}
+*[[Niels Nkounkou|Nkounkou]] {{yel|90+1}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 25,000
+|referee = [[José María Sánchez Martínez]] ([[Royal Spanish Football Association|Spain]])
+|result = W
+}}
+
+=== Mid-season ===
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 12 October 2024
+|time = 19:30 [[Central Time Zone|CST]] ([[UTC−06:00|UTC−6]])
+|team1 = {{fb-rt|MEX}}
+|score = 2–2
+|report = https://www.valenciacf.com/en/17287916867869840
+|team2 = Valencia
+|goals1 =
+*[[Alexis Vega (Mexican footballer)|Vega]] {{goal|8}}
+*[[Ozziel Herrera|Herrera]] {{goal|33}}
+|goals2 =
+*[[Dani Gómez (footballer, born 1998)|Gómez]] {{goal|43||62}}
+|stadium = [[Estadio Cuauhtémoc]]
+|location = [[Puebla (city)|Puebla]], Mexico
+|attendance = 
+|referee = Juan Calderón ([[Costa Rican Football Federation|Costa Rica]])
+|result = D
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=17 August 2024 |lm1=23–25 May 2025 |sr1=Matchday 1 |fp1= |w1=10 |d1=12 |l1=12 |f1=40 |a1=51
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=26 November 2024 |lm2=6 February 2025 |sr2=First round |fp2=Quarter-finals |w2=4 |d2=0 |l2=1 |f2=8 |a2=6
+|u=23 April 2025
+|s=[https://int.soccerway.com/teams/spain/valencia-club-de-futbol/2015/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=VAL}}
+
+==== Results summary ====
+{{Fb rs |hw=8 |hd=4 |hl=5 |hgf=24 |hga=19 |aw=3 |ad=8 |al=7 |agf=19 |aga=34 }}
+{{Fb rs footer |u=23 April 2025 |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=23 April 2025
+| header=Round
+| label1=Ground
+| rnd12=14<sup>1</sup>
+| rnd13=15
+| rnd14=16
+| rnd15=17
+| rnd16=13
+| rnd17=12
+| res1=H/A/A/H/A/H/H/A/A/H/A/H/A/H/A/A/H/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A
+| label2=Result
+| res2=L/L/L/D/L/W/D/L/D/L/D/W/L/L/L/D/D/L/D/W/D/W/W/D/L/D/W/D/W/W/W/D/D/W
+| label3=Position
+| pos3=19/20/20/20/20/19/17/18/18/20/20/20/20/18/19/19/20/19/20/19/19/19/18/18/18/18/16/16/15/15/13/14/14/12
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+|pos4=0p/0p/0p/1p/1p/4p/5p/5p/6p/6p/7p/10p/10p/10p/10p/11p/12p/12p/13p/16p/17p/20p/23p/24p/24p/25p/28p/31p}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 17 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-fc-barcelona-1
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Pepelu]] {{yel|38}}
+*[[Hugo Duro|Duro]] {{goal|44}}
+*[[Jesús Vázquez (footballer, born 2003)|Vázquez]] {{yel|45+5}}
+|goals2 =
+*[[Pau Cubarsí|Cubarsí]] {{yel|45+2}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|45+5||49|pen.}}
+*[[Andreas Christensen|Christensen]] {{yel|69}}
+*[[Jules Koundé|Koundé]] {{yel|81}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 46,673
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 2
+|date = 23 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-valencia-cf-2
+|team2 = Valencia
+|goals1 =
+*[[Óscar Mingueza|Mingueza]] {{goal|23}}, {{yel|25}}
+*[[Iago Aspas|Aspas]] {{goal|28}}
+*[[Fran Beltrán|Beltrán]] {{goal|60}}
+*[[Damián Rodríguez (footballer, born 2003)|Rodríguez]] {{yel|78}}
+*[[Jonathan Bamba|Bamba]] {{yel|88}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|14}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 23,519
+|referee = [[José Luis Munuera Montero]]
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Athletic Bilbao]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-valencia-cf-3
+|team2 = Valencia
+|goals1 =
+*[[Beñat Prados|Prados]] {{goal|45}}, {{yel|69}}
+|goals2 =
+*[[Rafa Mir|Mir]] {{yel|23}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|26}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|90+3}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,644
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = [[Derbi de la Comunitat|4]]
+|date = 31 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-villarreal-cf-4
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Hugo Duro|Duro]] {{goal|24}}, {{yel|39}}
+*[[Pepelu]] {{yel|51}}
+*[[Hugo Guillamón|Guillamón]] {{yel|62}}
+|goals2 =
+*[[Yeremy Pino|Pino]] {{yel|42}}
+*[[Ayoze Pérez|Pérez]] {{goal|45+4}}
+*[[Pape Gueye|Gueye]] {{sentoff|2|50|68}}
+*[[Kiko Femenía|Femenía]] {{yel|77}}
+*[[Raúl Albiol|Albiol]] {{yel|83}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 43,857
+|referee = [[Jesús Gil Manzano]]
+|result = D
+}}
+{{Football box collapsible
+|round = 5
+|date = 15 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-valencia-cf-5
+|team2 = Valencia
+|goals1 =
+*[[Koke (footballer, born 1992)|Koke]] {{yel|25}}
+*[[Conor Gallagher|Gallagher]] {{goal|39}}
+*[[Antoine Griezmann|Griezmann]] {{goal|54}}
+*[[Julián Alvarez|Alvarez]] {{goal|90+4}}
+|goals2 =
+*[[César Tárrega|Tárrega]] {{yel|10}}
+*[[Hugo Guillamón|Guillamón]] {{yel|32}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 61,752
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 21 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-girona-fc-6
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Luis Rioja|Rioja]] {{goal|56}}
+*[[Dani Gómez (footballer, born 1998)|Gómez]] {{goal|58}}
+*[[Pepelu]] {{yel|60}}
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{yel|82}}
+*[[Sergi Canós|Canós]] {{yel|89}}
+|goals2 =
+*[[Juanpe (footballer, born 1991)|Juanpe]] {{yel|24}}
+*[[Arnaut Danjuma|Danjuma]] {{yel|45}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 40,896
+|referee = [[Alejandro Hernández Hernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 7
+|date = 24 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-ca-osasuna-7
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Cristhian Mosquera|Mosquera]] {{yel|45+2}}
+*[[Jesús Vázquez (footballer, born 2003)|Vázquez]] {{yel|68}}
+|goals2 =
+*[[Lucas Torró|Torró]] {{yel|54}}
+*[[Jorge Herrando|Herrando]] {{yel|70}}
+*[[Ante Budimir|Budimir]] {{yel|90}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 40,425
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 28 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Sociedad]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-valencia-cf-8
+|team2 = Valencia
+|goals1 =
+*[[Takefusa Kubo|Kubo]] {{goal|8}}
+*[[Orri Óskarsson|Óskarsson]] {{goal|80||90+2}}
+|goals2 =
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 32,332
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 9
+|date = 4 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-valencia-cf-9
+|team2 = Valencia
+|goals1 =
+*[[Valentin Rosier|Rosier]] {{yel|30}}
+*[[Yvan Neyou|Neyou]] {{yel|49}}
+|goals2 =
+*[[César Tárrega|Tárrega]] {{yel|32}}
+*[[Pepelu]] {{yel|67}}
+|stadium = [[Butarque Stadium|Butarque]]
+|location = [[Leganés]]
+|attendance = 10,958
+|referee = Alejandro Quintero González
+|result = D
+}}
+{{Football box collapsible
+|round = 10
+|date = 21 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-ud-las-palmas-10
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Luis Rioja|Rioja]] {{yel|8}}
+*[[Pepelu]] {{goal|14|pen.}}, {{sentoff|0|69}}
+*[[Ro Abajas|Abajas]] {{yel|30}}
+*[[Enzo Barrenechea|Barrenechea]] {{yel|37}}
+*[[César Tárrega|Tárrega]] {{goal|90+4}}
+|goals2 =
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{yel|7}}, {{goal|53}}
+*[[José Campaña|Campaña]] {{yel|12}}
+*[[Dário Essugo|Essugo]] {{yel|23}}
+*[[Viti (footballer)|Viti]] {{yel|28}}
+*[[Álex Muñoz|Á. Muñoz]] {{goal|43}}
+*[[Marc Cardona|Cardona]] {{yel|70}}
+*[[Kirian Rodríguez|Rodríguez]] {{yel|71}}
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|77}}
+*[[Javier Muñoz (Spanish footballer)|J. Muñoz]] {{yel|82}}
+*[[Alberto Moleiro|Moleiro]] {{goal|84}}, {{yel|90+8}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 42,453
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 October 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-valencia-cf-11
+|team2 = Valencia
+|goals1 =
+*[[Carles Pérez|Pérez]] {{yel|44}}
+*[[Mauro Arambarri|Arambarri]] {{goal|90|pen.}}
+*[[Allan Nyom|Nyom]] {{yel|90+2}}
+*[[Djené]] {{yel|90+2}}
+|goals2 =
+*[[Enzo Barrenechea|Barrenechea]] {{goal|36}}, {{yel|67}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|41}}
+*[[Diego López (footballer, born May 2002)|López]] {{yel|42}}
+*[[Thierry Correia|Correia]] {{yel|45+1}}
+*[[Luis Rioja|Rioja]] {{yel|54}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|65}}
+*[[Hugo Duro|Duro]] {{yel|88}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 12,412
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 14
+|date = 23 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-real-betis-14
+|team2 = [[Real Betis]]
+|goals1 =
+*[[César Tárrega|Tárrega]] {{goal|8}}, {{yel|90+5}}
+*[[Enzo Barrenechea|Barrenechea]] {{yel|20}}
+*[[Hugo Duro|Duro]] {{goal|50||53}}
+*[[Diego López (footballer, born May 2002)|López]] {{goal|56}}
+*[[André Almeida (footballer, born 2000)|Almeida]] {{yel|86}}
+*[[José Gayà|Gayà]] {{yel|90}}
+*[[César Tárrega|Tárrega]] {{yel|90+5}}
+|goals2 =
+*[[Hugo Duro|Duro]] {{goal|14|o.g.}}
+*[[Chimy Ávila|Ávila]] {{goal|66}}
+*[[Cédric Bakambu|Bakambu]] {{yel|88}}
+*[[Youssouf Sabaly|Sabaly]] {{yel|90}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 43,975
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = W
+}}
+{{Football box collapsible
+|round = 15
+|date = 29 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-valencia-cf-15
+|team2 = Valencia
+|goals1 =
+*[[Cyle Larin|Larin]] {{goal|45+3}}
+*[[Martin Valjent|Valjent]] {{yel|71}}
+*[[Abdón Prats|Abdón]] {{goal|81}}
+|goals2 =
+*[[Luis Rioja|Rioja]] {{goal|32|pen.}}, {{yel|62}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 17,717
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 16
+|date = 7 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rayo-vallecano-16
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Giorgi Mamardashvili|Mamardashvili]] {{yel|52}}
+*[[Yarek Gasiorowski|Gasiorowski]] {{yel|72}}
+|goals2 =
+*[[Pathé Ciss|Ciss]] {{goal|7}}
+*[[Randy Nteka|Nteka]] {{yel|52}}
+*[[Isi Palazón|Palazón]] {{yel|71}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 40,968
+|referee = [[José Luis Munuera Montero]]
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 13 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-valencia-cf-17
+|team2 = Valencia
+|goals1 =
+*[[Anuar Tuhami|Anuar]] {{goal|20}}, {{yel|90+6}}
+*[[Kike Pérez|Pérez]] {{yel|55}}
+*[[Marcos André]] {{yel|67}}
+*[[Juanmi Latasa|Latasa]] {{sentoff|0|78}}
+*[[Javi Sánchez (footballer)|Sánchez]] {{yel|82}}
+|goals2 = 
+*[[Jesús Vázquez (footballer, born 2003)|Vázquez]] {{yel|28}}
+*[[Rafa Mir|Mir]] {{yel|86}}
+*[[Sergi Canós|Canós]] {{yel|90+8}}
+|stadium = [[José Zorrilla Stadium|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 18,449 
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 13
+|date = 18 December 2024
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-valencia-cf-13
+|team2 = Valencia
+|goals1 =
+*[[Javi Puado|Puado]] {{goal|44}}
+*[[Omar El Hilali|El Hilali]] {{yel|63}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|47}}
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 18,122
+|referee = Pablo González Fuertes
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-deportivo-alaves-18
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Luis Rioja|Rioja]] {{goal|70|pen.}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|86}}
+*[[Dani Gómez (footballer, born 1998)|Gómez]] {{goal|90+8}}
+*[[Pepelu]] {{yel|90+12}}
+|goals2 =
+*[[Carlos Martín (footballer)|Martín]] {{goal|7}}, {{yel|22}}
+*[[Joan Jordán|Jordán]] {{goal|88|pen.}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 37,586
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-real-madrid-12
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Hugo Duro|Duro]] {{goal|27}}
+*[[Sergi Canos|Canos]] {{yel|69}}
+*[[Stole Dimitrievski|Dimitrievski]] {{yel|78}}
+|goals2 =
+*[[Dani Ceballos|Ceballos]] {{yel|36}}
+*[[Jude Bellingham|Bellingham]] {{penmiss}} {{small|55'}}, {{goal|90+6}}
+*[[Lucas Vázquez|Vázquez]] {{yel|78}}
+*[[Vinícius Júnior|Vinícius]] {{sentoff|0|79}}
+*[[Luka Modrić|Modrić]] {{goal|85}}, {{yel|87}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 46,420
+|referee = César Soto Grado
+|result = L
+|note = The match was originally scheduled for 2 November 2024, but was postponed due to the [[2024 Spanish floods]].<ref>{{cite news|title=Valencia-Real Madrid game postponed|url=https://www.realmadrid.com/en-US/news/football/first-team/latest-news/aplazado-valencia-real-madrid-31-10-2024|publisher=Real Madrid CF|date=31 October 2024|access-date=31 October 2024}}</ref>
+}}
+{{Football box collapsible
+|round = 19
+|date = 11 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-valencia-cf-19 
+|team2 = Valencia
+|goals1 =
+*[[Djibril Sow|Sow]] {{yel|70}}
+*[[Adrià Pedrosa|Pedrosa]] {{goal|90+3}}
+|goals2 =
+*[[Dimitri Foulquier|Foulquier]] {{yel|34}}
+*[[Luis Rioja|Rioja]] {{goal|61}}
+*[[Umar Sadiq|Sadiq]] {{yel|75}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 34,297
+|referee = Francisco José Hernández Maeso
+|result = D
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-real-sociedad-20
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Hugo Duro|Duro]] {{goal|26}}, {{yel|87}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|90+4}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|90+6}}
+|goals2 =
+*[[Jon Pacheco|Pacheco]] {{yel|42}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|49}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{yel|89}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90+4}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 40,791
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 7–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-valencia-cf-21
+|team2 = Valencia
+|goals1 =
+*[[Frenkie de Jong|De Jong]] {{goal|3}}
+*[[Ferran Torres|Torres]] {{goal|8}}
+*[[Raphinha]] {{goal|14}}
+*[[Fermín López|López]] {{goal|24||45+4}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|66}}
+*[[César Tárrega|Tárrega]] {{goal|75|o.g.}}
+|goals2 =
+*[[Hugo Duro|Duro]] {{goal|59}}
+*[[Pepelu]] {{yel|70}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 45,312
+|referee = César Soto Grado
+|result = L
+}} 
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rc-celta-22
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Luis Rioja|Rioja]] {{goal|44}}
+*[[Enzo Barrenechea|Barrenechea]] {{yel|67}}
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{goal|68}}
+|goals2 =
+*[[Pablo Durán|Durán]] {{goal|65}}
+*[[Ilaix Moriba|Moriba]] {{yel|67}}
+*[[Carl Starfelt|Starfelt]] {{yel|83}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 42,273
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-cd-leganes-23
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Enzo Barrenechea|Barrenechea]] {{yel|25}}
+*[[Cristhian Mosquera|Mosquera]] {{goal|30}}
+*[[Mouctar Diakhaby|Diakhaby]] {{goal|41}}
+|goals2 =
+*[[Yvan Neyou|Neyou]] {{yel|23}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 42,314
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[Derbi de la Comunitat|24]]
+|date = 15 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-valencia-cf-24
+|team2 = Valencia
+|goals1 =
+*[[Pape Gueye|Gueye]] {{goal|32}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{yel|47}}
+*[[José Gayà|Gayà]] {{yel|48}}
+*[[Umar Sadiq|Sadiq]] {{goal|84}}, {{yel|90+3}}
+*[[Pepelu]] {{yel|87}}
+*[[Fran Pérez (footballer, born 2002)|Pérez]] {{yel|90+4}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,701
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 22 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-atletico-de-madrid-25
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{yel|42}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|12||30}}
+*[[Ángel Correa|Correa]] {{goal|86}}
+*[[Samuel Lino|Lino]] {{yel|23}}
+*[[Clément Lenglet|Lenglet]] {{yel|40}}
+*[[Javi Galán|Galán]] {{yel|64}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 46,297
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 2 March 2025 
+|time = 20:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 3–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-valencia-cf-26
+|team2 = Valencia
+|goals1 =
+*[[Aimar Oroz|Oroz]] {{goal|26||39}}
+*[[Ante Budimir|Budimir]] {{goal|45|pen.}} 
+*[[Lucas Torró|Torró]] {{yel|77}}
+*[[Iker Muñoz|Muñoz]] {{yel|80}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|14}}
+*[[Umar Sadiq|Sadiq]] {{goal|32||87}}
+*[[Luis Rioja|Rioja]] {{yel|68}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,230
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 8 March 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-real-valladolid-cf-27
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|7}}
+*[[Umar Sadiq|Sadiq]] {{goal|58}} 
+*[[José Gayà|Gayà]] {{yel|84}}
+|goals2 =
+*[[Florian Grillitsch|Grillitsch]] {{yel|8}}
+*[[Juanmi Latasa|Latasa]] {{goal|40}}, {{yel|66}}
+*[[Javi Sánchez (footballer)|Sánchez]] {{yel|87}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 41,720
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 28
+|date = 15 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Girona FC|Girona]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-valencia-cf-28
+|team2 = Valencia
+|goals1 =
+*[[Yangel Herrera|Herrera]] {{yel|18}}
+*[[Cristhian Stuani|Stuani]] {{goal|64}}
+*[[Donny van de Beek|Van de Beek]] {{yel|90+3}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|58}}
+*[[José Gayà|Gayà]] {{yel|67}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 10,262
+|referee = José Munuera Montero
+|result = D
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rcd-mallorca-29
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|50}}
+*[[Luis Rioja|Rioja]] {{yel|84}}
+*[[Enzo Barrenechea|Barrenechea]] {{yel|85}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|90+4}}
+*[[José Gayà|Gayà]] {{yel|90+7}}
+|goals2 =
+*[[Antonio Raíllo|Raíllo]] {{yel|12}}
+*[[Sergi Darder|Darder]] {{yel|45+1}}
+*[[Samú Costa|Costa]] {{yel|76}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|90+10}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 44,082
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 30
+|date = 5 April 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-valencia-cf-30
+|team2 = Valencia
+|goals1 =
+*[[Vinícius Júnior|Vinícius]] {{penmiss}} {{small|13'}}, {{goal|50}}
+|goals2 =
+*[[César Tárrega|Tárrega]] {{yel|10}}
+*[[Mouctar Diakhaby|Diakhaby]] {{goal|15}}
+*[[Umar Sadiq|Sadiq]] {{yel|46}}
+*[[Hugo Duro|Duro]] {{goal|90+5}}
+*[[Max Aarons|Aarons]] {{yel|90+5}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|90+8}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 75,382
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 11 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-sevilla-fc-31
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{goal|45+4}}, {{yel|46}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|79}}
+*[[José Gayà|Gayà]] {{yel|81}}
+|goals2 =
+*[[Kike Salas|Salas]] {{yel|72}}
+*[[José Ángel Carmona|Carmona]] {{yel|73}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 45,618
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 32
+|date = 19 April 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Rayo Vallecano]]
+|score = 1–1
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-valencia-cf-32
+|team2 = Valencia
+|goals1 =
+*[[Pathé Ciss|Ciss]] {{yel|28}}
+*[[César Tárrega|Tárrega]] {{goal|45|o.g.}}
+*[[Florian Lejeune|Lejeune]] {{yel|49}}
+*[[Pep Chavarría|Chavarría]] {{yel|82}}
+|goals2 =
+*[[Umar Sadiq|Sadiq]] {{goal|75}}, {{yel|90}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 11,308
+|referee = Alejandro Quintero González
+|result = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 22 April 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valencia
+|score = 1–1
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rcd-espanyol-33
+|team2 = [[RCD Espanyol|Espanyol]] 
+|goals1 =
+*[[André Almeida (footballer, born 2000)|Almeida]] {{yel|39}}
+*[[César Tárrega|Tárrega]] {{yel|45+2}}
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{goal|57}}
+|goals2 =
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{yel|31}}
+*[[Javi Puado|Puado]] {{goal|40}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 42,448
+|referee = Juan Luis Pulido Santana
+|result = D
+}}
+{{Football box collapsible
+|round = 34
+|date = 3 May 2025
+|time = 17:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 2–3
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-valencia-cf-34
+|team2 = Valencia
+|goals1 =
+*[[Sandro Ramírez|Sandro]] {{goal|45+2|pen.}}
+*[[Stefan Bajcetic|Bajcetic]] {{yel|76}}
+*[[Oli McBurnie|McBurnie]] {{goal|83}}
+|goals2 =
+*[[Hugo Duro|Duro]] {{goal|22||58}}
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{yel|26}}
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{goal|75|o.g.}}
+|stadium = [[Gran Canaria Stadium|Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 24,942
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = W
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 26 November 2024
+|time = 19:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CP Parla Escuela|Parla Escuela]]
+|score = 0–1
+|report = 
+|team2 = Valencia
+|goals1 =
+*[[Adrián Almendros|Almendros]] {{yel|79}}
+|goals2 =
+*[[Pepelu]] {{goal|20}}
+|stadium = Las Américas
+|location = [[Parla]]
+|attendance = 
+|referee = Mario Melero López
+|result = W 
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 4 December 2024
+|time = 21:00
+|team1 = [[SD Ejea|Ejea]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ejea-valencia-cf-3
+|team2 = Valencia
+|goals1 =
+*[[David Iglesias|Iglesias]] {{yel|42}}
+*[[Gabriel Palmás|Palmás]] {{goal|71}}
+|goals2 =
+*[[Iker Córdoba Sánchez|Córdoba]] {{goal|49}}
+*[[Germán Valera|Valera]] {{yel|60}}
+*[[Dani Gómez (footballer, born 1998)|Gómez]] {{goal|63}}
+*[[Rafa Mir|Mir]] {{goal|90+1}}
+|stadium = [[Estadio Municipal de Luchán|Luchán]]
+|location = [[Ejea de los Caballeros|Ejea]]
+|attendance =
+|referee =
+|result = W 
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 7 January 2025
+|time = 21:00
+|team1 = [[CD Eldense|Eldense]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-eldense-valencia-cf-4
+|team2 = Valencia
+|goals1 =
+*[[Piña]] {{yel|33}}
+*[[Diego Collado (footballer)|Collado]] {{yel|35}}
+|goals2 =
+*[[Sergi Canos|Canos]] {{goal|9}}
+*[[Hugo Guillamón|Guillamón]] {{yel|37}}
+*[[Diego López (footballer, born May 2002)|López]] {{goal|39}}, {{yel|41}}
+*[[Stole Dimitrievski|Dimitrievski]] {{yel|68}}
+*[[Umar Sadiq|Sadiq]] {{yel|90+2}}
+|stadium = [[Estadio Municipal Nuevo Pepico Amat|Nuevo Pepico Amat]]
+|location = [[Elda]]
+|attendance =
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 14 January 2025
+|time = 21:00
+|team1 = [[Ourense CF|Ourense]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ourense-cf-valencia-cf-5
+|team2 = Valencia
+|goals1 =
+*[[Miguel Prado|Prado]] {{yel|90+5}}
+|goals2 =
+*[[Fran Carmona|Carmona]] {{goal|50|o.g.}}
+*[[Umar Sadiq|Sadiq]] {{goal|78}}
+|stadium = [[Estadio de O Couto|O Couto]]
+|location = [[Ourense]]
+|attendance =
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Quarter-finals|Quarter-finals]]
+|date = 6 February 2025
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valencia
+|score = 0–5 
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-valencia-cf-fc-barcelona-6
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Fran Pérez (footballer, born 2002)|Pérez]] {{yel|45+1}}
+*[[Umar Sadiq|Sadiq]] {{yel|45+1}}
+|goals2 =
+*[[Ferran Torres|Torres]] {{goal|3||17||30}}
+*[[Fermín López|López]] {{goal|23}}
+*[[Lamine Yamal|Yamal]] {{goal|59}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 46,806
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+
+== References ==
+{{Reflist}}
+
+{{Valencia CF seasons}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Valencia CF season}}
+[[Category:Valencia CF seasons]]
+[[Category:Spanish football clubs 2024–25 season|Valencia CF]]
+[[Category:2024 in Valencia]]
+[[Category:2025 in the Valencian Community]]

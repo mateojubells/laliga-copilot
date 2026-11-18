@@ -1,0 +1,16 @@
+# Backend
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+pyyaml>=6
+# Audio / ASR
+imageio-ffmpeg>=0.5
+numpy>=1.26
+mlx-whisper>=0.4
+parakeet-mlx>=0.7   # Parakeet-TDT 0.6B v3 (español) en MLX
+vosk>=0.3.44        # streaming CPU de baja latencia (needs the vosk-model-small-es-0.42 model, downloaded separately)
+# Evaluación y tests
+jiwer>=3.0
+pytest>=8
+httpx>=0.27
+rapidfuzz>=3.9

@@ -1,0 +1,1834 @@
+{{Infobox football club season
+|club               = [[Athletic Bilbao]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = Rangers v Athletic 100425 210409.jpg
+|image_size         = 
+|alt                = Ibrox football stadium during an evening match
+|caption            = [[Rangers F.C.|Rangers]] vs Athletic at [[Ibrox Stadium|Ibrox]], April 2025
+|chrtitle           = President
+|chairman           = [[Jon Uriarte]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Ernesto Valverde]]
+|stdtitle           = 
+|stadium            = [[San Mamés Stadium (2013)|San Mamés]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|4th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Round of 16]]
+|cup2               = [[Supercopa de España]]
+|cup2 result        = [[2025 Supercopa de España|Semi-finals]]
+|cup3               = [[UEFA Europa League]]
+|cup3 result        = [[2024–25 UEFA Europa League|Semi-finals]]
+|league topscorer   = <br>[[Oihan Sancet]] (15)
+|season topscorer   = <br>Oihan Sancet (17)
+|highest attendance = 
+|lowest attendance  = 
+|average attendance = 48,420<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = 
+|largest loss       = 
+| pattern_la1 = _athletic2425h
+| pattern_b1 = _athletic2425h
+| pattern_ra1 = _athletic2425h
+| pattern_sh1 = _athletic2425h
+| pattern_so1 = _athletic2425hl
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = 000000
+| socks1 = 000000
+ |pattern_la2 = 
+ |pattern_b2  = _athletic2425a
+ |pattern_ra2 = 
+ |pattern_sh2 = _athletic2425a
+ |pattern_so2 = _athletic2425a
+ |leftarm2    = 0000F0
+ |body2       = FFFFFF
+ |rightarm2   = 0000F0
+ |shorts2     = FFFFFF
+ |socks2      = FFFFFF
+|pattern_la3        = 
+|pattern_b3         = _athletic2425t
+|pattern_ra3        = 
+|pattern_sh3        = _athletic2425t
+|pattern_so3        = _blackhorizontal
+|leftarm3           = a99dc5
+|body3              = a99dc5
+|rightarm3          = a99dc5
+|shorts3            = a99dc5
+|socks3             = a99dc5
+|prevseason         = [[2023–24 Athletic Bilbao season|2023–24]]
+|nextseason         = [[2025–26 Athletic Bilbao season|2025–26]]
+}}
+The '''2024–25 season''' was the 127th season in the history of '''[[Athletic Bilbao]]''', and the club's 94th consecutive season in [[La Liga]].<ref>[https://www.bdfutbol.com/en/t/t2024-256.html Squad of Athletic Club 2024-25 First Division], BDFutbol</ref> In addition to the [[2024–25 La Liga|domestic league]], the club also participated in the [[2024–25 Copa del Rey|Copa del Rey]], the [[2025 Supercopa de España|Supercopa de España]] (after winning the [[2023–24 Copa del Rey]]), and the [[2024–25 UEFA Europa League|UEFA Europa League]] (competing [[Athletic Bilbao in European football|in Europe]] for the first time in seven years).
+
+Following a 2–0 victory over [[Getafe CF|Getafe]] in the 36th round of La Liga, Athletic Bilbao successfully qualified for the [[UEFA Champions League]] for the first time since the [[2014–15 UEFA Champions League|2014–15 season]].
+
+== Summary ==
+On 13 June, midfielder [[Ander Herrera]] had his contract renewed until the year 2025.<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2024/06/13/ander-herrera-extends-his-contract-with-athletic-club/|title=Ander Herrera extends his contract with Athletic Club|publisher=Athletic Bilbao|date=13 June 2024}}</ref>
+
+== Players ==
+=== First-team squad ===
+{{updated|2 February 2025}}<ref>{{cite web|url=https://www.athletic-club.eus/en/teams/athletic-club/2024-25/squad|title=Team 2024-25|publisher=Athletic Bilbao|access-date=6 September 2024}}</ref>
+{{Fs start}}
+{{Fs player|no=1|nat=ESP|pos=GK|name=[[Unai Simón]]}}
+{{Fs player|no=2|nat=ESP|pos=DF|name=[[Andoni Gorosabel]]}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=[[Daniel Vivian (footballer)|Dani Vivian]]}}
+{{Fs player|no=4|nat=ESP|pos=DF|name=[[Aitor Paredes]]}}
+{{Fs player|no=5|nat=ESP|pos=DF|name=[[Yeray Álvarez]]}}
+{{Fs player|no=6|nat=ESP|pos=MF|name=[[Mikel Vesga]]}}
+{{Fs player|no=7|nat=ESP|pos=FW|name=[[Álex Berenguer]]}}
+{{Fs player|no=8|nat=ESP|pos=MF|name=[[Oihan Sancet]]}}
+{{Fs player|no=9|nat=GHA|pos=FW|name=[[Iñaki Williams]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{Fs player|no=10|nat=ESP|pos=FW|name=[[Nico Williams]]}}
+{{Fs player|no=11|nat=GNB|pos=FW|name=[[Álvaro Djaló]]}}
+{{Fs player|no=12|nat=ESP|pos=FW|name=[[Gorka Guruzeta]]}}
+{{Fs player|no=13|nat=ESP|pos=GK|name=[[Julen Agirrezabala]]}}
+{{fs mid}}
+{{Fs player|no=14|nat=ESP|pos=DF|name=[[Unai Nuñez]]|other=on loan from [[RC Celta de Vigo|Celta Vigo]]}}
+{{Fs player|no=15|nat=ESP|pos=DF|name=[[Iñigo Lekue]]}}
+{{Fs player|no=16|nat=ESP|pos=MF|name=[[Iñigo Ruiz de Galarreta]]}}
+{{Fs player|no=17|nat=ESP|pos=DF|name=[[Yuri Berchiche]]}}
+{{Fs player|no=18|nat=ESP|pos=DF|name=[[Óscar de Marcos]]|other=[[Captain (association football)|captain]]}}<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2024/05/19/de-marcos-to-be-athletic-captain-next-season/|title=De Marcos to be Athletic captain next season|publisher=Athletic Bilbao|date=19 May 2024|access-date=19 August 2024}}</ref>
+{{Fs player|no=20|nat=ESP|pos=MF|name=[[Unai Gómez]]}}
+{{Fs player|no=21|nat=MAR|pos=FW|name=[[Maroan Sannadi]]}}
+{{Fs player|no=23|nat=ESP|pos=MF|name=[[Mikel Jauregizar]]}}
+{{Fs player|no=24|nat=ESP|pos=MF|name=[[Beñat Prados]]}}
+{{Fs player|no=28|nat=ESP|pos=MF|name=[[Peio Canales]]}}
+{{Fs player|no=32|nat=ESP|pos=DF|name=[[Adama Boiro]]}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Marton, Javier|{{fbaicon|ESP}} [[Javier Martón]]}}
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/en/news/2023/08/31/marton-joins-cd-mirandes-on-loan|title=Martón joins CD Mirandés on loan|publisher=Athletic Club|date=31 August 2023|accessdate=21 December 2025}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Morcillo, Jon|{{flagicon|ESP}} [[Jon Morcillo]]}}
+|{{fbaicon|ESP}} [[SD Amorebieta|Amorebieta]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.marca.com/futbol/amorebieta/2024/05/20/664b7188e2704e42bb8b46f0.html|title=Morcillo sale del Athletic y ya busca destino en LaLiga|date=20 May 2024|website=Marca|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Serrano, Nico|{{flagicon|ESP}} [[Nico Serrano]]}}
+|{{fbaicon|ESP}} [[Racing de Ferrol|Racing Ferrol]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.estadiodeportivo.com/futbol/athletic-club-bilbao/nico-serrano-vuelve-athletic-20240521-452613.html|title=Nico Serrano vuelve al Athletic|date=21 May 2024|website=Estadio Deportivo|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Artola, Juan|{{flagicon|ESP}} [[Juan Artola (footballer, born 2000)|Juan Artola]]}}
+|{{fbaicon|ESP}} [[AD Alcorcón|Alcorcón]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://as.com/futbol/primera/artola-espera-un-nuevo-destino-n/|title=Artola espera un nuevo destino|first=Javier R.|last=Beltrán|date=4 June 2024|website=Diario AS|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Djalo, Alvaro|{{flagicon|GNB}} [[Álvaro Djaló]]}}
+|{{fbaicon|POR}} [[S.C. Braga|Braga]]
+|€15,000,000<ref>{{cite news|url=https://www.besoccer.com/new/athletic-secure-alvaro-djalo-s-services-1304859|title=Athletic secure Alvaro Djalo's services|website=BeSoccer}}</ref>
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2024/03/04/athletic-club-sign-alvaro-djalo-from-sc-braga/|title=Athletic Club sign Álvaro Djaló from SC Braga|publisher=Athletic Club}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Gorosabel, Andoni|{{flagicon|ESP}} [[Andoni Gorosabel]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|Free
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2024/06/19/andoni-gorosabel-joins-athletic-club/|title=Andoni Gorosabel joins Athletic Club|publisher=Athletic Club}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Nunez, Unai|{{flagicon|ESP}} [[Unai Nuñez]]}}
+|{{fbaicon|ESP}} [[Celta de Vigo]]
+|Loan
+|{{dts|28 August 2024}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/en/news/2024/08/28/unai-nunez-returns-to-athletic-club-on-loan/|title=Unai Nuñez returns to Athletic Club on loan|publisher=Athletic Club|date=28 August 2024|access-date=21 December 2025}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Sannadi, Maroan|{{flagicon|MAR}} [[Maroan Sannadi]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|€3,000,000<ref>{{cite web|url=https://as.com/futbol/primera/artola-espera-un-nuevo-destino-n/|title=Sannadi llega a Bilbao: “Me veo un poco como la filosofía del Athletic, guerrero y luchador”|trans-title=Sannadi arrives in Bilbao: "I see myself a bit like the Athletic philosophy, a warrior and a fighter"|language=es|first=Javier|last=Lekuona|date=1 February 2025|website=Diario AS|access-date=21 December 2025}}</ref>
+|{{dts|1 February 2025}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/en/news/2025/02/01/athletic-club-sign-forward-maroan-sannadi/|title=Athletic Club sign forward Maroan Sannadi|publisher=Athletic Club|date=1 February 2025|access-date=21 December 2025}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Nunez, Unai|{{fbaicon|ESP}} [[Unai Núñez]]}}
+|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|€10,000,000
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.football-espana.net/2024/03/02/celta-vigo-to-splash-out-e10m-for-permanent-signing-of-athletic-club-defender|title=Celta Vigo to splash out €10m for permanent signing of Athletic Club defender|first=John|last=Menzies|date=2 March 2024|website=Football España}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Garcia, Raul|{{fbaicon|ESP}} [[Raúl García (footballer, born 1986)|Raúl García]]}}
+|Retired
+|N/A
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2024/05/09/raul-garcia-i-m-leaving-here-as-an-athleticzale/|title=Raúl García: "I'm leaving here as an Athleticzale"|publisher=Athletic Club}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Muniain, Iker|{{fbaicon|ESP}} [[Iker Muniain]]}}
+|{{fbaicon|ARG}} [[San Lorenzo de Almagro|San Lorenzo]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2024/05/08/nobody-wants-to-miss-the-tribute-to-iker-muniain/|title=Nobody wants to miss the tribute to Iker Muniain|publisher=Athletic Club}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Morcillo, Jon|{{fbaicon|ESP}} [[Jon Morcillo]]}}
+|{{fbaicon|ESP}} [[Albacete Balompié|Albacete]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/noticias/2024/05/20/jon-morcillo-finaliza-su-etapa-en-el-athletic-club/|title=Jon Morcillo finaliza su etapa en el Athletic Club|publisher=Athletic Club}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Garcia, Dani|{{fbaicon|ESP}} [[Dani García (footballer, born 1990)|Dani García]]}}
+|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2024/05/23/dani-garcia-to-leave-athletic-club/|title=Dani García to leave Athletic Club|publisher=Athletic Club}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Vencedor, Unai|{{fbaicon|ESP}} [[Unai Vencedor]]}}
+|{{fbaicon|ESP}} [[Racing de Santander|Racing Santander]]
+|Loan
+|{{dts|10 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/noticias/2024/07/10/vencedor-sale-cedido-al-racing-de-santander/|title=Vencedor sale cedido al Racing de Santander|publisher=Athletic Club|language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Villalibre, Asier|{{fbaicon|ESP}} [[Asier Villalibre]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|Undisclosed
+|{{dts|15 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/noticias/2024/07/15/traspaso-de-asier-villalibre-al-deportivo-alaves/|title=Traspaso de Asier Villalibre al Deportivo Alavés|publisher=Athletic Club|language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Imanol|{{flagicon|ESP}} [[Imanol García de Albéniz|Imanol]]}}
+|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|Undisclosed
+|{{dts|16 July 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/noticias/2024/07/16/traspaso-de-imanol-garcia-de-albeniz-al-sparta-de-praga/|title=Traspaso de Imanol García de Albéniz al Sparta de Praga|publisher=Athletic Club|language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Artola, Juan|{{fbaicon|ESP}} [[Juan Artola (footballer, born 2000)|Juan Artola]]}}
+|{{fbaicon|ESP}} [[Cultural y Deportiva Leonesa|Cultural Leonesa]]
+|Released
+|{{dts|2 August 2024}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/noticias/2024/08/02/acuerdo-por-juan-artola-con-la-cultural-leonesa/|title=Acuerdo por Juan Artola con la Cultural Leonesa|trans-title=Agreement for Juan Artola with Cultural Leonesa|publisher=Athletic Club|language=es|date=2 August 2024|access-date=21 December 2025}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Izeta, Urko|{{fbaicon|ESP}} [[Urko Izeta]]}}
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|Loan
+|{{dts|8 August 2024}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/noticias/2024/08/08/cesion-de-urko-izeta-al-cd-mirandes/|title=Cesión de Urko Izeta al CD Mirandés|trans-title=Loan of Urko Izeta to CD Mirandés|publisher=Athletic Club|language=es|date=8 August 2024|access-date=21 December 2025}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Rincon, Hugo|{{fbaicon|ESP}} [[Hugo Rincón]]}}
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|Loan
+|{{dts|11 August 2024}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/en/news/2024/08/11/hugo-rincon-loaned-to-cd-mirandes/|title=Hugo Rincón loaned to CD Mirandés|publisher=Athletic Club|date=11 August 2024|access-date=21 December 2025}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Egiluz, Unai|{{fbaicon|ESP}} [[Unai Egiluz]]}}
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|Loan
+|{{dts|29 August 2024}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/en/news/2024/08/29/egiluz-goes-on-loan-to-cd-mirandes/|title=Egiluz goes on loan to CD Mirandés|publisher=Athletic Club|date=29 August 2024|accessdate=21 December 2025}}</ref> 
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Ares, Malcom Adu|{{fbaicon|ESP}} [[Malcom Adu Ares]]}}
+|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/noticias/2024/08/30/adu-ares-cedido-al-real-zaragoza/|title=Adu Ares, cedido al Real Zaragoza|date=30 August 2024|publisher=Athletic Club|language=es}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Padilla, Alex|{{fbaicon|MEX}} [[Alex Padilla (footballer)|Alex Padilla]]}}
+|{{fbaicon|MEX}} [[Pumas UNAM]]
+|Loan
+|{{dts|9 January 2025}}
+|<ref>{{cite web|url=https://www.athletic-club.eus/en/news/2025/01/09/alex-padilla-moves-on-loan-to-mexican-side-pumas/|title=Alex Padilla moves on loan to Mexican side Pumas|website=Athletic Club|date=9 January 2025|access-date=21 December 2025}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Herrera, Ander|{{fbaicon|ESP}} [[Ander Herrera]]}}
+|{{fbaicon|ARG}} [[Boca Juniors]]
+|Released
+|{{dts|17 January 2025}}
+|<ref>{{cite news|url=https://www.athletic-club.eus/en/news/2025/01/17/ander-herrera-released-from-contract/|title=Ander Herrera released from contract|date=17 January 2025|publisher=Athletic Club}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Serrano, Nico|{{fbaicon|ESP}} [[Nico Serrano]]}}
+|{{fbaicon|ESP}} [[Sporting de Gijón]]
+|Loan
+|{{dts|31 January 2025}}
+|<ref>{{cite web|publisher=Sporting Gijón|url=https://www.realsporting.com/noticias/nico-serrano-nuevo-refuerzo-del-sporting|title=Nico Serrano, nuevo refuerzo del Sporting|trans-title=Nico Serrano, Sporting's new signing|date=31 January 2025|access-date=21 December 2025|language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Marton, Javier|{{fbaicon|ESP}} [[Javier Martón]]}}
+|{{fbaicon|ESP}} [[Albacete Balompié|Albacete]]
+|Loan
+|{{dts|3 February 2025}}
+|<ref>{{cite web|publisher=[[Albacete Balompié]]|url=https://www.albacetebalompie.es/noticias/javi-marton-un-albacetista-mas|title=Javi Martón se suma a la ilusión|trans-title=Javi Martón joins the excitement|date=3 February 2025|access-date=21 December 2025|language=es}}</ref>
+|-
+|}
+
+=== New contracts ===
+{| class="wikitable"
+|-
+! Position !! Player !! Date !! Until !! Ref.
+|-
+| align="center" |{{sort|2|DF}} || {{flagicon|ESP}} [[Yuri Berchiche]] || 4 April 2025 || 30 June 2026 || <ref>[https://sports.yahoo.com/article/official-athletic-club-star-signs-194200645.html Official: Athletic club star signs contract extension]</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 20 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Burgos CF|Burgos]] {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.athletic-club.eus/en/teams/athletic-club/2024-25/matches/1_8468/report
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Yuri Berchiche|Berchiche]] {{goal|1|o.g.}}
+*[[Florian Miguel|Miguel]] {{goal|51}}
+|goals2 =
+*[[Javier Martón|Martón]] {{goal|53}}
+|stadium = [[Estadio El Plantío]]
+|location = [[Burgos]] 
+|attendance = 8,000
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 24 July 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.athletic-club.eus/en/teams/athletic-club/2024-25/matches/1_8468/report
+|team2 = {{fbaicon|ESP}} [[Racing de Santander|Racing Santander]]
+|goals1 = 
+*[[Iñaki Williams|I. Williams]] {{goal|39}}
+*[[Peio Canales|Canales]] {{goal|46}}
+|goals2 = 
+*[[Pol Moreno|Moreno]] {{yel|41}}
+*[[Yeray Cabanzón|Cabanzón]] {{goal|69}}
+|stadium = [[Estadio de Lasesarre]]
+|location = [[Barakaldo]]
+|attendance = 
+|referee = Gorka Etayo Herrera
+|result = W
+}}
+{{Football box collapsible
+|round = [[Troféu Cinco Violinos]]
+|date = 27 July 2024
+|time = 19:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sporting CP]] {{fbaicon|POR}}
+|score = 3–0
+|report = https://www.athletic-club.eus/en/teams/athletic-club/2024-25/matches/1_8476/report
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Pedro Gonçalves|Gonçalves]] {{goal|10}}
+*[[Viktor Gyökeres|Gyökeres]] {{yel|25}}
+*[[Marcus Edwards|Edwards]] {{goal|80}}
+*[[Francisco Trincão|Trincão]] {{goal|83}}
+|goals2 =
+*[[Mikel Jauregizar|Jauregizar]] {{yel|16}}
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 
+|referee = [[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 1 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 1–0
+|report = https://www.athletic-club.eus/en/teams/athletic-club/2024-25/matches/1_8469/report
+|team2 = {{fbaicon|ESP}} [[SD Eibar|Eibar]]
+|goals1 =
+*[[Álvaro Djaló|Djaló]] {{goal|85}}
+|goals2 =
+*[[Xeber Alkain|Alkain]] {{yel|76}}
+|stadium = Estadio Las Llanas
+|location = [[Sestao]]
+|attendance = 
+|referee = Aimar Velasco Arbaiza
+|result = W
+}}
+{{Football box collapsible
+|round = [[Euskal Herriko Futbol Txapelketa|Euskal Txapela]]
+|date = 3 August 2024<ref>[https://www.eitb.eus/es/deportes/futbol/videos/detalle/9541214/athletic-y-osasuna-disputaran-final-de-euskal-herria-txapela-3-de-agosto-en-barakaldo/ Athletic y Osasuna disputarán la final de la Euskal Herria Txapela el 3 de agosto en Barakaldo] [Athletic and Osasuna will contest the final of the Basque Championship on 3 August in Barakaldo], [[EITB]], 12 July 2024 (in Spanish)</ref>
+|time = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.athletic-club.eus/en/teams/athletic-club/2024-25/matches/1_8477/report
+|team2 = {{fbaicon|ESP}} [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Álvaro Djaló|Djaló]] {{goal|19}}
+*[[Yuri Berchiche|Berchiche]] {{yel|57}}
+*[[Iñaki Williams|I. Williams]] {{goal|65}}
+|goals2 =
+*[[Rubén García (footballer, born 1993)|Ru. García]] {{goal|26}}
+*[[Rubén Peña|Peña]] {{yel|57}}
+|stadium = [[Estadio de Lasesarre]]
+|location = [[Barakaldo]]
+|attendance = 
+|referee = Olatz Rivera Olmedo
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 7 August 2024
+|time = 19:30 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Aston Villa F.C.|Aston Villa]] {{fbaicon|ENG}}
+|score = 3–2
+|report = https://www.athletic-club.eus/en/teams/athletic-club/2024-25/matches/1_8470/report
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Jacob Ramsey|Ramsey]] {{goal|4}}
+*[[Jaden Philogene|Philogene]] {{goal|60}}
+*[[Cameron Archer|Archer]] {{goal|88}}
+|goals2 =
+*[[Yeray Álvarez|Yeray]] {{goal|25}}
+*[[Gorka Guruzeta|Guruzeta]] {{goal|71}}
+|stadium = [[Bescot Stadium]]
+|location = [[Walsall]], England
+|attendance = 9,227
+|referee = [[Robert Jones (referee)|Robert Jones]] ([[The Football Association|England]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 10 August 2024
+|time = 15:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[VfB Stuttgart]] {{fbaicon|GER}}
+|score = 4–0
+|report = https://www.athletic-club.eus/en/teams/athletic-club/2024-25/matches/1_8471/report
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Silas Katompa Mvumpa|Silas]] {{goal|11||49}}
+*[[Ermedin Demirović|Demirović]] {{goal|14}}
+*[[Nick Woltemade|Woltemade]] {{goal|79}}
+|goals2 =
+*[[Ander Herrera|Herrera]] {{yel|15}}
+|stadium = [[MHPArena]]
+|location = [[Stuttgart]], Germany
+|attendance = 50,000
+|referee = Daniel Schlager ([[German Football Association|Germany]])
+|result = L
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=4
+|c1=[[2024–25 La Liga|La Liga]] |fm1=15 August 2024 |lm1=25 May 2025 |sr1=Matchday 1 |fp1=4th |w1=19 |d1=13 |l1=6 |f1=54 |a1=29
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=4 January 2025 |lm2=16 January 2025 |sr2=Round of 32 |fp2=Round of 16 |w2=0 |d2=1 |l2=1 |f2=2 |a2=3
+|c3=[[2025 Supercopa de España|Supercopa de España]] |dm3=8 January 2025 |sr3=Semi-finals |fp3=Semi-finals |w3=0 |d3=0 |l3=1 |f3=0 |a3=2
+|c4=[[2024–25 UEFA Europa League|UEFA Europa League]] |fm4=26 September 2024 |lm4=8 May 2025 |sr4=League phase |fp4=Semi-finals |w4=8 |d4=2 |l4=4 |f4=22 |a4=17
+|s=[https://int.soccerway.com/teams/spain/athletic-club/2019/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=ATH}}
+
+==== Results summary ====
+{{Fb rs |hw=11 |hd=6 |hl=2 |hgf=32 |hga=13 |aw=8 |ad=7 |al=4 |agf=22 |aga=16 }}
+{{Fb rs footer |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| rnd6=7<sup>1</sup>|rnd7=6|rnd16=19<sup>2</sup>|rnd17=16|rnd18=17|rnd19=18
+| res1=H/A/H/H/A/A/H/H/A/H/A/H/A/H/A/H/H/A/A/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H
+| label2=Result
+| res2=D/L/W/L/W/W/W/D/L/W/D/D/D/W/W/W/W/D/W/W/D/D/W/D/W/L/D/W/D/D/W/L/W/D/W/W/W/L
+| label3=Position
+| pos3=9/15/8/12/9/5/3/5/6/5/5/6/6/5/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4/4
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+<sup>'''1'''</sup> Matchday 7 (vs [[CD Leganés|Leganés]]) was brought forward due to Athletic Bilbao's participation in the [[2024–25 UEFA Europa League league phase|UEFA Europa League league phase]].<br>
+<sup>'''2'''</sup> Matchday 19 (vs [[Real Madrid CF|Real Madrid]]) was brought forward due to both clubs' participation in the [[2025 Supercopa de España|Supercopa de España]].
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 15 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-getafe-cf-1
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Oihan Sancet|Sancet]] {{goal|27}}
+*[[Beñat Prados|Prados]] {{yel|55}}
+*[[Unai Gómez|Gómez]] {{yel|70}}
+*[[Andoni Gorosabel|Gorosabel]] {{yel|73}}
+*[[Ander Herrera|Herrera]] {{yel|86}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{yel|45+8}}, {{goal|64}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,845
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = [[Athletic–Barcelona clásico|2]]
+|date = 24 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-athletic-club-2
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Lamine Yamal|Yamal]] {{goal|24}}
+*[[Pau Cubarsí|Cubarsí]] {{yel|41}}
+*[[Marc Bernal|Bernal]] {{yel|49}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|75}}, {{yel|85}}
+*[[Fermín López|López]] {{yel|90+6}}
+|goals2 =
+*[[Yeray Álvarez|Yeray]] {{yel|38}}
+*[[Oihan Sancet|Sancet]] {{goal|42|pen.}}
+*[[Álex Berenguer|Berenguer]] {{yel|56}}
+*[[Iñigo Lekue|Lekue]] {{yel|87}}
+*[[Ander Herrera|Herrera]] {{yel|90+6}}
+*[[Mikel Jauregizar|Jauregizar]] {{yel|90+6}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 46,448
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-valencia-cf-3
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Beñat Prados|Prados]] {{goal|45}}, {{yel|69}}
+|goals2 =
+*[[Rafa Mir|Mir]] {{yel|23}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|26}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|90+3}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,644
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 4
+|date = 31 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-atletico-de-madrid-4
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Nico Williams|N. Williams]] {{yel|15}}
+*[[Yeray Álvarez|Yeray]] {{yel|34}}
+*[[Oihan Sancet|Sancet]] {{yel|35}}
+|goals2 =
+*[[Koke (footballer, born 1992)|Koke]] {{yel|85}}
+*[[Ángel Correa|Correa]] {{goal|90+2}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,617
+|referee = [[Alejandro Hernández Hernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 15 September 2024
+|time = 17:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-athletic-club-5
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|27}}
+*[[Sandro Ramírez|Sandro]] {{goal|58}}
+*[[Álex Muñoz|Muñoz]] {{goal|83}}
+|goals2 =
+*[[Oihan Sancet|Sancet]] {{goal|7}}
+*[[Mikel Jauregizar|Jauregizar]] {{sentoff|2|22|56}}
+*[[Nico Williams|N. Williams]] {{goal|30}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|45+2}}
+*[[Aitor Paredes|Paredes]] {{goal|76}}
+|stadium = [[Estadio Gran Canaria|Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 25,908
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 7
+|date = 19 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-athletic-club-7
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Miguel de la Fuente|Miguel]] {{yel|41}}
+*[[Valentin Rosier|Rosier]] {{yel|63}}
+*[[Renato Tapia|Tapia]] {{yel|90}}
+|goals2 =
+*[[Daniel Vivian (footballer)|Vivian]] {{goal|65}}
+*[[Iñaki Williams|I. Williams]] {{goal|76}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 8,304
+|referee = Francisco José Hernández Maeso
+|result = W
+|note = The match was brought forward due to Athletic Bilbao's participation in the [[2024–25 UEFA Europa League league phase|UEFA Europa League league phase]].
+}}
+{{Football box collapsible
+|round = 6
+|date = 22 September 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rc-celta-6
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Gorka Guruzeta|Guruzeta]] {{goal|4||39}}
+*[[Álex Berenguer|Berenguer]] {{yel|20}}
+*[[Aitor Paredes|Paredes]] {{yel|30}}
+*[[Beñat Prados|Prados]] {{yel|52}}
+*[[Álvaro Djaló|Djaló]] {{goal|80}}
+|goals2 =
+*[[Iago Aspas|Aspas]] {{goal|25|pen.}}
+*[[Hugo Sotelo|Sotelo]] {{yel|50}}
+*[[Ilaix Moriba|Moriba]] {{yel|86}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,737
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 8
+|date = 29 September 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-sevilla-fc-8
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Mikel Jauregizar|Jauregizar]] {{goal|36}}
+*[[Julen Agirrezabala|Agirrezabala]] {{sentoff|0|82}}
+|goals2 =
+*[[José Ángel Carmona|Carmona]] {{yel|55}}
+*[[Álex Padilla|Padilla]] {{goal|90+3|o.g.}}
+*[[Tanguy Nianzou|Nianzou]] {{yel|90+6}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|90+7}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,288
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 9
+|date = 6 October 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Girona FC|Girona]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-athletic-club-9
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|31}}
+*[[Yáser Asprilla|Asprilla]] {{goal|39}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|56}}
+*[[David López (footballer, born 1989)|D. López]] {{yel|57}}
+*[[Yangel Herrera|Herrera]] {{yel|90+1}}
+*[[Cristhian Stuani|Stuani]] {{goal|90+9|pen.}}
+|goals2 =
+*[[Álex Berenguer|Berenguer]] {{penmiss}} {{small|28'}}
+*[[Oihan Sancet|Sancet]] {{goal|41}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|45+3}}
+*[[Ander Herrera|Herrera]] {{penmiss}} {{small|58'}}
+*[[Aitor Paredes|Paredes]] {{sentoff|2|90+7|90+8}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 13,396
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 19 October 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 4–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rcd-espanyol-10
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Daniel Vivian (footballer)|Vivian]] {{goal|6}}
+*[[Iñaki Williams|I. Williams]] {{goal|28||30}}
+*[[Unai Nuñez|Nuñez]] {{yel|48}}
+*[[Yuri Berchiche|Berchiche]] {{yel|45+3}}
+*[[Álex Berenguer|Berenguer]] {{goal|55}}
+|goals2 =
+*[[Pere Milla|Milla]] {{yel|51}}
+*[[Leandro Cabrera|Cabrera]] {{yel|74}}
+*[[Omar El Hilali|El Hilali]] {{yel|82}}
+*[[Álvaro Tejero|Tejero]] {{goal|90+2}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 46,713
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 28 October 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-athletic-club-11
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Samú Costa|Costa]] {{sentoff|2|10|23}}
+*[[Johan Mojica|Mojica]] {{yel|23}}
+*[[Cyle Larin|Larin]] {{yel|25}}
+*[[Vedat Muriqi|Muriqi]] {{yel|37}}
+|goals2 =
+*[[Aitor Paredes|Paredes]] {{yel|17}}
+|stadium = [[Estadi Mallorca Son Moix|Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 19,797
+|referee = Juan Martínez Munuera
+|result = D
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-real-betis-12
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Alex Berenguer|Berenguer]] {{goal|68}}
+|goals2 =
+*[[Pablo Fornals|Fornals]] {{goal|52}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 46,898
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-athletic-club-13
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Anuar Tuhami|Anuar]] {{yel|19}}
+*[[David Torres (footballer, born 2003)|Torres]] {{yel|72}}
+*[[Mario Martín|Martín]] {{yel|78}}
+*[[Raúl Moro|Moro]] {{goal|79}}
+*[[Eray Cömert|Cömert]] {{yel|90}}
+|goals2 =
+*[[Mikel Jauregizar|Jauregizar]] {{yel|26}}
+*[[Beñat Prados|Prados]] {{yel|43}}
+*[[Mikel Vesga|Vesga]] {{yel|66}}
+*[[Javier Martón|Martón]] {{yel|90}}
+*[[Gorka Guruzeta|Guruzeta]] {{goal|90+4}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 23,515
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = [[Basque derby|14]]
+|date = 24 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-real-sociedad-14
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Oihan Sancet|Sancet]] {{goal|26}}
+*[[Beñat Prados|Prados]] {{yel|41}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|76}}
+*[[Yuri Berchiche|Berchiche]] {{yel|90+2}}
+|goals2 =
+*[[Igor Zubeldia|Zubeldia]] {{yel|21}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|53}}
+*[[Nayef Aguerd|Aguerd]] {{yel|90+1}}
+*[[Luka Sučić|Sučić]] {{yel|90+5}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 50,719
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Rayo Vallecano]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-athletic-club-15
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Randy Nteka|Nteka]] {{goal|14}}
+*[[Pathé Ciss|Ciss]] {{yel|69}}
+*[[Gerard Gumbau|Gumbau]] {{yel|76}}
+*[[Álvaro García (footballer, born 1992)|García]] {{yel|90+5}}
+|goals2 =
+*[[Oihan Sancet|Sancet]] {{goal|65||78}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 13,639
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = [[El Viejo Clásico|19]]
+|date = 4 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-real-madrid-19
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Álex Berenguer|Berenguer]] {{goal|53}}
+*[[Julen Agirrezabala|Agirrezabala]] {{yel|67}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|74}}
+*[[Gorka Guruzeta|Guruzeta]] {{goal|80}}, {{yel|90+3}}
+|goals2 =
+*[[Kylian Mbappé|Mbappé]] {{penmiss}} {{small|68'}}
+*[[Aurélien Tchouaméni|Tchouaméni]] {{yel|70}}
+*[[Lucas Vázquez|Vázquez]] {{yel|72}}
+*[[Jude Bellingham|Bellingham]] {{goal|78}}, {{yel|90+1}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 51,364
+|referee = [[José María Sánchez Martínez]]
+|result = W
+|note = The match was brought forward due to both clubs' participation in the [[2025 Supercopa de España|Supercopa de España]].
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-villarreal-cf-16
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Aitor Paredes|Paredes]] {{goal|15}}
+*[[Oihan Sancet|Sancet]] {{yel|55}}
+*[[Beñat Prados|Prados]] {{yel|68}}
+*[[Iñaki Williams|I. Williams]] {{goal|69}}
+|goals2 =
+*[[Santi Comesaña|Comesaña]] {{yel|35}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,203
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-athletic-club-17
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|54}}
+*[[Joan Jordán|Jordán]] {{goal|67}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|69}}
+|goals2 =
+*[[Unai Gómez|Gómez]] {{goal|10}}
+*[[Adama Boiro|Boiro]] {{yel|20}}
+*[[Yuri Berchiche|Berchiche]] {{yel|75}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 19,239
+|referee = [[José María Sánchez Martínez]]
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 21 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-athletic-club-18
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Lucas Torró|Torró]] {{goal|25}}
+|goals2 =
+*[[Gorka Guruzeta|Guruzeta]] {{goal|31}}, {{yel|87}}
+*[[Álex Berenguer|Berenguer]] {{goal|74}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 22,030
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-athletic-club-20
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Ilaix Moriba|Moriba]] {{yel|60}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{goal|74}}
+*[[Óscar Mingueza|Mingueza]] {{sentoff|0|90+6}}
+|goals2 =
+*[[Álex Berenguer|Berenguer]] {{goal|62}}
+*[[Daniel Vivian (footballer)|Vivian]] {{goal|71}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,279
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-cd-leganes-21
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Mikel Jauregizar|Jauregizar]] {{yel|22}}
+|goals2 =
+*[[Adrià Altimira|Altimira]] {{yel|28}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,612
+|referee = [[Alejandro Hernández Hernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Betis]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-athletic-club-22
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Isco]] {{goal|15}}, {{yel|49}}
+*[[Romain Perraud|Perraud]] {{goal|45+2}}
+*[[Cédric Bakambu|Bakambu]] {{yel|61}}
+*[[Marc Roca|Roca]] {{yel|90+2}}
+|goals2 =
+*[[Aitor Paredes|Paredes]] {{goal|33}}
+*[[Oihan Sancet|Sancet]] {{goal|69}}, {{yel|77}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 49,292
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 23
+|date = 8 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-girona-fc-23
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Oihan Sancet|Sancet]] {{goal|42|pen.|45+1||79}}
+|goals2 =
+*[[Bryan Gil|Gil]] {{yel|63}}
+*[[Juanpe (footballer, born 1991)|Juanpe]] {{yel|71}}
+*[[Yangel Herrera|Herrera]] {{yel|74}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|88}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,261
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-por-determinar-athletic-club-24
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Urko González de Zárate|González de Zárate]] {{yel|46}}
+*[[Roberto Fernández (footballer, born 2002)|Fernández]] {{goal|62}}
+|goals2 =
+*[[Yeray Álvarez|Yeray]] {{yel|5}}
+*[[Oihan Sancet|Sancet]] {{goal|77}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 26,645
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 7–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-real-valladolid-cf-25
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Mikel Jauregizar|Jauregizar]] {{goal|10}}
+*[[Nico Williams|N. Williams]] {{goal|35||66}}
+*[[Maroan Sannadi|Sannadi]] {{goal|43}}
+*[[Oihan Sancet|Sancet]] {{goal|45+2}}
+*[[Gorka Guruzeta|Guruzeta]] {{goal|69}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|79}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|84}}
+*[[Iñaki Williams|I. Williams]] {{goal|87}}
+|goals2 =
+*[[Mario Martín|Martín]] {{yel|44}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|47}}
+*[[Stanko Jurić|Jurić]] {{sentoff|2|46|56}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,715
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = 26
+|date = 1 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Atlético Madrid]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-athletic-club-26
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{yel|57}}
+*[[Julián Alvarez|Alvarez]] {{goal|66}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|68}}
+|goals2 =
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|32}}
+*[[Andoni Gorosabel|Gorosabel]] {{yel|62}}
+*[[Yeray Álvarez|Yeray]] {{yel|87}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 63,810
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rcd-mallorca-27
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Andoni Gorosabel|Gorosabel]] {{yel|16}}
+*[[Nico Williams|N. Williams]] {{goal|58}}
+|goals2 =
+*[[Antonio Raíllo|Raíllo]] {{goal|56}}, {{yel|90+6}}
+*[[José Manuel Copete|Copete]] {{yel|72}}
+*[[Antonio Sánchez (footballer, born 1997)|Sánchez]] {{yel|86}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,203
+|referee = [[Alejandro Hernández Hernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-athletic-club-28
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Ørjan Nyland|Nyland]] {{yel|10}}
+*[[Djibril Sow|Sow]] {{yel|19}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|23}}
+*[[Lucien Agoumé|Agoumé]] {{yel|84}}
+|goals2 =
+*[[Mikel Vesga|Vesga]] {{penmiss}} {{small|45+3'}}
+*[[Álex Berenguer|Berenguer]] {{yel|59}}
+*[[Unai Nuñez|Nuñez]] {{yel|65}}
+*[[Yeray Álvarez|Yeray]] {{goal|84}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 37,016
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-ca-osasuna-29
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Unai Nuñez|Nuñez]] {{yel|38}}
+|goals2 =
+*[[Alejandro Catena|Catena]] {{yel|45}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 49,671
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-athletic-club-30
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Pape Gueye|Gueye]] {{sentoff|0|83}}
+|goals2 =
+*[[Andoni Gorosabel|Gorosabel]] {{yel|21}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,158
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 31
+|date = 13 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rayo-vallecano-31
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Álvaro Djaló|Djaló]] {{yel|12}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|36}}
+*[[Oihan Sancet|Sancet]] {{goal|58|pen.|90+4}}
+*[[Nico Williams|N. Williams]] {{goal|80}}
+*[[Adama Boiro|Boiro]] {{yel|84}}
+*[[Iñaki Williams|I. Williams]] {{yel|87}}
+|goals2 =
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{penmiss}} 37', {{yel|50}}
+*[[Pathé Ciss|Ciss]] {{goal|37}}
+*[[Alfonso Espino|Espino]] {{yel|57}}
+*[[Unai López|López]] {{yel|75}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,584
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = [[El Viejo Clásico|32]]
+|date = 20 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-athletic-club-32
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Raúl Asencio (footballer, born 2003)|Asencio]] {{yel|75}}
+*[[Federico Valverde|Valverde]] {{goal|90+3}}
+|goals2 =
+*[[Unai Núñez|Núñez]] {{yel|63}}
+*[[Beñat Prados|Prados]] {{yel|86}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 72,535
+|referee = [[Juan Martínez Munuera]]
+|result = L
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-ud-las-palmas-33
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Iñaki Williams|I. Williams]] {{goal|5}}
+*[[Yuri Berchiche|Berchiche]] {{yel|11}}
+|goals2 =
+*[[Stefan Bajcetic|Bajcetic]] {{yel|27}}
+*[[Oli McBurnie|McBurnie]] {{yel|53}}
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|77}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,724
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = [[Basque derby|34]]
+|date = 4 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Sociedad]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-athletic-club-34
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{yel|58}}
+|goals2 =
+*[[Álex Berenguer|Berenguer]] {{yel|44}}
+*[[Andoni Gorosabel|Gorosabel]] {{yel|78}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 36,058
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 35
+|date = 11 May 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-deportivo-alaves-35
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Álvaro Djaló|Djaló]] {{yel|33}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{goal|71|o.g.}}
+|goals2 =
+*[[Ander Guevara|Guevara]] {{yel|90+4}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,947
+|referee = [[José Luis Munuera Montero]]
+|result = W
+}}
+{{Football box collapsible
+|round = 36
+|date = 15 May 2025
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-athletic-club-36
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Luis Milla (footballer, born 1994)|Milla]] {{yel|70}}
+|goals2 =
+*[[Gorka Guruzeta|Guruzeta]] {{goal|76}}
+*[[Daniel Vivian (footballer)|Vivian]] {{goal|89}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 11,564
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-athletic-club-37
+|team2 = Athletic Bilbao
+|goals1 =
+*[[José Gayà|Gayà]] {{yel|42}}
+*[[Luis Rioja|Rioja]] {{yel|66}}
+*[[Rafa Mir|Mir]] {{yel|90+3}}
+|goals2 =
+*[[Adama Boiro|Boiro]] {{yel|15}}
+*[[Alex Berenguer|Berenguer]] {{goal|72}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 45,641
+|referee = Alejandro Muñiz Ruiz
+|result = W
+}}
+{{Football box collapsible
+|round = [[Athletic–Barcelona clásico|38]]
+|date = 25 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-fc-barcelona-38
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Yuri Berchiche|Berchiche]] {{yel|75}}
+|goals2 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|14||17}}
+*[[Dani Olmo|Olmo]]    {{goal|90+4|pen.}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 50,231
+|referee = Pablo González Fuertes
+|result = L
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 4 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Logroñés]]
+|score = 0–0
+|aet = yes
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ud-logrones-athletic-club-4
+|team2 = Athletic Bilbao
+|goals1 =
+*[[Curro Bonilla|Bonilla]] {{yel|39}}
+*[[Juan Agüero (footballer, born 1999)|Agüero]] {{yel|90}}
+|goals2 =
+*[[Unai Nuñez|Nuñez]] {{yel|28}}
+*[[Ander Herrera|Herrera]] {{yel|53}}
+*[[Adama Boiro|Boiro]] {{yel|89}}
+*[[Iñaki Williams|I. Williams]] {{yel|90+5}}
+*[[Mikel Jauregizar|Jauregizar]] {{yel|102}}
+|penaltyscore = 3–4
+|penalties1 =
+*[[Julen Monreal|Monreal]] {{pengoal}}
+*[[Álex Gualda|Gualda]] {{penmiss}}
+*[[Imanol Sarriegi|Sarriegi]] {{penmiss}}
+*[[Juan Agüero (footballer, born 1999)|Agüero]] {{pengoal}}
+*[[Eloy Moreno|Moreno]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Daniel Vivian (footballer)|Vivian]]
+*{{pengoal}} [[Yuri Berchiche|Berchiche]]
+*{{penmiss}} [[Nico Williams|N. Williams]]
+*{{pengoal}} [[Álex Berenguer|Berenguer]]
+*{{pengoal}} [[Unai Gómez|Gómez]]
+|stadium = [[Estadio Las Gaunas|Las Gaunas]]
+|location = [[Logroño]]
+|attendance = 15,577
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 16 January 2025
+|time = 19:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-athletic-club-ca-osasuna-5
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Nico Williams|N. Williams]] {{goal|45+3}}
+*[[Óscar de Marcos|De Marcos]] {{goal|55}}
+*[[Mikel Jauregizar|Jauregizar]] {{yel|84}}
+|goals2 =
+*[[Aimar Oroz|Oroz]] {{goal|40}}
+*[[Ante Budimir|Budimir]] {{goal|44|pen.|70}}
+*[[Jon Moncayola|Moncayola]] {{yel|45+3}}
+*[[Alejandro Catena|Catena]] {{yel|49}}
+*[[Jesús Areso|Areso]] {{yel|90+4}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,230
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+
+=== Supercopa de España ===
+{{main|2025 Supercopa de España}}
+
+{{Football box collapsible
+|round = [[2025 Supercopa de España#Semi-finals|Semi-finals]]
+|date = 8 January 2025
+|time = 22:00 [[Saudi Arabia Standard Time|SAST]] ([[UTC+03:00|UTC+3]])
+|team1 = Athletic Bilbao
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-supercopa-de-espana-athletic-club-fc-barcelona-1
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = 
+*[[Álex Berenguer|Berenguer]] {{yel|50}}
+*[[Unai Gómez|Gómez]] {{yel|76}}
+|goals2 = 
+*[[Gavi (footballer)|Gavi]] {{goal|17}}
+*[[Lamine Yamal|Yamal]] {{goal|52}}
+|stadium = [[King Abdullah Sports City]]
+|location = [[Jeddah]], Saudi Arabia
+|attendance = 42,000
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+
+=== UEFA Europa League ===
+{{main|2024–25 UEFA Europa League}}
+
+==== League phase ====
+{{main|2024–25 UEFA Europa League league phase}}
+
+The draw for the league phase was held on 30 August 2024.
+
+{{:2024–25 UEFA Europa League league phase|transcludesection=Table|showteam=ATH}}
+
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| res1=A/H/H/A/H/A/A/H
+| label2=Result
+| res2=D/W/W/W/W/W/L/W
+| label3=Position
+| pos3=16/11/8/6/2/2/3/2
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1-8=green1|color_9-16=blue1|color_17-24=blue2
+| source=[https://www.uefa.com/uefaeuropaleague/fixtures-results/ UEFA]
+}}
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Roma v Athletic Bilbao|1]]
+|date = 26 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[AS Roma|Roma]] {{fbaicon|ITA}}
+|score = 1–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2042088/
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Artem Dovbyk|Dovbyk]] {{goal|32}}
+*[[Manu Koné|Koné]] {{yel|44}}
+*[[Tommaso Baldanzi|Baldanzi]] {{yel|63}}
+|goals2 =
+*[[Andoni Gorosabel|Gorosabel]] {{yel|44}}
+*[[Yuri Berchiche|Berchiche]] {{yel|56}}
+*[[Óscar de Marcos|De Marcos]] {{yel|83}}
+*[[Aitor Paredes|Paredes]] {{goal|85}}
+*[[Nico Williams|N. Williams]] {{yel|90+5}}
+|stadium = [[Stadio Olimpico]]
+|location = [[Rome]], Italy
+|attendance = 63,072
+|referee = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Athletic Bilbao v AZ|2]]
+|date = 3 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 2–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2042109/
+|team2 = {{fbaicon|NED}} [[AZ Alkmaar|AZ]]
+|goals1 =
+*[[Iñaki Williams|I. Williams]] {{goal|72}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|82}}
+*[[Oihan Sancet|Sancet]] {{goal|85}}
+|goals2 =
+*[[Seiya Maikuma|Maikuma]] {{yel|42}}
+*[[Ruben van Bommel|Van Bommel]] {{yel|78}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]], Spain
+|attendance = 40,328
+|referee = Balázs Berke ([[Hungarian Football Federation|Hungary]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Athletic Bilbao v Slavia Prague|3]]
+|date = 24 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 1–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2042130/
+|team2 = {{fbaicon|CZE}} [[SK Slavia Prague|Slavia Prague]]
+|goals1 =
+*[[Nico Williams|N. Williams]] {{goal|33}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|44}}
+*[[Óscar de Marcos|De Marcos]] {{yel|79}}
+|goals2 =
+*[[Christos Zafeiris|Zafeiris]] {{yel|68}}
+*[[Jan Bořil|Bořil]] {{yel|81}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]], Spain
+|attendance = 47,776
+|referee = Morten Krogh ([[Danish Football Association|Denmark]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Ludogorets Razgrad v Athletic Bilbao|4]]
+|date = 7 November 2024
+|time = 19:45 [[Eastern European Time|EET]] ([[UTC+02:00|UTC+2]])
+|team1 = [[PFC Ludogorets Razgrad|Ludogorets Razgrad]] {{fbaicon|BUL}}
+|score = 1–2
+|report = https://www.uefa.com/uefaeuropaleague/match/2042145/
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Erick Marcus]] {{goal|20}}
+*[[Rick (footballer, born 1999)|Rick]] {{yel|30}}
+*[[Georgi Rusev (footballer)|Rusev]] {{yel|77}}
+*[[Rwan Cruz|Rwan]] {{yel|90+4}}
+|goals2 =
+*[[Yuri Berchiche|Berchiche]] {{yel|23}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|48}}
+*[[Mikel Vesga|Vesga]] {{yel|72}}
+*[[Iñaki Williams|I. Williams]] {{goal|73}}
+*[[Nico Serrano|Serrano]] {{goal|74}}, {{yel|90+4}}
+|stadium = [[Huvepharma Arena]]
+|location = [[Razgrad]], Bulgaria
+|attendance = 9,725
+|referee = Anastasios Papapetrou ([[Hellenic Football Federation|Greece]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Athletic Bilbao v IF Elfsborg|5]]
+|date = 28 November 2024
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 3–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2042162/
+|team2 = {{fbaicon|SWE}} [[IF Elfsborg]]
+|goals1 =
+*[[Adama Boiro|Boiro]] {{goal|6}}
+*[[Iñaki Williams|I. Williams]] {{yel|22}}
+*[[Beñat Prados|Prados]] {{goal|24}}
+*[[Gorka Guruzeta|Guruzeta]] {{goal|54}}
+|goals2 =
+*[[Ibrahim Buhari|Buhari]] {{yel|30}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]], Spain
+|attendance = 46,325
+|referee = Giorgi Kruashvili ([[Georgian Football Federation|Georgia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Fenerbahçe v Athletic Bilbao|6]]
+|date = 11 December 2024
+|time = 18:30 [[Time in Turkey|TRT]] ([[UTC+03:00|UTC+3]])
+|team1 = [[Fenerbahçe S.K. (football)|Fenerbahçe]] {{fbaicon|TUR}}
+|score = 0–2
+|report = https://www.uefa.com/uefaeuropaleague/match/2042169/
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Mert Müldür|Müldür]] {{sentoff|2|57|69}}
+*[[Sofyan Amrabat|Amrabat]] {{yel|90+1}}
+|goals2 =
+*[[Iñaki Williams|I. Williams]] {{goal|5||45}}
+*[[Yeray Álvarez|Yeray]] {{yel|7}}
+*[[Unai Gómez|Gómez]] {{yel|80}}
+*[[Oihan Sancet|Sancet]] {{yel|90+1}}
+|stadium = [[Şükrü Saracoğlu Stadium]]
+|location = [[Istanbul]], Turkey
+|attendance = 35,263
+|referee = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Beşiktaş v Athletic Bilbao|7]]
+|date = 22 January 2025
+|time = 18:30 [[Time in Turkey|TRT]] ([[UTC+03:00|UTC+3]])
+|team1 = [[Beşiktaş J.K.|Beşiktaş]] {{fbaicon|TUR}}
+|score = 4–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2042188/
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Milot Rashica|Rashica]] {{goal|7||60}}, {{yel|67}}
+*[[Ciro Immobile|Immobile]] {{yel|37}}
+*[[Arthur Masuaku|Masuaku]] {{yel|45+1}}
+*[[Rafa Silva|Silva]] {{goal|77}}
+*[[João Mário (footballer, born January 1993)|João Mário]] {{goal|90+2|pen.}}
+|goals2 =
+*[[Unai Gómez|Gómez]] {{goal|45}}
+|stadium = [[Beşiktaş Stadium]]
+|location = [[Istanbul]], Turkey
+|attendance = 35,980
+|referee = Julian Weinberger ([[Austrian Football Association|Austria]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Athletic Bilbao v Viktoria Plzeň|8]]
+|date = 30 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 3–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2042218/
+|team2 = {{fbaicon|CZE}} [[FC Viktoria Plzeň|Viktoria Plzeň]]
+|goals1 =
+*[[Nico Williams|N. Williams]] {{goal|25}}
+*[[Álex Berenguer|Berenguer]] {{yel|31}}
+*[[Yeray Álvarez|Yeray]] {{goal|64}}
+*[[Álvaro Djaló|Djaló]] {{yel|84}}
+*[[Javier Martón|Martón]] {{goal|90+5}}
+|goals2 =
+*[[Prince Kwabena Adu|Adu]] {{yel|21}}
+*[[Sampson Dweh|Dweh]] {{yel|63}}
+*[[Milan Havel|Havel]] {{goal|71}}
+*[[Daniel Vašulín|Vašulín]] {{sentoff|0|87}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]], Spain
+|attendance = 45,471
+|referee = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+
+==== Knockout phase ====
+{{main|2024–25 UEFA Europa League knockout phase}}
+
+===== Round of 16 =====
+The draw for the round of 16 was held on 21 February 2025.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Roma v Athletic Bilbao|First leg]]
+|date = 6 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[AS Roma|Roma]] {{fbaicon|ITA}}
+|score = 2–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2044791/
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Angeliño]] {{goal|56}}
+*[[Eldor Shomurodov|Shomurodov]] {{yel|72}}, {{goal|90+3}}
+|goals2 =
+*[[Yeray Álvarez|Yeray]] {{sentoff|2|19|85}}
+*[[Mikel Jauregizar|Jauregizar]] {{yel|34}}
+*[[Maroan Sannadi|Sannadi]] {{yel|39}}
+*[[Iñaki Williams|I. Williams]] {{goal|50}}
+|stadium = [[Stadio Olimpico]]
+|location = [[Rome]], Italy
+|attendance = 62,540
+|referee = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Athletic Bilbao v Roma|Second leg]]
+|date = 13 March 2025
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 3–1
+|aggregatescore = 4–3
+|report = https://www.uefa.com/uefaeuropaleague/match/2044799/
+|team2 = {{fbaicon|ITA}} [[AS Roma|Roma]]
+|goals1 =
+*[[Nico Williams|N. Williams]] {{goal|45+3||82}}
+*[[Yuri Berchiche|Berchiche]] {{goal|68}}
+*[[Iñaki Williams|I. Williams]] {{yel|71}}
+*[[Andoni Gorosabel|Gorosabel]] {{yel|90+1}}
+|goals2 =
+*[[Mats Hummels|Hummels]] {{sent off|0|11}}
+*[[Mile Svilar|Svilar]] {{yel|12}}
+*[[Devyne Rensch|Rensch]] {{yel|60}}
+*[[Leandro Paredes|Paredes]] {{yel|71}}, {{goal|90+3|pen.}}
+*[[Matías Soulé|Soulé]] {{yel|90+3}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]], Spain
+|attendance = 50,666
+|referee = [[Clément Turpin]] ([[French Football Federation|France]])
+|result = W
+}}
+
+===== Quarter-finals =====
+The draw for the order of the quarter-final legs was held on 21 February 2025, after the draw for the round of 16.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Rangers v Athletic Bilbao|First leg]]
+|date = 10 April 2025
+|time = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Rangers F.C.|Rangers]] {{fbaicon|SCO}}
+|score = 0–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2044827/
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 =
+*[[Robin Pröpper|Pröpper]] {{sentoff|0|13}}
+|goals2 =
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|29}}
+*[[Maroan Sannadi|Sannadi]] {{yel|54}}
+*[[Álex Berenguer|Berenguer]] {{penmiss}} {{small|82'}}
+*[[Beñat Prados|Prados]] {{yel|90+12}}
+|stadium = [[Ibrox Stadium]]
+|location = [[Glasgow]], Scotland
+|attendance = 49,922
+|referee = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Athletic Bilbao v Rangers|Second leg]]
+|date = 17 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 2–0
+|aggregatescore = 2–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2044831/
+|team2 = {{fbaicon|SCO}} [[Rangers F.C.|Rangers]]
+|goals1 =
+*[[Oihan Sancet|Sancet]] {{goal|45+4|pen.}}, {{yel|51}}
+*[[Nico Williams|N. Williams]] {{goal|80}}
+|goals2 =
+*[[Cyriel Dessers|Dessers]] {{yel|19}}
+*[[Leon Balogun|Balogun]] {{yel|32}}
+*[[James Tavernier|Tavernier]] {{yel|77}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]], Spain
+|attendance = 52,114
+|referee = [[Irfan Peljto]] ([[Football Federation of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result = W
+}}
+
+===== Semi-finals =====
+The draw for the order of the semi-final legs was held on 21 February 2025, after the draw for the round of 16 and quarter-finals.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Athletic Bilbao v Manchester United|First leg]]
+|date = 1 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Athletic Bilbao {{fbaicon|ESP}}
+|score = 0–3
+|report = https://www.uefa.com/uefaeuropaleague/match/2044833/
+|team2 = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1 =
+*[[Daniel Vivian (footballer)|Vivian]] {{sentoff|0|35}}
+*[[Yuri Berchiche|Berchiche]] {{yel|36}}
+*[[Unai Simón|Simón]] {{yel|58}}
+*[[Yeray Álvarez|Yeray]] {{yel|61}}
+|goals2 =
+*[[Casemiro]] {{goal|30}}
+*[[Bruno Fernandes|Fernandes]] {{goal|37|pen.|45}}
+*[[Mason Mount|Mount]] {{yel|77}}
+*[[Alejandro Garnacho|Garnacho]] {{yel|84}}
+*[[Leny Yoro|Yoro]] {{yel|90+3}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]], Spain
+|attendance = 51,980
+|referee = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]]) 
+|result = L
+}}
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Manchester United v Athletic Bilbao|Second leg]]
+|date = 8 May 2025
+|time = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score = 4–1
+|aggregatescore = 7–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2044835/
+|team2 = {{fbaicon|ESP}} Athletic Bilbao
+|goals1 = 
+*[[Noussair Mazraoui|Mazraoui]] {{yel|25}}
+*[[Casemiro]] {{yel|59}}, {{goal|80}}
+*[[Mason Mount|Mount]] {{goal|72||90+1}}
+*[[Rasmus Højlund|Højlund]] {{goal|85}}
+*[[Patrick Dorgu|Dorgu]] {{yel|90+1}}
+|goals2 =
+*[[Mikel Jauregizar|Jauregizar]] {{goal|31}}, {{yel|39}}
+*[[Unai Núñez|Núñez]] {{yel|78}}
+*[[Álex Berenguer|Berenguer]] {{yel|78}}
+*[[Maroan Sannadi|Sannadi]] {{yel|89}}
+|stadium = [[Old Trafford]]
+|location = [[Manchester]], England
+|attendance = 73,298
+|referee = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result = L
+}}
+
+==Statistics==
+===Appearances and goals===
+{{Efs start|[[2024–25 La Liga|La Liga]]|[[2023–24 Copa del Rey|Copa del Rey]]|[[2025 Supercopa de España|Supercopa de España]]|[[2024–25 UEFA Europa League|Europa League]]}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Goalkeepers
+{{Efs player|no=1 |name=[[Unai Simón]]|pos=GK|nat=ESP                                       |21   |0 |0    |0 |1    |0 |1    |0 }}
+{{Efs player|no=13|name=[[Julen Agirrezabala]]|pos=GK|nat=ESP                               |14   |0 |2    |0 |0    |0 |13    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Defenders
+{{Efs player|no=2 |name=[[Andoni Gorosabel]]|pos=DF|nat=ESP                                 |17+3 |0 |0+1  |0 |0    |0 |6+3  |0 }}
+{{Efs player|no=3 |name=[[Daniel Vivian (footballer)|Daniel Vivian]]|pos=DF|nat=ESP         |28+4 |4 |1+1  |0 |1    |0 |10+1 |0 }}
+{{Efs player|no=4 |name=[[Aitor Paredes]]|pos=DF|nat=ESP                                    |21+2 |3 |2    |0 |1    |0 |8+2  |1 }}
+{{Efs player|no=5 |name=[[Yeray Álvarez]]|pos=DF|nat=ESP                                    |20+1 |1 |0+1  |0 |0    |0 |7    |1 }}
+{{Efs player|no=14|name=[[Unai Nuñez]]|pos=DF|nat=ESP                                       |7+3  |0 |1    |0 |0    |0 |3+1  |0 }}
+{{Efs player|no=15|name=[[Iñigo Lekue]]|pos=DF|nat=ESP                                      |8+8  |0 |0    |0 |1    |0 |2+2  |0 }}
+{{Efs player|no=17|name=[[Yuri Berchiche]]|pos=DF|nat=ESP                                   |22+8 |0 |1+1  |0 |1    |0 |11   |1 }}
+{{Efs player|no=18|name=[[Óscar de Marcos]]|pos=DF|nat=ESP                                  |17+9 |0 |2    |1 |0+1  |0 |8+4  |0 }}
+{{Efs player|no=32|name=[[Adama Boiro]]|pos=DF|nat=ESP                                      |13+5 |0 |1    |0 |0    |0 |1    |1 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Midfielders
+{{Efs player|no=6 |name=[[Mikel Vesga]]|pos=MF|nat=ESP                                      |10+15 |0|1    |0 |0+1  |0 |0+7  |0 }}
+{{Efs player|no=8 |name=[[Oihan Sancet]]|pos=MF|nat=ESP                                     |19+10 |15|0   |0 |0    |0 |5+2  |2 }}
+{{Efs player|no=16|name=[[Iñigo Ruiz de Galarreta]]|pos=MF|nat=ESP                          |18+8  |0 |1    |0 |0   |0 |12+1  |0 }}
+{{Efs player|no=20|name=[[Unai Gómez]]|pos=MF|nat=ESP                                       |14+18|1 |0+1  |0 |1    |0 |5+8  |1 }}
+{{Efs player|no=23|name=[[Mikel Jauregizar]]|pos=MF|nat=ESP                                 |25+9  |2 |1+1  |0 |1    |0 |10+1 |1 }}
+{{Efs player|no=24|name=[[Beñat Prados]]|pos=MF|nat=ESP                                     |21+9  |1 |0+1  |0 |1    |0 |6+7  |1 }}
+{{Efs player|no=28|name=[[Peio Canales]]|pos=MF|nat=ESP                                     |2+6  |0 |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Forwards
+{{Efs player|no=7 |name=[[Álex Berenguer]]|pos=FW|nat=ESP                                   |28+8 |6 |2    |0 |1    |0 |7+7  |0 }}
+{{Efs player|no=9 |name=[[Iñaki Williams]]|pos=FW|nat=GHA                                   |29+6 |6 |1+1  |0 |1    |0 |11+1  |5 }}
+{{Efs player|no=10|name=[[Nico Williams]]|pos=FW|nat=ESP                                    |22+7 |5 |1+1  |1 |0+1  |0 |12+1  |5 }}
+{{Efs player|no=11|name=[[Álvaro Djaló]]|pos=FW|nat=GNB                                     |7+10  |1 |1+1  |0 |0+1  |0 |3+5  |0 }}
+{{Efs player|no=12|name=[[Gorka Guruzeta]]|pos=FW|nat=ESP                                   |21+15|7 |2    |0 |1    |0 |7+5  |1 }}
+{{Efs player|no=21|name=[[Maroan Sannadi]]|pos=FW|nat=MAR                                   |7+9  |1 |0    |0 |0    |0 |6    |0 }}
+{{Efs player|no=33|name=[[Aingeru Olabarrieta]]|pos=FW|nat=ESP                              |1    |0 |0    |0 |0    |0 |0+1   |0 }}
+{{Efs player|no=33|name=[[Endika Buján]]|pos=FW|nat=ESP                                     |0+1  |0 |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Players who have made an appearance this season but have left the club
+{{Efs player|no=19|name=[[Javier Martón]]|pos=FW|nat=ESP                                    |0+3  |0 |0    |0 |0    |0 |0+1  |1 }}
+{{Efs player|no=21|name=[[Ander Herrera]]|pos=MF|nat=ESP                                    |2+6  |0 |1    |0 |0    |0 |0+5  |0 }}
+{{Efs player|no=22|name=[[Nico Serrano]]|pos=FW|nat=ESP                                     |1+3  |0 |1+1  |0 |0+1  |0 |0+3  |1 }}
+{{Efs player|no=23|name=[[Malcom Adu Ares]]|pos=FW|nat=ESP                                  |0+1  |0 |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=26|name=[[Álex Padilla]]|pos=GK|nat=MEX                                     |3+2  |0 |0    |0 |0    |0 |0    |0 }}
+|}
+
+== References ==
+{{Reflist}}
+
+{{Athletic Bilbao seasons}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Athletic Bilbao season}}
+[[Category:Athletic Bilbao seasons]]
+[[Category:Spanish football clubs 2024–25 season|Athletic Bilbao]]
+[[Category:2024–25 UEFA Europa League participants seasons|Athletic Bilbao]]
+[[Category:2024 in the Basque Country (autonomous community)]]
+[[Category:2025 in the Basque Country (autonomous community)]]

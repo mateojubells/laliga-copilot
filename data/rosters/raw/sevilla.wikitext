@@ -1,0 +1,1700 @@
+{{Use dmy dates|date=September 2024}}
+{{Infobox football club season
+|club               = [[Sevilla FC]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[José María del Nido Carrasco]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[García Pimienta]]<br>''(until 13 April)''<br>[[Joaquín Caparrós]]<br>''(from 13 April)''
+|stdtitle           = 
+|stadium            = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|league             = [[2024–25 La Liga|La Liga]]
+|league result      = [[2024–25 La Liga|17th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Round of 32]]
+|league topscorer   = <br>[[Dodi Lukébakio]] (11)
+|season topscorer   = <br>Dodi Lukébakio (11)
+|highest attendance = 
+|lowest attendance  = 
+|average attendance = 35,574<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = [[Real Valladolid|Valladolid]] 0–4 Sevilla
+|largest loss       = [[FC Barcelona|Barcelona]] 5–1 Sevilla
+| pattern_la1 = _sevilla2425h
+| pattern_b1 = _sevilla2425h
+| pattern_ra1 = _sevilla2425h
+| pattern_sh1 = _sevilla2425h
+| pattern_so1 = _sevilla2425hl
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = 000000
+| pattern_la2 = _sevilla2425a
+| pattern_b2 = _sevilla2425a
+| pattern_ra2 = _sevilla2425a
+| pattern_sh2 = _sevilla2425a
+| pattern_so2 = _sevilla2425al
+| leftarm2 = f22335
+| body2 = f22335
+| rightarm2 = f22335
+| shorts2 = f22335
+| socks2 = f22335
+| pattern_la3 = _sevilla2425t
+| pattern_b3 = _sevilla2425t
+| pattern_ra3 = _sevilla2425t
+| pattern_sh3 = _sevilla2425t
+| pattern_so3 = _sevilla2425tl
+| leftarm3 = 000000
+| body3 = 000000
+| rightarm3 = 000000
+| shorts3 = 000000
+| socks3 = 000000
+|prevseason         = [[2023–24 Sevilla FC season|2023–24]]
+|nextseason         = [[2025–26 Sevilla FC season|2025–26]]
+}}
+The '''2024–25 season''' was the 118th season in the history of '''[[Sevilla FC|Sevilla Fútbol Club]]''', and the club's 24th consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+== Summary ==
+On 2 June 2024, Sevilla announced the signing of [[García Pimienta]], who left [[UD Las Palmas|Las Palmas]], on a two-season contract.<ref>{{cite news|url=http://sevillafc.es/en/actual/news/francisco-javier-garcia-pimienta-new-coach|title=García Pimienta appointed as new Head Coach|publisher=Sevilla FC|date=2 June 2024}}</ref> On 12 July, the Andalusian club signed a contract with Arsenal's Belgian player [[Albert Sambi Lokonga]], with the right to purchase included.<ref>{{Cite web|url=https://lastwordonsports.com/football/2024/07/13/arsenal-albert-lokonga-sevilla-loan-agreement/|title='Signed All Documents': Arsenal Poised To Offload Midfielder - Buy Option and Sell-On Clause Included|first=Uttiyo|last=Sarkar|date=13 July 2024}}</ref> On 15 July, Sevilla reached an agreement to bring [[Atletico Madrid]] midfielder [[Saúl (footballer, born 1994)|Saúl]] on loan.<ref>{{cite news|url=https://www.besoccer.com/new/official-saul-niguez-joins-sevilla-on-loan-from-atletico-madrid-1323558|title=OFFICIAL: Saul Niguez joins Sevilla on loan from Atletico Madrid|website=Besoccer|archive-url=https://web.archive.org/web/20240717055654/https://www.besoccer.com/new/official-saul-niguez-joins-sevilla-on-loan-from-atletico-madrid-1323558|archive-date=17 July 2024|access-date=17 July 2024|url-status=dead}}</ref>
+
+On 31 July, it was announced that Nigerian striker [[Kelechi Iheanacho]] had signed on a free transfer.<ref>{{cite news|url=https://onefootball.com/en/news/kelechi-iheanacho-joins-sevilla-on-a-free-transfer-39833895|title=Kelechi Iheanacho joins Sevilla on a free transfer|date=2 September 2024|website=OneFootball}}</ref> On 2 September, [[Loïc Badé]] extended his contract until 2029.<ref>{{Cite web|url=https://www.diariodesevilla.es/sevillafc/oficial-loic-bade-sevillista-2029_0_2002328454.html|title=Oficial: Loïc Badé, sevillista hasta 2029|first=Mario|last=Míjenz|date=2 September 2024|website=Diario de Sevilla|language=es}}</ref> On 24 September, Pimienta extended his contract for a third season.<ref>{{Cite web|url=https://www.besoccer.com/new/official-sevilla-renew-pimienta-until-2027-after-valladolid-win-1331895|title=OFFICIAL: Sevilla renew Pimienta until 2027 after Valladolid win|website=www.besoccer.com}}</ref>
+
+== Players ==
+=== First-team squad ===
+{{updated|3 February 2025|<ref>{{cite web|url=https://www.sevillafc.es/equipos/primer-equipo|title=Primer equipo|publisher=Sevilla FC|language=es|access-date=4 September 2023|archive-date=23 August 2023|archive-url=https://web.archive.org/web/20230823235551/https://www.sevillafc.es/equipos/primer-equipo|url-status=live}}</ref>}}
+{{Fs start}}
+{{Fs player|no=1|nat=ESP|pos=GK|name=[[Álvaro Fernández (footballer, born 1998)|Álvaro Fernández]]}}
+{{Fs player|no=2|nat=ESP|pos=DF|name=[[José Ángel Carmona]]}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=[[Adrià Pedrosa]]}}
+{{Fs player|no=4|nat=ESP|pos=DF|name=[[Kike Salas]]}}
+{{Fs player|no=5|nat=SUI|pos=FW|name=[[Rubén Vargas]]}}
+{{Fs player|no=6|nat=SRB|pos=MF|name=[[Nemanja Gudelj]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=7|nat=ESP|pos=FW|name=[[Isaac Romero]]}}
+{{Fs player|no=10|nat=ESP|pos=FW|name=[[Suso (footballer)|Suso]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{Fs player|no=11|nat=BEL|pos=FW|name=[[Dodi Lukébakio]]}}
+{{Fs player|no=12|nat=BEL|pos=MF|name=[[Albert Sambi Lokonga]]|other=on loan from [[Arsenal F.C.|Arsenal]]}}
+{{Fs player|no=13|nat=NOR|pos=GK|name=[[Ørjan Nyland]]}}
+{{Fs player|no=14|nat=ESP|pos=FW|name=[[Gerard Fernández|Peque]]}}
+{{Fs mid}}
+{{Fs player|no=15|nat=NGA|pos=FW|name=[[Akor Adams]]}}
+{{Fs player|no=17|nat=ESP|pos=MF|name=[[Saúl (footballer, born 1994)|Saúl]]|other=[[Captain (association football)#Vice-captain|3rd captain]]; on loan from [[Atlético Madrid]]}}
+{{Fs player|no=18|nat=FRA|pos=MF|name=[[Lucien Agoumé]]}}
+{{Fs player|no=20|nat=SUI|pos=MF|name=[[Djibril Sow]]}}
+{{Fs player|no=21|nat=NGA|pos=FW|name=[[Chidera Ejuke]]}}
+{{Fs player|no=22|nat=FRA|pos=DF|name=[[Loïc Badé]]}}
+{{Fs player|no=23|nat=BRA|pos=DF|name=[[Marcão (footballer, born 1996)|Marcão]]}}
+{{Fs player|no=24|nat=FRA|pos=DF|name=[[Tanguy Nianzou]]}}
+{{Fs player|no=26|nat=ESP|pos=DF|name=[[Juanlu Sánchez|Juanlu]]}}
+{{Fs player|no=27|nat=BEL|pos=FW|name=[[Stanis Idumbo]]}}
+{{Fs player|no=31|nat=ESP|pos=GK|name=[[Alberto Flores]]}}
+{{Fs end}}
+
+=== Reserve squad ===
+{{main|Sevilla Atlético}}
+{{Fs start}}
+{{Fs player|no=28|nat=ESP|pos=MF|name=[[Manu Bueno]]}}
+{{Fs player|no=29|nat=ESP|pos=DF|name=[[Darío Benavides]]}}
+{{Fs player|no=30|nat=ESP|pos=MF|name=[[Alberto Collado López|Alberto Collado]]}}
+{{Fs player|no=33|nat=ESP|pos=GK|name=[[Matías Árbol González|Matías Árbol]]}}
+{{Fs player|no=34|nat=COL|pos=FW|name=[[Mateo Mejía]]}}
+{{Fs player|no=35|nat=ESP|pos=DF|name=[[Ramón Martínez Gil|Ramón Martínez]]}}
+{{Fs player|no=37|nat=ESP|pos=MF|name=[[Pablo Rivera Cruz|Pablo Rivera]]}}
+{{Fs mid}}
+{{Fs player|no=38|nat=ESP|pos=DF|name=[[Diego Hormigo]]}}
+{{Fs player|no=40|nat=ESP|pos=DF|name=[[Andrés Castrín]]}}
+{{Fs player|no=41|nat=ESP|pos=MF|name=[[Isra Domínguez]]}}
+{{Fs player|no=42|nat=ESP|pos=FW|name=[[Álvaro García Pascual]]}}
+{{Fs player|no=43|nat=ESP|pos=GK|name=[[Rafael Romero Morilla|Rafael Romero]]}}
+{{Fs player|no=44|nat=PUR|pos=FW|name=[[Leandro Antonetti]]}}
+{{Fs end}}
+
+=== Out on loan ===
+{{Fs start}}
+{{Fs player|no=|nat=ARG|pos=DF|name=[[Federico Gattoni]]|other=at [[Club Atlético River Plate|River Plate]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=MF|name=[[Joan Jordán]]|other=at [[Deportivo Alavés|Alavés]] until 30 June 2025}}
+{{Fs player|no=|nat=BEL|pos=FW|name=[[Adnan Januzaj]]|other=at [[UD Las Palmas|Las Palmas]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|nat=NGA|pos=FW|name=[[Kelechi Iheanacho]]|other=at [[Middlesbrough F.C.|Middlesbrough]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Rafa Mir]]|other=at [[Valencia CF|Valencia]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Montiel, Gonzalo|{{flagicon|ARG}} [[Gonzalo Montiel]]}}
+|{{fbaicon|ENG}} [[Nottingham Forest F.C.|Nottingham Forest]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Carmona, José Ángel|{{flagicon|ESP}} [[José Ángel Carmona]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Augustinsson, Ludwig|{{flagicon|SWE}} [[Ludwig Augustinsson]]}}
+|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Gattoni, Federico|{{flagicon|ARG}} [[Federico Gattoni]]}}
+|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Delaney, Thomas|{{flagicon|DEN}} [[Thomas Delaney]]}}
+|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Óscar|{{flagicon|ESP}} [[Óscar Rodríguez (footballer, born 1998)|Óscar Rodríguez]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Cruz, Luismi|{{flagicon|ESP}} [[Luismi Cruz]]}}
+|{{fbaicon|ESP}} [[CD Tenerife|Tenerife]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Ejuke, Chidera|{{flagicon|NGA}} [[Chidera Ejuke]]}}
+|{{fbaicon|RUS}} [[PFC CSKA Moscow|CSKA Moscow]]
+|Free
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://sports.yahoo.com/sevilla-agree-free-agent-chidera-175000521.html|title=Sevilla agree free agent Chidera Ejuke signing|date=16 June 2024|website=Yahoo Sports}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Fernández, Gerard|{{flagicon|ESP}} [[Gerard Fernández|Peque]]}}
+|{{fbaicon|ESP}} [[Racing de Santander|Racing Santander]]
+|€4,000,000<ref>{{Cite web|url=https://www.football-espana.net/2024/07/11/sevilla-announce-second-signing-of-the-summer-with-arrival-of-21-year-old-goalscorer|title=Sevilla announce second signing of the summer with arrival of 21-year-old goalscorer|first=Ruairidh|last=Barlow|date=11 July 2024|website=Football España}}</ref>
+|{{dts|11 July 2024}}
+|<ref>{{cite news|url=http://sevillafc.es/en/actual/news/peque-signs-sevilla-fc-2425|title='Peque' become our second signing of the summer|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20240712061222/https://sevillafc.es/en/actual/news/peque-signs-sevilla-fc-2425|archive-date=12 July 2024|access-date=11 July 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Sambi Lokonga, Albert|{{flagicon|BEL}} [[Albert Sambi Lokonga]]}}
+|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|Loan
+|{{dts|12 July 2024}}
+|<ref>{{cite news|url=http://sevillafc.es/en/actual/news/agreement-in-principle-loan-lokogna-sevilla-fc|title=Agreement in principle with Arsenal for the loan of Lokonga|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20240716161216/https://sevillafc.es/en/actual/news/agreement-in-principle-loan-lokogna-sevilla-fc|archive-date=16 July 2024|access-date=16 July 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Saúl|{{flagicon|ESP}} [[Saúl (footballer, born 1994)|Saúl]]}}
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|Loan
+|{{dts|15 July 2024}}
+|<ref>{{cite news|url=http://sevillafc.es/en/actual/news/loan-saul-sevilla-fc-2024-2025|title=Saúl becomes our fourth signing of the summer|date=15 July 2024|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20240815145252/https://sevillafc.es/en/actual/news/loan-saul-sevilla-fc-2024-2025|archive-date=15 August 2024|access-date=16 July 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Iheanacho, Kelechi|{{flagicon|NGA}} [[Kelechi Iheanacho]]}}
+|Unattached
+|Free
+|{{dts|31 July 2024}}
+|<ref>{{cite news|url=https://sevillafc.es/en/actual/news/kelechi-iheanacho-new-signing|title=Iheanacho signs on a two-year deal|date=31 July 2024|access-date=31 July 2024|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20240731170304/https://sevillafc.es/en/actual/news/kelechi-iheanacho-new-signing|archive-date=31 July 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Agoume, Lucien|{{flagicon|FRA}} [[Lucien Agoumé]]}}
+|{{fbaicon|ITA}} [[Inter Milan]]
+|€5,000,000
+|{{dts|6 August 2024}}
+|<ref>{{cite news|url=https://sevillafc.es/en/actual/news/signing-lucien-agoume-june-2028|title=Agreement for the transfer of Agoumé|date=6 August 2024|access-date=6 August 2024|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20240823050000/https://sevillafc.es/en/actual/news/signing-lucien-agoume-june-2028|archive-date=23 August 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Fernandez, Alvaro|{{flagicon|ESP}} [[Álvaro Fernández (footballer, born 1998)|Álvaro Fernández]]}}
+|Unattached
+|Free
+|{{dts|13 August 2024}}
+|<ref>{{cite news|url=https://sevillafc.es/en/actual/news/alvaro-fernandez-sevilla-fc-august-2024|title=Álvaro Fernández signs on a free|date=13 August 2024|access-date=13 August 2024|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20240829215015/https://sevillafc.es/en/actual/news/alvaro-fernandez-sevilla-fc-august-2024|archive-date=29 August 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Barco, Valentin|{{flagicon|ARG}} [[Valentín Barco]]}}
+|{{fbaicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|Loan
+|{{dts|23 August 2024}}
+|<ref>{{cite news|url=https://sevillafc.es/en/actual/news/loan-valentin-barco-sevilla-fc-2425|title=Valentín Barco signs on a season-loan loan|date=23 August 2024|access-date=23 August 2024|publisher=Sevilla FC}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Vargas, Ruben|{{flagicon|SUI}} [[Rubén Vargas]]}}
+|{{fbaicon|GER}} [[FC Augsburg]]
+|€2,500,000
+|{{dts|9 January 2025}}
+|<ref>{{cite news|url=https://sevillafc.es/en/current/news/signing-ruben-vargas-2025|title=Rubén Vargas becomes first signing of 2025|date=9 January 2025|access-date=9 January 2025|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20250222174314/https://sevillafc.es/en/current/news/signing-ruben-vargas-2025|archive-date=22 February 2025|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Adams, Akor|{{flagicon|NGA}} [[Akor Adams]]}}
+|{{fbaicon|FRA}} [[Montpellier HSC|Montpellier]]
+|€5,500,000
+|{{dts|27 January 2025}}
+|<ref>{{cite news|url=https://sevillafc.es/en/current/news/akor-adams-signs-montpellier|title=Akor Adams signs from Montpellier HSC|date=27 January 2025|access-date=27 January 2025|publisher=Sevilla FC}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 115px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Agoume, Lucien|{{flagicon|FRA}} [[Lucien Agoumé]]}}
+|{{fbaicon|ITA}} [[Inter Milan]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Mejbri, Hannibal|{{flagicon|TUN}} [[Hannibal Mejbri]]}}
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|End of loan
+|{{dts|30 June 2024}}
+|<ref>{{cite news|url=https://www.unitedinfocus.com/news/14m-manchester-united-man-systematically-ignored-on-loan-after-just-one-start/|title=£14m Manchester United man 'systematically ignored' on loan after just one start|first=Dan|last=Owen|date=20 May 2024|website=United In Focus}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Soumare, Boubakary|{{flagicon|FRA}} [[Boubakary Soumaré]]}}
+|{{fbaicon|ENG}} [[Leicester City F.C.|Leicester City]]
+|End of loan
+|{{dts|30 June 2024}}
+|<ref>{{cite news|url=https://onefootball.com/en/news/soumare-se-despide-del-sevillismo-39551585|title=Soumaré se despide del Sevillismo|date=7 June 2024|website=OneFootball|language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Veliz, Alejo|{{flagicon|ARG}} [[Alejo Véliz (footballer)|Alejo Véliz]]}}
+|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Torres, Oliver|{{flagicon|ESP}} [[Óliver Torres]]}}
+|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=http://sevillafc.es/en/current/news/oliver-torres-goodbye-may-2024|title=Óliver Torres says goodbye after making over 200 appearances for the club|publisher=Sevilla FC|date=31 May 2024|archive-url=https://web.archive.org/web/20240601095715/https://sevillafc.es/en/current/news/oliver-torres-goodbye-may-2024|archive-date=1 June 2024|access-date=7 June 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Lamela, Erik|{{flagicon|ARG}} [[Erik Lamela]]}}
+|{{fbaicon|GRE}} [[AEK Athens F.C.|AEK Athens]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.flashscore.com/news/soccer-laliga-erik-lamela-to-leave-sevilla-as-a-free-agent-after-three-years-at-club/hn60IXi4/|title=Erik Lamela to leave Sevilla as a free agent after three years at club|website=Flashscore|date=29 May 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Ramos, Sergio|{{flagicon|ESP}} [[Sergio Ramos]]}}
+|[[Free agent]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.sportsmax.tv/football/item/148298-sergio-ramos-to-leave-sevilla-after-brief-return-to-boyhood-club|title=Sergio Ramos to leave Sevilla after brief return to boyhood club|website=Sportsmax}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Mariano|{{flagicon|DOM}} [[Mariano Díaz|Mariano]]}}
+|[[Free agent]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.mundiario.com/articulo/deportes/sevilla-renovara-mariano-delantero-marchara-libre-finales-mes/20240612022420310827.html|title=El Sevilla no renovará a Mariano: el delantero se marchará libre a finales de mes|date=12 June 2024|website=Mundiario|language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Gattoni, Federico|{{flagicon|ARG}} [[Federico Gattoni]]}}
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|Loan
+|{{dts|3 July 2024}}
+|<ref>{{cite news|url=http://sevillafc.es/en/actual/news/gattoni-river-plate-loan-2425|title=Fede Gattoni joins River Plate on loan|publisher=Sevilla FC|date=3 July 2024|access-date=3 July 2024|archive-url=https://web.archive.org/web/20241218084407/https://sevillafc.es/en/actual/news/gattoni-river-plate-loan-2425|archive-date=18 December 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Mir, Rafa|{{flagicon|ESP}} [[Rafa Mir]]}}
+|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|Loan
+|{{dts|11 July 2024}}
+|<ref>{{cite news|url=http://sevillafc.es/en/actual/news/rafa-mir-loan-valencia-cf|title=Agreement with Valencia CF for the loan of Rafa Mir|publisher=Sevilla FC|date=11 August 2024|access-date=11 August 2024|archive-url=https://web.archive.org/web/20241219044745/https://sevillafc.es/en/actual/news/rafa-mir-loan-valencia-cf|archive-date=19 December 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Delaney, Thomas|{{flagicon|DEN}} [[Thomas Delaney]]}}
+|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|Contract terminated
+|{{dts|19 July 2024}}
+|<ref>{{cite news|url=https://onefootball.com/en/news/thomas-delaney-deja-el-sevilla-39782242|title=Thomas Delaney deja el Sevilla|date=19 July 2024|website=OneFootball|access-date=19 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Januzaj, Adnan|{{flagicon|BEL}} [[Adnan Januzaj]]}}
+|{{fbaicon|ESP}} [[UD Las Palmas|Las Palmas]]
+|Loan
+|{{dts|24 July 2024}}
+|<ref>{{cite news|url=http://sevillafc.es/en/actual/news/las-palmas-loan-januzaj-2025|title=Januzaj loaned to Las Palmas|date=24 July 2024|publisher=Sevilla FC|access-date=24 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|FW}}
+|{{sort|En-Nesyri, Youssef|{{flagicon|MAR}} [[Youssef En-Nesyri]]}}
+|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|€19,500,000
+|{{dts|24 July 2024}}
+|<ref name=Nesyri>{{cite news |url=https://www.fenerbahce.org/haberler/futbol/2024/7/fenerbahcemize-hos-geldin-youssef-en-nesyri |title=Fenerbahçemize hoş geldin Youssef En-Nesyri |date=25 July 2024 |publisher=Fenerbahçe S.K. |access-date=25 July 2024 |language=tr}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Augustinsson, Ludwig|{{flagicon|SWE}} [[Ludwig Augustinsson]]}}
+|{{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|Undisclosed
+|{{dts|6 August 2024}}
+|<ref>{{cite web |title=Welcome back, Ludwig Augustinsson |url=https://www.rsca.be/en/Ludwig2027 |website=R.S.C. Anderlecht |access-date=6 August 2024 |language=en |date=6 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Oscar|{{flagicon|ESP}} [[Óscar Rodríguez (footballer, born 1998)|Óscar Rodríguez]]}}
+|{{fbaicon|ESP}} [[CD Leganés|Leganés]]
+|Free
+|{{dts|11 August 2024}}
+|<ref>{{cite news|url=https://sevillafc.es/en/actual/news/tranfer-oscar-rodriguez-cd-leganes-2024|title=Óscar Rodríguez moves on a permanent transfer to CD Leganés|date=11 August 2024|access-date=11 August 2024|publisher=Sevilla FC}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Dmitrovic, Marko|{{flagicon|SRB}} [[Marko Dmitrović]]}}
+|{{fbaicon|ESP}} [[CD Leganés|Leganés]]
+|Free
+|{{dts|11 August 2024}}
+|<ref>{{cite news|url=https://sevillafc.es/en/actual/news/dmitrovic-transfer-cd-leganes-2024|title=Dmitrovic moves to CD Leganés on a permanent deal|date=11 August 2024|access-date=11 August 2024|publisher=Sevilla FC|archive-url=https://web.archive.org/web/20250126193838/https://sevillafc.es/en/actual/news/dmitrovic-transfer-cd-leganes-2024|archive-date=26 January 2025|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Acuña, Marcos|{{flagicon|ARG}} [[Marcos Acuña]]}}
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|€1,000,000
+|{{dts|20 August 2024}}
+|<ref>{{cite web|url=https://www.ambito.com/deportes/river-plate-oficializo-la-llegada-marcos-acuna-y-le-dio-una-divertida-bienvenida-redes-sociales-n6050885|title=River Plate oficializó la llegada de Marcos Acuña y le dio una divertida bienvenida en redes sociales|website=Ambito}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Jordan, Joan|{{flagicon|ESP}} [[Joan Jordán]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|Loan
+|{{dts|29 August 2024}}
+|<ref>{{cite news|url=https://sevillafc.es/en/actual/news/loan-joan-jordan-alaves-sevilla-fc-2425|title=Agreement with Alavés for the loan of Joan Jordán|date=29 August 2024|access-date=29 August 2024|publisher=Sevilla FC}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Ocampos, Lucas|{{flagicon|ARG}} [[Lucas Ocampos]]}}
+|{{fbaicon|MEX}} [[C.F. Monterrey|Monterrey]]
+|€7,250,000<ref>{{Cite web|url=https://sportune.20minutes.fr/om-asm-ce-que-le-transfert-docampos-doit-leur-rapporter-au-titre-de-la-formation|title=OM, ASM: Ce que le transfert d'Ocampos doit leur rapporter au titre de la formation|first=Emmanuel|last=Bernard|date=3 September 2024|website=Sportune|access-date=3 September 2024|archive-url=https://web.archive.org/web/20240903204243/https://sportune.20minutes.fr/om-asm-ce-que-le-transfert-docampos-doit-leur-rapporter-au-titre-de-la-formation|archive-date=3 September 2024|url-status=dead}}</ref>
+|{{dts|3 September 2024}}
+|<ref>{{Cite web|url=https://sevillafc.es/actualidad/noticias/acuerdo-traspaso-ocampos-rayados-2425|title=Acuerdo con Rayados para el traspaso de Lucas Ocampos|website=sevillafc.es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Navas, Jesus|{{flagicon|ESP}} [[Jesús Navas]]}}
+|Retired
+|End of contract
+|{{dts|31 December 2024}}
+|<ref>{{cite news|url=https://www.espn.com/soccer/story/_/id/43108242/jesus-navas-retires-sevilla-defeat-real-madrid|title=Jesús Navas retires after Sevilla defeat to Real Madrid|date=22 December 2024|access-date=22 December 2024|publisher=ESPN}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Montiel, Gonzalo|{{flagicon|ARG}} [[Gonzalo Montiel]]}}
+|{{fbaicon|ARG}} [[Club Atlético River Plate|River Plate]]
+|€4,500,000
+|{{dts|13 January 2025}}
+|<ref>{{cite news|url=https://sevillafc.es/en/current/news/montiel-river-plate-2025|title=Agreement reached with River Plate for the transfer of Gonzalo Montiel|date=13 January 2025|publisher=Sevilla FC|access-date=13 January 2025}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Ortiz, Pedro|{{flagicon|ESP}} [[Pedro Ortiz (footballer, born 2000)|Pedro Ortiz]]}}
+|{{fbaicon|ESP}} [[Córdoba CF|Córdoba]]
+|Free
+|{{dts|31 January 2025}}
+|<ref>{{cite news|url=https://sevillafc.es/en/current/news/agreement-cordoba-transfer-pedro-ortiz-2025|title=Agreement reached with Córdoba for the transfer of Pedro Ortiz|date=31 January 2025|publisher=Sevilla FC|access-date=31 January 2025}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Barco, Valentin|{{flagicon|ARG}} [[Valentín Barco]]}}
+|{{fbaicon|ENG}} [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|Loan terminated
+|{{dts|2 February 2025}}
+|<ref>{{cite news|url=https://sevillafc.es/en/current/news/loan-terminated--barco-january-2025|title=Agreeement reached to end Barco loan|date=2 February 2025|access-date=2 February 2025|publisher=Sevilla FC}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Iheanacho, Kelechi|{{flagicon|NGA}} [[Kelechi Iheanacho]]}}
+|{{fbaicon|ENG}} [[Middlesbrough F.C.|Middlesbrough]]
+|Loan
+|{{dts|3 February 2025}}
+|<ref>{{cite news|url=https://sevillafc.es/en/current/news/agreement-middlesbrough-fc-loan-iheanacho-2025|title=Agreement reached with Middlesbrough FC for the loan of Iheanacho|date=3 February 2025|access-date=3 February 2025|publisher=Sevilla FC}}</ref>
+|}
+
+== Friendlies ==
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 15 July 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 0–2
+|report = https://sevillafc.es/en/actual/match-report-orlando-pirates-july-2024
+|team2 = [[Orlando Pirates F.C.|Orlando Pirates]]
+|goals1 =
+*[[Djibril Sow|Sow]] {{yel|86}}
+|goals2 =
+*[[Miguel Timm|Timm]] {{yel|19}}, {{goal|21}}
+*[[Kabelo Dlamini|Dlamini]] {{goal|82}}
+|stadium = [[Ciudad Deportiva José Ramón Cisneros Palacios|Estadio Jesús Navas]]
+|location = [[Seville]]
+|attendance = 
+|referee = José Antonio Palomares ([[Royal Spanish Football Federation|Spain]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 23 July 2024
+|time = 20:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sporting CP]]
+|score = 2–1
+|report = https://sevillafc.es/en/actual/news/match-report-sporting-cp-sevilla-fc-july-2024
+|team2 = Sevilla
+|goals1 =
+*[[Rodrigo Ribeiro (footballer, born 2005)|Ribeiro]] {{goal|14}}
+*[[Francisco Trincão|Trincão]] {{goal|46}}
+*[[Ousmane Diomande|Diomande]] {{sentoff|0|83}}
+|goals2 =
+*[[Djibril Sow|Sow]] {{yel|5}}
+*[[Lucas Ocampos|Ocampos]] {{yel|33}}
+*[[Ramón Martínez (footballer, born 2002)|Martínez]] {{yel|79}}, {{goal|85}}
+*[[Alberto Collado|Collado]] {{yel|83}}
+|stadium = [[Estádio Algarve]]
+|location = [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance = 
+|referee = Fábio Veríssimo ([[Portuguese Football Federation|Portugal]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Antonio Puerta Trophy]]
+|date = 26 July 2024
+|time = 22:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 1–0
+|report = https://sevillafc.es/en/actual/news/match-report-xiii-trofeo-antonio-puerta-sevilla-fc-al-ittihad
+|team2 = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|goals1 =
+*[[Kike Salas|Salas]] {{yel|17}}
+*[[Lucas Ocampos|Ocampos]] {{goal|42|pen.}}
+|goals2 =
+*[[Karim Benzema|Benzema]] {{penmiss}} {{small|18'}}
+*[[Luiz Felipe (footballer, born March 1997)|Luiz Felipe]] {{yel|24}}
+*[[Awad Al-Nashri|Al-Nashri]] {{yel|34}}
+*[[Saleh Al-Shehri|Al-Shehri]] {{yel|90+1}}
+*[[Abdulelah Hawsawi|Hawsawi]] {{yel|90+2}}
+*[[Farhah Al-Shamrani|Al-Shamrani]] {{yel|90+6}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 21,475
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 31 July 2024
+|time = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 2–0
+|report = https://sevillafc.es/actualidad/noticias/cronica-amistoso-sevilla-fc-granada-cf-2425
+|team2 = [[Granada CF|Granada]]
+|goals1 =
+*[[Djibril Sow|Sow]] {{goal|22}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{goal|49}}
+|goals2 =
+|stadium = [[Ciudad Deportiva José Ramón Cisneros Palacios|Estadio Jesús Navas]]
+|location = [[Seville]]
+|attendance = 0
+|referee = 
+|result = W
+|note = [[Behind closed doors (sport)|Behind closed doors]]
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 5 August 2024
+|time = 20:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Fulham F.C.|Fulham]]
+|score = 1–2
+|report = https://sevillafc.es/actualidad/noticias/cronica-sevilla-fc-fulham-fc-agosto
+|team2 = Sevilla
+|goals1 =
+*[[Emile Smith Rowe|Smith Rowe]] {{goal|52}}
+|goals2 =
+*[[Isaac Romero|Romero]] {{goal|2||45}}
+|stadium = [[Estádio Algarve]]
+|location = [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance = 
+|referee = Hugo Silva ([[Portuguese Football Federation|Portugal]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 11 August 2024
+|time = 12:30 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 4–1
+|report = https://sevillafc.es/en/actuaL/news/match-report-friendly-liverpool-fc-sevilla-fc
+|team2 = Sevilla
+|goals1 =
+*[[Diogo Jota|Jota]] {{goal|30}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|39||45+1}}
+*[[Trey Nyoni|Nyoni]] {{goal|67}}
+|goals2 =
+*[[Darío Benavides|Benavides]] {{yel|42}}
+*[[Gerard Fernández|Peque]] {{goal|66}}
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 59,122
+|referee = [[Robert Jones (referee)|Robert Jones]] ([[The Football Association|England]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 
+|time = 
+|team1 = [[Hokkaido Consadole Sapporo]]
+|score = Cancelled
+|report = 
+|team2 = Sevilla
+|goals1 =
+|goals2 =
+|stadium = 
+|location = Japan
+|attendance = 
+|referee = 
+|result = P
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 
+|time = 
+|team1 = [[Sagan Tosu]]
+|score = Cancelled
+|report = 
+|team2 = Sevilla
+|goals1 =
+|goals2 =
+|stadium = 
+|location = Japan
+|attendance = 
+|referee = 
+|result = P
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 27 May 2025
+|time = 20:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Wydad AC]]
+|score = 0–1
+|report = https://sevillafc.es/actualidad/noticias/cronica-wydad-casablanca-sevilla-fc-mayo-25
+|team2 = Sevilla
+|goals1 =
+*[[Mickaël Malsa|Malsa]] {{yel|24}}
+|goals2 =
+*[[Lucien Agoumé|Agoumé]] {{yel|25}}
+*[[Gerard Fernández|Peque]] {{goal|50}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|90+3}}
+|stadium = [[Mohammed V Stadium]]
+|location = [[Casablanca]], Morocco
+|attendance = 
+|referee = 
+|result = W
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=16 August 2024 |lm1=25 May 2025 |sr1=Matchday 1 |fp1=17th |w1=10 |d1=11 |l1=17 |f1=42 |a1=55
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=30 October 2024 |lm2=4 January 2025 |sr2=First round |fp2=Round of 32 |w2=2 |d2=0 |l2=1 |f2=7 |a2=5
+|s=[https://int.soccerway.com/teams/spain/sevilla-futbol-club/2021/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=SEV}}
+
+==== Results summary ====
+{{Fb rs |hw=6 |hd=6 |hl=7 |hgf=17 |hga=23 |aw=4 |ad=5 |al=10 |agf=25 |aga=32 }}
+{{Fb rs footer |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| res1=A/H/A/H/H/A/H/A/H/A/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/H/A
+| label2=Result
+| res2=D/L/D/L/W/L/W/D/W/L/W/L/L/W/D/L/W/L/D/W/D/D/L/W/D/D/W/L/L/L/L/D/L/D/L/W/L/L
+| label3=Position
+| pos3=6/13/17/19/14/15/13/13/12/13/10/13/13/12/11/13/11/14/13/11/12/12/13/12/11/12/10/10/11/12/14/15/15/16/16/14/16/17
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 16 August 2024
+|time = 20:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-sevilla-fc-1
+|team2 = Sevilla
+|goals1 =
+*[[Tanguy Nianzou|Nianzou]] {{goal|42|o.g.}}
+*[[Sandro Ramírez|Sandro]] {{goal|71}}
+*[[Viti (footballer)|Viti]] {{yel|81}}
+*[[Mika Mármol|Mármol]] {{yel|90+6}}
+|goals2 =
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{goal|25|o.g.}}
+*[[Juanlu Sánchez|Juanlu]] {{yel|34}}, {{goal|61}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|80}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 24,843
+|referee = Francisco José Hernández Maeso
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 23 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-villarreal-cf-2
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Isaac Romero|Romero]] {{yel|45+2}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|45+6}}
+*[[José Ángel Carmona|Carmona]] {{yel|81}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|90+6}}
+|goals2 =
+*[[Arnaut Danjuma|Danjuma]] {{goal|2}}, {{yel|63}}
+*[[Álex Baena|Baena]] {{yel|45+1}}
+*[[Eric Bailly|Bailly]] {{yel|84}}
+*[[Dani Parejo|Parejo]] {{yel|88}}
+*[[Ayoze Pérez|Pérez]] {{goal|90+5}}, {{yel|90+9}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 34,004
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 27 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-sevilla-fc-3
+|team2 = Sevilla
+|goals1 =
+|goals2 =
+*[[Djibril Sow|Sow]] {{yel|88}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{sent off|0|89}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 20,470
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-girona-fc-4
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Albert Sambi Lokonga|Sambi Lokonga]] {{yel|47}}
+*[[Loïc Badé|Badé]] {{yel|67}}
+*[[Isaac Romero|Romero]] {{yel|90+4}}
+|goals2 =
+*[[Iván Martín (footballer, born 1999)|Martín]] {{goal|41}}
+*[[Yáser Asprilla|Asprilla]] {{yel|63}}
+*[[Abel Ruiz|Ruiz]] {{goal|73|pen.}}
+*[[Alejandro Francés|Francés]] {{yel|76}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,735
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 14 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-getafe-cf-5
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Jesús Navas|Navas]] {{goal|23}}
+*[[Isaac Romero|Romero]] {{yel|56}}
+*[[Juanlu Sánchez|Juanlu]] {{sentoff|2|83|87}}
+|goals2 =
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|45+1}}
+*[[Djené]] {{yel|63}}
+*[[Jesús Santiago|Santiago]] {{yel|90}}
+*[[Álex Sola|Sola]] {{yel|90+9}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 32,643
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 20 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-sevilla-fc-6
+|team2 = Sevilla
+|goals1 =
+*[[Carlos Vicente (footballer)|Vicente]] {{goal|17}}
+*[[Carlos Martín (footballer)|Martín]] {{goal|60}}
+*[[Jon Guridi|Guridi]] {{yel|87}}
+|goals2 =
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|33}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|45+1}}
+*[[Loïc Badé|Badé]] {{yel|75}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|83}}
+*[[Kike Salas|Salas]] {{yel|90+5}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,538
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 24 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-real-valladolid-cf-7
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 = 
+*[[Nemanja Gudelj|Gudelj]] {{yel|21}}
+*[[David Torres (footballer, born 2003)|Torres]] {{goal|45|o.g.}}
+*[[Dodi Lukébakio|Lukébakio]] {{yel|66}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{sentoff|2|78|90}}
+*[[Chidera Ejuke|Ejuke]] {{goal|85}}
+*[[Gerard Fernández|Peque]] {{yel|90+1}}
+|goals2 = 
+*[[Marcos André]] {{yel|33}}
+*[[Lucas Rosa|Rosa]] {{yel|37}}
+*[[Kike Pérez|Pérez]] {{goal|56}}
+*[[Stanko Jurić|Jurić]] {{yel|82}}
+*[[David Torres (footballer, born 2003)|Torres]] {{yel|90+5}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,292
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 8
+|date = 29 September 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Athletic Bilbao]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-sevilla-fc-8
+|team2 = Sevilla
+|goals1 =
+*[[Mikel Jauregizar|Jauregizar]] {{goal|36}}
+*[[Julen Agirrezabala|Agirrezabala]] {{sentoff|0|82}}
+|goals2 =
+*[[José Ángel Carmona|Carmona]] {{yel|55}}
+*[[Álex Padilla|Padilla]] {{goal|90+3|o.g.}}
+*[[Tanguy Nianzou|Nianzou]] {{yel|90+6}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|90+7}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,288
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = [[Seville derby|9]]
+|date = 6 October 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-real-betis-9
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Dodi Lukébakio|Lukébakio]] {{goal|50|pen.}}
+*[[Nemanja Gudelj|Gudelj]] {{yel|54}}
+*[[Tanguy Nianzou|Nianzou]] {{sentoff|2|76|90}}
+*[[Ørjan Nyland|Nyland]] {{yel|78}}
+*[[José Ángel Carmona|Carmona]] {{yel|81}}
+*[[Lucien Agoumé|Agoumé]] {{yel|84}}
+|goals2 =
+*[[Abde Ezzalzouli|Ezzalzouli]] {{yel|20}}
+*[[Natan (footballer, born 2001)|Natan]] {{yel|52}}
+*[[Chimy Ávila|Ávila]] {{yel|83}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 42,571 
+|referee = [[Juan Martínez Munuera]]
+|result = W
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 5–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-sevilla-fc-10
+|team2 = Sevilla
+|goals1 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|24|pen.|39}}
+*[[Pedri]] {{goal|28}}
+*[[Ansu Fati|Fati]] {{yel|74}}
+*[[Pablo Torre (footballer)|Torre]] {{goal|82||88}}
+|goals2 =
+*[[Adrià Pedrosa|Pedrosa]] {{yel|45+4}}
+*[[Djibril Sow|Sow]] {{yel|85}}
+*[[Stanis Idumbo Muzambo|Idumbo]] {{goal|87}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 47,848
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 25 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-sevilla-fc-11
+|team2 = Sevilla
+|goals1 =
+*[[Antoniu Roca|Roca]] {{yel|82}}
+*[[Pol Lozano|Lozano]] {{yel|90+1}}
+|goals2 =
+*[[Dodi Lukébakio|Lukébakio]] {{goal|20||45}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 23,656
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-real-sociedad-12
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Isaac Romero|Romero]] {{yel|11}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|66}}
+|goals2 =
+*[[Takefusa Kubo|Kubo]] {{goal|34}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|68|pen.}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{yel|75}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 37,619
+|referee = Alejandro Muñiz Ruiz
+|result = L
+}}
+{{Football box collapsible
+|round = 13
+|date = 9 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-sevilla-fc-13
+|team2 = Sevilla
+|goals1 =
+*[[Sergio González (footballer, born 1992)|González]] {{yel|41}}
+*[[Seydouba Cissé|Cissé]] {{yel|69}}
+*[[Miguel de la Fuente|De la Fuente]] {{goal|82|pen.}}
+|goals2 =
+*[[Lucien Agoumé|Agoumé]] {{sentoff|0|80}}
+*[[Nemanja Gudelj|Gudelj]] {{yel|87}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 11,167
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 14
+|date = 24 November 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rayo-vallecano-14
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Djibril Sow|Sow]] {{goal|27}}
+*[[Loïc Badé|Badé]] {{yel|40}}
+*[[Kike Salas|Salas]] {{yel|46}}
+|goals2 =
+*[[Jorge de Frutos|De Frutos]] {{yel|9}}
+*[[Florian Lejeune|Lejeune]] {{yel|20}}
+*[[Óscar Valentín|Valentín]] {{yel|31}}
+*[[Álvaro García (footballer, born 1992)|García]] {{yel|37}}
+*[[Unai López|López]] {{sentoff|0|45+1}}
+*[[Augusto Batalla|Batalla]] {{yel|90+2}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,125
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 15
+|date = 2 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-ca-osasuna-15
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Djibril Sow|Sow]] {{yel|50}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|72}}
+|goals2 =
+*[[Ante Budimir|Budimir]] {{goal|69}}
+*[[Alejandro Catena|Catena]] {{yel|80}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 31,536
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Atlético Madrid]]
+|score = 4–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-sevilla-fc-16
+|team2 = Sevilla
+|goals1 =
+*[[Rodrigo De Paul|De Paul]] {{goal|10}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|48}}
+*[[Antoine Griezmann|Griezmann]] {{goal|62||90+4}}, {{yel|90+5}}
+*[[Julián Alvarez|Alvarez]] {{yel|72}}
+*[[Samuel Lino|Lino]] {{goal|79}}
+*[[Javi Galán|Galán]] {{yel|87}}
+|goals2 =
+*[[Dodi Lukébakio|Lukébakio]] {{goal|12}}
+*[[Isaac Romero|Romero]] {{goal|32}}
+*[[Lucien Agoumé|Agoumé]] {{yel|49}}
+*[[Juanlu Sánchez|Juanlu]] {{goal|57}}
+*[[Álvaro Fernández (footballer, born 1998)|Fernández]] {{yel|67}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|76}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,065
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 14 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rc-celta-17
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Lucien Agoumé|Agoumé]] {{yel|45}}
+*[[Manu Bueno|Bueno]] {{goal|65}}
+*[[Gonzalo Montiel|Montiel]] {{yel|83}}
+*[[Loïc Badé|Badé]] {{yel|90+3}}
+*[[Álvaro Fernández (footballer, born 1998)|Fernández]] {{yel|90+3}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|90+4}}
+*[[Darío Benavides|Benavides]] {{yel|90+5}}
+*[[Álvaro García Pascual|Pascual]] {{yel|90+6}}
+|goals2 =
+*[[Pablo Durán|Durán]] {{yel|48}}
+*[[Carl Starfelt|Starfelt]] {{yel|89}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|90+3}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 37,295
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-sevilla-fc-18
+|team2 = Sevilla
+|goals1 =
+*[[Kylian Mbappé|Mbappé]] {{goal|10}}
+*[[Federico Valverde|Valverde]] {{goal|20}}, {{yel|78}}
+*[[Rodrygo]] {{goal|34}}
+*[[Brahim Díaz|Brahim]] {{goal|53}}
+|goals2 =
+*[[Albert Sambi Lokonga|Sambi Lokonga]] {{yel|12}}
+*[[Isaac Romero|Romero]] {{goal|35}}
+*[[Kike Salas|Salas]] {{yel|76}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|85}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 75,227
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 11 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-valencia-cf-19
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Djibril Sow|Sow]] {{yel|70}}
+*[[Adrià Pedrosa|Pedrosa]] {{goal|90+3}}
+|goals2 =
+*[[Dimitri Foulquier|Foulquier]] {{yel|34}}
+*[[Luis Rioja|Rioja]] {{goal|61}}
+*[[Umar Sadiq|Sadiq]] {{yel|75}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 34,297
+|referee = Francisco José Hernández Maeso
+|result = D
+}}
+{{Football box collapsible
+|round = 20
+|date = 18 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Girona FC|Girona]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-sevilla-fc-20
+|team2 = Sevilla
+|goals1 =
+*[[Arnau Martínez|Martínez]] {{goal|36}}
+|goals2 =
+*[[Isaac Romero|Romero]] {{penmiss}} {{small|3'}}, {{yel|65}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|55}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{goal|59}}, {{yel|90+3}}
+*[[José Ángel Carmona|Carmona]] {{yel|76}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|88}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,040
+|referee = [[Juan Martínez Munuera]]
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 25 January 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rcd-espanyol-21
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Loïc Badé|Badé]] {{goal|61}}
+*[[Juanlu Sánchez|Juanlu]] {{yel|65}}
+|goals2 =
+*[[Marash Kumbulla|Kumbulla]] {{goal|15}}
+*[[Roberto Fernández (footballer, born 2002)|Fernández]] {{yel|45+5}}
+*[[Álvaro Tejero|Tejero]] {{yel|48}}
+*[[Pol Lozano|Lozano]] {{yel|56}}
+*[[Edu Expósito|Expósito]] {{yel|79}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 33,602
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 1 February 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-sevilla-fc-22
+|team2 = Sevilla
+|goals1 =
+*[[Coba da Costa|Coba]] {{yel|25}}
+*[[Juan Berrocal|Berrocal]] {{yel|37}}
+*[[Djené]] {{yel|38}}
+*[[Juan Iglesias|Iglesias]] {{yel|56}}
+|goals2 =
+*[[Isaac Romero|Romero]] {{yel|19}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|24}}
+*[[Dodi Lukébakio|Lukébakio]] {{yel|50}}
+*[[Albert Sambi Lokonga|Sambi Lokonga]] {{yel|54}}
+*[[José Ángel Carmona|Carmona]] {{yel|90+1}}
+*[[Nemanja Gudelj|Gudelj]] {{yel|90+7}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 11,730
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = D
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 1–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-fc-barcelona-23
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Rubén Vargas|Vargas]] {{goal|8}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|16}}
+*[[Isaac Romero|Romero]] {{yel|45+4}}
+*[[Loïc Badé|Badé]] {{yel|67}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|88}}
+*[[Suso (footballer)|Suso]] {{yel|90+5}}
+|goals2 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|7}}
+*[[Gavi (footballer)|Gavi]] {{yel|38}}
+*[[Fermín López|López]] {{goal|46}}, {{sentoff|0|62}}
+*[[Raphinha]] {{goal|55}}
+*[[Eric García (footballer, born 2001)|García]] {{yel|80}}, {{goal|89}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 38,592
+|referee = [[Alejandro Hernández Hernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-sevilla-fc-24
+|team2 = Sevilla
+|goals1 =
+*[[Tamás Nikitscher|Nikitscher]] {{yel|51}}
+*[[Anuar Tuhami|Anuar]] {{yel|72}}
+*[[Selim Amallah|Amallah]] {{yel|81}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|90+1}}
+|goals2 =
+*[[Juanlu Sánchez|Juanlu]] {{goal|5||67}}
+*[[Isaac Romero|Romero]] {{goal|45+1}}, {{yel|45+2}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|52}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|84}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 22,123
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 25
+|date = 24 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rcd-mallorca-25
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Kike Salas|Salas]] {{goal|45+2}}
+*[[José Ángel Carmona|Carmona]] {{yel|90}}
+|goals2 =
+*[[Sergi Darder|Darder]] {{yel|44}}
+*[[Johan Mojica|Mojica]] {{yel|60}}
+*[[Antonio Raíllo|Raíllo]] {{yel|71}}
+*[[Martin Valjent|Valjent]] {{goal|90+1}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,424
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 26
+|date = 1 March 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Rayo Vallecano]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-sevilla-fc-26
+|team2 = Sevilla
+|goals1 =
+*[[Andrei Rațiu|Rațiu]] {{goal|55}}
+*[[Gerard Gumbau|Gumbau]] {{yel|87}}
+|goals2 =
+*[[Dodi Lukébakio|Lukébakio]] {{goal|81}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 11,947
+|referee = Pablo González Fuertes
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 20:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-sevilla-fc-27
+|team2 = Sevilla
+|goals1 =
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{yel|80}}
+*[[Hamari Traoré|Traoré]] {{yel|90+5}}
+|goals2 =
+*[[Chidera Ejuke|Ejuke]] {{goal|46}}
+*[[Albert Sambi Lokonga|Sambi Lokonga]] {{yel|90+1}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 25,478
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Sevilla
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-athletic-club-28
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Ørjan Nyland|Nyland]] {{yel|10}}
+*[[Djibril Sow|Sow]] {{yel|19}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|23}}
+*[[Lucien Agoumé|Agoumé]] {{yel|84}}
+|goals2 =
+*[[Mikel Vesga|Vesga]] {{penmiss}} {{small|45+3'}}
+*[[Álex Berenguer|Berenguer]] {{yel|59}}
+*[[Unai Nuñez|Nuñez]] {{yel|65}}
+*[[Yeray Álvarez|Yeray]] {{goal|84}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 37,016
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = [[Seville derby|29]]
+|date = 30 March 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Betis]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-sevilla-fc-29
+|team2 = Sevilla
+|goals1 =
+*[[Johnny Cardoso|Cardoso]] {{goal|25}}
+*[[Adrián (footballer)|Adrián]] {{yel|36}}
+*[[Cucho Hernández|Hernández]] {{goal|45+3}}
+*[[Isco]] {{yel|56}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|90+1}}
+|goals2 =
+*[[Rubén Vargas|Vargas]] {{goal|17}}
+*[[José Ángel Carmona|Carmona]] {{yel|36}}
+*[[Loïc Badé|Badé]] {{yel|86}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|90+5}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 58,538
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-atletico-de-madrid-30
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Lucien Agoumé|Agoumé]] {{goal|7}}
+*[[Kike Salas|Salas]] {{yel|90+6}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|25|pen.}}
+*[[Giuliano Simeone|Simeone]] {{yel|51}}
+*[[Clément Lenglet|Lenglet]] {{yel|57}}
+*[[Robin Le Normand|Le Normand]] {{yel|85}}
+*[[Pablo Barrios (footballer)|Barrios]] {{goal|90+3}}
+*[[Alexander Sørloth|Sørloth]] {{yel|90+6}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 34,505
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 31
+|date = 11 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-sevilla-fc-31
+|team2 = Sevilla
+|goals1 =
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{goal|45+4}}, {{yel|46}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|79}}
+*[[José Gayà|Gayà]] {{yel|81}}
+|goals2 =
+*[[Kike Salas|Salas]] {{yel|72}}
+*[[José Ángel Carmona|Carmona]] {{yel|73}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 45,618
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 20 April 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-deportivo-alaves-32
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Nemanja Gudelj|Gudelj]] {{yel|10}}
+*[[Gerard Fernández|Peque]] {{goal|12}}
+*[[Suso (footballer)|Suso]] {{yel|90+4}}
+|goals2 =
+*[[Jon Guridi|Guridi]] {{yel|42}}
+*[[Kike García (Spanish footballer)|Kike]] {{goal|45+2}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|86}}
+|stadium = [[Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 36,436
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 24 April 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-sevilla-fc-33
+|team2 = Sevilla
+|goals1 =
+*[[Rubén García (footballer, born 1993)|Ru. García]] {{goal|25}}
+*[[Alejandro Catena|Catena]] {{yel|34}}
+*[[Pablo Ibáñez (footballer, born 1998)|Ibáñez]] {{yel|45+2}}
+*[[Bryan Zaragoza|Zaragoza]] {{yel|78}}
+*[[Jesús Areso|Areso]] {{yel|90+1}}
+|goals2 =
+*[[Dodi Lukébakio|Lukébakio]] {{sentoff|0|32}}
+*[[José Ángel Carmona|Carmona]] {{yel|64}}
+*[[Juanlu Sánchez|Juanlu]] {{yel|87}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 20,555
+|referee = Adrián Cordero Vega
+|result = L
+|note = Lukébakio's red card was later rescinded following an appeal by Sevilla.<ref>{{cite news|url=https://sevillafc.es/en/current/news/red-card-overturned-lukebakio-april-2025|title=Lukebakio's red card overturned following appeal|publisher=Sevilla FC|date=30 April 2025|access-date=30 April 2025}}</ref>
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-cd-leganes-34
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Dodi Lukébakio|Lukébakio]] {{yel|6}}
+*[[Kike Salas|Salas]] {{goal|21}}
+*[[José Ángel Carmona|Carmona]] {{yel|28}}
+*[[Isaac Romero|Romero]] {{goal|70}}, {{yel|76}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|89}}
+|goals2 =
+*[[Munir El Haddadi|Munir]] {{goal|7}}
+*[[Darko Brašanac|Brašanac]] {{yel|34}}
+*[[Renato Tapia|Tapia]] {{yel|62}}
+*[[Javi Hernández (footballer, born 1998)|Hernández]] {{goal|73}}, {{yel|75}}
+*[[Yan Diomande|Diomande]] {{yel|80}}
+*[[Yvan Neyou|Neyou]] {{yel|83}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,495
+|referee = [[Alejandro Hernández Hernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-sevilla-fc-35
+|team2 = Sevilla
+|goals1 =
+*[[Ilaix Moriba|Moriba]] {{goal|19}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{sentoff|0|45+6}}
+*[[Óscar Mingueza|Mingueza]] {{goal|65}}
+*[[Borja Iglesias|Iglesias]] {{goal|90+1}}
+|goals2 =
+*[[Nemanja Gudelj|Gudelj]] {{goal|45+8|pen.}}
+*[[Isaac Romero|Romero]] {{yel|74}}
+*[[Kike Salas|Salas]] {{yel|90+4}}, {{goal|90+8}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 20,281
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 13 May 2025
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-ud-las-palmas-36
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Lucien Agoumé|Agoumé]] {{yel|7}}
+*[[Álvaro García Pascual|Pascual]] {{goal|52}}
+*[[Suso (footballer)|Suso]] {{yel|55}}
+*[[Juanlu Sánchez|Juanlu]] {{yel|56}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|76}}
+*[[Nemanja Gudelj|Gudelj]] {{yel|90+5}}
+*[[Loïc Badé|Badé]] {{yel|90+12}}
+|goals2 =
+*[[Mika Mármol|Mármol]] {{yel|24}}
+*[[Javier Muñoz (Spanish footballer)|J. Muñoz]] {{yel|83}}
+*[[José Campaña|Campaña]] {{yel|86}}
+*[[Marc Cardona|Cardona]] {{yel|87}}
+*[[Jaime Mata|Mata]] {{yel|90+4}}
+*[[Oli McBurnie|McBurnie]] {{yel|90+5}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 37,078
+|referee = [[Juan Martínez Munuera]]
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Sevilla
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-real-madrid-37
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Loïc Badé|Badé]] {{sentoff|0|12}}
+*[[Isaac Romero|Romero]] {{sentoff|0|48}}
+|goals2 =
+*[[Jude Bellingham|Bellingham]] {{yel|66}}, {{goal|87}}
+*[[Kylian Mbappé|Mbappé]] {{goal|75}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 31,633
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 25 May 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-sevilla-fc-38
+|team2 = Sevilla
+|goals1 =
+*[[Yeremy Pino|Pino]] {{goal|4}}
+*[[Pape Gueye|Gueye]] {{goal|8||53}}
+*[[Álex Baena|Baena]] {{goal|39}}
+|goals2 =
+*[[Djibril Sow|Sow]] {{goal|29}}
+*[[José Ángel Carmona|Carmona]] {{yel|43}}
+*[[Ramón Martínez (footballer, born 2002)|Martínez]] {{goal|85}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,758
+|referee = Javier Alberola Rojas
+|result = L
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 30 October 2024
+|time = 19:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Las Rozas CF|La Rozas]]
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-las-rozas-cf-sevilla-fc-2
+|team2 = Sevilla
+|goals1 =
+*[[Álvaro Escolano|Escolano]] {{yel|76}}
+|goals2 =
+*[[Luis Méndez (footballer)|Méndez]] {{goal|40|o.g.}}
+*[[Kelechi Iheanacho|Iheanacho]] {{goal|61||79}}
+*[[Pedro Ortiz (footballer, born 2000)|Ortiz]] {{yel|81}}
+|stadium = Navalcarbón
+|location = [[Las Rozas de Madrid|Las Rozas]]
+|attendance = 968
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 5 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UE Olot|Olot]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-olot-sevilla-fc-3
+|team2 = Sevilla
+|goals1 =
+*[[Chema Moreno|Moreno]] {{penmiss}} {{small|18'}}
+*[[Uri González|González]] {{yel|35}}
+*[[Oriol Ayala|Ayala]] {{goal|90+1}}
+|goals2 =
+*[[Gonzalo Montiel|Montiel]] {{goal|22|pen.}}, {{yel|45+1}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|36}}
+*[[Suso (footballer)|Suso]] {{yel|42}}
+*[[Juanlu Sánchez|Juanlu]] {{goal|48}}
+*[[Valentín Barco|Barco]] {{yel|53}}
+*[[Kelechi Iheanacho|Iheanacho]] {{goal|73}}
+|stadium = Municipal
+|location = [[Olot]]
+|attendance = 2,300
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 4 January 2025
+|time = 17:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Almería|Almería]]
+|score = 4–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ud-almeria-sevilla-fc-4
+|team2 = Sevilla
+|goals1 =
+*[[Marko Milovanović (footballer, born 2003)|Milovanović]] {{yel|17}}, {{goal|49}}
+*[[Nico Melamed|Melamed]] {{yel|37}}
+*[[Luis Suárez (footballer, born 1997)|Suárez]] {{goal|54||78||90+6|pen.}}
+*[[Rubén Quintanilla|Quintanilla]] {{yel|90+2}}
+|goals2 =
+*[[Isaac Romero|Romero]] {{goal|5}}
+*[[Loïc Badé|Badé]] {{yel|65}}
+|stadium = [[UD Almería Stadium]]
+|location = [[Almería]]
+|attendance = 15,067
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+
+== Statistics ==
+=== Appearances and goals ===
+{{Efs start|[[2024–25 La Liga|La Liga]]|[[2024–25 Copa del Rey|Copa del Rey]]}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Goalkeepers
+{{Efs player|no=1 |name=[[Álvaro Fernández (footballer, born 1998)|Álvaro Fernández]]|pos=GK|nat=ESP |2+1  |0 |1    |0 }}
+{{Efs player|no=13|name=[[Ørjan Nyland]]|pos=GK|nat=NOR                                              |11   |0 |0    |0 }}
+{{Efs player|no=31|name=[[Alberto Flores]]|pos=GK|nat=ESP                                            |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Defenders
+{{Efs player|no=3 |name=[[Adrià Pedrosa]]|pos=DF|nat=ESP                                             |10+1 |0 |1    |0 }}
+{{Efs player|no=4 |name=[[Kike Salas]]|pos=DF|nat=ESP                                                |4+4  |0 |1    |0 }}
+{{Efs player|no=19|name=[[Valentín Barco]]|pos=DF|nat=ARG                                            |3+3  |0 |1    |0 }}
+{{Efs player|no=22|name=[[Loïc Badé]]|pos=DF|nat=FRA                                                 |8+1  |0 |0    |0 }}
+{{Efs player|no=23|name=[[Marcão (footballer, born 1996)|Marcão]]|pos=DF|nat=BRA                     |5+2  |0 |1    |0 }}
+{{Efs player|no=24|name=[[Tanguy Nianzou]]|pos=DF|nat=FRA                                            |6    |0 |0    |0 }}
+{{Efs player|no=26|name=[[Juanlu Sánchez|Juanlu]]|pos=DF|nat=ESP                                     |5+4  |1 |1    |0 }}
+{{Efs player|no=32|name=[[José Ángel Carmona]]|pos=DF|nat=ESP                                        |13   |0 |0    |0 }}
+{{Efs player|no=35|name=[[Ramón Martínez (footballer, born 2002)|Ramón Martínez]]|pos=DF|nat=ESP     |0+1  |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Midfielders
+{{Efs player|no=6 |name=[[Nemanja Gudelj]]|pos=MF|nat=SRB                                            |10+1 |0 |0    |0 }}
+{{Efs player|no=8 |name=[[Pedro Ortiz (footballer, born 2000)|Pedro Ortiz]]|pos=MF|nat=ESP           |0    |0 |0+1  |0 }}
+{{Efs player|no=12|name=[[Albert Sambi Lokonga]]|pos=MF|nat=BEL                                      |5+2  |0 |0    |0 }}
+{{Efs player|no=17|name=[[Saúl (footballer, born 1994)|Saúl]]|pos=MF|nat=ESP                         |4    |0 |0    |0 }}
+{{Efs player|no=18|name=[[Lucien Agoumé]]|pos=MF|nat=FRA                                             |8+4  |0 |1    |0 }}
+{{Efs player|no=20|name=[[Djibril Sow]]|pos=MF|nat=SUI                                               |5+5  |0 |1    |0 }}
+{{Efs player|no=27|name=[[Stanis Idumbo Muzambo|Stanis Idumbo]]|pos=MF|nat=BEL                       |2+2  |1 |1    |0 }}
+{{Efs player|no=30|name=Alberto Collado|pos=DF|nat=ESP                                               |0+1  |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Forwards
+{{Efs player|no=5 |name=[[Lucas Ocampos]]|pos=FW|nat=ARG                                             |2    |0 |0    |0 }}
+{{Efs player|no=7 |name=[[Isaac Romero]]|pos=FW|nat=ESP                                              |10+1 |0 |0    |0 }}
+{{Efs player|no=9 |name=[[Kelechi Iheanacho]]|pos=FW|nat=NGA                                         |4+3  |0 |1    |2 }}
+{{Efs player|no=10|name=[[Suso (footballer)|Suso]]|pos=FW|nat=ESP                                    |0+4  |0 |0    |0 }}
+{{Efs player|no=11|name=[[Dodi Lukébakio]]|pos=FW|nat=BEL                                            |12+1 |5 |1    |0 }}
+{{Efs player|no=14|name=[[Gerard Fernández|Peque]]|pos=FW|nat=ESP                       |6+4  |0 |0    |0 }}
+{{Efs player|no=21|name=[[Chidera Ejuke]]|pos=FW|nat=NGA                                             |6+3  |1 |0    |0 }}
+{{Efs player|no=34|name=[[Mateo Mejía]]|pos=FW|nat=COL                                               |0+1  |0 |0    |0 }}
+{{Efs player|no=41|name=[[Isra Domínguez]]|pos=FW|nat=ESP                                            |0+1  |0 |0+1  |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Players who transferred out during the season
+{{Efs player|no=15|name=[[Gonzalo Montiel]]|pos=DF|nat=ARG                                           |1+5  |0 |3    |1 }}
+{{Efs player|no=16|name=[[Jesús Navas]]|pos=DF|nat=ESP                                               |3+12 |1 |1    |0 }}
+{{Fb cs footer |s=[[#Competitions|Competitions]] |u=9 November 2024|date=August 2025}}
+
+<!-- === Goalscorers ===
+{| class="wikitable" style="text-align:center"
+|-
+!width=15|{{Tooltip|Rank|Rank}}
+!width=15|{{Tooltip|No.|Squad Number}}
+!width=15|{{Tooltip|Pos.|Position}}
+!width=15|{{Tooltip|Nat.|Nationality}}
+!width=145|Player
+!width=120|[[2024–25 La Liga|La Liga]]
+!width=120|[[2024–25 Copa del Rey|Copa del Rey]]
+!width=120|Total
+|-
+|rowspan=2|1
+|26
+|[[Defender (association football)|DF]]
+|{{flagicon|ESP}}
+|align=left|[[Juanlu Sánchez|Juanlu]]
+|1
+|0
+|'''1'''
+|-
+|11
+|[[Defender (association football)|DF]]
+|{{flagicon|BEL}}
+|align=left|[[Dodi Lukébakio]]
+|1
+|0
+|'''1'''
+|-
+!colspan=5|Totals
+!2
+!0
+!2
+|}
+ -->
+
+== References ==
+{{Reflist}}
+
+{{Sevilla FC}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Sevilla FC season}}
+[[Category:Sevilla FC seasons]]
+[[Category:Spanish football clubs 2024–25 season|Sevilla FC]]
+[[Category:2024 in Seville]]
+[[Category:2025 in Seville]]

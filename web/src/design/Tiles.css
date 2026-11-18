@@ -1,0 +1,64 @@
+/* ---- PercentileBar ---- */
+.pbar { display: flex; align-items: center; gap: var(--sp-2); }
+.pbar__track {
+  position: relative;
+  flex: 1 1 auto;
+  height: 12px;
+  border-radius: var(--r-pill);
+  background: rgba(255, 255, 255, 0.18);
+  overflow: hidden;
+}
+.pbar__fill {
+  position: absolute; inset: 0 auto 0 0;
+  border-radius: var(--r-pill);
+  background: var(--c-text); /* neutro: la única mancha de color de una ficha es la tile del club */
+  transform-origin: left center;
+  animation: pbar-grow 700ms var(--ease-out) both;
+}
+.pbar__label { flex: none; text-align: right; font-size: var(--fs-md); font-weight: 600; color: var(--c-text-2); line-height: 1; white-space: nowrap; }
+@keyframes pbar-grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+/* ---- StatTile ---- */
+.stat-tile {
+  display: flex; flex-direction: column; gap: 4px;
+  padding: var(--sp-2) var(--sp-3) var(--sp-2);
+  background: var(--c-glass-soft);
+  border: 1px solid var(--c-line);
+  border-radius: var(--r-md);
+  min-width: 0;
+}
+/* el dato protagonista es un bloque del color OFICIAL del club con texto legible encima: sin borde fino, sin brillo */
+/* bloque del color OFICIAL; el borde de 1 px solo se nota si el club es casi tan oscuro como el cristal */
+.stat-tile--hl { background: var(--club-fill); border-color: var(--club-edge, var(--club-fill)); box-shadow: none; }
+.stat-tile__label { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); color: var(--c-text-2); line-height: 1.1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.stat-tile__value { font-size: var(--fs-stat); line-height: 0.95; color: var(--c-text); }
+.stat-tile__sub { font-size: var(--fs-sm); color: var(--c-text-2); line-height: 1.1; }
+.stat-tile .pbar { margin-top: auto; padding-top: 8px; } /* ancladas al pie: con o sin sub-línea caen a la misma altura */
+/* tile con filete lateral del color de la flecha que representa (connection) */
+.stat-tile--edge { border-left: 6px solid var(--edge); }
+.stat-tile--hl .stat-tile__label,
+.stat-tile--hl .stat-tile__sub,
+.stat-tile--hl .pbar__label { color: color-mix(in srgb, var(--club-ink) 85%, transparent); }
+.stat-tile--hl .stat-tile__value { color: var(--club-ink); }
+.stat-tile--hl .pbar__track { background: color-mix(in srgb, var(--club-ink) 30%, transparent); }
+.stat-tile--hl .pbar__fill { background: var(--club-ink); }
+
+/* ---- FormDots ---- */
+.formdots { display: inline-flex; gap: 4px; vertical-align: middle; }
+.formdots__dot {
+  display: inline-block; text-align: center; border-radius: 50%;
+  font-family: var(--font-display); font-weight: 800; font-size: var(--fs-sm); color: #06090f;
+}
+.formdots__dot--W { background: color-mix(in srgb, var(--c-good) 85%, transparent); }
+.formdots__dot--D { background: #6b7585; color: #f4f7fb; }
+.formdots__dot--L { background: var(--c-bad); }
+/* cuadrados de 14 px sin letra (tabla de clasificación) */
+.formdots--sq { gap: 4px; }
+.formdots--sq .formdots__dot { border-radius: 3px; font-size: 0; }
+
+/* ---- NumberPill: dorsal en píldora del color del club (sustituye a las siluetas) ---- */
+.num-pill {
+  display: inline-block; min-width: 48px; padding: 6px 12px 4px; text-align: center; flex: none;
+  background: var(--club-fill); color: var(--club-ink); border-radius: var(--r-sm);
+  font-size: var(--fs-lg); font-weight: 800; letter-spacing: 0; line-height: 1;
+}

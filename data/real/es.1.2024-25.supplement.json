@@ -1,0 +1,106 @@
+{
+ "_comment": "Resultados de la J38 2024-25 que openfootball no trae (score vacio). Fuente: matriz de resultados de https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga (contrastada con openfootball en los otros 370 partidos). Sin descanso.",
+ "source": "https://en.wikipedia.org/wiki/2024%E2%80%9325_La_Liga",
+ "matches": [
+  {
+   "round": 38,
+   "home": "betis",
+   "away": "valencia",
+   "ft": [
+    1,
+    1
+   ],
+   "date": "2025-05-23"
+  },
+  {
+   "round": 38,
+   "home": "real-madrid",
+   "away": "real-sociedad",
+   "ft": [
+    2,
+    0
+   ],
+   "date": "2025-05-24"
+  },
+  {
+   "round": 38,
+   "home": "leganes",
+   "away": "valladolid",
+   "ft": [
+    3,
+    0
+   ],
+   "date": "2025-05-24"
+  },
+  {
+   "round": 38,
+   "home": "espanyol",
+   "away": "las-palmas",
+   "ft": [
+    2,
+    0
+   ],
+   "date": "2025-05-24"
+  },
+  {
+   "round": 38,
+   "home": "alaves",
+   "away": "osasuna",
+   "ft": [
+    1,
+    1
+   ],
+   "date": "2025-05-24"
+  },
+  {
+   "round": 38,
+   "home": "getafe",
+   "away": "celta",
+   "ft": [
+    1,
+    2
+   ],
+   "date": "2025-05-24"
+  },
+  {
+   "round": 38,
+   "home": "rayo",
+   "away": "mallorca",
+   "ft": [
+    0,
+    0
+   ],
+   "date": "2025-05-24"
+  },
+  {
+   "round": 38,
+   "home": "girona",
+   "away": "atletico",
+   "ft": [
+    0,
+    4
+   ],
+   "date": "2025-05-25"
+  },
+  {
+   "round": 38,
+   "home": "villarreal",
+   "away": "sevilla",
+   "ft": [
+    4,
+    2
+   ],
+   "date": "2025-05-25"
+  },
+  {
+   "round": 38,
+   "home": "athletic",
+   "away": "barcelona",
+   "ft": [
+    0,
+    3
+   ],
+   "date": "2025-05-25"
+  }
+ ]
+}

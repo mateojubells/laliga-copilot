@@ -1,0 +1,26 @@
+/* ---- plantilla de grafismos de campo ---- */
+.fs__grid { display: grid; column-gap: var(--sp-4); align-items: stretch; padding-top: var(--sp-3); }
+.fs--full .fs__grid { height: 100%; column-gap: var(--sp-5); }
+.fs__head .panel__kicker, .fs__head .panel__title { padding-right: 72px; } /* deja libre el escudo (arriba a la derecha del panel) */
+.fs__pitch { position: relative; min-width: 0; }
+.fs__pitch > svg { filter: drop-shadow(0 8px 24px rgba(0, 0, 0, 0.35)); }
+.fs__side { display: flex; flex-direction: column; gap: var(--sp-3); min-width: 0; }
+.fs--half .panel__headline { max-width: none; }
+
+.sd__headline {
+  margin: 0; padding: 4px 0 4px var(--sp-2); border-left: 6px solid var(--club-edge, var(--club-fill));
+  font-size: var(--fs-lg); font-weight: var(--fw-strong); line-height: 1.2; color: var(--c-text); text-wrap: balance;
+}
+.sd__label {
+  font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm);
+  letter-spacing: var(--ls-caps); text-transform: uppercase; color: var(--c-text-2); line-height: 1.1;
+}
+.sd__tiles { display: grid; gap: var(--sp-2); }
+
+/* leyendas (siempre en la columna, fuera del césped) */
+.lg { display: flex; flex-direction: column; gap: 12px; }
+.lg__row { display: flex; align-items: center; gap: var(--sp-2); font-size: var(--fs-sm); color: var(--c-text-2); line-height: 1.1; white-space: nowrap; }
+.lg__row b { font-family: var(--font-display); font-size: var(--fs-lg); color: var(--c-text); font-weight: 700; }
+.lg__line { flex: none; display: block; width: 72px; border-radius: 99px; background: #fff; }
+/* muestra de la conexión destacada: el color del club con contorno blanco, como la flecha del campo */
+.lg__line--hl { height: 12px; background: var(--club-fill); box-shadow: 0 0 0 3px #fff; margin: 3px 0; }

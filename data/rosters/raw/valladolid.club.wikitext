@@ -1,0 +1,870 @@
+<!-- revid=1246849907 title=Real Valladolid -->
+{{Short description|Spanish professional football club}}
+{{Use dmy dates|date=September 2023}}
+{{Infobox football club
+| clubname = Real Valladolid
+| image = Real Valladolid CF crest.svg
+| image_size = 195px
+| fullname = Real Valladolid Club de Fútbol, S.A.D.
+| nickname = ''Pucela'' / ''Pucelanos'' (Pucelle) <br />''Blanquivioletas'' / ''Albivioletas'' (White and Violets)
+| founded = {{Start date and age|df=y|20 June 1928}}
+| ground = [[Estadio José Zorrilla]]
+| capacity = 27,846
+| owner = [[Ronaldo (Brazilian footballer)|Ronaldo]] (82%)<ref>{{cite news |title=Ronaldo becomes primary owner of Real Valladolid following takeover |url=http://www.espn.co.uk/football/spanish-primera-division/story/3622235/ronaldo-becomes-primary-owner-of-real-valladolid-following-takeover |access-date=3 September 2018 |publisher=ESPN}}</ref>
+| chairman = [[Ronaldo (Brazilian footballer)|Ronaldo]]
+| chrtitle = President
+| manager = [[Paulo Pezzolano]]
+| mgrtitle = Head coach
+| league = {{Spanish football updater|Valladolid}}
+| season = {{Spanish football updater|Valladolid2}}
+| position = {{Spanish football updater|Valladolid3}}
+| website = http://www.realvalladolid.es
+| pattern_la1 = _valladolid2425h
+| pattern_b1 = _valladolid2425h
+| pattern_ra1 = _valladolid2425h
+| pattern_sh1 = _valladolid2425h
+| pattern_so1 = _valladolid2425hl
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _valladolid2425a
+| pattern_b2 = _valladolid2425a
+| pattern_ra2 = _valladolid2425a
+| pattern_sh2 = _valladolid2425a
+| pattern_so2 = _valladolid2425al
+| leftarm2 = 
+| body2 = 
+| rightarm2 = 
+| shorts2 = 
+| socks2 = 
+| pattern_la3 = _valladolid2425t
+| pattern_b3 = _valladolid2425t
+| pattern_ra3 = _valladolid2425t
+| pattern_sh3 = _valladolid2425t
+| pattern_so3 = _valladolid2425tl
+| leftarm3 = 
+| body3 = 
+| rightarm3 = 
+| shorts3 = 
+| socks3 = 
+| current = 2024–25 Real Valladolid season
+}}
+'''Real Valladolid Club de Fútbol, S.A.D.''', or simply '''Real Valladolid''' ({{IPA|es|reˈal βaʎaðoˈlið|pron}}), is a Spanish professional [[List of football clubs in Spain|football club]] based in [[Valladolid]], [[Castile and León]] that competes in [[La Liga]].
+
+The club colours are violet and white, used on the kit in stripes from its foundation on 20 June 1928.<ref>{{Cite web|url=https://muckrack.com/liveleganes-vs-valladolid-live-stream-1/bio|title=Liga española de futbol. Real Valladolid {{!}} El Norte de Castilla|date=18 December 2008|access-date=2020-02-03}}</ref> The team plays its home games at the [[Estadio José Zorrilla]], which seats 27,846 spectators.<ref>{{Cite web|url=https://www.facebook.com/events/351772739130439/|title=Pechincha: Ronaldo negocia para comprar estádio que já recebeu Copa para seu time; veja o preço|date=11 October 2019|website=ESPN.com|language=pt|access-date=2020-01-24}}</ref> Valladolid's honours include a single trophy of great relevance, the defunct [[1984 Copa de la Liga|Copa de la Liga 1983–84]]. It has been runner-up in the Copa del Rey on two occasions ([[1949–50 Copa del Generalísimo|1949–50]] and [[1988–89 Copa del Rey|1988–89]]), and has participated in two editions of the [[UEFA Cup]] ([[1984–85 UEFA Cup|1984–85]] and [[1997–98 UEFA Cup|1997–98]]) and also one edition of the [[UEFA Cup Winners' Cup]] ([[1989–90 European Cup Winners' Cup|1989–90]]). The team subsidiary, the [[Real Valladolid Promesas]], currently play in the [[Segunda Federación]].
+
+Since its La Liga debut in the 1948–49 season (in which it became the first club from the region to play in La Liga – five others have since done so), Valladolid is the most successful football club in Castile and León by honours and history, with a total of 47 seasons in the First Division, 36 in the Second and 10 in the Third.<ref>{{Cite web|url=https://www.djournal.com/calendar/leganes-vs-valladolid---live-stream/event_343021b0-ad8a-11ea-bf38-5cb9017bff17.html|title=Real Valladolid – Primera División|website=www.resultados-futbol.com|access-date=2020-02-03}}</ref> Historically, Valladolid is the 13th-best team in Spain by overall league points. Two of its players have won the Pichichi Trophy: [[Manuel Badenes]] and [[Jorge Orosmán da Silva|Jorge da Silva]]; and ten were internationals with the [[Spain men's national football team|Spain national football team]]. In the 21st century, the club's domestic performance follows a [[yo-yo club]] pattern, with multiple promotions to (and relegations from) the first division.
+
+On 3 September 2018, it was announced that Brazilian former international footballer [[Ronaldo (Brazilian footballer)|Ronaldo Nazario]] had become the majority shareholder after purchasing a 51% controlling stake in the club.<ref>{{cite news| url=https://www.bbc.co.uk/sport/football/45397137| title=Ronaldo: Former Brazil striker buys controlling stake in Real Valladolid| work=BBC Sport| date=3 September 2018| access-date=3 September 2018}}</ref> {{As of|June 2024}}, Ronaldo is owner of 82% of the club shares.
+
+== History ==
+
+=== 20th-century history (1928–2001) ===
+[[File:Real Unión Deportiva, Los Sports, 1927-06-10 (222).jpg|thumb|right|Real Unión Deportiva de Valladolid in 1927]]
+Real Valladolid was founded from the merger of Real Unión Deportiva de Valladolid and Club Deportivo Español, the club played its first game on 22 September 1928. It was a 2–1 win over Alavés.<ref>{{Cite web|url=https://www.realvalladolid.es/elclub/historia/|title=Historia – Real Valladolid|last=realvalladolid.es|website=www.realvalladolid.es|language=es-es|access-date=2019-11-20}}</ref> Valladolid first reached the [[La Liga|top level]] in the 1947–48 season, as champions of the [[Segunda División]]. The club became the first Castile and León club to play in the Spanish top flight. The following year, the team pushed on from this success and reached the finals of the [[Copa del Rey]] in [[Santiago Bernabéu Stadium|Chamartín Stadium]] against [[Athletic Bilbao]], losing 4–1.
+
+The next ten years were spent in the first division, and relegation was short-lived as Valladolid gained promotion again in 1958–59 with a 5–0 win over [[Terrassa FC|Terrassa]] under manager José Luis Saso,<ref>{{Cite web|url=https://www.voetbal.com/teams/real-valladolid/1959/2/|title=Real Valladolid – Selectie 1958/1959|website=voetbal.com|date=30 October 2019 |language=nl|access-date=2020-02-03}}</ref> a legendary figure in club history.<ref>{{Cite web|url=http://lafutbolteca.com/tag/historia-segunda-division-a-1958-1959/|title=historia segunda division a 1958–1959 :: La Futbolteca. Enciclopedia del Fútbol Español|language=ES-es|access-date=2020-02-03}}</ref> He had originally been a goalkeeper for the club and went on to perform many roles, including serving as president of the club.
+
+Valladolid swung between the first and second divisions in subsequent years, falling as low as to the [[Segunda División B|third]] division in 1970–71. Next year the club was promoted to second division and in 1980 promoted to first division, where Valladolid played until 1992 when the club was relegated to the second division again. Promoted in [[1992–93 Segunda División|1992–93]], the club was again sent down after the [[2003–04 La Liga|2003–04 season]]. In 1984, Valladolid also won the [[Copa de la Liga]] (a competition only played in the early 1980s) over [[Atlético Madrid]].
+
+[[File:Camiseta del Real Valladolid en la temporada 1983-84.jpg|thumb|Real Valladolid uniform in the season 1983–84, when the club won its only official trophy: the [[1984 Copa de la Liga]]]]
+On 14 April 1996, Valladolid played its 1,000th game in La Liga.
+
+The side's highest position during this 11-year stint was seventh in [[1996–97 La Liga|1996–97]], being coached in the previous seasons by former [[Real Madrid Castilla]] coach [[Rafael Benítez]], as various players from that team would also later appear for Valladolid.
+
+=== Carlos Suárez era (2001–2018) ===
+[[File:Celebración del ascenso de 2007 del Real Valladolid en la Leyenda del Pisuerga.jpg|thumb|Real Valladolid players cruising the [[Río Pisuerga]] while celebrating the club's promotion to [[La Liga]] in April 2007]]
+In the [[2006–07 Segunda División|2006–07 season]], after signing [[Basque Country (autonomous community)|Basque]] [[José Luis Mendilibar]] as head coach, Valladolid had one of its best years in its history while playing in the second level. The club took the league lead in the 15th matchday and went on to finish with a competition all-time high 88 points, winning the championship by a total margin of eight points, and holding an advantage of 26 points over the non-promotion zone (fourth and below), both being all-time records in the league. Valladolid also achieved the honour of going unbeaten in 29-straight matches, from 10 October 2006 to 6 May 2007, being mathematically promoted after a 2–0 away win against [[CD Tenerife|Tenerife]] on 22 April 2007 (the 34th matchday of the season), the earliest any club has achieved promotion in Spanish history.
+
+Also remarkable was the side's role in [[2006–07 Copa del Rey|the season]]'s [[Copa del Rey]], reaching the quarter-finals after defeating two top division teams, [[Gimnàstic de Tarragona]] (4–1 aggregate) and the [[2005–06 UEFA Champions League]] contender [[Villarreal CF|Villarreal]] (3–1), while playing the entire competition with reserve players.
+
+Two relatively successful seasons in the top division followed, finishing in 15th place while avoiding relegation after a 1–1 draw on the last matchday of both seasons (against [[Recreativo de Huelva]] in [[2007–08 La Liga|2007–08]] and [[Real Betis]] in [[2008–09 La Liga|the following campaign]]).
+
+{{See also|2009–10 Real Valladolid season}}
+[[File:Gerard Pique DSC 0201.jpg|thumb|right|[[Diego Costa]] next to [[Gerard Piqué]] during an away fixture versus [[FC Barcelona]] in May 2010]]
+After a slow start to [[2009–10 La Liga|2009–10]] (three wins in the first 20 matches), Mendilibar was sacked on 1 February 2010 following a draw at home against [[UD Almería|Almería]]. The week following his sacking, Valladolid dropped into the relegation zone (something that never happened during Mendilibar's 138-match stint), with former player [[Onésimo Sánchez]] taking charge.
+
+After only one win in 10 matches, Sánchez was fired. Former [[Spain men's national football team|Spain national team]] manager [[Javier Clemente]] was named Sánchez's replacement in a desperate move to avoid relegation with only eight matches remaining. After a brief breather (16th position), Valladolid again returned to the bottom three, then faced a must-win last game at the [[Camp Nou]] against a [[FC Barcelona|Barcelona]] squad needing a win to secure the Liga championship. Level in the standings with [[Racing de Santander]], [[Málaga CF|Málaga]] and Tenerife for the two final safe positions, Valladolid lost 0–4 and consequently was relegated, ending a three-year stay in the top flight.
+
+The [[2011–12 Segunda División|2011–12 season]] saw Valladolid return to La Liga under the management of [[Miroslav Đukić]], promoted through the play-offs after finishing third in the division.
+
+Valladolid were relegated back to the Segunda División on the last matchday of the [[2013–14 La Liga|2013–14 season]].<ref>{{cite news|title=Primera Division: Osasuna and Real Valladolid both relegated|url=http://www1.skysports.com/football/news/11848/9316844/primera-division-osasuna-and-real-valladolid-both-relegated|access-date=22 July 2014|work=[[Sky Sports News]]|date=17 May 2014}}</ref>
+
+In the [[2017–18 Segunda División|2017–18 season]], Valladolid was promoted back to first division after four years via play-off defeating [[Sporting de Gijón]] and [[CD Numancia|Numancia]].
+
+=== Ronaldo Nazario, new owner (2018–present) ===
+In the summer of 2018, a series of purchase offers were presented by several foreign entrepreneurs.<ref>{{Cite web |date=22 June 2018 |title=Valladolid: El empresario mexicano Ernesto Tinajero, cerca de comprar el Valladolid |url=https://www.marca.com/futbol/valladolid/2018/06/22/5b2bfe37468aebb0628b4666.html |access-date=2023-08-22 |website=Marca.com |language=es}}</ref><ref>{{Cite web |last=Pisa |first=Eloy de la |date=26 August 2018 |title=Un club goloso |url=https://www.elnortedecastilla.es/realvalladolid/club-goloso-20180826004217-nt.html |access-date=2023-08-22 |website=El Norte de Castilla |language=es}}</ref> This process concluded with the acquisition led by the former Brazilian player [[Ronaldo Nazário]], who was officially introduced as the majority shareholder and president of the board of directors on 3 September 2018. The presentation took place in the reception hall of the Valladolid City Hall.<ref>{{Cite web |date=3 September 2018 |title=Valladolid: Ronaldo, nuevo máximo accionista del Valladolid: "Queremos crecer hasta donde nuestra ilusión lo permita" |url=https://www.marca.com/futbol/valladolid/2018/09/03/5b8d0006ca4741630a8b4599.html |access-date=2023-08-22 |website=Marca.com |language=es}}</ref><ref>{{Cite web |last=Posada |first=Arturo |date=3 September 2018 |title=Ronaldo, nuevo propietario del Real Valladolid: "Tenéis en mí a un enamorado de este club y de esta ciudad" |url=https://www.elnortedecastilla.es/realvalladolid/carlos-suarez-oficial-20180903104255-nt.html |access-date=2023-08-22 |website=El Norte de Castilla |language=es}}</ref> It is worth noting that the former president, {{ill|Carlos Suárez Sureda|lt=Carlos Suárez|es}}, continued in the role of CEO until he resigned in August 2019.<ref>{{Cite web |last=Pisa |first=Eloy de la |date=16 August 2019 |title=Carlos Suárez dimite en el Valladolid |url=https://www.elnortedecastilla.es/realvalladolid/carlos-suarez-pone-20190816104839-nt.html |access-date=2023-08-22 |website=El Norte de Castilla |language=es}}</ref>
+
+When Ronaldo was introduced, the team had already completed the first three rounds of the [[2018–19 La Liga|2018–19 La Liga season]]. Despite failing to score any goals, they managed to secure two draws out of three matches, largely due to their strong defensive performance.<ref>{{Cite web |last=Margolles |first=Andrés |date=1 September 2018 |title=Getafe, un canto a la modestia |url=https://vozed.org/blogs-y-columnas/laliga/getafe-un-canto-a-la-modestia/ |access-date=2023-08-22 |website=vozed |language=es}}</ref> Their standing improved to 6th place by the 10th round, but a lack of goals combined with a deteriorating defense resulted in a series of unfavorable outcomes. Throughout April, they found themselves periodically in positions that could lead to relegation. However, the team's performance notably picked up in the final rounds of the season, ensuring their safety in the league mathematically one match prior to the end of the championship.<ref>{{Cite web |date=20 July 2020 |title=Hacía 18 años que el Pucela no acababa tan lejos del descenso |url=https://as.com/futbol/2020/07/20/primera/1595275835_127244.html |access-date=2023-08-22 |website=Diario AS |language=es}}</ref> As part of changes, Calero, who had performed well, was transferred to [[Espanyol]] for a fee of 8 million euros plus additional variables.<ref>{{Cite web |date=9 August 2019 |title=El fichaje de Calero por el Espanyol ya es oficial |url=https://www.mundodeportivo.com/futbol/rcd-espanyol/20190809/463947885161/calero-espanyol-oficial-valladolid-fichaje.html |access-date=2023-08-22 |website=Mundo Deportivo |language=es}}</ref>
+
+[[Sergio González Soriano]] continued as the coach for the 2019–20 season. The [[COVID-19 pandemic]] caused a pause in the season on 13 March when the team was in 15th place, four points above the relegation zone. The league resumed from mid-June to mid-July, with the team securing safety in the second-to-last round and finishing 13th, their best position in 18 seasons.<ref>{{Cite web |date=26 July 2020 |title=Salisu firma con el Southampton por doce millones |url=https://as.com/futbol/2020/07/25/primera/1595699835_322531.html |access-date=2023-08-22 |website=Diario AS |language=es}}</ref> Throughout the season, Valladolid avoided relegation positions, relying on effective but not flashy play. The standout was Salisu, a Ghanaian defender from the youth team, who excelled in defense. He was sold to Southampton FC for 12 million euros in the summer, a record sale for Valladolid.<ref>{{Cite web |last=Tribuna |title=Tribuna. Noticias |url=https://www.tribunavalladolid.com/noticias/202678/el-cbc-valladolid-pasara-a-ser-una-seccion-dentro-del-real-valladolid-y-cambiara-su-nombre-y-los-colores |access-date=2023-08-22 |website=www.tribunavalladolid.com |language=es}}</ref> In January, Ronaldo signed high-profile player [[Ben Arfa]], who played sparingly and left at the season's end.
+
+On 23 May 2020, a preliminary agreement was announced with the [[Club Baloncesto Ciudad de Algeciras|Club Baloncesto Ciudad de Valladolid]] for collaboration between the two entities. The merger would result in the basketball club becoming a section within Real Valladolid. Among the changes would be alterations to the club's colors and the basketball team's name.<ref>{{Cite web |last=Tribuna |title=Tribuna. Noticias |url=https://www.tribunavalladolid.com/noticias/202678/el-cbc-valladolid-pasara-a-ser-una-seccion-dentro-del-real-valladolid-y-cambiara-su-nombre-y-los-colores |access-date=2023-08-22 |website=www.tribunavalladolid.com |language=es}}</ref> On 10 July 2020, members of Atlético Tordesillas agreed to have the team become a subsidiary of Real Valladolid for one season, extendable over time. Atlético Tordesillas would retain its legal identity and board of directors.<ref>{{Cite web |last=Redacción |date=10 July 2020 |title=El Atlético Tordesillas será equipo filial del Real Valladolid – Tordesillas al Día |url=https://www.tordesillasaldia.com/el-atletico-tordesillas-sera-equipo-filial-del-real-valladolid/,%20https://www.tordesillasaldia.com/el-atletico-tordesillas-sera-equipo-filial-del-real-valladolid/ |access-date=2023-08-22 |language=es}}</ref> The agreement would bring young players from the Valladolid academy, a full coaching staff funded by Valladolid, training for lower division coaches at Tordesillas, supply of sports equipment, and the presence of Valladolid's groundkeepers to maintain the Tordesillas team's fields.
+
+On 3 August 2020, a 3-year collaboration agreement was signed with Club Baloncesto Ciudad de [[Valladolid]]. The basketball team's name changed to [[Real Valladolid Baloncesto]], adopting white and purple colors. David Espinar, the basketball team's director, joined the board of directors. This partnership aimed to attract resources, strengthen fan connections, and enhance public relations.<ref>{{Cite web |last=Norte |first=El |date=3 August 2020 |title=Real Valladolid y CBC Carramimbre estampan la rúbrica a su acuerdo |url=https://www.elnortedecastilla.es/realvalladolid/real-valladolid-carramimbre-20200803175218-nt.html |access-date=2023-08-22 |website=El Norte de Castilla |language=es}}</ref> On 21 August 2020, the agreement with [[Atlético Tordesillas]] was confirmed, making it the club's second subsidiary team..
+
+The 2020–21 season began in September instead of August due to the COVID-19-induced pause. The RFEF established rules for the 2020–21 league that required teams in [[La Liga]] and [[Segunda División]] to find alternative stadiums for home matches in case COVID-19 complications prevented matches from being played at their regular venues. The preferred option was the [[Estadio Nueva Balastera]] in [[Palencia]], provided it met the minimum requirements set by the [[Liga Nacional de Fútbol Profesional|LFP]]. The alternative, however, needed to be located outside the club's [[Autonomous Community]]. Therefore, stadiums in [[Madrid]] were the most likely candidates, and even the possibility of a mutual agreement to share the alternative stadium with another team was considered.<ref>{{Cite web |last=Valladolid |first=El Día de |date=8 September 2020 |title=El club debe tener un estadio alternativo al José Zorrilla |url=https://www.eldiadevalladolid.com/noticia/z23c661fc-90e0-df30-a8e0caa091ff6283/202009/el-club-debe-tener-un-estadio-alternativo-al-jose-zorrilla |access-date=2023-08-22 |website=El Día de Valladolid |language=spanish}}</ref> Furthermore, during this season, five substitutions in three intervals per match would continue to be allowed. A protocol was designed to address issues like playing surfaces, schedules, first-team player numbers, and what would happen if matches couldn't be played or if positive COVID-19 cases were detected among teams, coaches, and players. The protocol also covered the promotion playoffs to La Liga.<ref>{{Cite web |date=20 July 2020 |title=Suspendido el Deportivo-Fuenlabrada tras 12 positivos por coronavirus en el equipo madrileño |url=https://www.marca.com/futbol/segunda-division/2020/07/20/5f15d4ca268e3ee0108b45e5.html |access-date=2023-08-22 |website=Marca.com |language=es}}</ref><ref>{{Cite web |last=20minutos |date=7 September 2020 |title=Las nuevas normas del fútbol post-COVID: estadio alternativo, mínimo de jugadores, aplazamientos y suspensiones de partidos... |url=https://www.20minutos.es/deportes/noticia/4372724/0/nuevas-normas-futbol-post-coronavirus-covid-estadio-jugadores/ |access-date=2023-08-22 |website=www.20minutos.es – Últimas Noticias |language=es}}</ref>
+
+On 18 September 2020, alternative venues for home matches were announced. The primary option was either the [[Estadio Santiago Bernabéu]] (depending on the progress of ongoing renovations) or the [[Estadio Alfredo Di Stéfano]] in Madrid. The secondary choices were the Estadio Ramón Sánchez-Pizjuán in [[Seville]] and the [[Estadio de Balaídos]] in [[Vigo]].<ref>{{Cite web |last=Redacción |date=18 September 2020 |title=Oficial: El Real Valladolid comunica tres estadios alternativos a Zorrilla |url=https://www.eldesmarque.com/futbol/real-valladolid/20200918/oficial-los-tres-estadios-elegidos-por-el-real-valladolid_180063653.html |access-date=2023-08-22 |website=ElDesmarque |language=es}}</ref> Additionally, [[Valladolid]] was a highly sought-after host city, being selected as the primary alternative venue by [[Real Madrid Club de Fútbol|Real Madrid CF]] and [[Real Club Celta de Vigo|Real Celta de Vigo]] to play their matches at the [[Estadio José Zorrilla]].<ref>{{Cite web |last=Norte |first=El |date=17 September 2020 |title=El Real Valladolid apunta al Alfredo Di Stéfano o Balaídos como sedes alternativas |url=https://www.elnortedecastilla.es/realvalladolid/real-valladolid-decanta-20200917185003-nt.html |access-date=2023-08-22 |website=El Norte de Castilla |language=es}}</ref> [[Atlético de Madrid]], however, opted for another venue. Valladolid was also considered for the list of alternatives, with convenient flight connections in mind, with cities like [[Valencia]] and [[Málaga]].<ref>{{Cite web |last=Redacción |date=17 September 2020 |title=El Real Valladolid y el Real Madrid intercambiarán sus estadios para la presente temporada |url=https://www.eldesmarque.com/futbol/real-valladolid/20200917/el-real-valladolid-ya-tiene-estadio-alternativo-a-zorrilla_180063586.html |access-date=2023-08-22 |website=ElDesmarque |language=es}}</ref>
+
+Despite the disappointing results, Real Valladolid had a slim chance of avoiding relegation until the very last matchday. They needed to beat the league champions, [[Club Atlético de Madrid|Atlético de Madrid]], and hope their rivals didn't win their matches. Unfortunately, this scenario didn't play out, resulting in relegation as the second-to-last team. The club faced criticism from fans for not taking adequate measures to prevent relegation. Despite various challenges including injuries and COVID-19 absences, coach [[Sergio González Soriano]] remained in charge throughout the season, ultimately leading the team back to the lower division.
+
+The following season, 2021–22, marked Real Valladolid's 36th season in the second tier. The main goal was to rekindle the fans' enthusiasm after one of the worst seasons in the club's history. On 22 June 2021, the subsidiary agreement with Atlético Tordesillas was terminated due to Real Valladolid's relegation. Despite this, the collaboration between the two clubs continued. After a somewhat inconsistent start, the team began 2022 with a strong defense, surpassing the team's previous unbeaten record. It is important to note that the earlier record was set in [[La Liga]] by César Sánchez, who went 555 minutes without conceding a goal. This achievement spanned from the 85th minute (goal by [[Julen Guerrero]]) of matchday 33 in the [[La Liga 1997-98|1997–98 season]] to the 10th minute (goal by [[Predrag Mijatović]]) of matchday 2 in the [[La Liga 1998-99|1998–99 season]].<ref>{{cite web|access-date=2022-03-13|language=es|title=Récord imbatibilidad: César Sánchez en 1ª división {{!}} Real Valladolid CF|url=https://www.realvalladolid.es/noticia/batir-el-record-de-imbatibilidad|website=Real Valladolid C.F. – Web Oficial}}<!-- auto-translated by Module:CS1 translator --></ref> Ultimately, the record was extended to 646 minutes by [[Jordi Masip]] between the 29th-minute goal by [[Borja Bastón]] on matchday 20 and the 45th-minute goal by [[Bernardo Espinosa]] on matchday 27.<ref>{{Cite web |title=Squad of Valladolid 2021–22 Second Division {{!}} BDFutbol |url=https://www.bdfutbol.com/en/t/t2021-2237.html?tab=partits |access-date=2023-08-22 |website=www.bdfutbol.com}}</ref> The team eventually secured direct promotion by defeating [[Sociedad Deportiva Huesca|S.D. Huesca]] 3–0 in the final matchday, even though it relied on results from [[Unión Deportiva Almería|U.D. Almería]] and [[Sociedad Deportiva Eibar|S.D. Eibar]]. These results materialized with Almería drawing at [[Estadio Municipal de Butarque|Butarque]] and Eibar surprisingly losing to A.D. Alcorcón, who had been relegated for several rounds. Despite this, Alcorcón finished as the bottom team in the second division. Valladolid concluded the season as runners-up, being the top goal-scorers with 71 goals, largely thanks to the 20 goals contributed by Israeli player [[Shon Weissman]]. Furthermore, they set a record by spending the fewest matchdays in direct promotion positions before securing promotion, achieving this in only 5 matchdays in total.<ref>{{cite web|access-date=2022-06-01|language=es|title=Récord menos jornadas en ascenso directo para ascender{{!}} Diario As|url=https://as.com/futbol/2022/06/01/segunda/1654114742_633767.html|website=Diario As – Web Oficial|date=June 2022 }}<!-- auto-translated by Module:CS1 translator --></ref>
+
+The 2022–23 season of La Liga began with Pacheta as the coach, following their promotion, and notable signings like the return of academy graduate [[Sergio Asenjo]] and Valladolid native [[Sergio Escudero Palomo|Sergio Escudero]]. The season was marked by inconsistent performance, swinging between periods of positive and negative results, often conceding goals in the closing minutes of matches. The team managed to stay above the relegation zone until the break for the [[2022 FIFA World Cup|Qatar World Cup]].
+
+During the winter transfer window, new players were brought in to elevate the team's performance, but injuries hindered the contribution of some players. [[Paulo Pezzolano]] replaced Pacheta as the coach after the team conceded six goals in a single match. Despite Pezzolano's efforts, the team's irregular form persisted. In the final matchday, playing at home against Getafe, Valladolid was relegated, marking their fifth relegation in two decades, making them the most relegated team in the 21st century.<ref>[https://www.elnortedecastilla.es/realvalladolid/descenso-real-valladolid-consecuencia-ano-repleto-altibajos-20230604001725-nt.html El descenso del Real Valladolid como consecuencia de un año repleto de altibajos] ''El Norte de Castilla'' (06/04/2023)</ref><ref>[https://as.com/futbol/primera/el-real-valladolid-acumula-mas-descensos-que-nadie-este-siglo-n/ El Real Valladolid acumula más descensos que nadie este siglo] ''AS'' (6 June 2023)</ref>
+
+The day after relegation, President Ronaldo confirmed Pezzolano as the coach for the 2023–24 season. Just days before the new season's start, [[Fran Sánchez]] was dismissed, and Domingo Catoira took over as the sporting director.<ref>{{cite web|language=en|title=Is Domingo Catoira joining Valladolid? Espanyol fans are shocked{{!}} ''La Grada''|url=https://lagradaonline.com/domingo-catoira-valladolid-espanyol/|website=La Grada – Official Website|date=August 2023 }}<!-- auto-translated by Module:CS1 translator --></ref> The fans' dissatisfaction with these changes, along with concerns about the team's direction and squad changes, were evident during the Trofeo Ciudad de Valladolid, with strong protests against the club's leadership, including chants calling for Ronaldo's departure.<ref>{{cite web|language=en|title=A hat-trick by Cedric gives Pucela the Trofeo Ciudad de Valladolid amid strong boos towards Ronaldo{{!}} ''Valladolid Plural''|url=https://valladolidplural.com/un-hat-trick-de-cedric-da-al-pucela-el-trofeo-ciudad-de-valladolid-bajo-una-tremenda-pitada-a-ronaldo/|website=Valladolid Plural – Official Website|date=2 August 2023 }}<!-- auto-translated by Module:CS1 translator --></ref>
+
+==Stadium==
+{{main|Estadio Nuevo José Zorrilla}}
+[[File:Estadio José Zorrilla de Valladolid.jpg|thumb|Estadio Nuevo José Zorrilla]]
+Real Valladolid play at the 26,421-capacity [[Estadio Nuevo José Zorrilla]], finished in 1982 to replace the [[Estadio José Zorrilla (1940)|previous stadium of the same name]] which had stood since 1940(increased its capacity from 27,846). Both grounds are named after [[José Zorrilla y Moral]], a 19th-century poet from the city. After opening for the club on 20 February 1982, it hosted the [[1982 Copa del Rey Final|Copa del Rey Final on 13 April of that year]], and then three Group D matches at the [[1982 FIFA World Cup]]. The venue is owned by the [[Ayuntamiento de Valladolid]].<ref>{{Cite web|url=https://as.com/futbol/2020/04/19/primera/1587285308_638136.html|website=[[as.com]]|title=Ronaldo también esquiva zancadillas como presidente|date=19 April 2020|first=José Luis|last=Rojí}}</ref>
+
+In 2010, it was announced that there were plans to expand the stadium to 40,000 spectators. This project was known as Valladolid Arena {{IPA|es|baʎaˈðolið aˈɾena|}}, but was contingent on Spain winning the right to host the 2018 FIFA World cup.<ref>{{cite web|url=http://www.eldiadevalladolid.com/noticia.cfm/Local/20101007/proyecto/valladolid/arena/deja/via/libre/cerrar/cubrir/estadio/1D0B0B0F-A01B-3377-7258653587FA9DC4 |title=El proyecto 'Valladolid Arena' deja vía libre para cerrar o cubrir el Estadio |language=es | trans-title= The 'Valladolid Arena" project leaving the way open to close or cover the Stadium |publisher=Eldiadevalladolid.com |access-date=17 November 2011}}</ref>
+
+==Season to season==
+[[File:Real Valladolid Club de Fútbol league performance 1929-2023.svg|thumb|Real Valladolid's league positions]]
+The following list shows Valladolid's record as well as all the presidents and coaches for every season since its foundation in 1929.<ref>{{Cite web|url= http://www.realvalladolid.es/elclub/historia/presidentesyentrenadores/|title=Presidentes y Entrenadores del Real Valladolid C.F. S.A.D.|trans-title=Real Valladolid CF S.A.D. presidents and managers|publisher=Real Valladolid|language=es|access-date=2 December 2010}}</ref> All presidents and coaches are Spanish unless otherwise noted.
+
+{|  class="wikitable" text-align:center"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+!President
+!Coach
+!Accomplishments
+|-
+|style="background:#FFD3BD;"|[[1929 Segunda División Grupo B|1929]]
+|style="background:#FFD3BD;" rowspan="6"|3
+|style="background:#FFD3BD;" rowspan="6"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|6th
+|Pedro Zuloaga<br />Santos Rodríguez
+|rowspan="2"|{{flagicon|Hungary}} [[István Plattkó]]
+|
+|-
+|style="background:#FFD3BD;"|[[1929–30 Tercera División|1929–30]]
+|style="background:#FFD3BD;"|2nd
+|Santos Rodríguez
+|
+|-
+|style="background:#FFD3BD;"|[[1930–31 Tercera División|1930–31]]
+|style="background:#FFD3BD;"|2nd
+|rowspan="13"|José Cantalapiedra
+|rowspan="3"|Antón Achalandabaso
+|
+|-
+|style="background:#FFD3BD;"|[[1931–32 Tercera División|1931–32]]
+|style="background:#FFD3BD;"|3rd
+|
+|-
+|style="background:#FFD3BD;"|[[1932–33 Tercera División|1932–33]]
+|style="background:#FFD3BD;"|1st
+|
+|-
+|style="background:#FFD3BD;"|[[1933–34 Tercera División|1933–34]]
+|style="background:#FFD3BD;"|1st
+|rowspan="3"|{{flagicon|Hungary}} [[István Plattkó]] tekio
+|Promoted to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[1934–35 Segunda División|1934–35]]
+|style="background:#D3D3D3;" rowspan="2"|2
+|style="background:#D3D3D3;" rowspan="2"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+|
+|-
+|style="background:#D3D3D3;"|[[1935–36 Segunda División|1935–36]]
+|style="background:#D3D3D3;"|4th
+|
+|-
+|style="background:#efefef;"|1936–37
+|style="background:#efefef;" rowspan="3" colspan="3"|''No competition''
+|rowspan="3" colspan="2"|''No competition was held<br />due to Spanish Civil War''
+|-
+|style="background:#efefef;"|1937–38
+|-
+|style="background:#efefef;"|1938–39
+|-
+|style="background:#D3D3D3;"|[[1939–40 Segunda División|1939–40]]
+|style="background:#D3D3D3;" rowspan="5"|2
+|style="background:#D3D3D3;" rowspan="5"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|6th
+|{{flagicon|Hungary}} [[István Plattkó]]<br />Manuel M. Ordax
+|
+|-
+|style="background:#D3D3D3;"|[[1940–41 Segunda División|1940–41]]
+|style="background:#D3D3D3;"|10th
+|Juan Bilbao "Juanín"
+|
+|-
+|style="background:#D3D3D3;"|[[1941–42 Segunda División|1941–42]]
+|style="background:#D3D3D3;"|5th
+|rowspan="2"|{{flagicon|Hungary}} [[Károly Plattkó]]
+|
+|-
+|style="background:#D3D3D3;"|[[1942–43 Segunda División|1942–43]]
+|style="background:#D3D3D3;"|2nd
+|
+|-
+|style="background:#D3D3D3;"|[[1943–44 Segunda División|1943–44]]
+|style="background:#D3D3D3;"|14th
+|José Cantalapiedra<br />José González
+|Alfonso Martínez<br />José Planas
+|Relegated to [[Tercera División|3ª]]
+|-
+|style="background:#FFD3BD;"|[[1944–45 Tercera División|1944–45]]
+|style="background:#FFD3BD;" rowspan="3"|3
+|style="background:#FFD3BD;" rowspan="3"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|3rd
+|Germán Adánez<br />Ángel Soria
+|[[:es:Arcadio Arteaga|Quirico Arteaga]]
+|Runner-up [[Spanish Royal Federation Cup|Copa Federación]]
+|-
+|style="background:#FFD3BD;"|[[1945–46 Tercera División|1945–46]]
+|style="background:#FFD3BD;"|1st
+|Ángel Soria
+|rowspan="3"|[[Antonio Barrios]]
+|
+|-
+|style="background:#FFD3BD;"|[[1946–47 Tercera División|1946–47]]
+|style="background:#FFD3BD;"|1st
+|rowspan="4"|Juan Represa
+|Promoted to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[1947–48 Segunda División|1947–48]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|1st
+|Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[1948–49 La Liga|1948–49]]
+|style="background:#FFEA64;" rowspan="10"|1
+|style="background:#FFEA64;" rowspan="10"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|12th
+|{{flagicon|Argentina}} {{flagicon|France}} [[Helenio Herrera]]
+|
+|-
+|style="background:#FFEA64;"|[[1949–50 La Liga|1949–50]]
+|style="background:#FFEA64;"|9th
+|[[Antonio Barrios]]<br />Julián Vaquero<br />[[Antonio Barrios]]
+|[[Copa del Generalísimo|Spanish Cup]]: Runners-up<br /><small>(4–1 v. [[Athletic Bilbao]])</small>
+|-
+|style="background:#FFEA64;"|[[1950–51 La Liga|1950–51]]
+|style="background:#FFEA64;"|6th
+|Manuel González Aquiso
+|rowspan="2"|[[Juan Antonio Ipiña]]
+|
+|-
+|style="background:#FFEA64;"|[[1951–52 La Liga|1951–52]]
+|style="background:#FFEA64;"|8th
+|rowspan="7"|Ramón Pradera
+|
+|-
+|style="background:#FFEA64;"|[[1952–53 La Liga|1952–53]]
+|style="background:#FFEA64;"|12th
+|[[José Iraragorri]]
+|'''Winner''' [[Spanish Royal Federation Cup|Copa Federación]]
+|-
+|style="background:#FFEA64;"|[[1953–54 La Liga|1953–54]]
+|style="background:#FFEA64;"|12th
+|rowspan="3"|[[Luis Miró]]
+|
+|-
+|style="background:#FFEA64;"|[[1954–55 La Liga|1954–55]]
+|style="background:#FFEA64;"|9th
+|
+|-
+|style="background:#FFEA64;"|[[1955–56 La Liga|1955–56]]
+|style="background:#FFEA64;"|9th
+|
+|-
+|style="background:#FFEA64;"|[[1956–57 La Liga|1956–57]]
+|style="background:#FFEA64;"|8th
+|Rafael Yunta
+|
+|-
+|style="background:#FFEA64;"|[[1957–58 La Liga|1957–58]]
+|style="background:#FFEA64;"|15th
+|Rafael Yunta<br />[[:es:José Luis Saso|José Luis Saso]]
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[1958–59 Segunda División|1958–59]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|1st
+|rowspan="3"|Carlos del Río Hortega
+|rowspan="2"|[[:es:José Luis Saso|José Luis Saso]]
+|Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[1959–60 La Liga|1959–60]]
+|style="background:#FFEA64;" rowspan="2"|1
+|style="background:#FFEA64;" rowspan="2"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|13th
+|
+|-
+|style="background:#FFEA64;"|[[1960–61 La Liga|1960–61]]
+|style="background:#FFEA64;"|15th
+|[[:es:José Luis Saso|José Luis Saso]]<br />Pedro Eguiluz<br />[[Paco Lesmes]]
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[1961–62 Segunda División|1961–62]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+|rowspan="4"|José Miguel Arrarte
+|[[Paco Lesmes]]<br />Manuel Soler<br />{{flagicon|Paraguay}} [[Heriberto Herrera]]
+|Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[1962–63 La Liga|1962–63]]
+|style="background:#FFEA64;" rowspan="2"|1
+|style="background:#FFEA64;" rowspan="2"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|4th
+|[[Antonio Ramallets]]
+|
+|-
+|style="background:#FFEA64;"|[[1963–64 La Liga|1963–64]]
+|style="background:#FFEA64;"|16th
+|[[Ángel Zubieta]]<br />[[Paco Lesmes]]
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[1964–65 Segunda División|1964–65]]
+|style="background:#D3D3D3;" rowspan="6"|2
+|style="background:#D3D3D3;" rowspan="6"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|3rd
+|{{flagicon|Hungary}} [[Janos Kalmar]]<br />Julián Vaquero
+|
+|-
+|style="background:#D3D3D3;"|[[1965–66 Segunda División|1965–66]]
+|style="background:#D3D3D3;"|4th
+|rowspan="2"|José Luis Saso
+|[[Antonio Barrios]]<br />[[Antonio Ramallets]]
+|
+|-
+|style="background:#D3D3D3;"|[[1966–67 Segunda División|1966–67]]
+|style="background:#D3D3D3;"|9th
+|Pedro Torres<br />Héctor Martín<br />[[Emilio Aldecoa]]<br />Héctor Martín<br />[[Emilio Aldecoa]]<br />Héctor Martín
+|
+|-
+|style="background:#D3D3D3;"|[[1967–68 Segunda División|1967–68]]
+|style="background:#D3D3D3;"|2nd
+|rowspan="3"|Antonio Alfonso
+|[[José Molinuevo]]<br />[[Enrique Orizaola]]
+|
+|-
+|style="background:#D3D3D3;"|[[1968–69 Segunda División|1968–69]]
+|style="background:#D3D3D3;"|10th
+|[[Antonio Barrios]]<br />[[Enrique Orizaola]]
+|
+|-
+|style="background:#D3D3D3;"|[[1969–70 Segunda División|1969–70]]
+|style="background:#D3D3D3;"|17th
+|José Antonio Olmedo<br />[[:es:José Luis Saso|José Luis Saso]]<br />[[:es:Gerardo Coque|Gerardo Coque]]
+|Relegated to [[Tercera División|3ª]]
+|-
+|style="background:#FFD3BD;"|[[1970–71 Tercera División|1970–71]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|2nd
+|rowspan="4"|Santiago Gallego
+|[[:es:Gerardo Coque|Gerardo Coque]]<br />Héctor Martín
+|Promoted to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[1971–72 Segunda División|1971–72]]
+|style="background:#D3D3D3;" rowspan="9"|2
+|style="background:#D3D3D3;" rowspan="9"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|7th
+|rowspan="2"|Héctor Martín
+|
+|-
+|style="background:#D3D3D3;"|[[1972–73 Segunda División|1972–73]]
+|style="background:#D3D3D3;"|5th
+|
+|-
+|style="background:#D3D3D3;"|[[1973–74 Segunda División|1973–74]]
+|style="background:#D3D3D3;"|7th
+|[[Gustau Biosca]]<br />Fernando Redondo
+|
+|-
+|style="background:#D3D3D3;"|[[1974–75 Segunda División|1974–75]]
+|style="background:#D3D3D3;"|11th
+|rowspan="4"|Fernando Alonso
+|Fernando Redondo<br />Santiago Vázquez<br />{{flagicon|Germany}} [[Rudi Gutendorf]]
+|
+|-
+|style="background:#D3D3D3;"|[[1975–76 Segunda División|1975–76]]
+|style="background:#D3D3D3;"|4th
+|{{flagicon|Uruguay}} [[Héctor Núñez]]
+|
+|-
+|style="background:#D3D3D3;"|[[1976–77 Segunda División|1976–77]]
+|style="background:#D3D3D3;"|12th
+|[[Luis Aloy Vidal|Luis Aloy]]<br />[[:es:José Luis Saso|José Luis Saso]]
+|
+|-
+|style="background:#D3D3D3;"|[[1977–78 Segunda División|1977–78]]
+|style="background:#D3D3D3;"|7th
+|[[Francisco García Gómez|Francisco García "Paquito"]]
+|
+|-
+|style="background:#D3D3D3;"|[[1978–79 Segunda División|1978–79]]
+|style="background:#D3D3D3;"|4th
+|rowspan="2"|Gonzalo Alonso
+|[[Pachín|Enrique Pérez "Pachín"]]
+|
+|-
+|style="background:#D3D3D3;"|[[1979–80 Segunda División|1979–80]]
+|style="background:#D3D3D3;"|2nd
+|[[Eusebio Ríos]]
+|Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[1980–81 La Liga|1980–81]]
+|style="background:#FFEA64;" rowspan="12"|1
+|style="background:#FFEA64;" rowspan="12"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|12th
+|rowspan="2"|Gonzalo Alonso
+|rowspan="2"|[[Francisco García Gómez|Francisco García "Paquito"]]
+|
+|-
+|style="background:#FFEA64;"|[[1981–82 La Liga|1981–82]]
+|style="background:#FFEA64;"|9th
+|
+|-
+|style="background:#FFEA64;"|[[1982–83 La Liga|1982–83]]
+|style="background:#FFEA64;"|12th
+|Manuel Esteban
+|{{flagicon|Argentina}} [[Felipe Mesones]]<br />Santi Llorente<br />[[:es:José Luis García Traid|José Luis García Traid]]
+|
+|-
+|style="background:#FFEA64;"|[[1983–84 La Liga|1983–84]]
+|style="background:#FFEA64;"|14th
+|Pedro San Martín<br />Mariano Hernández<br />Gonzalo Alonso
+|[[:es:José Luis García Traid|José Luis García Traid]]<br />Fernando Redondo
+|[[Copa de la Liga|League Cup]]: '''Winners'''<br /><small>(Agg. 3–0 vs. [[Atlético de Madrid|Atlético]])</small>
+|-
+|style="background:#FFEA64;"|[[1984–85 La Liga|1984–85]]
+|style="background:#FFEA64;"|13th
+|rowspan="2"|Gonzalo Alonso
+|Fernando Redondo
+|
+|-
+|style="background:#FFEA64;"|[[1985–86 La Liga|1985–86]]
+|style="background:#FFEA64;"|10th
+|{{flagicon|Argentina}} {{flagicon|Chile}} [[Vicente Cantatore]]
+|
+|-
+|style="background:#FFEA64;"|[[1986–87 La Liga|1986–87]]
+|style="background:#FFEA64;"|10th
+|Gonzalo Alonso<br />José Agad<br />Miguel Ángel Pérez Herrán
+|{{flagicon|Argentina}} {{flagicon|Chile}} [[Vicente Cantatore]]<br />[[Xabier Azkargorta]]<br />Antonio Sánchez Santos<br />[[:es:José Pérez Garcia|José Pérez Garcia]]
+|
+|-
+|style="background:#FFEA64;"|[[1987–88 La Liga|1987–88]]
+|style="background:#FFEA64;"|8th
+|rowspan="2"|Miguel Ángel Pérez Herrán
+|rowspan="2"|{{flagicon|Argentina}} {{flagicon|Chile}} [[Vicente Cantatore]]
+|
+|-
+|style="background:#FFEA64;"|[[1988–89 La Liga|1988–89]]
+|style="background:#FFEA64;"|6th
+|[[Copa del Rey|Spanish Cup]]: Runners-up<br /><small>(1–0 vs. [[Real Madrid C.F.|Real Madrid]])</small>
+|-
+|style="background:#FFEA64;"|[[1989–90 La Liga|1989–90]]
+|style="background:#FFEA64;"|16th
+|Miguel Ángel Pérez Herrán<br />Carlos García Zúñiga
+|{{flagicon|SFR Yugoslavia}} [[Josip Skoblar]]<br />[[José Moré Bonet|José Moré]]<br />Fernando Redondo
+|
+|-
+|style="background:#FFEA64;"|[[1990–91 La Liga|1990–91]]
+|style="background:#FFEA64;"|9th
+|Gonzalo Gonzalo
+|{{flagicon|Colombia}} [[Francisco Maturana|"Pacho" Maturana]]
+|
+|-
+|style="background:#FFEA64;"|[[1991–92 La Liga|1991–92]]
+|style="background:#FFEA64;"|19th
+|Gonzalo Gonzalo<br />Andrés Martín<br />Marcos Fernández Fernández
+|{{flagicon|Colombia}} [[Francisco Maturana|"Pacho" Maturana]]<br />Javier Yepes Peñas
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[1992–93 Segunda División|1992–93]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+|rowspan="5"|Marcos Fernández Fernández
+|[[:es:Marco Antonio Boronat|Marco Antonio Boronat]]<br />[[:es:José Luis Saso|José Luis Saso]]<br />{{flagicon|Argentina}} [[Felipe Mesones]]
+|Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[1993–94 La Liga|1993–94]]
+|style="background:#FFEA64;" rowspan="11"|1
+|style="background:#FFEA64;" rowspan="11"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|18th
+|{{flagicon|Argentina}} [[Felipe Mesones]]<br />[[José Moré]]
+|
+|-
+|style="background:#FFEA64;"|[[1994–95 La Liga|1994–95]]
+|style="background:#FFEA64;"|19th
+|{{flagicon|Uruguay}} [[Víctor Espárrago]]<br />[[José Moré Bonet|José Moré]]<br />Fernando Redondo<br />Antonio Sánchez Santos
+|
+|-
+|style="background:#FFEA64;"|[[1995–96 La Liga|1995–96]]
+|style="background:#FFEA64;"|16th
+|[[Rafael Benítez]]<br />Antonio Sánchez Santos<br />{{flagicon|Argentina}} {{flagicon|Chile}} [[Vicente Cantatore]]
+|
+|-
+|style="background:#FFEA64;"|[[1996–97 La Liga|1996–97]]
+|style="background:#FFEA64;"|7th
+|{{flagicon|Argentina}} {{flagicon|Chile}} [[Vicente Cantatore]]
+|
+|-
+|style="background:#FFEA64;"|[[1997–98 La Liga|1997–98]]
+|style="background:#FFEA64;"|11th
+|Marcos Fernández Fernández<br />Marcos Fernández Fermoselle
+|{{flagicon|Argentina}} {{flagicon|Chile}} [[Vicente Cantatore]]<br />Antonio Sánchez Santos<br />{{flagicon|Croatia}} [[Sergije Krešić]]
+|
+|-
+|style="background:#FFEA64;"|[[1998–99 La Liga|1998–99]]
+|style="background:#FFEA64;"|12th
+|Marcos Fernández Fermoselle
+|{{flagicon|Croatia}} [[Sergije Krešić]]
+|
+|-
+|style="background:#FFEA64;"|[[1999–2000 La Liga|1999–2000]]
+|style="background:#FFEA64;"|8th
+|Marcos Fernández Fermoselle<br />Ángel Fernández Fermoselle<br />Ignacio Lewin
+|[[Gregorio Manzano]]
+|
+|-
+|style="background:#FFEA64;"|[[2000–01 La Liga|2000–01]]
+|style="background:#FFEA64;"|16th
+|Ignacio Lewin<br />Carlos Suárez
+|{{flagicon|Argentina}} Francisco "Pancho" Ferraro<br />[[José Moré]]
+|
+|-
+|style="background:#FFEA64;"|[[2001–02 La Liga|2001–02]]
+|style="background:#FFEA64;"|12th
+|rowspan="17"|Carlos Suárez
+|rowspan="2"|[[José Moré Bonet|José Moré]]
+|
+|-
+|style="background:#FFEA64;"|[[2002–03 La Liga|2002–03]]
+|style="background:#FFEA64;"|14th
+|
+|-
+|style="background:#FFEA64;"|[[2003–04 La Liga|2003–04]]
+|style="background:#FFEA64;"|18th
+|[[Fernando Vázquez]]<br />Antonio Sánchez Santos
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[2004–05 Segunda División|2004–05]]
+|style="background:#D3D3D3;" rowspan="3"|2
+|style="background:#D3D3D3;" rowspan="3"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|6th
+|{{flagicon|Croatia}} [[Sergije Krešić]]<br />[[Marcos Alonso Peña|Marcos Alonso]]
+|
+|-
+|style="background:#D3D3D3;"|[[2005–06 Segunda División|2005–06]]
+|style="background:#D3D3D3;"|10th
+|[[Marcos Alonso Peña|Marcos Alonso]]<br />[[:es:Alfredo Merino Tamayo|Alfredo Merino]]
+|
+|-
+|style="background:#D3D3D3;"|[[2006–07 Segunda División|2006–07]]
+|style="background:#D3D3D3;"|1st
+|rowspan="3"|[[José Luis Mendilibar]]
+|Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[2007–08 La Liga|2007–08]]
+|style="background:#FFEA64;" rowspan="3"|1
+|style="background:#FFEA64;" rowspan="3"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|15th
+|
+|-
+|style="background:#FFEA64;"|[[2008–09 La Liga|2008–09]]
+|style="background:#FFEA64;"|15th
+|
+|-
+|style="background:#FFEA64;"|[[2009–10 La Liga|2009–10]]
+|style="background:#FFEA64;"|[[2009–10 Real Valladolid season|18th]]
+|[[José Luis Mendilibar]]<br />[[Onésimo Sánchez]]<br />[[Javier Clemente]]
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[2010–11 Segunda División|2010–11]]
+|style="background:#D3D3D3;" rowspan="2"|2
+|style="background:#D3D3D3;" rowspan="2"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|[[2010–11 Real Valladolid season|7th]]
+|[[Antonio Gómez Pérez|Antonio Gómez]]<br />[[Abel Resino]]
+|Qualified for [[2011 Segunda División play-offs|Promotion play-off]]
+|-
+|style="background:#D3D3D3;"|[[2011–12 Segunda División|2011–12]]
+|style="background:#D3D3D3;"|[[2011–12 Real Valladolid season|3rd]]
+|rowspan="2"|{{flagicon|Serbia}} [[Miroslav Đukić]]
+|Qualified for [[2012 Segunda División play-offs|Promotion play-off]]<br />Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[2012–13 La Liga|2012–13]]
+|style="background:#FFEA64;" rowspan="2"|1
+|style="background:#FFEA64;" rowspan="2"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|[[2012–13 Real Valladolid season|14th]]
+|
+|-
+|style="background:#FFEA64;"|[[2013–14 La Liga|2013–14]]
+|style="background:#FFEA64;"|[[2013–14 Real Valladolid season|19th]]
+|[[Juan Ignacio Martínez]]
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[2014–15 Segunda División|2014–15]]
+|style="background:#D3D3D3;" rowspan="4"|2
+|style="background:#D3D3D3;" rowspan="4"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+|[[Rubi (footballer)|Rubi]]
+|Qualified for [[2015 Segunda División play-offs|Promotion play-off]]
+|-
+|style="background:#D3D3D3;"|[[2015–16 Segunda División|2015–16]]
+|style="background:#D3D3D3;"|16th
+|[[Gaizka Garitano]]<br/>[[Miguel Ángel Portugal]]<br/>[[Alberto López Fernández|Alberto López]]
+|
+|-
+|style="background:#D3D3D3;"|[[2016–17 Segunda División|2016–17]]
+|style="background:#D3D3D3;"|[[2016–17 Real Valladolid season|7th]]
+|[[Paco Herrera]]
+|
+|-
+|style="background:#D3D3D3;"|[[2017–18 Segunda División|2017–18]]
+|style="background:#D3D3D3;"|[[2017–18 Real Valladolid season|5th]]
+|[[Luis César Sampedro]] <br />[[Sergio (footballer, born 1976)|Sergio González]]
+|Qualified for [[2018 Segunda División play-offs|Promotion play-off]]<br />Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[2018–19 La Liga|2018–19]]
+|style="background:#FFEA64;" rowspan="3"|1
+|style="background:#FFEA64;" rowspan="3"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|[[2018–19 Real Valladolid season|16th]]
+|rowspan="7"|{{flagicon|Brazil}} [[Ronaldo (Brazilian footballer)|Ronaldo]]
+|rowspan="3"|[[Sergio (footballer, born 1976)|Sergio González]]
+|
+|-
+|style="background:#FFEA64;"|[[2019–20 La Liga|2019–20]]
+|style="background:#FFEA64;"|[[2019–20 Real Valladolid season|13th]]
+|
+|-
+|style="background:#FFEA64;"|[[2020–21 La Liga|2020–21]]
+|style="background:#FFEA64;"|[[2020–21 Real Valladolid season|19th]]
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[2021–22 Segunda División|2021–22]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2º]]
+|style="background:#D3D3D3;"|[[2021–22 Real Valladolid season|2nd]]
+|[[Pacheta]]
+|Promoted to [[La Liga|1ª]]
+|-
+|style="background:#FFEA64;"|[[2022–23 La Liga|2022–23]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|[[2022–23 Real Valladolid season|18th]]
+|[[Pacheta]]<br />{{flagicon|Uruguay}} [[Paulo Pezzolano]]
+|Relegated to [[Segunda División|2ª]]
+|-
+|style="background:#D3D3D3;"|[[2023–24 Segunda División|2023–24]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2º]]
+|style="background:#D3D3D3;"|[[2023–24 Real Valladolid season|2nd]]
+|{{flagicon|Uruguay}} [[Paulo Pezzolano]]
+|Promoted to [[La Liga]]
+|-
+|style="background:#FFEA64;"|[[2024–25 La Liga|2024–25]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|[[2024–25 Real Valladolid season| ]]
+|{{flagicon|Uruguay}} [[Paulo Pezzolano]]
+|
+|}
+
+----
+*'''47''' seasons in [[La Liga]]
+*'''38''' seasons in [[Segunda División]] {{refn|Including [[1929 Segunda División Grupo B]].}}
+*'''9''' seasons in [[Tercera División]]
+
+===European competition history===
+====UEFA Cup====
+{| class="wikitable"
+! Season
+! Round
+! Club
+! Home 
+! Away
+! Aggregate
+|-
+|[[1984–85 UEFA Cup|1984–85]]
+|Round of 64
+|v. {{flagicon|YUG}} [[NK Rijeka|Rijeka]]
+|1–0
+|1–4
+|2–4
+|-
+|rowspan="2"|[[1997–98 UEFA Cup|1997–98]]
+|Round of 64
+|v. {{flagicon|LAT}} [[Skonto FC|Skonto]]
+|2–0
+|0–1
+|2–1
+|-
+|Round of 32
+|v. {{flagicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|1–2
+|0–2
+|1–4
+|-
+|}
+
+====UEFA Cup Winners' Cup====
+{| class="wikitable"
+! Season
+! Round
+! Club
+! Home 
+! Away
+! Aggregate
+|-
+|rowspan="3"|[[1989–90 European Cup Winners' Cup|1989–90]]
+|Round of 32
+|v. {{flagicon|Malta}} [[Ħamrun Spartans F.C.|Ħamrun Spartans]]
+|5–0
+|1–0
+|6–0
+|-
+|Round of 16
+|v. {{flagicon|SWE}} [[Djurgårdens IF Fotboll|Djurgårdens IF]]
+|2–0
+|2–2
+|4–2
+|-
+|Quarter-finals
+|v. {{flagicon|FRA}} [[AS Monaco FC|Monaco]]
+|0–0
+|0–0 {{aet}}
+|1–3 ([[Penalty shootout (association football)|pen.]])
+|}
+
+==Current squad==
+{{updated|1 September 2024}}<ref>{{cite web|url=https://www.realvalladolid.es/jugadores|title=Plantilla Real Valladolid Club de Fútbol|trans-title=First team|publisher=Real Valladolid|language=es|access-date=30 March 2023}}</ref>
+{{Fs start}}
+{{Fs player|no=1|nat=POR|name=[[André Ferreira (footballer, born 1996)|André Ferreira]]|pos=GK}}
+{{Fs player|no=2|nat=ESP|name=[[Luis Pérez (footballer, born 1995)|Luis Pérez]]|other=[[Captain (association football)|vice-captain]]|pos=DF}}
+{{Fs player|no=3|nat=ESP|name=[[David Torres (footballer, born 2003)|David Torres]]|pos=DF}}
+{{Fs player|no=4|nat=ESP|name=[[Víctor Meseguer]]|pos=MF}}
+{{Fs player|no=5|nat=ESP|name=[[Javi Sánchez (footballer)|Javi Sánchez]]|other=[[Captain (association football)|captain]]|pos=DF}}
+{{Fs player|no=6|nat=TUR|name=[[Cenk Özkacar]]|other=<small>on loan from [[Valencia CF|Valencia]]</small>|pos=DF}}
+{{Fs player|no=7|nat=SEN|name=[[Mamadou Sylla (footballer, born 1994)|Mamadou Sylla]]|pos=FW}}
+{{Fs player|no=8|nat=ESP|name=[[Kike Pérez]]|pos=MF}}
+{{Fs player|no=9|nat=BRA|name=[[Marcos André]]|pos=FW}}
+{{Fs player|no=10|nat=ESP|name=[[Iván Sánchez (footballer)|Iván Sánchez]]|pos=MF}}
+{{Fs player|no=11|nat=ESP|name=[[Raúl Moro]]|pos=MF}}
+{{Fs player|no=12|nat=ESP|name=[[Mario Martín]]|pos=MF|other={{small|on loan from [[Real Madrid CF|Real Madrid]]}}}}
+{{Fs player|no=13|nat=EST|name=[[Karl Hein (footballer)|Karl Hein]]|pos=GK|other={{small|on loan from [[Arsenal F.C.|Arsenal]]}}}}
+{{Fs mid}}
+{{Fs player|no=14|nat=ESP|name=[[Juanmi Latasa]]|pos=FW}}
+{{Fs player|no=15|nat=SUI|name=[[Eray Cömert]]|pos=DF|other={{small|on loan from [[Valencia CF|Valencia]]}}}}
+{{Fs player|no=16|nat=ESP|name=[[César de la Hoz]]|pos=MF}}
+{{Fs player|no=18|nat=VEN|name=[[Darwin Machís]]|pos=MF}}
+{{Fs player|no=19|nat=SEN|name=[[Amath Ndiaye]]|pos=MF}}
+{{Fs player|no=20|nat=CRO|name=[[Stanko Jurić]]|pos=MF}}
+{{Fs player|no=21|nat=MAR|name=[[Selim Amallah]]|pos=MF}}
+{{Fs player|no=22|nat=BRA|name=[[Lucas Rosa]]|pos=DF}}
+{{Fs player|no=23|nat=MAR|name=[[Anuar Tuhami|Anuar]]|pos=MF}}
+{{Fs player|no=24|nat=BRA|name=[[Kenedy (footballer)|Kenedy]]|pos=MF}}
+{{Fs player|no=28|nat=ESP|name=[[Chuki (footballer)|Chuki]]|pos=MF}}
+{{Fs player|no=31|nat=ESP|name=[[Álvaro Aceves]]|pos=GK}}
+{{Fs end}}
+
+===Reserve team===
+{{main|Real Valladolid Promesas}}
+{{Fs start}}
+{{Fs player|no=26|nat=ESP|name=[[Arnau Rafús Aulet|Arnau Rafús]]|pos=GK}}
+{{Fs player|no=30|nat=ESP|name=[[Rául Chasco Ruiz|Raúl Chasco]]|pos=DF}}
+{{Fs player|no=32|nat=ESP|name=[[Koke Iglesias]]|pos=DF}}
+{{Fs mid}}
+{{Fs player|no=34|nat=ESP|name=[[Mario Maroto Arguello|Mario Maroto]]|pos=MF}}
+{{Fs player|no=35|nat=SLE|name=[[Abdulai Juma Bah]]|pos=DF|other=on loan from AIK Freetong}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|nat=ESP|name=[[Iván Garriel]]|pos=DF|other=at [[RC Celta Fortuna|Celta Fortuna]] until 30 June 2025}}
+{{Fs player|no=|nat=CRO|name=[[Stipe Biuk]]|pos=FW|other=at [[Hajduk Split]] until 30 June 2025}}
+{{Fs end}}
+
+{{see also|Category:Real Valladolid managers}}
+
+===Technical staff===
+{{Fb cs header}}
+{{Fb cs staff |bg=  |p=Head coach             |s={{flagicon|URU}} [[Paulo Pezzolano]] }}
+{{Fb cs staff |bg=y |p=Assistant coach        |s={{flagicon|ESP}} Camilo Speranza }}
+{{Fb cs staff |bg=y |p=Technical assistant    |s={{flagicon|URU}} Matías Filippini <br/> {{flagicon|URU}} Joaquín Papa}}
+{{Fb cs staff |bg=y |p=Fitness coach          |s={{flagicon|URU}} Gonzalo Álvarez }}
+{{Fb cs staff |bg=y |p=Goalkeeper coach       |s={{flagicon|POR}} Ricardo Pereira }}
+{{Fb cs staff |bg=y |p=Load control           |s={{flagicon|ESP}} Sergio Sánchez }}
+{{Fb cs staff |bg=y |p=Analyst                |s={{flagicon|ESP}} Manuel Ramas <br/> {{flagicon|ESP}} Sergio Trinchet }}
+{{Fb cs staff |bg=y |p=Delegate               |s={{flagicon|ESP}} Manuel Rodríguez }}
+{{Fb cs staff |bg=y |p=Kit man                |s={{flagicon|CUB}} Justo Camacho <br/> {{flagicon|ESP}} Álvaro Fernández }}
+{{Fb cs staff |bg=y |p=Responsible for the performance and health area   |s={{flagicon|BRA}} Lucas Rafael }}
+{{Fb cs staff |bg=y |p=Doctor                 |s={{flagicon|ESP}} Doctor Lomo <br/> {{flagicon|ESP}} Doctor López Moreno }}
+{{Fb cs staff |bg=y |p=Rehab fitness coach    |s={{flagicon|ESP}} Fran Albert }}
+{{Fb cs staff |bg=y |p=Nutritionist           |s={{flagicon|ESP}} Fernando García }}
+{{Fb cs staff |bg=y |p=Physiotherapist        |s={{flagicon|ESP}} José Ángel <br/> {{flagicon|ESP}} Samuel Bueno <br/> {{flagicon|ESP}} Rodrigo Herrero <br/> {{flagicon|ESP}} Miguel Ángel Rodríguez }}
+{{Fb cs staff |bg=y |p=Podiatrist             |s={{flagicon|ESP}} Juan Baticón }}
+{{Fb cs footer|u=3 September 2023|date=September 2023|s=[https://www.realvalladolid.es/jugadores?category=coach] {{in lang|es}}}}
+
+== Kit ==
+Since it was started in 1928, Real Valladolid has always had a home uniform of purple and white stripes. This uniform was picked to make sure it wasn't too similar to other early clubs,  and they still use the same basic design with very few changes. Purple and white have become the team's colors, and they're a big part of the club's story.<ref>{{Cite web |title=historia real valladolid cf :: La Futbolteca. Enciclopedia del Fútbol Español |url=http://lafutbolteca.com/tag/historia-real-valladolid-cf/ |access-date=2024-03-24 |language=ES-es}}</ref><ref>{{Cite web |last=Guallar |first=Javi |date=2013-12-03 |title=CAMISETAS SPORT CLUB: R. VALLADOLID C.F. |url=http://camisetassportclub.blogspot.com/2013/12/r-valladolid-cf.html |access-date=2024-03-24}}</ref><ref>{{Cite web |title=Tercera Camiseta Valladolid 1999-00 |url=https://www.footballkitarchive.com/es/valladolid-1999-00-third-kit/ |access-date=2024-03-24 |website=Football Kit Archive |language=es-ES}}</ref>
+
+During the 2012–13 season, Real Valladolid showed their support for [[Madrid]]'s bid to host the [[2020 Summer Olympics|2020 Olympics]] by wearing a special shirt for their match against [[Real Madrid CF|Real Madrid]] at the [[Santiago Bernabéu Stadium]]. The shirt featured black and purple stripes with eye-catching orange numbers on the back.<ref>{{Cite web |title=Presentada la camiseta del Real Valladolid en apoyo a Madrid 2020.{{!}} Cadena Ser |url=https://cadenaser.com/emisora/2013/05/03/radio_valladolid/1367537293_850215.html |access-date=2013-05-03 |website=Cadena Ser - Web Oficial |date=3 May 2013 |language=es}}</ref>
+
+On September 24, 2023, Real Valladolid had to play their match at the [[Estadio Carlos Tartiere|Carlos Tartiere Stadium]] against [[Real Oviedo]] wearing a fourth kit. This is because the Technical Committee of Referees (CTA) considered that the three kits of the pucelano team have violet as the predominant color and considered that they are similar to the first kit of the Asturian team, despite having played other seasons with the first kit, replacing the white shorts with violet ones.<ref>{{Cite web |title=El Pucela jugará con camiseta y medias amarillas, y con pantalón violeta de la segunda equipación en el estadio Carlos Tartiere CTA de la RFEF no permitirá que el Real Valladolid utilice ninguna de sus tres equipaciones oficiales por considerar que hay una similitud de tono y/o color con la primera del Real Oviedo{{!}} Twitter (Real Valladolid C.F.) |url=https://twitter.com/realvalladolid/status/1705598084221182027?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1705598084221182027%7Ctwgr%5Ed730eab269eff2b4b1d621743056255b079c6331%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fvipdeportivo.es%2Freal-oviedo-real-valladolid-las-novedades%2F |access-date=2023-09-23 |website=Twitter (Real Valladolid C.F.) - Web Oficial |language=es}}</ref> The Promesas wore their previously mentioned kit without issue during their [[Segunda Federación]] match against [[Real Oviedo Vetusta]] last week.<ref>{{Cite web |title=0-1: La primera, con el sello de Arnu. El Real Valladolid Promesas venció al Real Oviedo Vetusta, disputado en El Requexón, en Oviedo, el domingo 17 de septiembre de 2023.{{!}} Real Valladolid C.F. |url=https://www.realvalladolid.es/noticias/0-1-la-primera-con-el-sello-de-arnu |access-date=2023-09-17 |website=Real Valladolid C.F. - Web Oficial |language=es}}</ref> This kit consisted of a yellow shirt and socks, along with violet shorts carried over from their second kit.<ref>{{Cite web |title=0-1: Premio al tesón del Pucela que jugó con camiseta y mediaas amarillas y pantalón violeta de la segunda equipación.{{!}} Real Valladolid C.F. |url=https://www.realvalladolid.es/noticias/0-1-premio-al-teson |access-date=2023-09-24 |website=Real Valladolid C.F. - Web Oficial |language=es}}</ref><ref>{{Cite web |title=Resumen y gol del Real Oviedo vs. Real Valladolid CF, jornada 7.{{!}} Diario As |url=https://as.com/futbol/videos/resumen-y-gol-del-real-oviedo-vs-real-valladolid-cf-jornada-7-de-laliga-hypermotion-v/ |access-date=2023-09-24 |website=Diario As - Web Oficial |date=24 September 2023 |language=es}}</ref>
+
+== Honours ==
+[[File:Celebraciones por el ascenso de 2007 del Real Valladolid en la Plaza Mayor.jpg|thumb|Valladolid players celebrating their 2007 promotion to La Liga on the balcony of the City Hall]]
+
+===League===
+*[[Segunda División]]: [[1947–48 Segunda División|1947–48]], [[1958–59 Segunda División|1958–59]], [[2006–07 Segunda División|2006–07]]<ref>{{Cite web|url=http://lafutbolteca.com/real-valladolid-club-de-futbol-s-a-d/|title=Real Valladolid Club de Fútbol, S.A.D. :: La Futbolteca. Enciclopedia del Fútbol Español|language=ES-es|access-date=2020-02-03}}</ref>
+*[[Tercera División]]: 1933–34
+
+===Cups===
+*[[Copa de la Liga]]: [[1984 Copa de la Liga|1984]]<ref>{{Cite web|url=https://www.ceroacero.es/team_titles.php?id=55|title=Real Valladolid Club de Fútbol|website=www.ceroacero.es|language=es|access-date=2020-02-03}}</ref>
+*[[Copa Federación de España|Copa Real Federación Española de Fútbol]]:  1952–53
+'''Records'''
+*Most games unbeaten in Segunda División: 29 (2006–07)
+*Earliest promotion in Segunda División: day 34 (out of 42), 22 April 2007
+*Fastest goal in [[La Liga]] history: 7.42 seconds; scored by [[Joseba Llorente]] on 20 January 2008, vs [[RCD Espanyol|Espanyol]] (2–1 win)<ref name="mundodeportivo.com">{{cite web|title=keita-marca-el-segundo-gol-mas-rapido
+|url=http://www.mundodeportivo.com/20140327/futbol/la-liga-bbva/keita-marca-el-segundo-gol-mas-rapido-de-la-historia-de-la-liga_54404499514.html |work=MD |date=2014}}</ref>
+
+==Notable players==
+{{see also|Category:Real Valladolid players}}
+
+==See also==
+{{Portal|Association football|Spain}}
+*[[Real Valladolid B]] – Valladolid's B team
+*[[Real Valladolid (women)]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Real Valladolid}}
+*{{official website|http://www.realvalladolid.es}} {{in lang|es}}
+*[http://www.futbolme.com/com/equipo.asp?id_equipo=538 Futbolme team profile] {{in lang|es}}
+*[http://www.bdfutbol.com/en/e/e37.html BDFutbol team profile]
+
+{{Real Valladolid}}
+{{Spanish football club template|Valladolid}}
+
+[[Category:Real Valladolid| ]]
+[[Category:Football clubs in Castile and León]]
+[[Category:La Liga clubs|Valladolid]]
+[[Category:Association football clubs established in 1928]]
+[[Category:Organisations based in Spain with royal patronage|V]]
+[[Category:1928 establishments in Spain]]
+[[Category:Segunda División clubs]]
+[[Category:Multi-sport clubs in Spain]]

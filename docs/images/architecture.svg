@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" width="960" height="400" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#555"/>
+    </marker>
+  </defs>
+  <rect width="960" height="400" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" font-size="18" font-weight="bold" fill="#111">Real-time pipeline: from speech to on-air graphic</text>
+
+  <!-- Row 1: main pipeline -->
+  <g font-size="14" text-anchor="middle">
+    <rect x="20"  y="70" width="150" height="70" rx="10" fill="#eef4ff" stroke="#2b5ca8"/>
+    <text x="95" y="98" font-weight="bold" fill="#111">Audio</text>
+    <text x="95" y="120" font-size="12" fill="#333">microphone or replay</text>
+
+    <rect x="210" y="70" width="150" height="70" rx="10" fill="#eef4ff" stroke="#2b5ca8"/>
+    <text x="285" y="98" font-weight="bold" fill="#111">Speech engine</text>
+    <text x="285" y="120" font-size="12" fill="#333">streaming ASR</text>
+
+    <rect x="400" y="70" width="150" height="70" rx="10" fill="#eef4ff" stroke="#2b5ca8"/>
+    <text x="475" y="98" font-weight="bold" fill="#111">Understanding</text>
+    <text x="475" y="120" font-size="12" fill="#333">entities, events, roles</text>
+
+    <rect x="590" y="70" width="150" height="70" rx="10" fill="#eef4ff" stroke="#2b5ca8"/>
+    <text x="665" y="98" font-weight="bold" fill="#111">Match state</text>
+    <text x="665" y="120" font-size="12" fill="#333">score, clock, timeline</text>
+
+    <rect x="780" y="70" width="160" height="70" rx="10" fill="#eef4ff" stroke="#2b5ca8"/>
+    <text x="860" y="98" font-weight="bold" fill="#111">Graphic selector</text>
+    <text x="860" y="120" font-size="12" fill="#333">what, with which data</text>
+  </g>
+  <g stroke="#555" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <line x1="170" y1="105" x2="208" y2="105"/>
+    <line x1="360" y1="105" x2="398" y2="105"/>
+    <line x1="550" y1="105" x2="588" y2="105"/>
+    <line x1="740" y1="105" x2="778" y2="105"/>
+  </g>
+
+  <!-- Row 2: data and outputs -->
+  <g font-size="14" text-anchor="middle">
+    <rect x="590" y="220" width="150" height="70" rx="10" fill="#f3f3f3" stroke="#777"/>
+    <text x="665" y="248" font-weight="bold" fill="#111">DataProvider</text>
+    <text x="665" y="270" font-size="12" fill="#333">results + synthetic data</text>
+
+    <rect x="400" y="300" width="150" height="60" rx="10" fill="#fff4e5" stroke="#b36b00"/>
+    <text x="475" y="325" font-weight="bold" fill="#111">WebSocket</text>
+    <text x="475" y="345" font-size="12" fill="#333">operator / programme</text>
+
+    <rect x="590" y="300" width="150" height="60" rx="10" fill="#e9f8ef" stroke="#1d7a43"/>
+    <text x="665" y="325" font-weight="bold" fill="#111">Operator console</text>
+    <text x="665" y="345" font-size="12" fill="#333">approve, pin, discard</text>
+
+    <rect x="780" y="300" width="160" height="60" rx="10" fill="#e9f8ef" stroke="#1d7a43"/>
+    <text x="860" y="325" font-weight="bold" fill="#111">Programme output</text>
+    <text x="860" y="345" font-size="12" fill="#333">1920×1080 → OBS</text>
+  </g>
+  <g stroke="#555" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <line x1="860" y1="142" x2="860" y2="298"/>
+    <line x1="665" y1="218" x2="665" y2="142" stroke-dasharray="5 4"/>
+    <line x1="550" y1="330" x2="588" y2="330"/>
+  </g>
+
+  <!-- Legend and latency note -->
+  <g font-size="12" fill="#333">
+    <text x="20" y="200">Every message carries a trace id and timestamps per stage,</text>
+    <text x="20" y="216">so the time from the last spoken word to the painted graphic is measured.</text>
+    <text x="20" y="250">Speech → understanding → selection runs on a single process.</text>
+    <text x="20" y="266">Results and standings are real; player data is generated</text>
+    <text x="20" y="282">and labelled "demonstration data" on every graphic.</text>
+  </g>
+</svg>

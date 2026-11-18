@@ -1,0 +1,1607 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[Villarreal CF]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Fernando Roig]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Marcelino García Toral|Marcelino]]
+|stdtitle           = 
+|stadium            = [[Estadio de la Cerámica]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|5th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Second round]]
+|league topscorer   = <br>[[Ayoze Pérez]] (19)
+|season topscorer   = <br>Ayoze Pérez (22)
+|highest attendance = 22,048
+|lowest attendance  = 
+|average attendance = 18,267<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = [[UD Poblense|Poblense]] 1–6 Villarreal
+|largest loss       = [[FC Barcelona|Barcelona]] 5–1 Villarreal
+| pattern_la1 = _villarreal2425h
+| pattern_b1 = _villarreal2425h
+| pattern_ra1 = _villarreal2425h
+| pattern_sh1 = _villarreal2425h
+| pattern_so1 = _villarreal2425hl
+| leftarm1 = FFFF00
+| body1 = FFFF00
+| rightarm1 = FFFF00
+| shorts1 = FFFF01
+| socks1 = FFFF01
+| pattern_la2 = _villarreal2425a
+| pattern_b2 = _villarreal2425a
+| pattern_ra2 = _villarreal2425a
+| pattern_sh2 = _villarreal2425a
+| pattern_so2 = _villarreal2425al
+| leftarm2 = a0c0e6
+| body2 = a0c0e6
+| rightarm2 = a0c0e6
+| shorts2 = a0c0e6
+| socks2 = a0c0e6
+| pattern_la3 = _villarreal2425t
+| pattern_b3 = _villarreal2425t
+| pattern_ra3 = _villarreal2425t
+| pattern_sh3 = _villarreal2425t
+| pattern_so3 = _villarreal2425tl
+| leftarm3 = 2d2d37
+| body3 = 2d2d37
+| rightarm3 = 2d2d37
+| shorts3 = 2d2d37
+| socks3 = 2d2d37
+|prevseason         = [[2023–24 Villarreal CF season|2023–24]]
+|nextseason         = [[2025–26 Villarreal CF season|2025–26]]
+}}
+The '''2024–25 season''' was the 102nd season in the history of '''[[Villarreal CF|Villarreal Club de Fútbol]]''', and the club's 12th consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+Villarreal did not participate in any European competition for the first time since the [[2019–20 Villarreal CF season|2019–20 season]], due to their eighth-place league finish in the previous campaign.<ref>{{cite web|url=https://castellonplaza.com/villarreal-ya-tiene-su-museo-una-gran-muestra-de-su-historia-con-la-europa-league-como-colofon|title=El Villarreal ya tiene su museo: una gran muestra de su historia con la Europa League como colofón|website=Castellonplaza|language=es}}</ref>
+
+== Players ==
+=== First-team squad ===
+{{updated|3 February 2025}}<ref>{{cite web |url=https://villarrealcf.es/en/primer-equipo/ |title=First team squad |date=5 September 2022 |publisher=Villarreal CF |access-date=1 January 2024 |archive-date=1 January 2024 |archive-url=https://web.archive.org/web/20240101103053/https://villarrealcf.es/en/primer-equipo/ |url-status=live }}</ref>
+{{Fs start}}
+{{Fs player|no=1|nat=BRA|pos=GK|name=[[Luiz Júnior (footballer, born 2001)|Luiz Júnior]]}}
+{{Fs player|no=2|nat=CPV|pos=DF|name=[[Logan Costa]]}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=[[Raúl Albiol]]|other=[[captain (association football)|captain]]}}
+{{Fs player|no=4|nat=CIV|pos=DF|name=[[Eric Bailly]]}}
+{{Fs player|no=5|nat=DRC|pos=DF|name=[[Willy Kambwala]]}}
+{{Fs player|no=6|nat=ESP|pos=MF|name=[[Denis Suárez]]}}
+{{Fs player|no=7|nat=ESP|pos=FW|name=[[Gerard Moreno]]|other=[[captain (association football)|3rd captain]]}}
+{{Fs player|no=8|nat=ARG|pos=DF|name=[[Juan Foyth]]}}
+{{Fs player|no=9|nat=CAN|pos=FW|name=[[Tajon Buchanan]]|other=on loan from [[Inter Milan]]}}
+{{Fs player|no=10|nat=ESP|pos=MF|name=[[Dani Parejo]]}}
+{{Fs player|no=11|nat=MAR|pos=FW|name=[[Ilias Akhomach]]}}
+{{Fs player|no=13|nat=ESP|pos=GK|name=[[Diego Conde]]}}
+{{Fs mid}}
+{{Fs player|no=14|nat=ESP|pos=MF|name=[[Santi Comesaña]]}}
+{{Fs player|no=15|nat=FRA|pos=FW|name=[[Thierno Barry (footballer, born 2002)|Thierno Barry]]}}
+{{Fs player|no=16|nat=ESP|pos=MF|name=[[Álex Baena]]|other=[[vice-captain (association football)|vice-captain]]}}
+{{Fs player|no=17|nat=ESP|pos=DF|name=[[Kiko Femenía]]}}
+{{Fs player|no=18|nat=SEN|pos=MF|name=[[Pape Gueye]]}}
+{{Fs player|no=19|nat=CIV|pos=FW|name=[[Nicolas Pépé]]}}
+{{Fs player|no=21|nat=ESP|pos=FW|name=[[Yeremy Pino]]}}
+{{Fs player|no=22|nat=ESP|pos=FW|name=[[Ayoze Pérez]]}}
+{{Fs player|no=23|nat=ESP|pos=DF|name=[[Sergi Cardona]]}}
+{{Fs player|no=24|nat=ESP|pos=DF|name=[[Alfonso Pedraza]]}}
+{{Fs player|no=26|nat=ESP|pos=DF|name=[[Pau Navarro (footballer)|Pau Navarro]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|nat=ESP|pos=DF|name=[[Adrià Altimira]]|other=at [[CD Leganés|Leganés]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=DF|name=[[Carlos Romero (footballer, born 2001)|Carlos Romero]]|other=at [[RCD Espanyol|Espanyol]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=MF|name=[[Carlo Adriano|Carlo García]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=MF|name=[[Gerard Hernández]]|other=at [[Elche CF|Elche]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=MF|name=[[Ramon Terrats|Ramón Terrats]]|other=at [[Getafe CF|Getafe]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|nat=NED|pos=FW|name=[[Arnaut Danjuma]]|other=at [[Girona FC|Girona]] until 30 June 2025}}
+{{Fs player|no=|nat=URU|pos=FW|name=[[Andrés Ferrari]]|other=at [[Sint-Truidense V.V.|Sint-Truiden]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Álex Forés]]|other=at [[Levante UD|Levante]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Jorge Pascual]]|other=at [[SD Eibar|Eibar]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Pau Cabanes]]|other=at [[Deportivo Alavés|Alavés]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Mojica, Johan|{{flagicon|COL}} [[Johan Mojica]]}}
+|{{fbaicon|ESP}} [[CA Osasuna|Osasuna]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://navarra.okdiario.com/articulo/osasuna/colombiano-mojica-despide-osasuna-fuimos-gran-familia-siempre/20240527201136538545.html|title=El colombiano Mojica se despide de Osasuna: "Fuimos una gran familia siempre"|date=27 May 2024|website=Navarra}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Danjuma, Arnaut|{{flagicon|NED}} [[Arnaut Danjuma]]}}
+|{{fbaicon|ENG}} [[Everton F.C.|Everton]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Hassan, Haissem|{{flagicon|FRA}} [[Haissem Hassan]]}}
+|{{fbaicon|ESP}} [[Sporting de Gijón|Sporting Gijón]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Conde, Diego|{{flagicon|ESP}} [[Diego Conde]]}}
+|{{fbaicon|ESP}} [[CD Leganés|Leganés]]
+|€4,000,000
+|{{dts|2 July 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/diego-conde-is-a-yellow/|title=Diego Conde is a Yellow!|publisher=Villarreal CF|date=2 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Gueye, Pape|{{flagicon|SEN}} [[Pape Gueye]]}}
+|{{fbaicon|FRA}} [[Olympique de Marseille|Marseille]]
+|Free
+|{{dts|5 July 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/pape-gueye-is-a-yellow/|title=Pape Gueye is a Yellow!|publisher=Villarreal CF|date=5 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Kambwala, Willy|{{flagicon|DRC}} [[Willy Kambwala]]}}
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|€11,500,000
+|{{dts|15 July 2024}}
+|<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/c72vlye71y7o|title=Willy Kambwala: Manchester United agree to sell defender to Villarreal|date=13 July 2024|website=BBC Sport}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Cardona, Sergi|{{flagicon|ESP}} [[Sergi Cardona]]}}
+|{{fbaicon|ESP}} [[UD Las Palmas|Las Palmas]]
+|Free
+|{{dts|18 July 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/sergi-cardona-signs-for-villarreal-cf/|title=Sergi Cardona signs for Villarreal CF|publisher=Villarreal CF|date=18 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Pepe, Nicolas|{{flagicon|CIV}} [[Nicolas Pépé]]}}
+|Unattached
+|Free
+|{{dts|4 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/villarreal-cf-sign-nicolas-pepe/|title=Villarreal CF sign Nicolas Pépé!|publisher=Villarreal CF|date=4 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Perez, Ayoze|{{flagicon|ESP}} [[Ayoze Pérez]]}}
+|{{fbaicon|ESP}} [[Real Betis]]
+|€4,000,000
+|{{dts|13 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/european-champion-ayoze-perez-joins-villarreal-cf/|title=European champion Ayoze Pérez joins Villarreal CF|publisher=Villarreal CF|date=13 August 2024}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Junior, Luiz|{{flagicon|BRA}} [[Luiz Júnior (footballer, born 2001)|Luiz Júnior]]}}
+|{{fbaicon|POR}} [[F.C. Famalicão|Famalicão]]
+|€12,000,000
+|{{dts|20 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/welcome-luiz-junior/|title=Welcome, Luiz Júnior!|publisher=Villarreal CF|date=20 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Barry, Thierno|{{flagicon|FRA}} [[Thierno Barry (footballer, born 2002)|Thierno Barry]]}}
+|{{fbaicon|SUI}} [[FC Basel|Basel]]
+|€14,000,000
+|{{dts|21 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/thierno-barry-is-a-groguet/|title=Thierno Barry is a Groguet|publisher=Villarreal CF|date=21 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Costa, Logan|{{flagicon|CPV}} [[Logan Costa]]}}
+|{{fbaicon|FRA}} [[Toulouse FC|Toulouse]]
+|€17,500,000<ref>[marca.com/futbol/villarreal/2024/08/22/66c79fb446163f7e268b45a8.html]</ref>
+|{{dts|22 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/villarreal-cf-sign-logan-costa/|title=Villarreal CF sign Logan Costa|publisher=Villarreal CF|date=22 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Bernat, Juan|{{flagicon|ESP}} [[Juan Bernat]]}}
+|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/welcome-juan-bernat/|title=Welcome, Juan Bernat!|publisher=Villarreal CF|date=30 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Buchanan, Tajon|{{flagicon|CAN}} [[Tajon Buchanan]]}}
+|{{fbaicon|ITA}} [[Inter Milan]]
+|Loan
+|{{dts|1 February 2025}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/buchanan-ya-es-groguet/|title=Buchanan joins Villarreal CF|publisher=Villarreal CF|date=1 February 2025}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Mosquera, Yerson|{{flagicon|COL}} [[Yerson Mosquera]]}}
+|{{fbaicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Guedes, Goncalo|{{flagicon|POR}} [[Gonçalo Guedes]]}}
+|{{fbaicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Moreno, Alberto|{{flagicon|ESP}} [[Alberto Moreno]]}}
+|{{fbaicon|ITA}} [[Como 1907|Como]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref name="auto">{{Cite web|url=https://www.marca.com/futbol/villarreal/2024/06/09/6665663cca474121068b459f.html|title=El Villarreal deja libres a Morales, Reina, Alberto Moreno, Capoue y Coquelin|date=9 June 2024|website=Marca|language=es}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Reina, Pepe|{{flagicon|ESP}} [[Pepe Reina]]}}
+|{{fbaicon|ITA}} [[Como 1907|Como]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.marca.com/futbol/mercado-fichajes/2024/07/18/6698f22a22601d8a618b45be.html|title=Reina le da la mano a Cesc en el Como|date=18 July 2024|website=Marca|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Coquelin, Francis|{{flagicon|FRA}} [[Francis Coquelin]]}}
+|[[Free agent]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/francis-coquelin-ends-his-time-at-villarreal/|title=Francis Coquelin ends his time at Villarreal|date=31 August 2024|access-date=31 August 2024|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Capoue, Etienne|{{flagicon|FRA}} [[Étienne Capoue]]}}
+|[[Free agent]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.besoccer.com/new/villarreal-and-etienne-capoue-part-ways-1319127|title=Villarreal and Etienne Capoue part ways|website=BeSoccer}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Morales, Jose Luis|{{flagicon|ESP}} [[José Luis Morales (footballer, born 1987)|José Luis Morales]]}}
+|{{fbaicon|ESP}} [[Levante UD|Levante]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://sports.yahoo.com/villarreal-announce-jos-luis-morales-191600785.html|title=Villarreal announce José Luis Morales exit|date=12 June 2024|website=Yahoo Sports}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|BFA}} {{sortname|Bertrand|Traoré}}
+|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|End of contract
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} {{sortname|Jorge|Pascual}}
+|{{fbaicon|ESP}} [[SD Eibar|Eibar]]
+|Loan
+|{{dts|6 July 2024}}
+|<ref>{{cite news|url=https://www.sdeibar.com/noticias/jorge-pascual-nuevo-jugador-armero|title=Jorge Pascual, nuevo jugador armero.|publisher=SD Eibar|language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Carlos Romero (footballer, born 2001)|Carlos Romero]]
+|{{fbaicon|ESP}} [[RCD Espanyol|Espanyol]]
+|Loan
+|{{dts|9 July 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/carlos-romero-heads-out-on-loan-to-espanyol/|title=Carlos Romero heads out on loan to Espanyol|publisher=Villarreal CF|date=9 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|COL}} [[Johan Mojica]]
+|{{fbaicon|ESP}} [[RCD Mallorca|Mallorca]]
+|€1,000,000
+|{{dts|23 July 2024}}
+|<ref>{{Cite web|url=https://onefootball.com/en/news/johan-mojica-cambio-de-club-en-espana-39800239|title=Johan Mojica cambió de club en España|date=23 July 2024|website=OneFootball}}</ref>
+|-
+| align="center" |{{sort|3|FW}}
+|{{flagicon|CHI}} [[Ben Brereton Díaz]]
+|{{fbaicon|ENG}} [[Southampton F.C.|Southampton]]
+|€8,300,000
+|{{dts|30 July 2024}}
+|<ref>{{Cite web|url=https://onefootball.com/en/news/ben-brereton-diaz-returns-to-pl-with-newly-promoted-saints-39828525|title=Ben Brereton-Díaz returns to PL with newly-promoted Saints|date=30 July 2024|website=OneFootball}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Jorgensen, Filip|{{flagicon|DEN}} [[Filip Jörgensen]]}}
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|€24,500,000
+|{{dts|30 July 2024}}
+|<ref>{{cite news |title=Chelsea complete signing of Filip Jorgensen! |url=https://www.chelseafc.com/en/news/article/chelsea-complete-signing-of-filip-jorgensen |date=30 July 2024 |access-date=31 July 2024 |publisher=Chelsea F.C.}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Mandi, Aissa|{{flagicon|ALG}} [[Aïssa Mandi]]}}
+|{{fbaicon|FRA}} [[Lille OSC|Lille]]
+|Contract terminated
+|{{dts|1 August 2024}}
+|<ref>{{cite news|url=https://www.losc.fr/actualites/2024-08-01/arrivee-aissa-mandi|title=L'expérience en défense: Aïssa Mandi est un Dogue!|date=1 August 2024|access-date=1 August 2024|publisher=Lille OSC|language=fr}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Sorloth, Alexander|{{flagicon|NOR}} [[Alexander Sørloth]]}}
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|€32,000,000
+|{{dts|3 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/club-statement/|title=Club statement: Alexander Sørloth|date=3 August 2024|access-date=3 August 2024|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Trigueros, Manu|{{flagicon|ESP}} [[Manu Trigueros]]}}
+|{{fbaicon|ESP}} [[Granada CF|Granada]]
+|Free
+|{{dts|8 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/manu-trigueros-farewell-to-a-legend/|title=Manu Trigueros, farewell to a legend|date=8 August 2024|access-date=8 August 2024|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Hassan, Haissem|{{flagicon|FRA}} [[Haissem Hassan]]}}
+|{{fbaicon|ESP}} [[Real Oviedo|Oviedo]]
+|€1,500,000
+|{{dts|11 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/comunicado-oficial-haissem-hassan/|title=Club statement: Haissem Hassan|date=11 August 2024|access-date=11 August 2024|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Altimira, Adria|{{flagicon|ESP}} [[Adrià Altimira]]}}
+|{{fbaicon|ESP}} [[CD Leganés|Leganés]]
+|Loan
+|{{dts|21 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/adria-altimira-joins-cd-leganes/|title=Adrià Altimira joins CD Leganés|date=21 August 2024|access-date=21 August 2024|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Danjuma, Arnaut|{{flagicon|NED}} [[Arnaut Danjuma]]}}
+|{{fbaicon|ESP}} [[Girona FC|Girona]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/danjuma-will-play-on-loan-at-girona-fc/|title=Danjuma will play on loan at Girona FC|date=30 August 2024|access-date=30 August 2024|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Adriano, Carlo|{{flagicon|ESP}} [[Carlo Adriano]]}}
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|Loan
+|{{dts|22 January 2025}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/carlo-adriano-loaned-to-cd-mirandes/|title=Carlo Adriano, loaned to CD Mirandés|date=22 January 2025|access-date=22 January 2025|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Cabanes, Pau|{{flagicon|ESP}} [[Pau Cabanes]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|Loan
+|{{dts|31 January 2025}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/official-statement-pau-cabanes/|title=Official statement: Pau Cabanes|date=31 January 2025|access-date=31 January 2025|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Bernat, Juan|{{flagicon|ESP}} [[Juan Bernat]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Contract terminated
+|{{dts|3 February 2025}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/comunicado-oficial-juan-bernat/|title=Official statement: Juan Bernat|date=3 February 2025|access-date=3 February 2025|publisher=Villarreal CF}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Terrats, Ramon|{{flagicon|ESP}} [[Ramon Terrats]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Loan
+|{{dts|3 February 2025}}
+|<ref>{{cite news|url=https://villarrealcf.es/en/terrats-jugara-cedido-en-el-getafe/|title=Terrats to play on loan at Getafe|date=3 February 2025|access-date=3 February 2025|publisher=Villarreal CF}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+The team held a camp in Switzerland from 20 July.<ref>{{cite web|url=https://castellon.elperiodicodeaqui.com/epda-noticias/el-villarreal-repetira-pretemporada-en-el-extranjero-y-los-amistosos-como-visitante/344638|title=El Villarreal repetirá pretemporada en el extranjero y los amistosos como visitante|date=22 June 2024|website=El Periódico de Aquí Castellón|language=es}}</ref>
+
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 20 July 2024
+|time = 16:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 1–2
+|report = https://villarrealcf.es/en/defeat-to-leicester-city-1-2/
+|team2 = [[Leicester City F.C.|Leicester City]]
+|goals1 =
+*[[Wilfred Ndidi|Ndidi]] {{goal|30|o.g.}}
+|goals2 =
+*[[Jamie Vardy|Vardy]] {{goal|25}}
+*[[Stephy Mavididi|Mavididi]] {{goal|80}}
+|stadium = Camille Fournier Stadium
+|location = [[Évian-les-Bains]], France
+|attendance = 0
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 24 July 2024
+|time = 19:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Sion|Sion]]
+|score = 1–3
+|report = https://villarrealcf.es/en/first-win-of-pre-seaosn-1-3/
+|team2 = Villarreal
+|goals1 =
+*[[Cristian Souza|Souza]] {{goal|37}}
+|goals2 =
+*[[Pape Gueye|Gueye]] {{goal|56}}
+*[[Ramon Terrats|Terrats]] {{goal|65}}
+*[[Yeremy Pino|Pino]] {{goal|77}}
+|stadium = Stade Eugène Parlier
+|location = [[Montreux]], Switzerland
+|attendance = 400
+|referee = Jonathan Jaussi ([[Swiss Football Association|Switzerland]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 27 July 2024
+|time = 16:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[AS Saint-Étienne|Saint-Étienne]]
+|score = 3–1
+|report = https://villarrealcf.es/en/defeat-to-saint-etienne-3-1/
+|team2 = Villarreal
+|goals1 =
+*[[Zuriko Davitashvili|Davitashvili]] {{goal|56||90}}
+*[[Jibril Othman|Othman]] {{goal|60}}
+|goals2 =
+*[[Sergi Cardona|Cardona]] {{goal|45+1}}
+|stadium = [[Stade Joseph-Moynat]]
+|location = [[Thonon-les-Bains]], France
+|attendance = 
+|referee = Jérémie Pignard ([[French Football Federation|France]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 2 August 2024
+|time = 20:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Nottingham Forest F.C.|Nottingham Forest]]
+|score = 0–0
+|report = https://villarrealcf.es/en/tablas-contra-el-nottingham-forest-0-0/
+|team2 = Villarreal
+|goals1 =
+|goals2 =
+*[[Arnaut Danjuma|Danjuma]] {{penmiss}} {{small|17'}}
+|stadium = [[City Ground]]
+|location = [[West Bridgford]], England
+|attendance = 
+|referee = Samuel Barrott ([[The Football Association|England]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 6 August 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Borussia Dortmund]]
+|score = 2–2
+|report = https://villarrealcf.es/en/all-square-against-borussia-dortmund-2-2/
+|team2 = Villarreal
+|goals1 =
+*[[Karim Adeyemi|Adeyemi]] {{yel|6}}
+*[[Jamie Gittens|Gittens]] {{goal|72}}
+*[[Marcel Sabitzer|Sabitzer]] {{goal|107}}
+|goals2 =
+*[[Ramon Terrats|Terrats]] {{goal|30}}
+*[[Denis Suárez|Suárez]] {{goal|48}}
+|stadium = [[Stadion Schnabelholz]]
+|location = [[Altach]], Austria
+|attendance = 
+|referee = Walter Altmann ([[Austrian Football Association|Austria]])
+|result = D
+|note = The match was played in four periods of thirty minutes each.
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 10 August 2024
+|time = 15:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|score = 4–0
+|report = https://villarrealcf.es/en/defeat-against-brighton/
+|team2 = Villarreal
+|goals1 =
+*[[João Pedro (footballer, born 2001)|João Pedro]] {{goal|15}}
+*[[Danny Welbeck|Welbeck]] {{goal|40||85|pen.}}
+*[[Yankuba Minteh|Minteh]] {{goal|70}}
+|goals2 =
+|stadium = [[Falmer Stadium]]
+|location = [[Brighton and Hove]], England
+|attendance = 11,527
+|referee = Steve Martin ([[The Football Association|England]])
+|result = L
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=19 August 2024 |lm1=25 May 2025 |sr1=Matchday 1 |fp1=5th |w1=20 |d1=10 |l1=8 |f1=71 |a1=51
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=29 October 2024 |lm2=4 December 2024 |sr2=First round |fp2=Second round |w2=1 |d2=0 |l2=1 |f2=6 |a2=2
+|s=[https://int.soccerway.com/teams/spain/villarreal-club-de-futbol/2023/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=VIL}}
+
+==== Results summary ====
+{{Fb rs|hw=9|hd=7|hl=3|hgf=43|hga=27|aw=11|ad=3|al=5|agf=28|aga=24}}
+{{Fb rs footer |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| rnd12=13
+| rnd13=14
+| rnd14=15
+| rnd15=16
+| rnd16=17
+| rnd17=12<sup>1</sup>
+| rnd26=27
+| rnd27=28
+| rnd28=29
+| rnd29=30
+| rnd30=31
+| rnd31=32
+| rnd32=33
+| rnd33=26<sup>2</sup>
+| res1=H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/H/A/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/H/A/H/A/H
+| label2=Result
+| res2=D/W/W/D/W/L/W/W/L/D/W/W/D/D/L/L/D/W/L/W/D/W/W/D/W/L/L/W/D/W/D/L/W/W/W/W/W/W
+| label3=Position
+| pos3=7/5/2/4/4/6/4/3/4/4/3/4/4/4/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/6/5/5/5/5/5/5
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| color_P=lightgrey|text_P=Postponed
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+<sup>'''1'''</sup> Matchday 12 (vs [[Rayo Vallecano]]) was postponed due to the [[2024 Spanish floods]].<br>
+<sup>'''2'''</sup> Matchday 26 (vs [[RCD Espanyol|Espanyol]]) was postponed due to heavy rain and risk of flooding.
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 19 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-atletico-de-madrid-1
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Yeremy Pino|Pino]] {{yel|10}}
+*[[Arnaut Danjuma|Danjuma]] {{goal|18}}
+*[[Koke (footballer, born 1992)|Koke]] {{goal|37|o.g.}}
+|goals2 =
+*[[Marcos Llorente|Llorente]] {{goal|20}}
+*[[Robin Le Normand|Le Normand]] {{yel|40}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|43}}
+*[[Alexander Sørloth|Sørloth]] {{goal|45+5}}
+*[[Samuel Lino|Lino]] {{yel|81}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 21,566
+|referee = Guillermo Cuadra Fernández
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 23 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-villarreal-cf-2
+|team2 = Villarreal
+|goals1 =
+*[[Isaac Romero|Romero]] {{yel|45+2}}
+*[[Dodi Lukebakio|Lukebakio]] {{goal|45+6}}
+*[[José Ángel Carmona|Carmona]] {{yel|81}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|90+6}}
+|goals2 =
+*[[Arnaut Danjuma|Danjuma]] {{goal|2}}, {{yel|63}}
+*[[Álex Baena|Baena]] {{yel|45+1}}
+*[[Eric Bailly|Bailly]] {{yel|84}}
+*[[Dani Parejo|Parejo]] {{yel|88}}
+*[[Ayoze Pérez|Pérez]] {{goal|90+5}}, {{yel|90+9}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 34,004
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 26 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 4–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rc-celta-3
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Sergi Cardona|Cardona]] {{goal|26}}
+*[[Kiko Femenía|Femenía]] {{yel|55}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|60}}
+*[[Jailson (footballer, born 1995)|Jailson]] {{goal|64|o.g.}}
+*[[Raúl Albiol|Albiol]] {{yel|81}}
+*[[Pape Gueye|Gueye]] {{yel|85}}
+*[[Dani Parejo|Parejo]] {{penmiss}} {{small|90+10'}}, {{goal|90+10}}
+*[[Nicolas Pépé|Pépé]] {{yel|90+11}}
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|12}}
+*[[Óscar Mingueza|Mingueza]] {{goal|31}}
+*[[Ilaix Moriba|Moriba]] {{yel|52}}
+*[[Carl Starfelt|Starfelt]] {{goal|80}}
+*[[Williot Swedberg|Swedberg]] {{yel|88}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|90+8}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,651
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = [[Derbi de la Comunitat|4]]
+|date = 31 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-villarreal-cf-4
+|team2 = Villarreal
+|goals1 =
+*[[Hugo Duro|Duro]] {{goal|24}}, {{yel|39}}
+*[[Pepelu]] {{yel|51}}
+*[[Hugo Guillamón|Guillamón]] {{yel|62}}
+|goals2 =
+*[[Yeremy Pino|Pino]] {{yel|42}}
+*[[Ayoze Pérez|Pérez]] {{goal|45+4}}
+*[[Pape Gueye|Gueye]] {{sentoff|2|50|68}}
+*[[Kiko Femenía|Femenía]] {{yel|77}}
+*[[Raúl Albiol|Albiol]] {{yel|83}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 43,857
+|referee = [[Jesús Gil Manzano]]
+|result = D
+}} 
+{{Football box collapsible
+|round = 5
+|date = 14 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-villarreal-cf-5
+|team2 = Villarreal
+|goals1 =
+*[[Samú Costa|Costa]] {{yel|25}}
+*[[Martin Valjent|Valjent]] {{yel|37}}
+*[[Raul Albiol|Albiol]] {{goal|57|o.g.}}
+*[[Toni Lato|Lato]] {{sentoff|0|69}}
+*[[Valery Fernández|Valery]] {{yel|90+4}}
+|goals2 =
+*[[Logan Costa|Costa]] {{goal|27}}
+*[[Sergi Cardona|Cardona]] {{yel|33}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{yel|47}}
+*[[Santi Comesaña|Comesaña]] {{yel|83}}
+*[[Ayoze Pérez|Pérez]] {{goal|90+4|pen.}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18,303
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 22 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 1–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-fc-barcelona-6
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Dani Parejo|Parejo]] {{yel|2}}
+*[[Ayoze Pérez|Pérez]] {{goal|38}}, {{yel|85}}
+*[[Álex Baena|Baena]] {{yel|52}}
+*[[Eric Bailly|Bailly]] {{yel|66}}
+*[[Sergi Cardona|Cardona]] {{yel|89}}
+*[[Ilias Akhomach|Akhomach]] {{yel|90+1}}
+|goals2 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|20||35}}, {{penmiss}} {{small|67'}}
+*[[Pablo Torre (footballer)|Torre]] {{goal|58}}
+*[[Raphinha]] {{goal|75||83}}
+*[[Pau Víctor|Víctor]] {{yel|82}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 22,048
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 26 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-villarreal-cf-7
+|team2 = Villarreal
+|goals1 =
+*[[Jofre Carreras|Carreras]] {{goal|45+1}}
+*[[Pol Lozano|Lozano]] {{yel|46}}
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{yel|76}}
+*[[Álvaro Aguado|Aguado]] {{yel|90+1}}
+*[[Javi Puado|Puado]] {{yel|90+3}}
+*[[Walid Cheddira|Cheddira]] {{yel|90+5}}
+|goals2 =
+*[[Ayoze Pérez|Pérez]] {{yel|45}}, {{goal|45+6||63}}
+*[[Diego Conde|Conde]] {{yel|85}}
+*[[Ramón Terrats|Terrats]] {{yel|90+2}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 23,147
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 8
+|date = 30 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-ud-las-palmas-8
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Nicolas Pépé|Pépé]] {{goal|45}}
+*[[Álex Baena|Baena]] {{penmiss}} {{small|51'}}, {{goal|90+7}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|84}}
+|goals2 =
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|29}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|47}}, {{yel|52}}
+*[[Dinko Horkaš|Horkaš]] {{yel|50}}
+*[[Adnan Januzaj|Januzaj]] {{yel|90+10}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 18,159
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-villarreal-cf-9
+|team2 = Villarreal
+|goals1 =
+*[[Federico Valverde|Valverde]] {{goal|14}}
+*[[Vinícius Júnior|Vinícius]] {{goal|73}}
+|goals2 =
+*[[Kiko Femenía|Femenía]] {{yel|33}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 73,842
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-getafe-cf-10
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Raúl Albiol|Albiol]] {{yel|23}}
+*[[Santi Comesaña|Comesaña]] {{goal|44}}
+*[[Álex Baena|Baena]] {{yel|49}}
+*[[Dani Parejo|Parejo]] {{yel|90+1}}
+*[[Kiko Femenía|Femenía]] {{yel|90+4}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{yel|23}}
+*[[Mauro Arambarri|Arambarri]] {{yel|36}}
+*[[Omar Alderete|Alderete]] {{yel|47}}, {{goal|87|pen.}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,355
+|referee = Víctor García Verdura
+|result = D
+}}
+{{Football box collapsible
+|round = 11
+|date = 26 October 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-villarreal-cf-11
+|team2 = Villarreal
+|goals1 =
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|50}}, {{goal|60|pen.}}
+*[[Javi Sánchez (footballer)|J. Sánchez]] {{yel|56}}
+*[[Eray Cömert|Cömert]] {{yel|61}}
+*[[David Torres (footballer, born 2003)|Torres]] {{yel|69}}
+|goals2 =
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|29}}
+*[[Dani Parejo|Parejo]] {{yel|45+1}}
+*[[Santi Comesaña|Comesaña]] {{yel|49}}
+*[[Logan Costa|Costa]] {{yel|59}}
+*[[Ayoze Pérez|Pérez]] {{goal|84}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 20,187
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 9 November 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-deportivo-alaves-13
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Ilias Akhomach|Akhomach]] {{goal|38}}
+*[[Sergi Cardona|Cardona]] {{yel|45+2}}
+*[[Dani Parejo|Parejo]] {{goal|81|pen.}}
+*[[Santi Comesaña|Comesaña]] {{goal|90}}
+|goals2 =
+*[[Ander Guevara|Guevara]] {{yel|62}}
+*[[Carlos Martín (footballer)|Martín]] {{yel|74}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|83}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,659
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 14
+|date = 24 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-villarreal-cf-14
+|team2 = Villarreal
+|goals1 =
+*[[Ante Budimir|Budimir]] {{goal|8||20|pen.}}
+*[[Flavien Enzo Boyomo|Boyomo]] {{yel|31}}
+*[[Alejandro Catena|Catena]] {{yel|52}}
+*[[Aimar Oroz|Oroz]] {{yel|75}}
+*[[Jesús Areso|Areso]] {{yel|84}}
+*[[Lucas Torró|Torró]] {{yel|90+1}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|90+2}}
+|goals2 =
+*[[Raúl Albiol|Albiol]] {{yel|19}}
+*[[Santi Comesaña|Comesaña]] {{yel|39}}
+*[[Álex Baena|Baena]] {{yel|45}}, {{goal|67}}
+*[[Sergi Cardona|Cardona]] {{yel|45+1}}
+*[[Dani Parejo|Parejo]] {{yel|84}}
+*[[Gerard Moreno|Gerard]] {{goal|90+3|pen.}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,795
+|referee = [[José Luis Munuera Montero]]
+|result = D
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-girona-fc-15
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|23}}
+*[[Sergi Cardona|Cardona]] {{yel|40}}
+*[[Álex Baena|Baena]] {{goal|46}}
+*[[Raúl Albiol|Albiol]] {{yel|85}}
+|goals2 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|18}}, {{goal|90+7}}
+*[[Bryan Gil|Gil]] {{yel|31}}
+*[[Donny van de Beek|Van de Beek]] {{goal|66}}, {{yel|90+3}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|85}}
+*[[Daley Blind|Blind]] {{yel|90+3}}
+*[[Portu]] {{yel|90+8}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,732
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Athletic Bilbao]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-villarreal-cf-16
+|team2 = Villarreal
+|goals1 =
+*[[Aitor Paredes|Paredes]] {{goal|15}}
+*[[Oihan Sancet|Sancet]] {{yel|55}}
+*[[Beñat Prados|Prados]] {{yel|68}}
+*[[Iñaki Williams|I. Williams]] {{goal|69}}
+|goals2 =
+*[[Santi Comesaña|Comesaña]] {{yel|35}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,203
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-real-betis-17
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Pape Gueye|Gueye]] {{yel|26}}
+*[[Kiko Femenía|Femenía]] {{yel|39}}
+*[[Álex Baena|Baena]] {{goal|55}},  {{yel|60}}
+*[[Yeremy Pino|Pino]] {{yel|67}}
+*[[Dani Parejo|Parejo]] {{yel|87}}
+|goals2 =
+*[[Vitor Roque]] {{goal|32}}, {{yel|65}}
+*[[Chimy Ávila|Ávila]] {{sentoff|0|34}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|35}}, {{goal|47}}
+*[[Cédric Bakambu|Bakambu]] {{yel|36}}
+*[[Aitor Ruibal|Ruibal]] {{yel|51}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 18,757
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 12
+|date = 18 December 2024
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rayo-vallecano-12
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Yeremy Pino|Pino]] {{yel|27}}
+*[[Willy Kambwala|Kambwala]] {{sentoff|0|32}}
+*[[Ayoze Pérez|Pérez]] {{goal|45+1}}
+*[[Pape Gueye|Gueye]] {{yel|54}}
+*[[Thiago Ojeda|Ojeda]] {{yel|85}}
+*[[Logan Costa|Costa]] {{yel|90+5}}
+|goals2 =
+*[[Álvaro García (footballer, born 1992)|García]] {{goal|20}}
+*[[Abdul Mumin|Mumin]] {{yel|45+5}}
+*[[Florian Lejeune|Lejeune]] {{yel|46}}
+*[[Oscar Trejo|Trejo]] {{yel|53}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 14,000
+|referee = [[Alejandro Hernández Hernández]]
+|result = D
+|note = The match was originally scheduled for 2 November 2024, but was postponed due to the [[2024 Spanish floods]].<ref>{{cite news|url=https://villarrealcf.es/en/official-statement-postponement-of-matches/|title=Official statement: postponement of matches|publisher=Villarreal CF|date=31 October 2024|access-date=31 October 2024}}</ref>
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 2–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-villarreal-cf-18
+|team2 = Villarreal
+|goals1 =
+*[[Seydouba Cissé|Cissé]] {{goal|6}}
+*[[Dani Raba|Raba]] {{goal|33}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{sentoff|0|58}}
+*[[Jorge Sáenz|Sáenz]] {{sentoff|0|77}}
+*[[Adrià Altimira|Altimira]] {{yel|90+1}}
+|goals2 =
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|16||45+2|pen.|65}}, {{yel|79}}
+*[[Yeremy Pino|Pino]] {{yel|58}}
+*[[Gerard Moreno|Gerard]] {{goal|90+2|pen.}}
+*[[Pau Cabanes|Cabanes]] {{goal|90+8}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,034
+|referee = Alejandro Muñiz Ruiz
+|result = W
+}}
+{{Football box collapsible
+|round = 19
+|date = 13 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-villarreal-cf-19
+|team2 = Villarreal
+|goals1 =
+*[[Takefusa Kubo|Kubo]] {{goal|51}}
+*[[Jon Aramburu|Aramburu]] {{yel|70}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|90}}
+*[[Aihen Muñoz|Muñoz]] {{yel|90+1}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90+5}}
+|goals2 =
+*[[Álex Baena|Baena]] {{yel|65}}
+*[[Juan Foyth|Foyth]] {{yel|78}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 20,855
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 20
+|date = 20 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rcd-mallorca-20
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Logan Costa|Costa]] {{goal|20}}
+*[[Álex Baena|Baena]] {{goal|24}}, {{yel|90+2}}
+*[[Dani Parejo|Parejo]] {{goal|26}}
+*[[Yeremy Pino|Pino]] {{goal|28}}
+|goals2 =
+*[[Sergi Darder|Darder]] {{yel|40}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|45+4}}
+*[[Johan Mojica|Mojica]] {{yel|89}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 14,852
+|referee = [[José Luis Munuera Montero]]
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 25 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Atlético Madrid]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-villarreal-cf-21
+|team2 = Villarreal
+|goals1 =
+*[[José María Giménez|Giménez]] {{yel|34}}
+*[[Rodrigo De Paul|De Paul]] {{yel|52}}
+*[[Samuel Lino|Lino]] {{goal|58}}
+*[[Robin Le Normand|Le Normand]] {{yel|62}}
+*[[Julián Alvarez|Alvarez]] {{yel|63}}
+|goals2 =
+*[[Yeremy Pino|Pino]] {{yel|22}}
+*[[Gerard Moreno|Gerard]] {{goal|29|pen.}}
+*[[Kiko Femenía|Femenía]] {{yel|76}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 63,596
+|referee = [[José María Sánchez Martínez]]
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 1 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 5–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-real-valladolid-cf-22
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Juan Foyth|Foyth]] {{yel|30}}
+*[[Ayoze Pérez|Pérez]] {{goal|42}}
+*[[Pape Gueye|Gueye]] {{goal|64}}
+*[[Santi Comesaña|Comesaña]] {{goal|70}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|86}}
+*[[Denis Suárez|Suárez]] {{goal|90+1}}
+|goals2 =
+*[[Lucas Rosa|Rosa]] {{yel|36}}
+*[[Selim Amallah|Amallah]] {{yel|66}}, {{goal|90+4}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,032
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 23
+|date = 8 February 2025
+|time = 17:30 [[Western European Time|WET]] ([[UTC+00:00|UTC+0]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-villarreal-cf-23
+|team2 = Villarreal
+|goals1 =
+*[[Mika Mármol|Mármol]] {{yel|37}}
+*[[Sandro Ramírez|Sandro]] {{yel|40}}
+*[[Scott McKenna|McKenna]] {{yel|55}}
+*[[Manu Fuster|Fuster]] {{goal|84}}
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|87}}
+*[[Javier Muñoz (Spanish footballer)|Muñoz]] {{yel|90+9}}
+*[[Alberto Moleiro|Moleiro]] {{yel|90+10}}
+|goals2 =
+*[[Sergi Cardona|Cardona]] {{yel|33}}
+*[[Santi Comesaña|Comesaña]] {{yel|38}}
+*[[Álex Baena|Baena]] {{goal|53}}, {{yel|90}}
+*[[Ayoze Pérez|Pérez]] {{goal|66}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 22,909
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = [[Derbi de la Comunitat|24]]
+|date = 15 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-valencia-cf-24
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Pape Gueye|Gueye]] {{goal|32}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{yel|47}}
+*[[José Gayà|Gayà]] {{yel|48}}
+*[[Umar Sadiq|Sadiq]] {{goal|84}}, {{yel|90+3}}
+*[[Pepelu]] {{yel|87}}
+*[[Fran Pérez (footballer, born 2002)|Pérez]] {{yel|90+4}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,701
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 22 February 2025
+|time = 15:15 [[Western European Time|WET]] ([[UTC+00:00|UTC+0]])
+|team1 = [[Rayo Vallecano]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-villarreal-cf-25
+|team2 = Villarreal
+|goals1 =
+*[[Jorge de Frutos|De Frutos]] {{sentoff|0|42}}
+*[[Andrei Ratiu|Ratiu]] {{yel|78}}
+|goals2 =
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{yel|44}}
+*[[Yeremy Pino|Pino]] {{yel|55}}
+*[[Ayoze Pérez|Pérez]] {{goal|66}}
+*[[Diego Conde|Conde]] {{yel|90+1}}
+*[[Dani Parejo|Parejo]] {{yel|90+5}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 13,373
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 27
+|date = 8 March 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-villarreal-cf-27
+|team2 = Villarreal
+|goals1 = 
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{goal|11}}
+*[[Antonio Sivera|Sivera]] {{sentoff|0|58}}
+*[[Antonio Blanco (footballer)|Blanco]] {{sentoff|2|77|90+4}}
+*[[Adrián Rodríguez Giménez|Rodríguez]] {{yel|90+1}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|90+2}}
+|goals2 = 
+*[[Yeremy Pino|Pino]] {{yel|70}}
+|stadium = [[Estadio Mendizorroza|Mendizorroza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,582
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 15 March 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Villarreal
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-real-madrid-28
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Juan Foyth|Foyth]] {{goal|7}}, {{yel|75}}
+*[[Sergi Cardona|Cardona]] {{yel|50}}
+|goals2 =
+*[[Kylian Mbappé|Mbappé]] {{goal|17||23}}
+*[[Aurélien Tchouaméni|Tchouaméni]] {{yel|33}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 20,559
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-villarreal-cf-29
+|team2 = Villarreal
+|goals1 =
+*[[Diego Rico|Rico]] {{yel|10}}
+*[[Carles Pérez|Pérez]] {{goal|29}}
+|goals2 =
+*[[Ayoze Pérez|Pérez]] {{goal|15}}
+*[[Willy Kambwala|Kambwala]] {{yel|31}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|33}}
+*[[Sergi Cardona|Cardona]] {{yel|78}}
+*[[Santi Comesaña|Comesaña]] {{yel|80}}
+*[[Luiz Júnior (footballer, born 2001)|Luiz Júnior]] {{yel|82}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 11,406 
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-athletic-club-30
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Pape Gueye|Gueye]] {{sentoff|0|83}}
+|goals2 =
+*[[Andoni Gorosabel|Gorosabel]] {{yel|21}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,158
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 31
+|date = 13 April 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Betis]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-villarreal-cf-31
+|team2 = Villarreal
+|goals1 =
+*[[Aitor Ruibal|Ruibal]] {{goal|3}}
+|goals2 =
+*[[Juan Foyth|Foyth]] {{yel|8}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{yel|12}}, {{goal|26}}
+*[[Ayoze Pérez|Pérez]] {{goal|48}}
+*[[Luiz Júnior (footballer, born 2001)|Luiz Júnior]] {{yel|52}}
+*[[Sergi Cardona|Cardona]] {{yel|86}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 54,778
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 32
+|date = 20 April 2025
+|time = 16:15 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-real-sociedad-32
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Yeremy Pino|Pino]] {{goal|7}}, {{yel|41}}
+*[[Ayoze Pérez|Pérez]] {{goal|60}}
+*[[Sergi Cardona|Cardona]] {{yel|66}}
+*[[Kiko Femenía|Femenía]] {{yel|90+8}}
+*[[Nicolas Pépé|Pépé]] {{yel|90+8}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|19|pen.|49}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{yel|77}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,620
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-villarreal-cf-33
+|team2 = Villarreal
+|goals1 =
+*[[Fer López|López]] {{goal|45}}
+*[[Fran Beltrán|Beltrán]] {{yel|45+1}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|48}}
+*[[Borja Iglesias|Iglesias]] {{goal|53}}
+*[[Iago Aspas|Aspas]] {{goal|87|pen.}}
+|goals2 =
+*[[Eric Bailly|Bailly]] {{sentoff|0|37}}
+*[[Nicolas Pépé|Pépé]] {{yel|85}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 19,324
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 27 April 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rcd-espanyol-26
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Sergi Cardona|Cardona]] {{yel|45+2}}
+*[[Logan Costa|Costa]] {{yel|50}}
+*[[Yeremy Pino|Pino]] {{goal|52}}, {{yel|65}}
+*[[Tajon Buchanan|Buchanan]] {{yel|90}}
+|goals2 =
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,236
+|referee = [[José Luis Munuera Montero]]
+|result = W
+|note = The match was originally scheduled for 3 March 2025, but was postponed due to heavy rain and risk of flooding.<ref>{{cite news|url=https://villarrealcf.es/en/comunicado-oficial-aplazado-el-villarreal-espanyol/|title=Official statement: postponement of Villarreal vs Espanyol|publisher=Villarreal CF|date=3 March 2025|access-date=3 March 2025}}</ref>
+}}
+{{Football box collapsible
+|round = 34
+|date = 3 May 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-ca-osasuna-34
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Ayoze Pérez|Pérez]] {{goal|2||39}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|33}}
+*[[Pau Navarro (footballer)|Navarro]] {{yel|61}}
+*[[Nicolas Pépé|Pépé]] {{goal|71}}
+*[[Santi Comesaña|Comesaña]] {{yel|83}}
+*[[Tajon Buchanan|Buchanan]] {{yel|88}}
+*[[Álex Baena|Baena]] {{yel|89}}
+|goals2 =
+*[[Rubén García (footballer, born 1993)|Ru. García]] {{goal|66}}
+*[[Aimar Oroz|Oroz]] {{goal|81|pen.}}, {{yel|89}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,147
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Girona FC|Girona]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-villarreal-cf-35
+|team2 = Villarreal
+|goals1 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|1}}
+*[[Yangel Herrera|Herrera]] {{yel|69}}
+|goals2 =
+*[[Pape Gueye|Gueye]] {{yel|15}}
+*[[Ayoze Pérez|Pérez]] {{yel|22}}
+*[[Dani Parejo|Parejo]] {{yel|87}}
+*[[Karl Etta Eyong|Etta Eyong]] {{goal|89}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,011
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 36
+|date = 14 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-cd-leganes-36
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Ayoze Pérez|Pérez]] {{goal|23||31}}
+*[[Yeremy Pino|Pino]] {{yel|44}}
+*[[Nicolas Pépé|Pépé]] {{goal|45}}
+|goals2 =
+*[[Renato Tapia|Tapia]] {{yel|35}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,067
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-villarreal-cf-37
+|team2 = Villarreal
+|goals1 = 
+*[[Lamine Yamal|Yamal]] {{goal|38}}
+*[[Eric García (footballer, born 2001)|García]] {{yel|43}}
+*[[Fermín López|López]] {{goal|45+5}}
+*[[Dani Olmo|Olmo]] {{yel|86}}
+|goals2 =
+*[[Ayoze Pérez|Pérez]] {{goal|4}}
+*[[Santi Comesaña|Comesaña]] {{goal|50}}
+*[[Tajon Buchanan|Buchanan]] {{goal|80}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 49,558
+|referee = [[José Luis Munuera Montero]]
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 25 May 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-sevilla-fc-38
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Yeremy Pino|Pino]] {{goal|4}}
+*[[Pape Gueye|Gueye]] {{goal|8||53}}
+*[[Álex Baena|Baena]] {{goal|39}}
+|goals2 =
+*[[Djibril Sow|Sow]] {{goal|29}}
+*[[José Ángel Carmona|Carmona]] {{yel|43}}
+*[[Ramón Martínez (footballer, born 2002)|Martínez]] {{goal|85}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,758
+|referee = Javier Alberola Rojas
+|result = W
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 29 October 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Poblense|Poblense]]
+|score = 1–6
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ud-poblense-villarreal-cf-2
+|team2 = Villarreal
+|goals1 =
+*[[Miguel Soler (footballer, born 2001)|Soler]] {{yel|43}}
+*[[Aitor Pons|Pons]] {{goal|67}}
+*[[Daniel Rigo|Rigo]] {{yel|80}}
+|goals2 =
+*[[Ramon Terrats|Terrats]] {{goal|10}}
+*[[Ayoze Pérez|Pérez]] {{goal|27||35||44}}
+*[[Pau Cabanes|Cabanes]] {{goal|38}}
+*[[Pape Gueye|Gueye]] {{goal|57}}
+*[[Jean Ives Valou|Valou]] {{yel|87}}
+|stadium = Nou Camp
+|location = [[Sa Pobla]]
+|attendance = 3,400
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 4 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Pontevedra CF|Pontevedra]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-pontevedra-cf-villarreal-cf-3
+|team2 = Villarreal
+|goals1 =
+*[[Dalisson de Almeida|Dalisson]] {{goal|87}}
+|goals2 =
+*[[Ayoze Pérez|Pérez]] {{yel|87}}
+|stadium = [[Estadio Municipal de Pasarón|Pasarón]]
+|location = [[Pontevedra]]
+|attendance = 8,192
+|referee = Pablo González Fuertes
+|result = L
+}}
+
+== Statistics ==
+=== Squad statistics ===
+{{Efs start|[[2024–25 La Liga|La Liga]]|[[2024–25 Copa del Rey|Copa del Rey]]}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Goalkeepers
+{{Efs player|no=1 |name=[[Luiz Júnior (footballer, born 2001)|Luiz Júnior]]|pos=GK|nat=BRA               |0    |0 |1  |0 }}
+{{Efs player|no=13|name=[[Diego Conde]]|pos=GK|nat=ESP                                                   |12   |0 |0  |0 }}
+{{Efs player|no=31|name=[[Iker Álvarez]]|pos=GK|nat=AND                                                  |0    |0 |0  |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Defenders
+{{Efs player|no=2 |name=[[Logan Costa]]|pos=DF|nat=CPV                                                   |8+1  |1 |1  |0 }}
+{{Efs player|no=3 |name=[[Raúl Albiol]]|pos=DF|nat=ESP                                                   |9+1  |0 |0  |0 }}
+{{Efs player|no=4 |name=[[Eric Bailly]]|pos=DF|nat=CIV                                                   |6+2  |0 |0  |0 }}
+{{Efs player|no=5 |name=[[Willy Kambwala]]|pos=DF|nat=DRC                                                |1    |0 |1  |0 }}
+{{Efs player|no=8 |name=[[Juan Foyth]]|pos=DF|nat=ARG                                                    |0    |0 |0  |0 }}
+{{Efs player|no=12|name=[[Juan Bernat]]|pos=DF|nat=ESP                                                   |0+6  |0 |1  |0 }}
+{{Efs player|no=17|name=[[Kiko Femenía]]|pos=DF|nat =ESP                                                 |12   |0 |0  |0 }}
+{{Efs player|no=23|name=[[Sergi Cardona]]|pos=DF|nat=ESP                                                 |12   |1 |0  |0 }}
+{{Efs player|no=24|name=[[Alfonso Pedraza]]|pos=DF|nat=ESP                                               |0    |0 |0  |0 }}
+{{Efs player|no=26|name=[[Pau Navarro (footballer)|Pau Navarro]]|pos=DF|nat=ESP                                                   |0+3  |0 |1  |0 }}
+{{Efs player|no=26|name=[[Jean Ives Valou]]|pos=DF|nat=CIV                                               |0    |0 |0+1|0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Midfielders
+{{Efs player|no=6 |name=[[Denis Suárez]]|pos=MF|nat=ESP                                                  |1+2  |0 |0  |0 }}
+{{Efs player|no=10|name=[[Dani Parejo]]|pos=MF|nat=ESP                                                   |10+2 |2 |1  |0 }}
+{{Efs player|no=14|name=[[Santi Comesaña]]|pos=MF|nat=ESP                                                |10+2 |2 |0+1|0 }}
+{{Efs player|no=16|name=[[Álex Baena]]|pos=MF|nat=ESP                                                    |10+1 |1 |0+1|0 }}
+{{Efs player|no=18|name=[[Pape Gueye]]|pos=MF|nat=SEN                                                    |7+4  |0 |1  |1 }}
+{{Efs player|no=20|name=[[Ramon Terrats]]|pos=MF|nat=ESP                                                 |0+9  |0 |1  |1 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Forwards
+{{Efs player|no=7 |name=[[Gerard Moreno]]|pos=FW|nat=ESP                                                 |2    |0 |0  |0 }}
+{{Efs player|no=11|name=[[Ilias Akhomach]]|pos=FW|nat=MAR                                                |7+4  |1 |0+1|0 }}
+{{Efs player|no=15|name=[[Thierno Barry (footballer, born 2002)|Thierno Barry]]|pos=FW|nat=FRA           |7+4  |3 |0+1|0 }}
+{{Efs player|no=19|name=[[Nicolas Pépé]]|pos=FW|nat=CIV                                                  |6+5  |1 |0  |0 }}
+{{Efs player|no=21|name=[[Yeremy Pino]]|pos=FW|nat=ESP                                                   |4+6  |0 |1  |0 }}
+{{Efs player|no=22|name=[[Ayoze Pérez]]|pos=FW|nat=ESP                                                   |5+4  |7 |1  |3 }}
+{{Efs player|no=33|name=[[Pau Cabanes]]|pos=FW|nat=ESP                                                   |0+1  |0 |1  |1 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center| Players transferred out during the season
+{{Efs player|no=9 |name=[[Arnaut Danjuma]]|pos=FW|nat=NED                                                |3    |2 |0  |0 }}
+{{Fb cs footer |s=[[#Competitions|Competitions]] |u=29 October 2024|date=August 2025}}
+
+=== Goalscorers ===
+{| class="wikitable"
+|-
+! Position !! Players !! La Liga !! Copa del Rey || Total
+|-
+| FW || {{flagicon|ESP}} [[Ayoze Pérez]] || 19 || 3 || '''22'''
+|-
+| FW || {{flagicon|FRA}} [[Thierno Barry (footballer, born 2002)|Thierno Barry]] || 11 || 0 || '''11'''
+|-
+| MF || {{flagicon|ESP}} [[Álex Baena]] || 7 || 0 || '''7'''
+|-
+| MF || {{flagicon|SEN}} [[Pape Gueye]] || 4 || 1 || '''5'''
+|-
+| MF || {{flagicon|ESP}} [[Santi Comesaña]] || 4 || 0 || '''4'''
+|-
+| MF || {{flagicon|ESP}} [[Yeremy Pino]] || 4 || 0 || '''4'''
+|-
+| FW || {{flagicon|CIV}} [[Nicolas Pépé]] || 3 || 0 || '''3'''
+|-
+| FW || {{flagicon|ESP}} [[Gerard Moreno]] || 3 || 0 || '''3'''
+|-
+| MF || {{flagicon|ESP}} [[Dani Parejo]] || 3 || 0 || '''3'''
+|-
+| DF || {{flagicon|CPV}} [[Logan Costa]] || 2 || 0 || '''2'''
+|-
+| DF || {{flagicon|ARG}} [[Juan Foyth]] || 1 || 0 || '''1'''
+|-
+| DF || {{flagicon|ESP}} [[Sergi Cardona]] || 1 || 0 || '''1'''
+|-
+| MF || {{flagicon|MAR}} [[Ilias Akhomach]] || 1 || 0 || '''1'''
+|-
+| MF || {{flagicon|CAN}} [[Tajon Buchanan]] || 1 || 0 || '''1'''
+|-
+| FW || {{flagicon|CMR}} [[Karl Etta Eyong]] || 1 || 0 || '''1'''
+|-
+| MF || {{flagicon|ESP}} [[Denis Suárez]] || 1 || 0 || '''1'''
+|-
+| FW || {{flagicon|ESP}} [[Pau Cabanes]] || 0 || 1 || '''1'''
+|}
+
+== References ==
+{{Reflist}}
+
+{{Villarreal CF}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Villarreal CF season}}
+[[Category:Villarreal CF seasons]]
+[[Category:Spanish football clubs 2024–25 season|Villarreal CF]]
+[[Category:2024 in the Valencian Community]]
+[[Category:2025 in the Valencian Community]]

@@ -1,0 +1,1118 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = Real Valladolid
+|season             = 2024–25
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Ronaldo (Brazilian footballer)|Ronaldo]]<br>(until 23 May)
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Paulo Pezzolano]]<br>(until 1 December)<br>[[Diego Cocca]]<br>(14 December–17 February)<br>[[Álvaro Rubio]]<br>(caretaker, from 17 February)
+|stdtitle           = 
+|stadium            = [[Estadio José Zorrilla]]
+|league             = [[2024–25 La Liga|La Liga]]
+|league result      = 20th (relegated)
+|cup1               = [[2024–25 Copa del Rey|Copa del Rey]]
+|cup1 result        = Round of 32
+|league topscorer   = <br>[[Mamadou Sylla (footballer, born 1994)|Mamadou Sylla]] (5)
+|season topscorer   = <br>Mamadou Sylla (5)
+|highest attendance = 26,025
+|lowest attendance  = 
+|average attendance = 19,829<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = Valladolid 1–0 Espanyol
+|largest loss       = [[FC Barcelona|Barcelona]] 7–0 Valladolid
+|pattern_la1        = _valladolid2425h
+|pattern_b1         = _valladolid2425h
+|pattern_ra1        = _valladolid2425h
+|pattern_sh1        = _valladolid2425h
+|pattern_so1        = _valladolid2425hl
+|leftarm1           = FFFFFF
+|body1              = FFFFFF
+|rightarm1          = FFFFFF
+|shorts1            = FFFFFF
+|socks1             =  FFFFFF
+|pattern_la2        = _valladolid2425a
+|pattern_b2         = _valladolid2425a
+|pattern_ra2        = _valladolid2425a
+|pattern_sh2        = _valladolid2425a
+|pattern_so2        = _valladolid2425al
+|leftarm2           = 
+|body2              = 
+|rightarm2          = 
+|shorts2            = 
+|socks2             = 
+|pattern_la3        = 
+|pattern_b3         = 
+|pattern_ra3        = 
+|pattern_sh3        = 
+|pattern_so3        = 
+|leftarm3           = 
+|body3              = 
+|rightarm3          = 
+|shorts3            = 
+|socks3             = 
+|prevseason         = [[2023–24 Real Valladolid season|2023–24]]
+|nextseason         = 2025–26
+}}
+The 2024–25 season was the 97th season in the history of Real Valladolid. In addition to the domestic league, the team participated in the [[Copa del Rey]].
+
+== Summary ==
+On 29 May, Croatian Stanko Juric's loan from Parma was made permanent, signing a three-season contract.<ref>{{Cite web|url=https://www.elnortedecastilla.es/realvalladolid/real-valladolid-anuncia-continuidad-stanko-juric-2027-20240529112038-nt.html|title=El Real Valladolid anuncia la continuidad de Stanko Juric hasta 2027|first=Arturo|last=Posada|date=29 May 2024|website=El Norte de Castilla}}</ref> On 31 May, Real Valladolid exercised their purchase option and included Senegalese Amat Ndiaye, tying him to the club until 2027.<ref>{{Cite web|url=https://www.marca.com/futbol/mallorca/2024/05/27/6654e63ee2704ed37f8b45b3.html|title=El Mallorca hace caja con Amath Ndiaye... que firmará con el Valladolid hasta 2027|date=27 May 2024|website=MARCA}}</ref>
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Biuk, Stipe|{{flagicon|CRO}} [[Stipe Biuk]]}}
+|{{fbaicon|USA}} [[Los Angeles FC]]
+|€4,000,000
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Ferreira, André|{{flagicon|POR}} [[André Ferreira (footballer, born 1996)|André Ferreira]]}}
+|{{fbaicon|ESP}} [[Granada CF|Granada]]
+|€1,000,000
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Jurić, Stanko|{{flagicon|CRO}} [[Stanko Jurić]]}}
+|{{fbaicon|ITA}} [[Parma Calcio 1913|Parma]]
+|€1,500,000
+|{{dts|1 July 2024}}
+|<ref name="auto">{{Cite web|url=https://www.rcdmallorca.es/en/news/amath-ndiaye-leaves-rcd-mallorca|title=Amath Ndiaye leaves RCD Mallorca|website=www.rcdmallorca.es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Ndiaye, Amath|{{flagicon|SEN}} [[Amath Ndiaye]]}}
+|{{fbaicon|ESP}} [[RCD Mallorca|Mallorca]]
+|€2,000,000
+|{{dts|1 July 2024}}
+|<ref name="auto"/>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Moro, Raúl|{{flagicon|ESP}} [[Raúl Moro]]}}
+|{{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|€2,000,000
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Cömert, Eray|{{flagicon|SUI}} [[Eray Cömert]]}}
+|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|Loan
+|{{dts|10 July 2024}}
+|<ref>{{Cite web|url=https://www.realvalladolid.es/noticias/comert-refuerza-la-zaga-blanquivioleta|title=Cömert refuerza la zaga del Real Valladolid|website=www.realvalladolid.es}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Masip, Jordi|{{flagicon|ESP}} [[Jordi Masip]]}}
+|
+|End of contract
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Negredo, Álvaro|{{flagicon|ESP}} [[Álvaro Negredo]]}}
+|
+|End of contract
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Escudero, Sergio|{{flagicon|ESP}} [[Sergio Escudero (footballer, born 1989)|Sergio Escudero]]}}
+|{{fbaicon|ESP}} [[Deportivo de La Coruña]]
+|End of contract
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Biuk, Stipe|{{flagicon|CRO}} [[Stipe Biuk]]}}
+|{{fbaicon|CRO}} [[HNK Hajduk Split|Hajduk Split]]
+|Loan
+|{{dts|1 September 2024}}
+|<ref>https://www.realvalladolid.es/noticias/biuk-hajduk-split</ref>
+|}
+
+== Friendlies ==
+{{Football box collapsible
+|round = Copa Amistad
+|date = 27 July 2024
+|time = 20:00
+|team1 = Valladolid
+|score = 1–1
+|report = 
+|team2 = [[Burgos CF|Burgos]]
+|goals1 =
+*[[Luis Pérez (footballer, born 1995)|Pérez]] {{goal|44}}
+|goals2 =
+*[[Álex Sancris|Sancris]] {{goal|51}}
+|penaltyscore = 5–3
+|stadium = Estadio La Nueva Balastera
+|location = [[Palencia]]
+|attendance = 1,500
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 31 July 2024
+|time = 20:00
+|team1 = Valladolid
+|score = 4–1
+|report = 
+|team2 = [[Pau FC]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 3 August 2024
+|time = 15:00
+|team1 = [[Derby County F.C.|Derby County]]
+|score = 2–1
+|report = https://www.dcfc.co.uk/news/2024/08/pre-season-highlights-derby-county-vs-real-valladolid-august-2024 
+|team2 = Valladolid
+|goals1 =
+|goals2 =
+|stadium = [[Pride Park Stadium]]
+|location = [[Derby]], England
+|attendance = 
+|referee = 
+|result = L 
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 14 November 2024
+|time = 19:00
+|team1 = Valladolid
+|score = 2–0
+|report = 
+|team2 = [[AVS Futebol SAD|AVS]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=19 August 2024 |lm1=24 May 2025 |sr1=Matchday 1 |fp1=20th |w1=4 |d1=4 |l1=30 |f1=26 |a1=90
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=29 October 2024 |lm2=5 January 2025 |sr2=First Round |fp2=Round of 32 |w2=2 |d2=0 |l2=1 |f2=10 |a2=6
+|s=[https://int.soccerway.com/teams/spain/real-valladolid-club-de-futbol/2031/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=VLL}}
+
+==== Results summary ====
+{{Fb rs|hw=3 |hd=4 |hl=12 |hgf=11 |hga=32 |aw=1 |ad=0 |al=18 |agf=15 |aga=58 }}
+{{Fb rs footer |s= |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=25 April 2025
+| header=Round
+| label1=Ground
+| res1=H/A/H/A/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A
+| label2=Result
+| res2=W/L/D/L/L/D/L/L/L/W/L/L/D/L/L/L/W/L/W/L/L/L/L/L/L/D/L/L/L/L/L/L/L/L/L/L/L/L
+| label3=Position
+| pos3=4/10/12/16/17/17/18/19/19/18/19/19/19/20/20/20/19/20/19/20/20/20/20/20/20/20/20/20/20/20/20/20/20/20/20/20/20/20
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 19 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valladolid
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rcd-espanyol-1
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Raúl Moro|Moro]] {{goal|23}}
+|goals2 =
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 22,027
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 2
+|date = 25 August 2024
+|time = 17:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-real-valladolid-cf-2
+|team2 = Valladolid
+|goals1 =
+*[[Federico Valverde|Valverde]] {{goal|50}}
+*[[Brahim Díaz|Brahim]] {{goal|88}}
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|90+6}}
+|goals2 =
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 70,178
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valladolid
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-cd-leganes-3
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+|goals2 =
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21,764
+|referee = Alejandro Quintero González
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 31 August 2024
+|time = 17:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 7–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-real-valladolid-cf-4
+|team2 = Valladolid
+|goals1 = 
+*[[Raphinha]] {{goal|20||64||72}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|24}}
+*[[Jules Koundé|Koundé]] {{goal|45+2}}
+*[[Dani Olmo|Olmo]] {{goal|82}}
+*[[Ferran Torres|Torres]] {{goal|85}}
+|goals2 = 
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 44,359
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 15 September 2024
+|time = 15:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-real-valladolid-cf-5
+|team2 = Valladolid
+|goals1 = 
+*[[Hugo Álvarez Antúnez|Antúnez]] {{goal|22}}
+*[[Borja Iglesias|Quintas]] {{goal|35}}
+*[[Anastasios Douvikas|Douvikas]] {{goal|90+1}}
+|goals2 = 
+*[[Raúl Moro|Moro]] {{goal|50}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 21,670
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 21 September 2024
+|time = 12:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Valladolid
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-real-sociedad-6
+|team2 = [[Real Sociedad]]
+|goals1 = 
+|goals2 = 
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21,171
+|referee = Guillermo Cuadra Fernández
+|result = D
+}}
+{{Football box collapsible
+|round = 7
+|date = 24 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-real-valladolid-cf-7
+|team2 = Valladolid
+|goals1 = 
+*[[David Torres (footballer, born 2003)|Torres]] {{goal|45|o.g.}}
+*[[Chidera Ejuke|Ejuke]] {{goal|85}}
+|goals2 = 
+*[[Kike Pérez|Pérez]] {{goal|56}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,292
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 8
+|date = 27 September 2024
+|time = 
+|team1 = Valladolid
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rcd-mallorca-8
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =*[[Iván Sánchez (footballer)|I. Sánchez]] {{goal|90+4}} 
+|goals2 = *[[Cyle Larin|Larin]] {{goal|59}}
+*[[Valery Fernández Estrada|Valery]] {{goal|83}} 
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 20,338
+|referee = José Luis Munuera Montero
+|result = L
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 
+|team1 = Valladolid
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rayo-vallecano-9
+|team2 = [[Rayo Vallecano]]
+|goals1 = *[[Selim Amallah|Amallah]] {{goal|51}}
+|goals2 = *[[Jorge de Frutos|de Frutos]] {{goal|57||80|}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21,112
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 18 October 2024
+|time = 
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-real-valladolid-cf-10
+|team2 = Valladolid
+|goals1 = *[[Toni Martínez|Martínez]] {{goal|6}}
+*[[Kike García (Spanish footballer)|Kike]] {{goal|90+7}} 
+|goals2 = *[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|17|pen.}}
+*[[Selim Amallah|Amallah]] {{goal|72|pen.}}
+*[[Anuar Tuhami|Anuar]] {{goal|76|}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,904
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 26 October 2024
+|time = 
+|team1 = Valladolid
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-villarreal-cf-11
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 = *[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|60|pen.}}
+|goals2 = *[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|29}}
+*[[Ayoze Pérez|Pérez]] {{goal|84}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 20,178
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 12
+|date = 2 November 2024
+|time = 
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-real-valladolid-cf-12
+|team2 = Valladolid
+|goals1 = *[[Ante Budimir|Budimir]] {{goal|19}}
+|goals2 = 
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location  = [[Pamplona]]
+|attendance = 20,430 
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 
+|team1 = Valladolid
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-athletic-club-13
+|team2 = [[Athletic Bilbao]]
+|goals1 = *[[Raúl Moro|Moro]] {{goal|79}}
+|goals2 = *[[Gorka Guruzeta|Guruzeta]] {{goal|90+4}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 23,515
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 14
+|date = 22 November 2024
+|time = 
+|team1 = [[Getafe CF|Getafe]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-real-valladolid-cf-14
+|team2 = Valladolid
+|goals1 = *[[Álvaro Rodríguez (footballer, born 2004)|Rodríguez]] {{goal|70}}
+*[[Allan Nyom|Nyom]] {{goal|73}}
+|goals2 = 
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 9,911
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 30 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valladolid
+|score = 0–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-atletico-de-madrid-15
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Kike Pérez|Pérez]] {{yel|32}}
+|goals2 =
+*[[Clement Lenglet|Lenglet]] {{goal|26}}
+*[[Julián Alvarez|Alvarez]] {{goal|35}}
+*[[Rodrigo De Paul|De Paul]] {{goal|37}}
+*[[Javi Galán|Galán]] {{yel|41}}
+*[[Antoine Griezmann|Griezmann]] {{goal|52}}
+*[[Giuliano Simeone|Simeone]] {{yel|75}}
+*[[Alexander Sørloth|Sørloth]] {{goal|90+2}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 23,482
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-real-valladolid-cf-16
+|team2 = Valladolid
+|goals1 = 
+*[[Sandro Ramírez|Sandro]] {{goal|20||64}}
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{yel|26}}
+*[[Álex Suárez (footballer, born 1993)|A.Suárez]] {{yel|76}}
+*[[Scott McKenna|McKenna]] {{yel|80}}
+*[[Marvin Park|Marvin]] {{yel|90+8}}
+|goals2 = 
+*[[Marcos André]] {{goal|45}}
+*[[Eray Cömert|Cömert]] {{yel|49}}
+*[[Víctor Meseguer|V.Meseguer]] {{yel|78}}
+*[[Amath Ndiaye|A.Ndiaye]] {{yel|90+9}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 13 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valladolid
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-valencia-cf-17
+|team2 = [[Valencia CF|Valencia]]
+|goals1 = 
+*[[Anuar Tuhami|Anuar]] {{goal|20}}, {{yel|90+6}}
+*[[Kike Pérez]] {{yel|55}}
+*[[Marcos André]] {{yel|67}}
+*[[Juanmi Latasa|Latasa]] {{sent off|0|78}}
+*[[Javi Sánchez (footballer)|Sánchez]] {{yel|82}}
+|goals2 = 
+*[[Jesús Vázquez (footballer, born 2003)|Vázquez]] {{yel|28}}
+*[[Rafa Mir|Mir]] {{yel|86}}
+*[[Sergi Canós|Canós]] {{yel|90+8}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 18,449 
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Girona FC|Girona]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-real-valladolid-cf-18
+|team2 = Valladolid
+|goals1 = 
+*[[Abel Ruiz|Ruiz]] {{yel|24}}, {{goal|39}}
+*[[David López (footballer, born 1989)|D. López]] {{goal|31}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|54}}
+*[[Iván Martín (footballer, born 1999)|Martín]] {{yel|60}}
+*[[Arnaut Danjuma|Danjuma]] {{goal|81}}
+|goals2 =
+*[[Iván Sánchez (footballer)|Sánchez]] {{yel|30}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 9,534
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 12 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valladolid
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-real-betis-19
+|team2 = [[Real Betis]]
+|goals1 = 
+*[[Marcos André]] {{yel|42}}
+*[[Kike Pérez|K. Pérez]] {{goal|58}}, {{yel|71}}
+|goals2 =
+*[[Diego Llorente|Llorente]] {{yel|26}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|70}}
+*[[Johnny Cardoso|Cardoso]] {{yel|77}}
+*[[Vitor Roque]] {{yel|90+12}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21,911
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-real-valladolid-cf-20
+|team2 = Valladolid
+|goals1 = 
+*[[Javi Puado|Puado]] {{goal|31}}
+*[[Omar El Hilali|El Hilali]] {{yel|45}}
+*[[Roberto Fernández (footballer, born 2002)|Roberto]] {{goal|74}}
+*[[Brian Oliván|B.Oliván]] {{yel|90+1}}
+|goals2 = 
+*[[Javi Sánchez (footballer)|J.Sánchez]] {{goal|57}}
+*[[Stanko Jurić|Jurić]] {{yel|63}}
+*[[Selim Amallah|Amallah]] {{yel|81}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Barcelona]]
+|attendance = 23,554
+|referee = Ricardo De Burgos Bengoetxea
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 25 January 2025
+|time = {{UTZ|21:00|1}}
+|team1 = Valladolid
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-real-madrid-21
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 = 
+*[[Mario Martín|Martín]] {{sent off|2|15|90}}
+*[[Selim Amallah|Amallah]] {{yel|45+2}}
+|goals2 = 
+*[[Kylian Mbappé|Mbappé]] {{goal|30||57||90+1|pen.}} {{yel|55}}
+*[[Jude Bellingham|Bellingham]] {{yel|45+2}}
+*[[Dani Ceballos|Ceballos]] {{yel|47}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 26,025
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 5–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-real-valladolid-cf-22
+|team2 = Valladolid
+|goals1 = 
+*[[Juan Foyth|Foyth]] {{yel|30}}
+*[[Ayoze Pérez]] {{goal|42}}
+*[[Pape Gueye|Gueye]] {{goal|64}}
+*[[Santi Comesaña]] {{goal|70}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|86}}
+*[[Denis Suárez]] {{goal|90+1}}
+|goals2 = 
+*[[Lucas Rosa|L.Rosa]] {{yel|36}}
+*[[Selim Amallah|Amallah]] {{yel|66}}, {{goal|90+4}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,032
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 21:00
+|team1 = [[Rayo Vallecano]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-real-valladolid-cf-23
+|team2 = Valladolid
+|goals1 = 
+*[[Pathé Ciss]] {{yel|13}}
+*[[Jorge de Frutos|de Frutos]] {{yel|56}}
+*[[Álvaro García (footballer, born 1992)|Álvaro]] {{goal|71}}
+|goals2 = 
+*[[Marcos André|André]] {{yel|29}}
+*[[Adam Aznou|Aznou]] {{yel|69}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 12.286
+|referee = Jesús Gil Manzano
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Valladolid
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-sevilla-fc-24
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 = 
+*[[Tamás Nikitscher|Nikitscher]] {{yel|51}}
+*[[Anuar Tuhami|Anuar]] {{yel|72}}
+*[[Selim Amallah|Amallah]] {{yel|81}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|90+1}}
+|goals2 =
+*[[Juanlu Sánchez|Juanlu]] {{goal|5||67}}
+*[[Isaac Romero|Romero]] {{goal|45+1}}, {{yel|45+2}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|52}}
+*[[Dodi Lukebakio|Lukebakio]] {{goal|84}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 22,123
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Athletic Bilbao]]
+|score = 7–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-real-valladolid-cf-25
+|team2 = Valladolid
+|goals1 = 
+*[[Mikel Jauregizar|Jauregizar]] {{goal|10}}
+*[[Nico Williams|N. Williams]] {{goal|35||66}}
+*[[Maroan Sannadi|Sannadi]] {{goal|43}}
+*[[Oihan Sancet|Sancet]] {{goal|45+2}}
+*[[Gorka Guruzeta|Guruzeta]] {{goal|69}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|79}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|84}}
+*[[Iñaki Williams|I. Williams]] {{goal|87}}
+|goals2 =
+*[[Mario Martín|Martín]] {{yel|44}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|47}}
+*[[Stanko Jurić|Jurić]] {{sent off|2|46|56}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,715
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 28 February 2025
+|time = 21:00
+|team1 = Valladolid
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-ud-las-palmas-26
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 = 
+*[[Tamás Nikitscher|Nikitscher]] {{yel|50}}
+*[[Juanmi Latasa|Latasa]] {{goal|63}}
+*[[Mario Martín|Martín]] {{yel|70}}
+|goals2 = 
+*[[Sandro Ramírez|Sandro]] {{goal|22}}
+*[[Scott McKenna|McKenna]] {{sentoff|0|29}}
+*[[Alberto Moleiro|Moleiro]] {{yel|45+6}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 15.643
+|referee = De Burgos Bengoetxea
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 8 March 2025
+|time = 18:30
+|team1 = [[Valencia CF|Valencia]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-real-valladolid-cf-27
+|team2 = Valladolid
+|goals1 = 
+*[[Diego López (footballer, born May 2002)|López]] {{goal|7}}
+*[[Umar Sadiq|Sadiq]] {{goal|58}}
+*[[Gayà]] {{yel|84}}
+|goals2 = 
+*[[Florian Grillitsch|Grillitsch]] {{yel|8}}
+*[[Juanmi Latasa|Latasa]] {{goal|40}}, {{yel|66}}
+*[[Javi Sánchez (footballer)|Javi]] {{yel|87}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 41.720
+|referee = Juan Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 15 March 2025
+|time = 14:00
+|team1 = Valladolid
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rc-celta-28
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 = 
+*[[Raúl Moro|Moro]] {{yel|82}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|90+1}}
+|goals2 = 
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|37}}, {{goal|83|pen.}}
+*[[Alfon González|Alfon]] {{yel|56}}
+*[[Óscar Mingueza|Mingueza]] {{yel|65}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 17.521
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 29
+|date = 29 March 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-real-valladolid-cf-29
+|team2 = Valladolid
+|goals1 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|23}}
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{yel|58}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{goal|68}}, {{yel|90+7}}
+|goals2 =
+*[[Javi Sánchez (footballer)|Sánchez]] {{yel|48}}
+*[[Selim Amallah|Amallah]] {{yel|51}}
+*[[David Torres (footballer, born 2003)|Torres]] {{yel|68}}
+*[[Juanmi Latasa|Latasa]] {{goal|90+3}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 28,151 
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 18:30
+|team1 = Valladolid
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-getafe-cf-30
+|team2 = [[Getafe CF|Getafe]]
+|goals1 = 
+*[[Latasa]] {{yel|9}}
+*[[Eray Cömert|Cömert]] {{yel|14}}
+*[[Mario Martín|Martín]] {{sentoff|0|45+2}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|71}}
+|goals2 = 
+*[[Mauro Arambarri|Arambarri]] {{goal|1}}
+*[[Ramón Terrats|Terrats]] {{goal|19||38}}
+*[[Juan Iglesias|Iglesias]] {{yel|58}}
+*[[Domingos Duarte|Duarte]] {{goal|80}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 17.737
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 31
+|date = 14 April 2025
+|time = 21:00
+|team1 = [[Atlético Madrid]]
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-real-valladolid-cf-31
+|team2 = Valladolid
+|goals1 = 
+*[[Julián Alvarez|Alvarez]]  {{goal|25|pen.|71|pen.}}
+*[[Giuliano Simeone|G.Simeone]]  {{goal|27}}
+*[[Clément Lenglet|Lenglet]]  {{yel|55}}
+*[[Alexander Sørloth|Sørloth]]  {{goal|79}}
+|goals2 = 
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]]  {{goal|21|pen.}}
+*[[Javi Sánchez (footballer)|Javi]]  {{goal|56}}
+*[[Anuar Tuhami|Anuar]]  {{yel|63}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 55.936
+|referee = Isidro Díaz de Mera
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 20 April 2025
+|time = 14:00
+|team1 = Valladolid
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-ca-osasuna-32
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 = 
+*[[Raúl Moro|Moro]] {{goal|49}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|66|pen.}}
+*[[Javi Sánchez (footballer)|Javi]] {{yel|79}}
+*[[Adam Aznou|Aznou]] {{yel|90+1}}
+|goals2 = 
+*[[Ante Budimir|Budimir]] {{goal|9||60|pen.}}
+*[[Rubén García (footballer, born 1993)|García]] {{goal|34}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 12.230
+|referee = Jesús Gil Manzano
+|result = L
+}}
+{{Football box collapsible
+|round = 33
+|date = 24 April 2025
+|time = 21:30
+|team1 = [[Real Betis]]
+|score = 5–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-real-valladolid-cf-33
+|team2 = Valladolid
+|goals1 = 
+*[[Jesús Rodríguez (footballer, born 2005)|J.Rodríguez]] {{goal|17}}
+*[[Cucho Hernández|Cucho]] {{goal|64}}
+*[[Isco]] {{goal|66}}
+*[[Aitor Ruibal|Ruibal]] {{yel|72}}
+*[[Romain Perraud|Perraud]] {{goal|84}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|90}}
+|goals2 = 
+*[[Chuki (footballer)|Chuki]] {{goal|41}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 46.458
+|referee = Francisco Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = 20:00
+|team1 = Valladolid
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-fc-barcelona-34
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = [[Iván Sánchez (footballer)|I. Sánchez]] {{goal|6}}<br>[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|8}}<br>[[Anuar Tuhami|Anuar]] {{yel|37}}<br>[[Mario Martín|Martín]] {{yel|90}}
+|goals2 = [[Raphinha]] {{goal|54}}<br>[[Fermín López|Fermín]] {{goal|60}}<br>[[Andreas Christensen|Christensen]] {{yel|66}}<br>[[Ronald Araújo|Araújo]] {{yel|83}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 23,967
+|referee = Alejandro Muñiz Ruiz
+|result = L
+}}
+{{Football box collapsible
+|round = 35
+|date = 11 May 2025
+|time = 17:30
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-real-valladolid-cf-35
+|team2 = Valladolid
+|goals1 = [[Omar Mascarell|Mascarell]] {{goal|28}}<br>[[Antonio Raíllo|Raíllo]] {{yel|34}}<br>[[Sergi Darder|Darder]] {{goal|49}}<br>[[Toni Lato|Lato]] {{yel|90+2}}
+|goals2 = [[Chuki (footballer)|Chuki]] {{goal|11}}<br>[[Cenk Özkacar|Özkacar]] {{yel|13}}
+|stadium = [[Estadi Mallorca Son Moix|Visit Mallorca Estadi]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 16,018
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 14 May 2025
+|time = 18:00
+|team1 = Valladolid
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-girona-fc-36
+|team2 = [[Girona FC|Girona]]
+|goals1 = 
+|goals2 = [[Cristhian Stuani|Stuani]] {{goal|80}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 12,664
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 18:00
+|team1 = Valladolid
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-deportivo-alaves-37
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 = 
+|goals2 = [[Kike García (Spanish footballer)|Kike]] {{goal|18}}<br>[[Carlos Vicente (footballer)|Vincente]] {{yel|90}}<br>[[Tomás Conechny|Conechny]] {{yel|90+3}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 14,506
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 25 May 2025
+|time = 17:30
+|team1 = [[CD Leganés|Leganés]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-real-valladolid-cf-38
+|team2 = Valladolid
+|goals1 = [[Javi Hernández (footballer, born 1998)|Javi]] {{goal|24}}<br>[[Yan Diomande|Diomande]] {{goal|36}}<br>[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|40}}
+|goals2 = [[Antonio Candela|Candela]] {{yel|13}}
+|stadium = [[Estadio Municipal de Butarque|Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 11,523
+|referee = César Soto Grado
+|result = L
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date= 29 October 2024
+|time= 21:00
+|team1= [[Astur CF|Astur]]
+|score= 1–4
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-astur-cf-real-valladolid-cf-2
+|team2= Valladolid
+|goals1=
+*[[Robi Toral]] {{goal|56}}
+|goals2=
+*[[Juanmi Latasa|Latasa]] {{goal|7||28}}
+*[[Kike Pérez]] {{goal|59}}
+*[[Víctor Meseguer|Meseguer]] {{penmiss}} {{small|62'}}, {{goal|90+2}}
+|stadium= [[Estadio Hermanos Llana|Hermanos Llana]]
+|location= [[Oviedo]]
+|attendance=
+|referee= Alejandro Muñiz Ruiz
+|result= W
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date= 3 December 2024
+|time= 19:00
+|team1= [[Real Ávila CF|Ávila]]
+|score= 2–4
+|aet= yes
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-real-avila-real-valladolid-cf-3
+|team2= Valladolid
+|goals1=
+*[[Filipe Sissé|Sissé]] {{yel|16}}
+*[[Ibrahim Doumbia|Doumbia]] {{yel|24}}
+*[[Miguel de la Fuente]] {{yel|31}}
+*[[Adri Carrión]] {{goal|49||54}}
+*[[Jorge Campos]] {{yel|51}}
+*[[Carlos Pascual (footballer)|Carlos Pascual]] {{yel|98}}
+*[[Adilson]] {{yel|117}}
+|goals2=
+*[[Juanmi Latasa|Latasa]] {{goal|15}}, {{yel|66}}
+*[[Lucas Rosa]] {{yel|52}}
+*[[Marcos André]] {{goal|73||111}}
+*[[Amath Ndiaye]] {{yel|76}}
+*[[Juma Bah]] {{yel|110}}
+*[[Kike Pérez]] {{goal|119}}
+|stadium= [[Estadio Adolfo Suárez|Adolfo Suárez]]
+|location= [[Ávila, Spain|Ávila]]
+|attendance=
+|referee= [[Alejandro Quintero González]]
+|result= W
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date= 5 January 2025
+|time= 18:00
+|team1= [[Ourense CF]]
+|score= 3–2
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ourense-cf-real-valladolid-cf-4
+|team2= Valladolid
+|goals1= 
+*[[Jairo Noriega|J.Noriega]] {{goal|17}}
+*[[Jerin Ramos|J.Ramos]] {{goal|32}}
+*[[Ángel Sánchez (footballer, born 1997)|Sánchez]] {{goal|52}}
+*[[Alejandro Fidalgo|Fidalgo]] {{yel|65}}
+|goals2=
+*[[Amath Ndiaye]] {{yel|13}}
+*[[Raúl Moro|Moro]] {{goal|15}}
+*[[Selim Amallah|Amallah]] {{goal|24}}
+*[[Anuar Tuhami|Anuar]] {{yel|65}}
+*[[Kike Pérez]] {{yel|67}}
+*[[Mario Martín|Martín]] {{yel|90+4}}
+|stadium= [[Estadio de O Couto|O Couto]]
+|location= [[Ourense]]
+|attendance= 
+|referee= Francisco José Hernández Maeso
+|result= L
+}}
+
+== References ==
+{{Reflist}}
+
+{{Real Valladolid}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Real Valladolid season}}
+[[Category:Real Valladolid seasons]]
+[[Category:Spanish football clubs 2024–25 season|Valladolid]]

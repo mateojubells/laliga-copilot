@@ -1,0 +1,1408 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[Rayo Vallecano]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Raúl Martín Presa]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Iñigo Pérez]]
+|stdtitle           = 
+|stadium            = [[Vallecas Stadium|Vallecas]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|8th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Round of 16]]
+|league topscorer   = <br>[[Jorge de Frutos]] (6)
+|season topscorer   = <br>Jorge de Frutos (8)
+|highest attendance = 14,168
+|lowest attendance  = 
+|average attendance = 12,908<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = 
+|largest loss       = 
+|pattern_la1        = _rayo2425h
+|pattern_b1         = _rayo2425h
+|pattern_ra1        = _rayo2425h
+|pattern_sh1        = _rayo2425h
+|pattern_so1        = 
+|leftarm1           = FFFFFF
+|body1              = FFFFFF
+|rightarm1          = FFFFFF
+|shorts1            = FFFFFF
+|socks1             = FFFFFF
+|pattern_la2        = _rayo2425a
+|pattern_b2         = _rayo2425a
+|pattern_ra2        = _rayo2425a
+|pattern_sh2        = _rayo2425a
+|pattern_so2        = 
+|leftarm2           = FF0000
+|body2              = FF0000
+|rightarm2          = FF0000
+|shorts2            = FF0000
+|socks2             = FF0000
+|pattern_la3        = _rayo2425t
+|pattern_b3         = _rayo2425t
+|pattern_ra3        = _rayo2425t
+|pattern_sh3        = _rayo2425t
+|pattern_so3        = 
+|leftarm3           = 6A7183
+|body3              = 6A7183
+|rightarm3          = 6A7183
+|shorts3            = 6A7183
+|socks3             = 6A7183
+|prevseason         = [[2023–24 Rayo Vallecano season|2023–24]]
+|nextseason         = [[2025–26 Rayo Vallecano season|2025–26]]
+}}
+The '''2024–25 season''' was the 101st season in the history of '''[[Rayo Vallecano]]''', and the club's fourth consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+Rayo Vallecano concluded the La Liga season in eighth place, marking their best league finish since the [[2012–13 La Liga|2012–13 campaign]], when they also secured the same position. This achievement qualified the club for a spot in the [[2025–26 UEFA Conference League|UEFA Conference League]], signaling their return to European competition after a [[2000–01 UEFA Cup|24-year absence]].<ref>https://www.football-espana.net/2025/05/24/rayo-vallecano-24-year-wait-european-return-celta-vigo</ref>
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 115px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Fernández, Pelayo|{{flagicon|ESP}} [[Pelayo Fernández]]}}
+|{{fbaicon|ESP}} [[FC Barcelona Atlètic|Barcelona Atlètic]]
+|Free
+|{{dts|2 July 2024}}
+|<ref>{{Cite web|url=https://www.mundodeportivo.com/us/en/soccer/20240702/694079/pelayo-fernandez-joins-rayo-vallecano-for-the-long-haul-inking-deal-until-2028-nrt.html|title=Pelayo Fernández joins Rayo Vallecano for the long haul, inking deal until 2028|date=2 July 2024|website=Mundo Deportivo USA}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Gerard Gumbau]]
+|{{fbaicon|ESP}} [[Granada CF|Granada]]
+|Loan
+|{{dts|16 July 2024}}
+|<ref>{{Cite web|url=https://www.vavel.com/br/futebol-internacional/2024/07/15/1188463-gerard-gumbau-fecha-acordo-com-o-rayo-vallecano.html|title=Gerard Gumbau fecha acordo com o Rayo Vallecano|date=15 July 2024|website=VAVEL}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Adri Embarba]]
+|{{fbaicon|ESP}} [[UD Almería|Almería]]
+|Loan
+|{{dts|26 July 2024}}
+|<ref>{{Cite web|url=https://www.rayovallecano.es/noticias/embarba-nuevo-jugador-del-rayo-vallecano|title=Embarba, nuevo jugador del Rayo Vallecano|date=26 July 2024|website=www.rayovallecano.es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|COL}} [[James Rodríguez]]
+|Unattached
+|Free
+|{{dts|26 August 2024}}
+|<ref>{{Cite web|url=https://m.allfootballapp.com/news/Headline/OFFICIAL-Former-Real-Madrid-player-James-Rodr%C3%ADguez-joins-Vallecano/3475156|title=OFFICIAL: Former Real Madrid player James Rodríguez joins Vallecano&#124; All Football|website=AllfootballOfficial}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} [[Sergi Guardiola]]
+|Unattached
+|Free
+|{{dts|4 September 2024}}
+|<ref>{{Cite web|url=https://www.estadiodeportivo.com/futbol/rayo-vallecano/fichaje-sergi-guardiola-punto-20240904-463081.html|title=El fichaje de Sergi Guardiola, oficial|date=4 September 2024|website=Estadio Deportivo}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 115px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Crespo, Miguel|{{flagicon|POR}} [[Miguel Crespo]]}}
+|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Kike Pérez]]
+|{{fbaicon|ESP}} [[Real Valladolid]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Falcao, Radamel|{{flagicon|COL}} [[Radamel Falcao]]}}
+|{{fbaicon|COL}} [[Millonarios F.C.|Millonarios]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.football-espana.net/2024/05/24/radamel-falcao-la-liga-exit-copa-america-squad-omission|title=Radamel Falcao confirms La Liga exit after Copa America squad omission|first=Feargal|last=Brennan|date=24 May 2024|website=Football España}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Pozo, José Ángel|{{flagicon|ESP}} [[José Ángel Pozo]]}}
+|{{fbaicon|CYP}} [[Karmiotissa FC]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://as.com/futbol/primera/pozo-dice-adios-a-vallecas-siempre-sere-un-rayista-mas-n/|title=Pozo dice adiós a Vallecas: “Siempre seré un rayista más”|first=Maite|last=Martín|date=2 June 2024|website=Diario AS}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Bebé|{{flagicon|CPV}} [[Bebé]]}}
+|{{fbaicon|ESP}} [[Racing de Ferrol]]
+|Contract terminated
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://www.rayovallecano.es/noticias/bebe-deja-de-ser-jugador-del-rayo-vallecano|title=Bebé deja de ser jugador del Rayo Vallecano|website=www.rayovallecano.es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|COL}} [[James Rodríguez]]
+|
+|Contract terminated
+|{{dts|6 January 2025}}
+|<ref>https://www.footboom1.com/en/news/football/2266223-james-rodriguez-ends-his-spell-with-inigo-perez-and-rayo-vallecano</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = Friendly
+|date = 18 July 2024
+|time = {{UTZ|20:15|1}}
+|team1 = [[S.C. Braga|Braga]]
+|score = 2–2
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Gabri Martínez|Martínez]] {{goal|24}}
+*[[Ricardo Horta|Horta]] {{goal|43}}
+|goals2 =
+*[[Pelayo Fernández|Fernández]] {{goal|13}}
+*[[Marco de las Sías|De las Sías]] {{goal|88}}
+|stadium = 
+|location = Portugal
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 20 July 2024
+|time = {{UTZ|19:30|1}}
+|team1 = [[Vitória S.C.|Vitória de Guimarães]]
+|score = 2–0
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Jota Silva|Jota]] {{goal|54}}
+*[[Marco Cruz]] {{goal|68}}
+|goals2 =
+|stadium = 
+|location = Portugal
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 26 July 2024
+|time = {{UTZ|19:00|2}}
+|team1 = [[SC Heerenveen]]
+|score = 5–0
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+|goals2 =
+|stadium = [[Abe Lenstra Stadion]]
+|location = [[Heerenveen]], Netherlands
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 31 July 2024
+|time = {{UTZ|21:00|2}}
+|team1 = [[Córdoba CF]]
+|score = 1–1
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Trofeo Puertas de Córdoba
+|date = 31 July 2024
+|time = 21:00
+|team1 = [[Córdoba CF|Córdoba]]
+|score = 1–1
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+|goals2 =
+|penaltyscore = 4–2
+|stadium = [[Estadio Nuevo Arcángel]]
+|location = [[Córdoba, Spain|Córdoba]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 4 August 2024
+|time = 15:00
+|team1 = [[AFC Bournemouth]]
+|score = 1–0
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Luis Sinisterra|Sinisterra]] {{goal|32}}
+|goals2 =
+|stadium = [[Dean Court]]
+|location = [[Bournemouth]], England
+|attendance = 
+|referee = 
+|result = L
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=18 August 2024 |lm1=24 May 2025 |sr1=Matchday 1 |fp1=8th |w1=13 |d1=13 |l1=12 |f1=41 |a1=45
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=29 October 2024 |lm2=16 January 2025 |sr2=First round |fp2=Round of 16 |w2=3 |d2=0 |l2=1 |f2=12 |a2=6
+|s=[https://int.soccerway.com/teams/spain/rayo-vallecano/2054/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=RAY}}
+
+==== Results summary ====
+{{Fb rs |hw=6 |hd=8 |hl=5 |hgf=24 |hga=26 |aw=7 |ad=5 |al=7 |agf=17 |aga=19}}
+{{Fb rs footer|s= |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=24 April 2024
+| header=Round
+| label1=Ground
+| rnd12=13<sup>1</sup>
+| rnd13=14
+| rnd14=15
+| rnd15=16
+| rnd16=17
+| rnd17=12
+| res1=A/A/H/A/H/H/A/H/A/A/H/H/A/H/A/H/A/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H
+| label2=Result
+| res2=W/D/L/L/W/D/D/D/W/L/W/L/L/L/W/D/D/D/W/D/W/W/W/L/L/D/L/D/W/L/L/D/L/W
+| label3=Position
+| pos3=3/8/9/12/7/9/9/9/8/9/9/12/13/13/12/12/12/12/9/9/7/6/6/6/6/7/8/9/7/8/10/10/12/9
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{Cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=MARCA}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 18 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Sociedad]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rayo-vallecano-1
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Urko González de Zárate|González de Zárate]] {{yel|27}}
+*[[Jon Aramburu|Aramburu]] {{yel|90+4}}
+*[[Martín Zubimendi|Zubimendi]] {{goal|90+8}}
+|goals2 =
+*[[Unai López|López]] {{yel|32}}
+*[[Florian Lejeune|Lejeune]] {{yel|53}}
+*[[Randy Nteka|Nteka]] {{yel|56}}
+*[[Adri Embarba|Embarba]] {{yel|57}}
+*[[Jorge de Frutos|De Frutos]] {{goal|67}}
+*[[Sergio Camello|Camello]] {{goal|84}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 31,763
+|referee = [[Alejandro Hernández Hernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 2
+|date = 24 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-rayo-vallecano-2
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Christantus Uche|Uche]] {{yel|41}}
+|goals2 =
+*[[Pathé Ciss|Ciss]] {{yel|54}}
+*[[Alfonso Espino|Espino]] {{yel|82}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 9,529
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 3
+|date = 27 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-fc-barcelona-3
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Unai López|López]] {{goal|9}}
+*[[Isi Palazón|Palazón]] {{yel|45+2}}
+*[[Abdul Mumin|Mumin]] {{yel|71}}
+*[[Pathé Ciss|Ciss]] {{yel|88}}
+|goals2 =
+*[[Pedri]] {{goal|60}}
+*[[Dani Olmo|Olmo]] {{goal|82}}
+*[[Marc Bernal|Bernal]] {{yel|90+4}}
+|stadium = [[Campo de Fútbol de Vallecas]]
+|location = [[Madrid]]
+|attendance = 14,031
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 4
+|date = 31 August 2024
+|time = 19:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-rayo-vallecano-4
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{goal|8}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|81}}
+*[[Álvaro Aguado|Aguado]] {{yel|85}}
+*[[Alejo Véliz (footballer)|Véliz]] {{goal|90+6}}, {{yel|90+7}}
+|goals2 =
+*[[Álvaro García (footballer, born 1992)|García]] {{goal|4}}, {{yel|82}}
+*[[Abdul Mumin|Mumin]] {{yel|90+3}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 22,405
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 16 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-ca-osasuna-5
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Abdul Mumin|Mumin]] {{goal|50}}, {{yel|78}}
+*[[Sergio Camello|Camello]] {{yel|59}}
+*[[Andrei Rațiu|Rațiu]] {{goal|66}}
+*[[Unai López|López]] {{yel|88}}, {{goal|90+5}}
+|goals2 =
+*[[Bryan Zaragoza|Zaragoza]] {{yel|19}}
+*[[Raúl García (footballer, born 2000)|García]] {{goal|27}}
+*[[Jon Moncayola|Moncayola]] {{yel|42}}
+|stadium = [[Campo de Fútbol de Vallecas]]
+|location = [[Madrid]]
+|attendance = 13,073
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 22 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-atletico-de-madrid-6
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Isi Palazón|Palazón]] {{goal|35}}
+|goals2 =
+*[[Conor Gallagher|Gallagher]] {{goal|49}}
+|stadium = [[Campo de Fútbol de Vallecas]]
+|location = [[Madrid]]
+|attendance = 13,646
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 7
+|date = 25 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Girona FC|Girona]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-rayo-vallecano-7
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Viktor Tsyhankov|Tsyhankov]] {{yel|20}}
+*[[Abel Ruiz|Ruiz]] {{yel|58}}
+*[[Yangel Herrera|Herrera]] {{yel|83}}
+|goals2 =
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{yel|45}}
+*[[Unai López|López]] {{yel|64}}
+*[[Iván Balliu|Balliu]] {{yel|89}}
+*[[Andrei Rațiu|Rațiu]] {{yel|90+3}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,272
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 28 September 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-cd-leganes-8
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Sergio Camello|Camello]] {{goal|8}}
+*[[James Rodríguez|Rodríguez]] {{yel|57}}
+*[[Adrián Embarba|Embarba]] {{yel|90+4}}
+|goals2 =
+*[[Renato Tapia|Tapia]] {{yel|27}}
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|55}}
+|stadium = [[Vallecas Stadium]]
+|location = [[Madrid]]
+|attendance = 13,186
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rayo-vallecano-9
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Eray Cömert|Cömert]] {{yel|20}}
+*[[Juanmi Latasa|Latasa]] {{yel|32}}
+*[[Lucas Rosa|Rosa]] {{yel|49}}
+*[[Selim Amallah|Amallah]] {{goal|51}}
+*[[David Torres (footballer, born 2003)|Torres]] {{yel|62}}
+|goals2 =
+*[[Jorge de Frutos|de Frutos]] {{goal|57||80}}
+*[[Unai López|López]] {{yel|82}}
+*[[Iván Balliu|Balliu]] {{yel|90+6}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21,112
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-rayo-vallecano-10
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Manu Morlanes|Morlanes]] {{yel|38}}
+*[[Vedat Muriqi|Muriqi]] {{goal|75}}
+|goals2 =
+*[[Abdul Mumin|Mumin]] {{yel|37}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18,316
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 26 October 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-deportivo-alaves-11
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Abdul Mumin|Mumin]] {{sentoff|0|22}}
+*[[Unai López|López]] {{yel|49}}
+*[[Antonio Sivera|Sivera]] {{goal|80|o.g.}}
+*[[Pep Chavarría|Chavarría]] {{yel|90+3}}
+|goals2 =
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|50}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|67}}
+*[[Jon Guridi|Guridi]] {{yel|77}}
+*[[Joan Jordán|Jordán]] {{yel|88}}
+|stadium = [[Vallecas Stadium]]
+|location = [[Madrid]]
+|attendance = 13,010
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 8 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Rayo Vallecano
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-ud-las-palmas-13
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Gerard Gumbau|Gumbau]] {{yel|34}}
+*[[Scott McKenna|McKenna]] {{goal|90+2|o.g.}}
+|goals2 =
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|6}}
+*[[Scott McKenna|McKenna]] {{yel|10}}
+*[[Álex Muñoz|Muñoz]] {{yel|45+2}}
+*[[Dário Essugo|Essugo]] {{yel|49}}
+*[[Aridane Hernández|Aridane]] {{goal|62|o.g.}}
+*[[Manu Fuster|Fuster]] {{goal|67}}
+|stadium = [[Vallecas Stadium]]
+|location = [[Madrid]]
+|attendance = 12,978
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 14
+|date = 24 November 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rayo-vallecano-14
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Djibril Sow|Sow]] {{goal|28}}
+*[[Loïc Badé|Badé]] {{yel|40}}
+*[[Kike Salas|Salas]] {{yel|46}}
+|goals2 =
+*[[Jorge de Frutos|de Frutos]] {{yel|9}}
+*[[Florian Lejeune|Lejeune]] {{yel|20}}
+*[[Óscar Valentín|Valentín]] {{yel|31}}
+*[[Álvaro García (footballer, born 1992)|García]] {{yel|37}}
+*[[Unai López|López]] {{sentoff|0|45+1}}
+*[[Augusto Batalla|Batalla]] {{yel|90+2}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium]]
+|location = [[Seville]]
+|attendance = 35,125
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Rayo Vallecano
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-athletic-club-15
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Randy Nteka|Nteka]] {{goal|14}}
+*[[Pathé Ciss|Ciss]] {{yel|69}}
+*[[Gerard Gumbau|Gumbau]] {{yel|76}}
+*[[Álvaro García (footballer, born 1992)|García]] {{yel|90+5}}
+|goals2 =
+*[[Oihan Sancet|Sancet]] {{goal|65||78}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 13,639
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 16
+|date = 7 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rayo-vallecano-16
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Giorgi Mamardashvili|Mamardashvili]] {{yel|52}}
+*[[Yarek Gąsiorowski|Gąsiorowski]] {{yel|72}}
+|goals2 =
+*[[Pathé Ciss|Ciss]] {{goal|7}}
+*[[Randy Nteka|Nteka]] {{yel|52}}
+*[[Isi Palazón|Palazón]] {{yel|71}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium]]
+|location = [[Valencia]]
+|attendance = 40,968
+|referee = José Luis Munuera Montero
+|result = W
+}}
+{{footballbox collapsible
+|round = 17
+|date = 14 December 2024
+|time = {{UTZ|21:00|1}}
+|team1 = Rayo Vallecano
+|score = 3–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-real-madrid-17
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 = 
+*[[Unai López|López]] {{goal|4}}
+*[[Augusto Batalla|Batalla]] {{yel|27}}
+*[[Randy Nteka|Nteka]] {{yel|34}}
+*[[Abdul Mumin|Mumin]] {{goal|36}}
+*[[Isi Palazón|Palazón]] {{yel|44}}, {{goal|64}}
+*[[Sergio Camello|Camello]] {{yel|90+2}}
+|goals2 =
+*[[Federico Valverde|Valverde]] {{goal|39}}
+*[[Jude Bellingham|Bellingham]] {{goal|45}}
+*[[Rodrygo]] {{goal|56}}
+*[[Luka Modrić|Modrić]] {{yel|62}}
+*[[Vinícius Júnior]] {{yel|74}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = Madrid
+|attendance = 14,168
+|referee = [[Juan Martínez Munuera]]
+|result  = D
+}}
+{{Football box collapsible
+|round = 12
+|date = 18 December 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rayo-vallecano-12
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Yéremy Pino|Pino]] {{yel|27}}
+*[[Willy Kambwala|Kambwala]] {{sentoff|0|32}}
+*[[Ayoze Pérez|Ayoze]] {{goal|45+1}}
+*[[Pape Gueye|Gueye]] {{yel|54}}
+*[[Thiago Ojeda|Ojeda]] {{yel|85}}
+*[[Logan Costa]] {{yel|90+5}}
+|goals2 = 
+*[[Álvaro García (footballer, born 2000)|Álvaro]] {{goal|20}}
+*[[Abdul Mumin|Mumin]] {{yel|45+5}}
+*[[Florian Lejeune|Lejeune]] {{yel|46}}
+*[[Oscar Trejo|Trejo]] {{yel|53}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 14.000
+|referee = Alejandro José Hernández Hernández
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Betis]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rayo-vallecano-18
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Isco]] {{goal|37|pen.}}
+|goals2 =
+*[[Pathé Ciss|Ciss]] {{yel|27}}
+*[[Álvaro García (footballer, born 1992)|García]] {{yel|36}}
+*[[Isi Palazón|Palazón]] {{goal|51}}, {{yel|81}}
+*[[Alfonso Espino|Espino]] {{yel|90+4}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 53,121 
+|referee = Víctor García Verdura
+|result = D
+}}
+{{Football box collapsible
+|round = 19
+|date = 10 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Rayo Vallecano
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-rc-celta-19
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Adrián Embarba|Embarba]] {{goal|5}}
+*[[Pathé Ciss|Ciss]] {{yel|21}}
+*[[Abdul Mumin|Mumin]] {{yel|27}}
+*[[Jorge de Frutos|De Frutos]] {{goal|63}}
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|26}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{sent off|2|37|90+4}}
+*[[Franco Cervi|Cervi]] {{yel|43}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = Madrid
+|attendance = 12,955 
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}} 
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-rayo-vallecano-20
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Pablo Ibáñez (footballer, born 1998)|Ibáñez]] {{yel|40}}
+*[[Raúl García (footballer, born 2000)|García]] {{goal|59}}
+*[[Jon Moncayola|Moncayola]] {{yel|72}}
+*[[Jesús Areso|Areso]] {{yel|81}}
+|goals2 =
+*[[Sergio Camello|Camello]] {{goal|19}}
+*[[Óscar Valentín|Valentín]] {{yel|38}}
+*[[Augusto Batalla|Batalla]] {{yel|84}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 20,770
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 2–1
+|report = https://www.laliga.com/en-GB/clubs/rayo-vallecano/results
+|team2 = [[Girona FC|Girona]]
+|goals1 = 
+*[[Unai López]] {{yel|21}}
+*[[Randy Nteka|Nteka]] {{goal|80||83}}, {{yel|90+2}}
+*[[Florian Lejeune|Lejeune]] {{yel|90+7}}
+|goals2 = 
+*[[Bryan Gil|Gil]] {{goal|58}}
+*[[Yangel Herrera|Herrera]] {{yel|70}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 12.405
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 22
+|date = 31 January 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-rayo-vallecano-22
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Dani Raba|Raba]] {{yel|34}}
+*[[Sergio González (footballer, born 1992)|S.González]] {{sentoff|0|45+2}}
+*[[Yvan Neyou|Neyou]] {{yel|63}}
+*[[Borja Jiménez]] {{yel|90+11}}
+*[[Miguel de la Fuente|Miguel]] {{penmiss}} 90+15
+|goals2 = 
+*[[Randy Nteka|Nteka]] {{yel|53}}
+*[[Andrei Rațiu|Rațiu]] {{yel|55}}
+*[[Unai López]] {{yel|75}}
+*[[Pathé Ciss]] {{goal|78}}
+*[[Adrián Embarba|Embarba]] {{yel|89}}
+|stadium = [[Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 11.432
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 23
+|date = 7 February 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-real-valladolid-cf-23
+|team2 = [[Real Valladolid CF|Real Valladolid]]
+|goals1 = 
+*[[Pathé Ciss]] {{yel|13}}
+*[[Jorge de Frutos|Frutos]] {{yel|56}}
+*[[Álvaro García (footballer, born 2000)|Álvaro]] {{goal|71}}
+|goals2 = 
+*[[Marcos André|André]] {{yel|29}}
+*[[Adam Aznou|Aznou]] {{yel|69}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 12.286
+|referee = Jesús Gil Manzano
+|result = W
+}}
+{{Football box collapsible
+|round = 24
+|date = 17 February 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-rayo-vallecano-24
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Robert Lewandowski|Lewandowski]] {{goal|28|pen.}}
+*[[Gavi (footballer)|Gavi]] {{yel|45+2}}
+*[[Ferran Torres|Torres]] {{yel|90+5}}
+|goals2 =
+*[[Pathé Ciss]] {{yel|27}}
+*[[Andrei Rațiu|Rațiu]] {{yel|41}}
+*[[Adrián Embarba|Embarba]] {{yel|87}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 45.296
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 25
+|date = 22 February 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-villarreal-cf-25
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 = 
+*[[Jorge de Frutos|Frutos]] {{sentoff|0|42}}
+*[[Andrei Rațiu|Rațiu]] {{yel|78}}
+|goals2 = 
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{yel|44}}
+*[[Yéremy Pino|Pino]] {{yel|55}}
+*[[Ayoze Pérez|Ayoze]] {{goal|66}}
+*[[Diego Conde|Conde]] {{yel|90+1}}
+*[[Dani Parejo|Parejo]] {{yel|90+5}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 13.373
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 1 March 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-sevilla-fc-26
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 = 
+*[[Andrei Rațiu|Rațiu]] {{goal|55}}
+*[[Gerard Gumbau|Gumbau]] {{yel|87}}
+|goals2 = 
+*[[Dodi Lukebakio|Lukebakio]] {{goal|81}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 11.947
+|referee = Pablo González Fuertes
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-rayo-vallecano-27
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Kylian Mbappé|Mbappé]] {{goal|30}}
+*[[Vinícius Junior]] {{goal|34}}, {{yel|79}}
+*[[Aurélien Tchouaméni|Tchouaméni]] {{yel|85}}
+*[[Luka Modrić|Modrić]] {{yel|90+2}}
+|goals2 = 
+*[[Pedro Díaz (footballer, born 1998)|Pedro Díaz]] {{goal|45+2}}
+*[[Gumbau]] {{yel|63}}
+|stadium = [[Estadio Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 74.170
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-real-sociedad-28
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Sergi Guardiola|Guardiola]] {{yel|40}}
+*[[Óscar Trejo|Trejo]] {{goal|58}}
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{goal|72}}
+*[[Florian Lejeune|Lejeune]] {{yel|74}}
+*[[Alfonso Espino|Espino]] {{yel|90+2}}
+|goals2 =
+*[[Javi López (footballer, born 2002)|López]] {{yel|11}}
+*[[Martín Zubimendi|Zubimendi]] {{goal|20}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|60}}
+*[[Arkaitz Mariezkurrena|Mariezkurrena]] {{goal|80}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 12,364
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 29
+|date = 29 March 2025
+|time = 18:30
+|team1 = [[CD Alavés|Alavés]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rayo-vallecano-29
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Joan Jordán|Jordán]] {{penmiss}} 14'
+*[[Pau Cabanes|Cabanes]] {{yel|16}}
+*[[Santiago Mouriño|Mouriño]] {{yel|77}}
+*[[Facundo Tenaglia|Tenaglia]] {{yel|80}}
+|goals2 = 
+*[[Pathé Ciss]] {{goal|2}}
+*[[Pelayo Fernández|Pelayo]] {{yel|8}}
+*[[Randy Nteka|Nteka]] {{yel|36}}
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{goal|58}}
+*[[Augusto Batalla|Batalla]] {{yel|62}}
+*[[Aridane]] {{yel|78}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 18.336
+|referee = José Munuera Montero
+|result = W
+}}
+{{Football box collapsible
+|round = 30
+|date = 4 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-rcd-espanyol-30
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 = 
+*[[Pep Chavarría|Chavarría]] {{yel|28}}
+*[[Pathé Ciss]] {{yel|70}}
+|goals2 = 
+*[[Leandro Cabrera|Cabrera]] {{goal|12}}
+*[[Roberto Fernández (footballer, born 2002)|Fernández]] {{goal|16}}
+*[[Pol Lozano|Lozano]] {{yel|55}}
+*[[Javier Puado|Puado]] {{goal|72|pen.}}
+*[[Pere Milla|Milla]] {{yel|87}}, {{goal|90}} 
+|stadium = [[Campo de Fútbol de Vallecas]]
+|location = [[Madrid]]
+|attendance = 11.905
+|referee = Alejandro José Hernández Hernández
+|result = L
+}}
+{{Football box collapsible
+|round = 31
+|date = 13 April 2025
+|time = 22:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Athletic Bilbao|Bilbao]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rayo-vallecano-31
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Álvaro Djaló|Djaló]] {{yel|12}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|36}}
+*[[Oihan Sancet|Sancet]] {{goal|58|pen.|90+4}}
+*[[Nico Williams|N.Williams]] {{goal|80}}
+*[[Adama Boiro|Boiro]] {{yel|84}}
+*[[Iñaki Williams|I.Williams]] {{yel|87}}
+|goals2 = 
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{penmiss}} 37', {{yel|50}}
+*[[Pathé Ciss]] {{goal|37}}
+*[[Alfonso Espino|Espino]] {{yel|57}}
+*[[Unai López|López]] {{yel|75}}
+|stadium = [[Estadio San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47.584
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 19 April 2025
+|time = 14:00
+|team1 = Rayo Vallecano
+|score = 1–1
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-valencia-cf-32
+|team2 = [[Valencia CF|Valencia]]
+|goals1 = 
+*[[Pathé Ciss]] {{yel|28}}
+*[[César Tárrega|Tárrega]] {{goal|45|o.g.}}
+*[[Florian Lejeune|Lejeune]] {{yel|49}}
+*[[Pep Chavarría|Chavarría]] {{yel|62}}
+|goals2 = 
+*[[Umar Sadiq|Sadiq]] {{goal|75}}, {{yel|90}}
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 11.308
+|referee = Alejandro Quintero González
+|result = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 24 April 2025
+|time = 17:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rayo-vallecano-33
+|team2 = Rayo Vallecano
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{goal|3}}
+*[[Conor Gallagher|Gallagher]] {{goal|45}}
+*[[Julián Alvarez|Alvarez]] {{goal|77}}
+|goals2 =
+*[[Andrei Rațiu|Rațiu]] {{yel|66}}
+*[[Augusto Batalla|Batalla]] {{yel|79}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 49,410
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 34
+|date = 2 May 2025
+|time =  [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Rayo Vallecano
+|score = 1–0
+|report = 
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+|goals2 =
+|stadium = [[Campo de Fútbol de Vallecas|Vallecas]]
+|location = [[Madrid]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 36
+|date = 15 May 2025
+|time = 
+|team1 = Rayo Vallecano
+|score = 2–2
+|report = 
+|team2 = Real Betis
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Madrid]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = Celta Vigo
+|score = 1–2
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Vigo]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Rayo Vallecano
+|score = 0–0
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Madrid]]
+|attendance = 
+|referee = 
+|result = D
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 29 October 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[CD Villamuriel]]
+|score = 0–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-villamuriel-rayo-vallecano-2
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Luismi Pérez|Pérez]] {{yel|56}}
+*[[Díez]] {{yel|74}}
+|goals2 = 
+*[[Raúl de Tomás|De Tomás]] {{goal|43|pen.|48}}
+*[[Óscar Trejo|Trejo]] {{goal|45}}
+*[[Sergi Guardiola|Guardiola]] {{goal|68}}
+*[[Etienne Eto'o (footballer, born 2002)|Eto'o]] {{goal|88}}
+|stadium = Estadio La Nueva Balastera
+|location = [[Palencia]]
+|attendance = 8.000
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = W
+}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 4 December 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[Unionistas de Salamanca CF]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-unionistas-rayo-vallecano-3
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Alvaro Gomez Martin|Martin]] {{goal|15}}
+*[[Imanol Baz|Baz]] {{goal|19}}
+*[[Jonny Arriba|Arriba]] {{yel|43}}
+*[[Eudald Vergés|Vergés]] {{yel|45+4}}
+*[[Iñaki González|Iñaki]] {{yel|59}}
+*Dani García {{sentoff|0|90+7}}
+*Moreno {{sentoff|0|90+8}}
+|goals2 =
+*[[Óscar Trejo|Trejo]] {{goal|36}}, {{yel|52}}
+*[[Alfonso Espino|Espino]] {{yel|46}}
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{goal|54}}
+*[[Sergi Guardiola|Guardiola]] {{yel|56}}
+*[[Adri Embarba|Embarba]] {{yel|78}}, {{goal|84}}
+*[[Pathé Ciss]] {{sentoff|0|86}}
+|stadium = Reina Sofía
+|location = [[Salamanca]]
+|attendance = 
+|referee = [[Alejandro Muñiz Ruiz]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 3 January 2025
+|time = {{UTZ|19:00|1}}
+|team1 = [[Racing de Ferrol|Racing Ferrol]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-racing-club-ferrol-rayo-vallecano-4
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Aitor Buñuel|Buñuel]] {{yel|79}}
+*[[Naldo (footballer, born 1988)|Naldo]] {{yel|81}}
+*[[Álvaro Giménez|Giménez]] {{goal|90+1}}
+|goals2 = 
+*[[Alfonso Espino|Espino]] {{goal|8}}
+*[[Jorge De Frutos|De Frutos]] {{goal|32||59}}, {{yel|48}}
+*[[Óscar]] {{yel|38}}
+*[[Isi Palazón|Palazón]] {{yel|83}}
+|stadium = [[Estadio Municipal da Malata]]
+|location = [[Ferrol, Spain|Ferrol]]
+|attendance = 
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 16 January 225
+|time = {{UTZ|19:30|1}}
+|team1 = [[Real Sociedad]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-real-sociedad-rayo-vallecano-5
+|team2 = Rayo Vallecano
+|goals1 = 
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|23}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|43}}
+*[[Olasagasti]] {{goal|45+1}}
+*[[Sergio Gómez (footballer, born 2000)|Sergio Gómez]] {{goal|79}}
+|goals2 = 
+*[[Alfonso Espino|Espino]] {{sentoff|2|17|77}}
+*[[Óscar Trejo|Trejo]] {{goal|45+7|pen.}}
+*[[Florian Lejeune|Lejeune]] {{yel|59}}
+*[[Isi Palazón|Palazón]] {{yel|81}}
+|stadium = [[Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+
+==Statistics==
+===Goalscorers===
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=10|{{Tooltip|Rank|Rank}}
+!width=10|{{Tooltip|No.|Squad Number}}
+!width=10|{{Tooltip|Pos.|Position}}
+!width=10|{{Tooltip|Nat.|Nationality}}
+!width=200|Player
+!width=120|[[2024–25 La Liga|La Liga]]
+!width=120|[[2024–25 Copa del Rey|Copa del Rey]]
+!width=120|Total
+|-
+|'''1'''
+|19
+|[[Forward (association football)|FW]]
+|{{flagicon|ESP}}
+|[[Jorge de Frutos]]
+|6
+|2
+|'''8'''
+|-
+|rowspan=5|'''2'''
+|4
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Pedro Díaz (footballer, born 1998)|Pedro Díaz]]
+|3
+|1
+|'''4'''
+|-
+|6
+|[[Midfielder|MF]]
+|{{flagicon|SEN}}
+|[[Pathé Ciss]]
+|4
+|0
+|'''4'''
+|-
+|7
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Isi Palazón]]
+|4
+|0
+|'''4'''
+|-
+|8
+|[[Midfielder|MF]]
+|{{flagicon|ARG}}
+|[[Óscar Trejo]]
+|1
+|3
+|'''4'''
+|-
+|18
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Álvaro García (footballer, born 1992)|Álvaro García]]
+|4
+|0
+|'''4'''
+|-
+|rowspan=3|'''7'''
+|11
+|[[Forward (association football)|FW]]
+|{{flagicon|ANG}}
+|[[Randy Nteka]]
+|3
+|0
+|'''3'''
+|-
+|14
+|[[Forward (association football)|FW]]
+|{{flagicon|ESP}}
+|[[Sergio Camello]]
+|3
+|0
+|'''3'''
+|-
+|17
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Unai López]]
+|3
+|0
+|'''3'''
+|-
+|rowspan=5|'''10'''
+|2
+|[[Defender (association football)|DF]]
+|{{flagicon|ROU}}
+|[[Andrei Rațiu]]
+|2
+|0
+|'''2'''
+|-
+|9
+|[[Forward (association football)|FW]]
+|{{flagicon|ESP}}
+|[[Raúl de Tomás]]
+|0
+|2
+|'''2'''
+|-
+|16
+|[[Defender (association football)|DF]]
+|{{flagicon|GHA}}
+|[[Abdul Mumin]]
+|2
+|0
+|'''2'''
+|-
+|21
+|[[Forward (association football)|FW]]
+|{{flagicon|ESP}}
+|[[Adri Embarba]]
+|1
+|1
+|'''2'''
+|-
+|24
+|[[Defender (association football)|DF]]
+|{{flagicon|FRA}}
+|[[Florian Lejeune]]
+|2
+|0
+|'''2'''
+|-
+|rowspan=3|'''15'''
+|12
+|[[Forward (association football)|FW]]
+|{{flagicon|ESP}}
+|[[Sergi Guardiola]]
+|0
+|1
+|'''1'''
+|-
+|22
+|[[Defender (association football)|DF]]
+|{{flagicon|URU}}
+|[[Alfonso Espino]]
+|0
+|1
+|'''1'''
+|-
+|28
+|[[Forward (association football)|FW]]
+|{{flagicon|CMR}}
+|[[Etienne Eto'o (footballer, born 2002)|Etienne Eto'o]]
+|0
+|1
+|'''1'''
+|-
+|colspan=5|[[Own goal#Association football|Own goals]]
+|3
+|0
+|'''3'''
+|-
+!colspan=5|Totals
+!41
+!12
+!53
+|}
+
+== References ==
+{{Reflist}}
+
+{{Rayo Vallecano}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Rayo Vallecano season}}
+[[Category:Rayo Vallecano seasons]]
+[[Category:Spanish football clubs 2024–25 season|Rayo Vallecano]]
+[[Category:2024 in Madrid]]
+[[Category:2025 in Madrid]]

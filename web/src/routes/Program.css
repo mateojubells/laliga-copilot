@@ -1,0 +1,6 @@
+/* Salida de programa (OBS): sin fondo, sin scroll, sin controles. */
+html.program-page, body.program { background: transparent; overflow: hidden; }
+body.program { cursor: none; user-select: none; }
+.prog-root { position: fixed; inset: 0; overflow: hidden; background: transparent; }
+.prog-root[data-bg="green"] { background: #00b140; }
+.prog-canvas { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; transform-origin: 0 0; overflow: hidden; }

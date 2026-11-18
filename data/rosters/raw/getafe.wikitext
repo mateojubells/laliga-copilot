@@ -1,0 +1,1314 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[Getafe CF]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = Ángel Torres
+|ownertitle         = 
+|owner              = [[Ángel Torres (businessman)|Ángel Torres]]
+|mgrtitle           = Head coach
+|manager            = [[José Bordalás]]
+|stdtitle           = 
+|stadium            = [[Estadio Coliseum|Coliseum]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|13th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Round of 16]]
+|league topscorer   = <br>[[Mauro Arambarri]] (10)
+|season topscorer   = <br>Mauro Arambarri (10)
+|highest attendance = 15,184
+|lowest attendance  = 
+|average attendance = 11,464<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = 
+|largest loss       = 
+|pattern_la1        = _getafe2425h
+|pattern_b1         = _getafe2425h
+|pattern_ra1        = _getafe2425h
+|pattern_sh1        = _getafe2425h
+|pattern_so1        = _getafe2425h
+|leftarm1           = 0033FF
+|body1              = 0033FF
+|rightarm1          = 0033FF
+|shorts1            = 0033FF
+|socks1             = 0033FF
+|pattern_la2        = _getafe2425a
+|pattern_b2         = _getafe2425a
+|pattern_ra2        = _getafe2425a
+|pattern_sh2        = _getafe2425a
+|pattern_so2        = _getafe2425a
+|leftarm2           = EF0000
+|body2              = EF0000
+|rightarm2          = EF0000
+|shorts2            = EF0000
+|socks2             = EF0000
+|pattern_la3        = _getafe2425t
+|pattern_b3         = _getafe2425t
+|pattern_ra3        = _getafe2425t
+|pattern_sh3        = _getafe2425t
+|pattern_so3        = _getafe2425t
+|leftarm3           = EEEEEE
+|body3              = EEEEEE
+|rightarm3          = EEEEEE
+|shorts3            = EEEEEE
+|socks3             = EEEEEE
+|prevseason         = [[2023–24 Getafe CF season|2023–24]]
+|nextseason         = [[2025–26 Getafe CF season|2025–26]]
+}}
+The '''2024–25 season''' was the 42nd season in the history of '''[[Getafe CF|Getafe Club de Fútbol]]''', and the club's eighth consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 65px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Silva, Jonathan|{{flagicon|ARG}} [[Jonathan Silva (footballer)|Jonathan Silva]]}}
+|{{fbaicon|ESP}} [[Albacete Balompié|Albacete]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref name="auto">{{Cite web|url=https://as.com/futbol/primera/los-retornados-de-cesion-sin-posibilidades-de-hacer-plantilla-n/|title=Los retornados de cesión, sin posibilidades de hacer plantilla|first=Marcos|last=Romano|date=9 June 2024|website=Diario AS}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Poveda, Darío|{{flagicon|ESP}} [[Darío Poveda]]}}
+|{{fbaicon|ESP}} [[FC Cartagena|Cartagena]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref name="auto"/>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Lozano, Anthony|{{flagicon|HON}} [[Anthony Lozano]]}}
+|{{fbaicon|ESP}} [[UD Almería|Almería]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.latribuna.hn/2024/05/24/lozano-confirma-regreso-al-getafe/|title=Lozano confirma regreso al Getafe|date=24 May 2024|website=Diario La Tribuna}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Abdulai, Sabit|{{flagicon|GHA}} [[Sabit Abdulai]]}}
+|{{fbaicon|ESP}} [[Real Murcia CF|Real Murcia]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref name="auto"/>
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Uche, Christantus|{{flagicon|NGA}} [[Christantus Uche]]}}
+|{{fbaicon|ESP}} [[AD Ceuta|Ceuta]]
+|
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.relevo.com/futbol/mercado-fichajes/uche-getafe-proxima-temporada-ceuta-20240219193154-nt.html|title=El Getafe cierra el fichaje de Uche para la próxima temporada|date=19 February 2024|website=Relevo}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|González, Peter|{{flagicon|ESP}} [[Peter González (footballer)|Peter González]]}}
+|{{fbaicon|ESP}} [[Real Madrid Castilla]]
+|Free
+|{{dts|4 July 2024}}
+|<ref>{{cite web|url=https://as.com/futbol/primera/oficial-peter-federico-ficha-por-el-getafe-n/|title=Oficial: Peter Federico ficha por el Getafe|first=Domingo José del|last=Río|date=4 July 2024|website=Diario AS|access-date=5 July 2024|archive-url=https://web.archive.org/web/20240705205623/https://as.com/futbol/primera/oficial-peter-federico-ficha-por-el-getafe-n/|archive-date=5 July 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{flagicon|CZE}} {{sortname|Jiří|Letáček}}
+||{{fbaicon|CZE}} [[FC Baník Ostrava|Baník Ostrava]]
+|€2,000,000<ref>{{cite web|url=https://www.futbolfantasy.com/laliga/noticias/117438-acuerdo-entre-getafe-y-banik-ostrava-por-el-traspaso-de-jiri-letacek|title=Acuerdo entre Getafe y Baník Ostrava por el traspaso de Jiri Letacek|website=www.futbolfantasy.com}}</ref>
+|{{dts|13 July 2024}}
+|<ref>{{cite news|url=https://www.getafecf.com/noticias/jiri-letacek-nuevo-portero-azulon|title=Jiří Letáček, nuevo portero azulón|publisher=Getafe CF|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Sola, Álex|{{flagicon|ESP}} [[Álex Sola]]}}
+|{{fbaicon|ESP}} [[Real Sociedad]]
+|
+|{{dts|15 July 2024}}
+|<ref>[https://www.getafecf.com/noticias/alex-sola-azulon-hasta-2027]</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Rico, Diego|{{flagicon|ESP}} [[Diego Rico]]}}
+|{{fbaicon|ESP}} [[Real Sociedad]]
+|€1,500,000
+|{{dts|16 July 2024}}
+|<ref>{{cite web|url=https://www.marca.com/futbol/getafe/2024/07/16/66963a5fe2704e221d8b45db.html|title=El Getafe ejecuta la opción de compra sobre Diego Rico|date=16 July 2024|website=Marca}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Pérez, Carles|{{flagicon|ESP}} [[Carles Pérez]]}}
+|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|Loan
+|{{dts|30 July 2024}}
+|<ref>{{cite news|url=https://www.getafecf.com/noticias/carles-perez-nuevo-jugador-azulon|title=Carles Pérez llega al Getafe C.F. cedido del RC Celta|publisher=Getafe CF|language=es}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 115px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Moriba, Ilaix|{{flagicon|GUI}} [[Ilaix Moriba]]}}
+|{{fbaicon|GER}} [[RB Leipzig]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Latasa, Juanmi|{{flagicon|ESP}} [[Juanmi Latasa]]}}
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://m.allfootballapp.com/news/EPL/Real-Betis-eyeing-up-summer-move-for-Real-Madrid-striker/3393514|title=Real Betis eyeing up summer move for Real Madrid striker|website=AllfootballOfficial}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Greenwood, Mason|{{flagicon|ENG}} [[Mason Greenwood]]}}
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite news|url=https://www.nytimes.com/athletic/5520648/2024/05/27/mason-greenwood-getafe-man-utd-latest/|title=Greenwood says goodbye to Getafe fans|first1=Dan|last1=Sheldon|first2=Guillermo|last2=Rai|publisher=The New York Times}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Mata, Jaime|{{flagicon|ESP}} [[Jaime Mata]]}}
+|{{fbaicon|ESP}} [[UD Las Palmas|Las Palmas]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://cadenaser.com/cmadrid/2024/05/24/jaime-mata-se-despide-entre-lagrimas-del-getafe-cf-ser-madrid-norte/|title=Jaime Mata se despide entre lágrimas del Getafe CF|first=Xabier|last=Beitia|date=24 May 2024|website=cadena SER}}</ref>
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Maksimovic, Nemanja|{{flagicon|SRB}} [[Nemanja Maksimović]]}}
+|{{fbaicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.promoesportagency.com/fr/informations/nemanja_maksimovic_to_wear_the_a_039_greena_039_next_season|title=Nemanja Maksimovic to wear the 'green' next season|website=Promoesport}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Ünal, Enes|{{flagicon|TUR}} [[Enes Ünal]]}}
+|{{fbaicon|ENG}} [[AFC Bournemouth|Bournemouth]]
+|€16,500,000
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/cgrrqzy69y5o|title=Enes Unal: Bournemouth sign Turkey forward from Getafe for about £13m|date=29 May 2024|website=BBC Sport}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Poveda, Darío|{{flagicon|ESP}} [[Darío Poveda]]}}
+|{{fbaicon|POR}} [[S.C. Farense|Farense]]
+|Contract termination
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.getafecf.com/noticias/comunicado-oficial-getafe-dario-poveda-separan-caminos|title=El Getafe CF y Darío Poveda separan sus caminos|publisher=Getafe CF|language=es}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Lozano, Anthony|{{flagicon|HON}} [[Anthony Lozano]]}}
+|{{fbaicon|MEX}} [[Santos Laguna]]
+|Undisclosed
+|{{dts|12 July 2024}}
+|<ref>{{cite news|url=https://www.clubsantos.mx/articles/anthony-%E2%80%9Cchoco%E2%80%9D-lozano-se-integra-de-manera-oficial-a-los-guerreros-22918|title=Santos|publisher=Santos Laguna}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 19 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 0–0
+|report = 
+|team2 = [[Coventry City F.C.|Coventry City]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 24 July 2024
+|time = 20:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 0–1
+|report = 
+|team2 = [[Real Oviedo|Oviedo]]
+|goals1 =
+|goals2 =
+|stadium = Ciudad Deportiva Fernando Santos de la Parra
+|location = [[Getafe]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 31 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 0–1
+|report = 
+|team2 = [[Real Zaragoza|Zaragoza]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 1–3
+|report = https://en.atleticodemadrid.com/postpartidos/getafe-atletico-de-madrid-03-08-2024-21-00
+|team2 = [[Atlético Madrid]]  
+|goals1 =
+*[[Christantus Uche|Uche]] {{goal|60}}
+*[[Diego Rico|Rico]] {{yel|82}}
+*[[Ismael Fernández|Fernández]] {{sentoff|0|88}}
+|goals2 =
+*[[Ángel Correa|Correa]] {{goal|38||55}}
+*[[Axel Witsel|Witsel]] {{yel|39}}
+*[[João Félix|Félix]] {{goal|45}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 7 August 2024
+|time = 20:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 1–0
+|report = 
+|team2 = [[AS Saint-Étienne|Saint-Étienne]]
+|goals1 =
+|goals2 =
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 
+|referee = 
+|result = W
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=15 August 2024 |lm1=23–25 May 2025 |sr1=Matchday 1 |fp1= |w1=11 |d1=9 |l1=18 |f1=34 |a1=39
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=26 November 2024 |lm2=4 February 2025 |sr2=First round |fp2=Quarter-finals |w2=3 |d2=1 |l2=1 |f2=5 |a2=5
+|s=[https://int.soccerway.com/teams/spain/getafe-club-de-futbol/2039/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=GET}}
+
+==== Results summary ====
+{{Fb rs |hw=4 |hd=7 |hl=6 |hgf=14 |hga=15 |aw=6 |ad=2 |al=8 |agf=17 |aga=15 }}
+{{Fb rs footer |u=24 April 2025 |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=24 April 2025
+| header=Round
+| label1=Ground
+| res1=A/H/A/H/A/H/A/H/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/
+| label2=Result
+| res2=D/D/D/L/L/D/L/W/D/D/D/L/L/W/L/W/L/L/W/D/W/D/W/W/L/L/W/W/L/W/L/L/L/
+| label3=Position
+| pos3=10/12/17/17/18/18/19/15/16/16/15/16/17/15/17/15/16/17/15/16/14/14/14/13/14/14/12/11/12/11/11/12/12/
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 15 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Athletic Bilbao]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-getafe-cf-1
+|team2 = Getafe
+|goals1 =
+*[[Oihan Sancet|Sancet]] {{goal|27}}
+*[[Beñat Prados|Prados]] {{yel|55}}
+*[[Unai Gómez|Gómez]] {{yel|70}}
+*[[Andoni Gorosabel|Gorosabel]] {{yel|73}}
+*[[Ander Herrera|Herrera]] {{yel|86}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{yel|45+8}}, {{goal|64}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,845
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 24 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-rayo-vallecano-2
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Christantus Uche|Uche]] {{yel|41}}
+|goals2 =
+*[[Pathé Ciss|Ciss]] {{yel|54}}
+*[[Alfonso Espino|Espino]] {{yel|82}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 9,529
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 19:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-real-sociedad-4
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Juan Iglesias|Iglesias]] {{yel|22}}
+|goals2 =
+*[[Aihen Muñoz|Muñoz]] {{yel|90+4}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 10,929
+|referee = [[José Luis Munuera Montero]]
+|result = D
+}}
+{{Football box collapsible
+|round = 5
+|date = 14 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-getafe-cf-5
+|team2 = Getafe
+|goals1 =
+*[[Jesús Navas|Navas]] {{goal|23}}
+*[[Isaac Romero|Romero]] {{yel|56}}
+*[[Juanlu Sánchez|Juanlu]] {{sentoff|2|83|87}}
+|goals2 =
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|45+1}}
+*[[Djené]] {{yel|63}}
+*[[Jesús Santiago|Santiago]] {{yel|90}}
+*[[Álex Sola|Sola]] {{yel|90+9}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 32,643
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 18 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Betis]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-getafe-cf-3
+|team2 = Getafe
+|goals1 =
+*[[Romain Perraud|Perraud]] {{yel|38}}
+*[[Pablo Fornals|Fornals]] {{yel|43}}
+*[[Giovani Lo Celso|Lo Celso]] {{goal|61|pen.|74}}
+*[[Rui Silva (footballer, born 1994)|Silva]] {{yel|88}}
+|goals2 =
+*[[Álex Sola|Sola]] {{yel|12}}
+*[[Carles Aleñá|Aleñá]] {{yel|13}}
+*[[Omar Alderete|Alderete]] {{yel|15}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|58}}
+*[[Diego Rico|Rico]] {{yel|64}}
+*[[Mauro Arambarri|Arambarri]] {{goal|90+3}}
+|stadium = [[Estadio Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 48,547
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = [[South Madrid derby|6]]
+|date = 22 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-cd-leganes-6
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Mauro Arambarri|Arambarri]] {{yel|53}}
+*[[Djené]] {{yel|56}}
+*[[Diego Rico|Rico]] {{yel|63}}
+*[[Borja Mayoral|Mayoral]] {{goal|83}}
+|goals2 =
+*[[Óscar Rodríguez (footballer, born 1998)|Rodríguez]] {{yel|20}}
+*[[Jorge Sáenz|Sáenz]] {{goal|76}}
+*[[Matija Nastasić|Nastasić]] {{yel|80}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 13,060
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 7
+|date = 25 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-getafe-cf-7
+|team2 = Getafe
+|goals1 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|19}}
+*[[Raphinha]] {{yel|79}}
+|goals2 =
+*[[Mauro Arambarri|Arambarri]] {{yel|69}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 44,407
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 8
+|date = 28 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-deportivo-alaves-8
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Mauro Arambarri|Arambarri]] {{goal|42}}, {{yel|78}}
+*[[Luis Milla (footballer, born 1994)|Milla]] {{goal|58|pen.}}
+*[[Álex Sola|Sola]] {{yel|67}}
+*[[Álvaro Rodríguez (footballer, born 2004)|Álvaro]] {{yel|90+3}}
+|goals2 =
+*[[Abdel Abqar|Abqar]] {{yel|31}}
+*[[Carlos Benavídez|Protesoni]] {{yel|45}}
+*[[Antonio Sivera|Sivera]] {{yel|62}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|70}}
+*[[Kike García (Spanish footballer)|García]] {{yel|81}}
+*[[Carlos Vicente (footballer)|Vicente]] {{yel|90+4}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 10,006
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Getafe
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-ca-osasuna-9
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Bertuğ Yıldırım|Yıldırım]] {{goal|21}}, {{yel|43}}
+*[[Djené]] {{yel|42}}
+|goals2 =
+*[[Lucas Torró|Torró]] {{yel|34}}
+*[[Flavien Enzo Boyomo|Boyomo]] {{yel|53}}
+*[[Ante Budimir|Budimir]] {{goal|60}}
+*[[Jon Moncayola|Moncayola]] {{yel|75}}
+*[[Alejandro Catena|Catena]] {{yel|87}}
+|stadium = [[Estadio Coliseum]]
+|location = [[Getafe]]
+|attendance = 10,670
+|referee = [[José María Sánchez Martínez]]
+|result = D
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Villarreal
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-getafe-cf-10
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Raúl Albiol|Albiol]] {{yel|23}}
+*[[Santi Comesaña|Comesaña]] {{goal|44}}
+*[[Álex Baena|Baena]] {{yel|49}}
+*[[Dani Parejo|Parejo]] {{yel|90+1}}
+*[[Kiko Femenía|Femenía]] {{yel|90+4}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{yel|23}}
+*[[Mauro Arambarri|Arambarri]] {{yel|36}}
+*[[Omar Alderete|Alderete]] {{yel|47}}, {{goal|87|pen.}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 19,355
+|referee = Víctor García Verdura
+|result = D
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 Octobre 2024
+|time = 17:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Getafe
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-valencia-cf-11
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Carles Pérez|C.Pérez]] {{yel|44}}
+*[[Mauro Arambarri|Arambarri]] {{goal|90}}
+*[[Allan Nyom|Nyom]] {{yel|90+2}}
+*[[Djené Dakonam|Djené]] {{yel|90+2}}
+|goals2 =
+*[[Enzo Barrenechea|Barrenechea]] {{goal|36}}, {{yel|67}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|41}}
+*[[Diego López (footballer, born May 2002)|D.López]] {{yel|42}}
+*[[Thierry Correia|Thierry]] {{yel|45+1}}
+*[[Luis Rioja|L.Rioja]] {{yel|54}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|65}}
+*[[Hugo Duro]] {{yel|88}}
+|stadium = [[Estadio Coliseum]]
+|location = [[Getafe]]
+|attendance = 12.412
+|referee = Guillermo Cuadra Fernández
+|result = D
+}}
+{{Football box collapsible
+|round = 12
+|date = 5 November 2024
+|time = 21:00
+|team1 = [[Celta Vigo]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-getafe-cf-12
+|team2 = Getafe
+|goals1 =
+*[[Anastasios Douvikas|Douvikas]] {{goal|7}}, {{yel|24}}
+|goals2 =
+*[[Nabil Aberdin|Nabil]] {{yel|22}}
+*[[Juan Berrocal|Berrocal]] {{sentoff|2|55|65}}
+*[[Omar Alderete|Alderete]] {{yel|90+1}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 19,502
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Getafe
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-girona-fc-13
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Diego Rico|Rico]] {{yel|38}}
+*[[Álex Sola|Sola]] {{yel|87}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|90+2}}
+|goals2 =
+*[[Donny van de Beek|Van de Beek]] {{yel|34}}
+*[[Oriol Romeu|Romeu]] {{yel|39}}
+*[[Yangel Herrera|Herrera]] {{yel|40}}, {{goal|42}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 10,923
+|referee = [[Juan Martínez Munuera]]
+|result = L
+}}
+{{Football box collapsible
+|round = 14
+|date = 22 November 2024
+|time = 22:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Getafe
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-real-valladolid-cf-14
+|team2 = [[Real Valladolid]]
+|goals1 =
+*[[Djene]] {{yel|35}}
+*[[Bertug Yildirim|Bertug]] {{yel|61}}
+*[[Allan Nyom|Nyom]] {{yel|61}}, {{goal|73}}
+*[[Álvaro Rodríguez (footballer, born 2004)|Álvaro]] {{goal|70}}
+|goals2 =
+*[[Paulo Pezzolano|Pezzolano]] {{sentoff|2|45+1|45+4}}
+*[[Anuar Tuhami|Anuar]] {{yel|61}}
+*[[Iván Sánchez|I.Sánchez]] {{yel|90+3}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 9.911
+|referee = 
+|result = W
+}}
+{{footballbox collapsible
+|round      = 15
+|date       = 1 December 2024
+|time       = {{UTZ|16:15|1}}
+|team1      = [[Real Madrid]] 
+|score      = 2–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-getafe-cf-15
+|team2      = Getafe
+|goals1     =
+*[[Jude Bellingham|Bellingham]] {{goal|30|pen.}}
+*[[Kylian Mbappé|Mbappé]] {{goal|38}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 74,341
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = L
+}}
+{{Football box collapsible
+|round = 16
+|date = 10 December 2024
+|time = 22:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Getafe
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-rcd-espanyol-16
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Álvaro Rodríguez (footballer, born 2004)|Álvaro]] {{goal|8}}
+*[[Omar Alderete|Alderete]] {{yel|29}}
+*[[Mauro Arambarri|Arambarri]] {{yel|42}}
+*[[John Patrick (footballer, born 2003)|J.Patrick]] {{yel|83}}
+|goals2 =
+*[[Jofre Carreras|Jofre]] {{yel|5}}
+*[[Omar El Hilali|El Hilali]] {{yel|57}}
+*[[Leandro Cabrera|Cabrera]] {{yel|64}}
+*[[Antoniu Roca|A.Roca]] {{yel|82}}
+*[[Sergi Gómez|S.Gómez]] {{yel|90}}
+*[[Brian Oliván|B.Oliván]] {{yel|90}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 7.559
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 13:00
+|team1 = [[Atlético Madrid]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-getafe-cf-17
+|team2 = Getafe
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{goal|69}}
+*[[Ángel Correa|Correa]] {{yel|72}}
+*[[Rodrigo De Paul|De Paul]] {{yel|90}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|90+2}}
+|goals2 =
+*[[Juan Iglesias|Iglesias]] {{yel|69}}
+|stadium = [[Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60.169
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 18
+|date = 21 December 2024
+|time = 13:00
+|team1 = Getafe
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-rcd-mallorca-18
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 = 
+*[[Djené]] {{yel|21}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|33}}
+*[[Diego Rico|Rico]] {{yel|79}}
+*[[Juan Berrocal|Berrocal]] {{yel|80}}
+|goals2 = 
+*[[Antonio Sánchez (footballer, born 1997)|Sánchez]] {{yel|16}}
+*[[Cyle Larin|Larin]] {{goal|53|pen.}}
+*[[Dominik Greif|Greif]] {{yel|59}}
+*[[Robert Navarro (footballer)|Navarro]] {{yel|87}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 9.747
+|referee = José Luis Munuera Montero
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 12 January 2025
+|time = 18:30
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-getafe-cf-19
+|team2 = Getafe
+|goals1 =
+*[[Dário Essugo|Essugo]] {{yel|46}}
+*[[Álex Suárez (footballer, born 1993)|Álex Suárez]] {{yel|82}}
+*[[Adnan Januzaj|Januzaj]] {{goal|88}}
+|goals2 =
+*[[Mauro Arambarri|Arambarri]] {{yel|16}}
+*[[Luis Milla (footballer, born 1994)|Milla]] {{yel|64}}
+*[[Coba da Costa|Coba]] {{goal|70}}, {{yel|82}}
+*[[Borja Mayoral|Mayoral]] {{goal|86}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 23,698 
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 18 January 2025
+|time = 21:00
+|team1 = Getafe
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-fc-barcelona-20
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Mauro Arambarri|Arambarri]] {{goal|34}}
+*[[Yellu Santiago|Santiago]] {{yel|53}}
+*[[Djené]] {{yel|86}}
+*[[Ismael Bekhoucha|Bekhoucha]] {{yel|90+5}}
+|goals2     =
+*[[Jules Koundé|Koundé]] {{goal|9}}
+*[[Raphinha]] {{yel|90+5}}
+*[[Alejandro Balde|Balde]] {{yel|90+6}}
+|stadium    = [[Estadio Coliseum|Coliseum]]
+|location   = [[Getafe]]
+|attendance = 15,134
+|referee    = Pablo González Fuertes
+|result     = D
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 16:15 
+|team1 = [[Real Sociedad]]
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-getafe-cf-21
+|team2 = Getafe
+|goals1 =
+*[[Beñat Turrientes|Turrientes]] {{yel|15}}
+*[[Takefusa Kubo|Kubo]] {{yel|90+5}}
+*[[Jon Aramburu|Aramburu]] {{yel|90+6}}
+|goals2 =
+*[[Luis Milla (footballer, born 1994)|Milla]] {{yel|25}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|45+1}}
+*[[Omar Alderete|Alderete]] {{yel|54}}
+*[[Christantus Uche|Uche]] {{goal|72}}
+*[[Carles Pérez|Pérez]] {{goal|74||85}}
+*[[Jesús Santiago|Santiago]] {{yel|90}}
+*[[Juan Berrocal|Berrocal]] {{yel|90+2}}
+*[[Coba da Costa|Coba]] {{yel|90+6}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 30,004
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 22
+|date = 1 February 2025
+|time = 14:00
+|team1 = Getafe
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-sevilla-fc-22
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Coba da Costa|Coba]] {{yel|25}}
+*[[Juan Berrocal|Berrocal]] {{yel|37}}
+*[[Djené]] {{yel|38}}
+*[[Juan Iglesias|Iglesias]] {{yel|56}}
+|goals2 =
+*[[Isaac Romero|Romero]] {{yel|19}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|24}}
+*[[Dodi Lukebakio|Lukebakio]] {{yel|50}}
+*[[Albert Sambi Lokonga|Sambi Lokonga]] {{yel|54}}
+*[[José Ángel Carmona|Carmona]] {{yel|90+1}}
+*[[Nemanja Gudelj|Gudelj]] {{yel|90+7}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 11,730
+|referee = Ricardo de Burgos Bengoetxea
+|result = D
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 19:00 
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-getafe-cf-23
+|team2 = Getafe
+|goals1 =
+*[[Abdelkabir Abqar|Abqar]] {{yel|42}}
+*[[Asier Villalibre|Villalibre]] {{yel|90+3}}
+|goals2 =
+*[[Chrisantus Ugonna Uche|Chrisantus]] {{yel|40}}
+*[[Mauro Arambarri|Arambarri]] {{goal|44|pen.}}, {{yel|66}}
+*[[Allan-Roméo Nyom|Nyom]] {{yel|67}}
+*[[Juan Miguel Jiménez López|Juanmi]] {{yel|70}}
+*[[Ramón Terrats Espacio|Terrats]] {{yel|81}}
+*[[David Soria Solís|Soria]] {{yel|85}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16.236
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 24
+|date = 14 February 2025
+|time = 21:00
+|team1 = [[Girona FC|Girona]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-getafe-cf-24
+|team2 = Getafe
+|goals1 =
+*[[Yangel Herrera|Herrera]] {{goal|54}}, {{sentoff|0|73}}
+*[[Portu]] {{yel|79}}
+*[[Yáser Asprilla|Asprilla]] {{yel|90+7}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{goal|3}}, {{yel|88}}
+*[[Borja Mayoral|Mayoral]] {{goal|62}}
+*[[Carles Pérez|Pérez]] {{yel|76}}
+*[[Omar Alderete|Alderete]] {{yel|90}}
+|stadium = [[Estadio Municipal de Montilivi]]
+|location = [[Girona]]
+|attendance = 10.354
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 18:30
+|team1 = Getafe
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-real-betis-25
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Álvaro Rodríguez (footballer, born 2004)|Rodríguez]] {{yel|79}}
+*[[Borja Mayoral|Mayoral]] {{goal|82}}
+*[[Domingos Duarte|Duarte]] {{sent off|2|90|90+6}}
+|goals2 =
+*[[Isco]] {{goal|18||77|pen.}}
+*[[Antony (footballer, born 2000)|Antony]] {{sent off|0|90+4}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 13,964
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 2 March 2025
+|time = 14:00
+|team1 = [[CD Leganés|Leganés]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-getafe-cf-26
+|team2 = Getafe
+|goals1 = 
+*[[Javi Hernández (footballer, born 1998)|Javi]] {{yel|71}}
+*[[Diego García (footballer, born 2000)|García]] {{goal|90+2}}
+|goals2 = 
+*[[Mauro Arambarri|Arambarri]] {{yel|86}}
+|stadium = [[Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10.311
+|referee = Juan Martínez Munuera
+|result = L
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 14:00
+|team1 = Getafe
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-atletico-de-madrid-27
+|team2 = [[Atlético Madrid]]
+|goals1 = 
+*[[Omar Alderete|Alderete]] {{yel|40}}
+*[[Álvaro Rodríguez (footballer, born 2004)|Álvaro]] {{yel|57}}
+*[[Dakonam Djené|Djené]] {{yel|74}}
+*[[Diego Rico|Rico]] {{yel|74}}
+*[[Mauro Arambarri|Arambarri]] {{goal|88||90+2}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{yel|90+11}}
+*[[Yellu]] {{yel|90+12}}
+|goals2 = 
+*[[Alexander Sørloth|Sørloth]] {{goal|75|pen.}}, {{yel|90+8}}
+*[[Robin Le Normand|Le Normand]] {{yel|40}}
+*[[Ángel Correa|Correa]] {{sentoff|0|88}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 12.862
+|referee = Guillermo Cuadra Fernández
+|result = W
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 18:30
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-getafe-cf-28
+|team2 = Getafe
+|goals1 = 
+*[[Jesús Areso|Areso]] {{yel|15}}
+*[[Lucas Torró|Torró]] {{yel|34}}
+*[[Ante Budimir|Budimir]] {{goal|45|pen.}}
+|goals2 = 
+*[[Dakonam Djené|Djené]] {{yel|29}}
+*[[Domingos Duarte|Duarte]] {{yel|43}}
+*[[Ramón Terrats|Terrats]] {{goal|55||71}}
+*[[Chrisantus Ugonna Uche|Chrisantus]] {{sentoff|2|76|77}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19.611
+|referee = Alejandro Hernández Hernández
+|result = W
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2025
+|time = 15:00
+|team1 = Getafe
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-villarreal-cf-29
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 = 
+*[[Diego Rico|Rico]] {{yel|10}}
+*[[Carles Pérez|C.Pérez]] {{goal|29}}
+|goals2 = 
+*[[Ayoze Pérez|Ayoze]] {{goal|15}}
+*[[Willy Kambwala|Kambwala]] {{yel|31}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|33}}
+*[[Sergi Cardona|Cardona]] {{yel|78}}
+*[[Santi Comesaña|Santi]] {{yel|80}}
+*[[Júnior Reis|Reis]] {{yel|82}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 11.406
+|referee = Isidro Díaz de Mera
+|result = L
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 18:30
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-getafe-cf-30
+|team2 = Getafe
+|goals1 = 
+*[[Latasa]] {{yel|9}}
+*[[Eray Cömert|Cömert]] {{yel|14}}
+*[[Mario Martín|Martín]] {{sentoff|0|45+2}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{yel|71}}
+|goals2 = 
+*[[Mauro Arambarri|Arambarri]] {{goal|1}}
+*[[Ramón Terrats|Terrats]] {{goal|19||38}}
+*[[Juan Iglesias|Iglesias]] {{yel|58}}
+*[[Domingos Duarte|Duarte]] {{goal|80}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 17.737
+|referee = Alejandro Quintero González
+|result =W
+}}
+{{Football box collapsible
+|round = 31
+|date = 12 April 2025
+|time = 16:15
+|team1 = Getafe
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-ud-las-palmas-31
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 = 
+*[[Omar Alderete|Alderete]] {{goal|19}}
+*[[Diego Rico|Rico]] {{sentoff|0|33}}
+|goals2 = 
+*[[Stefan Bajčetić|Bajčetić]] {{yel|48}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|53||74}}
+*[[Oliver McBurnie|McBurnie]] {{goal|61}}
+*[[Jaime Mata|Mata]] {{yel|85}}
+|stadium = [[Coliseum]]
+|location = [[Getafe]]
+|attendance = 8.370
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 18 April 2025
+|time = 21:00
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-getafe-cf-32
+|team2 = Getafe
+|goals1 = 
+*[[Marash Kumbulla|Kumbulla]] {{goal|39}}
+|goals2 =
+*[[Coba da Costa|da Costa]] {{yel|14}}
+*[[Chrisantus]] {{sentoff|0|60}}
+*[[Mauro Arambarri|Arambarri]] {{yel|73}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 25.003
+|referee = Ricardo De Burgos Bengochea
+|result = L
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = 21:30
+|team1 = Getafe
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-real-madrid-33
+|team2 = [[Real Madrid]]
+|goals1 = 
+*[[Luis Milla (footballer, born 1994)|Milla]] {{yel|87}}
+*[[Álvaro Rodríguez (footballer, born 2004)|Álvaro]] {{yel|90+1}}
+*[[Peter Federico|Federico]] {{yel|90+5}}
+|goals2 = 
+*[[Arda Güler|Güler]] {{goal|21}}
+*[[Aurélien Tchouaméni|Tchouaméni]] {{yel|69}}
+|stadium = [[Coliseum]]
+|location = [[Getafe]]
+|attendance = 15.184
+|referee = José Sánchez Martínez
+|result = L
+}}
+{{Football box collapsible
+|round = 34
+|date = 2 May 2025
+|time = 
+|team1 = Rayo Vallecano
+|score = 1–0
+|report = 
+|team2 = Getafe
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Madrid]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 
+|team1 = Valencia
+|score = 3–0
+|report = 
+|team2 = Getafe
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Valencia]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 15 May 2025
+|time = 
+|team1 = Getafe
+|score = 0–2
+|report = 
+|team2 = Athletic Bilbao
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Getafe]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = Mallorca
+|score = 1–2
+|report = 
+|team2 = Getafe
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Getafe
+|score = 1–2
+|report = 
+|team2 = Celta Vigo
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Getafe]]
+|attendance = 
+|referee = 
+|result = L
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 31 October 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[Manises CF]]
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-manises-cf-getafe-cf-2
+|team2 = Getafe
+|goals1 = 
+*[[Josevi González|Josevi]] {{yel|12}}
+*[[Alejandro Pastor|Pastor]] {{yel|29}}
+*[[Alberto Germán|Germán]] {{yel|43}}
+|goals2 =
+*[[Bertuğ Yıldırım|Yıldırım]] {{goal|32||45}}
+*[[Peter González (footballer)|Peter]] {{goal|42}}
+*[[Nabil Aberdin|Aberdin]] {{yel|70}}
+|stadium = [[Polideportivo Municipal de Manises|Municipal]]
+|location = [[Manises]] 
+|attendance = 
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 5 December 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[Orihuela CF|Orihuela]]
+|score = 0–0
+|aet = yes
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-orihuela-cf-getafe-cf-3
+|team2 = Getafe
+|goals1 =
+*[[Alusine Koroma|Koroma]] {{yel|71}}
+*[[Miguel Bianconi|Bianconi]] {{yel|93}}
+*[[Jaime Escobar]] {{yel|119}}
+|goals2 =
+*[[Bertuğ Yıldırım|Yıldırım]] {{penmiss}} 51'
+*[[Álvaro Rodríguez (footballer, born 2004)|Rodríguez]] {{yel|53}}
+*[[Coba da Costa]] {{yel|93}}
+*[[Nabil Aberdin|Aberdin]] {{yel|109}}
+|penaltyscore=0–3
+|penalties1=
+*[[Eugenio Isnaldo|Isnaldo]] {{penmiss}}
+*[[Hector Fernandez Basterrechea|Basterrechea]] {{penmiss}}
+*[[Goyo (footballer)|Goyo]] {{penmiss}}
+|penalties2=
+*[[Luis Milla (footballer, born 1994)|Milla]] {{pengoal}}
+*[[Jesús Santiago|Yellu]] {{pengoal}}
+*[[Juan Iglesias|Iglesias]] {{pengoal}}
+|stadium = [[Estadio Municipal Los Arcos|Los Arcos]]
+|location = [[Orihuela]]
+|attendance = 
+|referee = José Luis Munuera Montero
+|result = D
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date= 3 January 2025
+|time= 19:00
+|team1= [[Granada CF|Granada]]
+|score= 0–1
+|aet = yes
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-granada-cf-getafe-cf-4
+|team2= Getafe
+|goals1=
+*[[Rubén Sánchez (footballer, born 2001)|Sánchez]] {{yel|6}}
+*[[Loïc Williams]] {{yel|31}}
+*[[Gonzalo Villar (footballer)|Villar]] {{yel|112}}
+*[[Reinier]] {{yel|116}}
+*[[Ricard Sánchez|Sánchez]] {{yel|120+2}}
+|goals2=
+*[[Diego Rico]] {{yel|42}}
+*[[Coba da Costa]] {{yel|80}}
+*[[Borja Mayoral|Mayoral]] {{goal|93}}
+*[[David Argüelles|Argüelles]] {{yel|114}}
+*[[Yellu Santiago|Santiago]] {{yel|116}}
+*[[Jiri Letacek|Letacek]] {{yel|118}}
+|stadium= [[Estadio Nuevo de Los Cármenes]]
+|location= [[Granada]]
+|attendance= 16.616
+|referee= José María Sánchez Martínez
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 15 January 2025
+|time = 17:30
+|team1 = [[Pontevedra CF|Pontevedra]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-pontevedra-cf-getafe-cf-5
+|team2 = Getafe
+|goals1 =
+*[[Pelayo Suárez]] {{yel|73}}
+*[[Dalisson de Almeida|Dalisson]] {{yel|90+1}}
+|goals2 =
+*[[Álvaro Rodríguez (footballer, born 2004)|Rodríguez]] {{goal|2}}, {{sentoff|0|41}}
+*[[Peter Federico|Federico]] {{yel|40}}
+*[[Coba da Costa]] {{yel|45+5}}
+*[[José Bordalás]] {{yel|45+5}}
+*[[Diego Rico]] {{sentoff|2|78|90+2}}
+*[[Mauro Arambarri|Arambarri]] {{yel|80}}
+|stadium = [[Estadio Municipal de Pasarón|Pasarón]]
+|location = [[Pontevedra]]
+|attendance = 
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Quarter-finals|Quarter-finals]]
+|date = 4 February 2025
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Atlético Madrid]]
+|score = 5–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-atletico-de-madrid-getafe-cf-6
+|team2 = Getafe
+|goals1 =
+*[[Giuliano Simeone|Simeone]] {{goal|8||17}}
+*[[Samuel Lino|Lino]] {{goal|42}}
+*[[Conor Gallagher|Gallagher]] {{yel|70}}
+*[[Ángel Correa|Correa]] {{goal|78}}
+*[[Alexander Sørloth|Sørloth]] {{goal|86}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{yel|8}}
+*[[Ismael Bekhoucha|Bekhoucha]] {{yel|77}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,000
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+
+== References ==
+{{Reflist}}
+
+{{Getafe CF}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Getafe CF season}}
+[[Category:Getafe CF seasons]]
+[[Category:Spanish football clubs 2024–25 season|Getafe CF]]
+[[Category:2024 in the Community of Madrid]]
+[[Category:2025 in the Community of Madrid]]

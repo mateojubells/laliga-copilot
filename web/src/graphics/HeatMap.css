@@ -1,0 +1,11 @@
+.hm .hm__total-v { font-size: var(--fs-hero); line-height: 0.95; color: var(--c-text); margin-top: 4px; }
+/* una sola barra apilada de tercios (24 px), zonas que no se solapan */
+.hm__stack { display: flex; gap: 4px; height: 24px; margin-top: var(--sp-2); }
+.hm__stack i { display: block; min-width: 8px; border-radius: 6px; background: rgba(255, 255, 255, 0.28); }
+.hm__stack i.is-big { background: var(--club-edge, var(--club-fill)); }
+.hm__list { list-style: none; margin: var(--sp-2) 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, auto); justify-content: space-between; gap: var(--sp-2); }
+.hm__zone { display: flex; flex-direction: column; gap: 2px; line-height: 1.1; color: var(--c-text-2); }
+/* etiqueta de dato: la misma voz que el resto del sistema (display 600, 24 px, mayúsculas espaciadas) */
+.hm__zone span { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); text-transform: uppercase; }
+.hm .hm__zone-v { font-size: var(--fs-xl); line-height: 1; color: var(--c-text); font-weight: 700; }
+/* el color lo pone el segmento del club; las cifras, en blanco */

@@ -1,0 +1,12 @@
+.sm__totals { grid-template-columns: repeat(3, 1fr); }
+/* las tres cifras que cuentan, a 96 px (hay sitio: tiles de ~232 px) */
+.sm .stat-tile__value { font-size: var(--fs-hero); }
+/* la leyenda baja hasta el borde inferior del campo: la columna no deja hueco muerto */
+.sm__legends { display: grid; grid-template-columns: 250px auto; gap: var(--sp-4); align-items: start; margin-top: auto; }
+/* la cifra va pegada a su etiqueta (16 px), no a 640 px */
+.sm__outcomes { gap: 6px; }
+/* recuentos en columna: muestra · etiqueta · cifra alineada a la derecha */
+.sm__outcomes .lg__row { display: grid; grid-template-columns: 38px 1fr 36px; gap: 12px; }
+.sm__outcomes .lg__row b { text-align: right; font-size: var(--fs-lg); font-variant-numeric: tabular-nums; }
+.sm__headline { margin: var(--sp-1) 0 0; }
+.sm__xg { margin-top: var(--sp-1); display: block; }

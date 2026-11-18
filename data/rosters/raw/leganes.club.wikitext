@@ -1,0 +1,865 @@
+<!-- revid=1246104515 title=CD Leganés -->
+{{short description|Association football club in Leganés, Spain}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox football club
+| clubname = Leganés
+| image = Club Deportivo Leganés logo.svg
+| upright = 0.8
+| fullname = Club Deportivo Leganés, S.A.D
+| nickname = {{ubl|{{lang|es|Los pepineros}}|{{lang|es|El Lega}}}}
+| founded = {{start date and age|df=yes|1928|6|23}}
+| ground = [[Estadio Municipal de Butarque|Estadio Municipal Butarque]]
+| capacity = 12,454<ref>{{cite web|url=https://www.cdleganes.com/club/instalaciones|title=Instalaciones|publisher=CD Leganés|language=es|access-date=26 September 2020|archive-date=27 March 2019|archive-url=https://web.archive.org/web/20190327211154/https://www.cdleganes.com/club/instalaciones|url-status=live}}</ref>
+| chairman = [[Jeff Luhnow]]
+| chrtitle = President
+| manager = [[Borja Jiménez]]
+| mgrtitle = Head coach
+| league = {{Spanish football updater|Leganés}}
+| season = {{Spanish football updater|Leganés2}}
+| position = {{Spanish football updater|Leganés3}}
+| website = https://www.cdleganes.com/
+| pattern_la1 = _leganes2324h
+| pattern_b1 = _leganes2324h
+| pattern_ra1 = _leganes2324h
+| pattern_sh1 = _leganes2324h
+| pattern_so1 = _leganes2324hl
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _greenborder
+| pattern_b2 = _greenhoop
+| pattern_ra2 = _greenborder
+| pattern_sh2 = 
+| pattern_so2 = 
+| leftarm2 = 32CD32
+| body2 = 32CD32
+| rightarm2 = 32CD32
+| shorts2 = 32CD32
+| socks2 = CEF100
+| pattern_la3 = 
+| pattern_b3 = _collarblack
+| pattern_ra3 = 
+| pattern_sh3 = 
+| pattern_so3 = 
+| leftarm3 = 000
+| body3 = 000
+| rightarm3 = 000
+| shorts3 = 000
+| socks3 = 000
+| current = 2024–25 CD Leganés season
+}}
+'''Club Deportivo Leganés, S.A.D.''' is a football club based in [[Leganés]], [[Community of Madrid]], that currently competes in [[La Liga]], the first tier of the [[Spanish football league system|Spanish league system]]. In [[2024–25 La Liga|2024–25]], Leganés will play in [[La Liga]] by receiving automatic promotion after winning their first [[2023-24 Segunda División|Segunda]] title. It was founded on 23 June 1928. It holds home games at the [[Estadio Municipal de Butarque]], which seats 12,454 spectators.
+
+==History==
+The club was officially founded on 23 June 1928.<ref>{{Cite web|url=https://as.com/futbol/2021/06/23/segunda/1624462021_272742.html|website=[[as.com]]|date=23 June 2021|title=El Leganés cumple 93 años apoyado en cinco pilares para crecer|first=J.|last=Martín|access-date=6 June 2022|archive-date=6 June 2022|archive-url=https://web.archive.org/web/20220606203150/https://as.com/futbol/2021/06/23/segunda/1624462021_272742.html|url-status=live}}</ref> Its first president was Ramón del Hierro. However the club had to suspend operations in 1936 due to the Spanish civil war, where they remained inactive until they reformed on 4 September 1946.
+
+Leganés played the vast majority of its existence in the lower leagues. In 1977 the club regained promotion to the [[Tercera División|fourth division]], where it had played before for seven years when the category was still the third level.
+
+After a steady progression, Leganés reached the new [[Segunda División B|division three]] in 1987, being promoted to the [[Segunda División|second division]] six years later and maintaining its league status for 11 seasons; during this timeframe, it collected two consecutive eighth places (best) from 1995 to 1997.
+
+On 24 December 2008, Victoria Pavón and Felipe Moreno acquired a majority stake of the club.<ref>{{Cite web|url=https://www.marca.com/futbol/leganes/2019/12/24/5e01e217268e3e565e8b45ad.html|website=[[Marca (newspaper)|Marca]]|title=Once años de la llegada de 'Papa Noel' a Leganés|first=Javier|last=Carrasco|date=24 December 2019|access-date=6 June 2022|archive-date=6 June 2022|archive-url=https://web.archive.org/web/20220606204431/https://www.marca.com/futbol/leganes/2019/12/24/5e01e217268e3e565e8b45ad.html|url-status=live}}</ref> Since July 2009, Victoria Pavón has been the president of the club.<ref>{{Cite web|url=https://www.europapress.es/deportes/futbol-00162/noticia-futbol-leganes-presenta-nueva-presidenta-tecnico-luis-angel-duque-20090713220847.html|website=[[Europa Press (news agency)|Europa Press]]|date=13 July 2009|title=Fútbol.- El Leganés presenta a su nueva presidenta y al técnico Luis Ángel Duque|access-date=6 June 2022|archive-date=6 June 2022|archive-url=https://web.archive.org/web/20220606204431/https://www.europapress.es/deportes/futbol-00162/noticia-futbol-leganes-presenta-nueva-presidenta-tecnico-luis-angel-duque-20090713220847.html|url-status=live}}</ref><ref>{{Cite web|url=https://www.lavanguardia.com/deportes/futbol/20220308/8106005/victoria-pavon-machista-antipopular-intentan-delatarse.html|website=[[La Vanguardia]]|title=Victoria Pavón: "13 años después ya no es noticia que yo sea presidenta"|date=8 March 2022|first=Anaïs|last=Martí|access-date=6 June 2022|archive-date=6 June 2022|archive-url=https://web.archive.org/web/20220606204431/https://www.lavanguardia.com/deportes/futbol/20220308/8106005/victoria-pavon-machista-antipopular-intentan-delatarse.html|url-status=live}}</ref>
+
+In the [[2013–14 Segunda División B|2013–14 season]], Leganés promoted to [[Segunda División]] after 10 seasons in [[Segunda B]].
+[[File:El CD Leganés a Primera (26911425003).jpg|thumb|The squad that earned promotion to La Liga in 2016 paying a visit to the regional government]]
+[[File:Club Deportivo Leganés league performance 1929-2023.svg|thumb|Chart of CD Leganés league performance 1929-2023]]
+In the [[2015–16 Segunda División|2015–16 season]], for the first time in their history, Leganés earned promotion to [[La Liga]], which was sealed on 4 June 2016 with a 1–0 away win against [[CD Mirandés]],<ref>{{cite news |last1=Plaza |first1=Víctor |title=El Leganés hace historia y asciende a Primera división |url=https://www.marca.com/futbol/segunda-division/2016/06/04/57533192e2704efa5b8b45f0.html |access-date=21 July 2020 |work=Marca |date=4 June 2016 |language=es |archive-date=15 June 2020 |archive-url=https://web.archive.org/web/20200615040502/https://www.marca.com/futbol/segunda-division/2016/06/04/57533192e2704efa5b8b45f0.html |url-status=live }}</ref> thus becoming the fifth team from [[Community of Madrid]] to ever play in La Liga after [[Real Madrid CF|Real Madrid]], [[Atlético Madrid]], [[Rayo Vallecano]], and [[Getafe CF|Getafe]]. They remained in the top flight for four seasons, reaching a peak of 13th in [[2018–19 La Liga|2018–19]], before relegation in the last game of the following season, a 2–2 home draw with [[Real Madrid]].<ref>{{cite news |last1=Lowe |first1=Sid |title=Silence, solitude and sadness for Leganés after desperate La Liga finale |url=https://www.theguardian.com/football/blog/2020/jul/20/la-liga-leganes-relegated-silence-solitude-sadness-sid-lowe |author-link=Sid Lowe |access-date=21 July 2020 |work=The Guardian |date=20 July 2020 |archive-date=20 July 2020 |archive-url=https://web.archive.org/web/20200720203204/https://www.theguardian.com/football/blog/2020/jul/20/la-liga-leganes-relegated-silence-solitude-sadness-sid-lowe |url-status=live }}</ref> During this spell, the team qualified for the first time to the semifinals of the [[Copa del Rey]], by eliminating [[Real Madrid C.F.|Real Madrid]] in the [[2017–18 Copa del Rey#Quarter-finals|quarterfinals]] thanks to a 2–1 win at [[Santiago Bernabéu Stadium]].<ref>{{cite web|url=https://www.theguardian.com/football/2018/jan/24/real-madrid-copa-del-rey-leganes-defeat|work=The Guardian|date=24 January 2018|access-date=25 January 2018|title=Real Madrid dumped out of Copa del Rey by Leganés at Bernabéu|archive-date=25 January 2018|archive-url=https://web.archive.org/web/20180125054902/https://www.theguardian.com/football/2018/jan/24/real-madrid-copa-del-rey-leganes-defeat|url-status=live}}</ref>
+
+In the [[2023–24 Segunda División|2023–24 season]], Leganes finished at first place in the Segunda Division and were promoted to La Liga, thus returning after a four season absence.
+[[File:Ascenso a Primera 2024 CD Leganés.jpg|thumb|The squad that won La Liga in 2024 paying a visit to the regional government.]]
+[[File:Deporleganes.jpg|thumb|Match between [[Deportivo de La Coruña]] vs CD Leganés in [[Teresa Herrera Trophy]] 2024.]]
+
+==Fans==
+The fans have friendly relation with [[ultras]] group ''Gate 12'' of [[Egaleo F.C.|Egaleo FC]], the towns of [[Egaleo]] and [[Leganés]] happen to be twinned too. They also have friendly ties with [[Reading F.C.]] of [[England]], partially due to sharing their blue and white colours. Their biggest rival is [[Getafe CF|Getafe]] with whom they contest the [[South Madrid derby]].
+
+==Season to season==
+{| 
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#C0F2DF;"|1929–30
+!style="background:#C0F2DF;"|6
+|style="background:#C0F2DF;"|{{tooltip|2ª Reg.|Segunda Regional Ordinaria Castellana Group 2}}
+|style="background:#C0F2DF;"|1st / {{tooltip|1st|Final Phase}}
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1930–31
+!style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{tooltip|2ª Reg. P.|Segunda Regional Preferente Castellana}}
+|style="background:#BBD7EC;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1931–32
+!style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{tooltip|2ª Reg. P.|Segunda Regional Preferente Castellana}}
+|style="background:#BBD7EC;"|
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1932–33
+!style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{tooltip|2ª Reg. P.|Segunda Regional Preferente Castellana}}
+|style="background:#BBD7EC;"|
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1933–34
+!style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{tooltip|2ª Reg. P.|Segunda Regional Preferente Castellana}}
+|style="background:#BBD7EC;"|
+!style="background:#efefef;"|
+|-
+|style="background:#FFFFFF;"|{{small|1934–1946}}
+!style="background:#FFFFFF;" colspan="3"|DNP
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|1946–47
+!style="background:#C0F2DF;"|6
+|style="background:#C0F2DF;"|{{tooltip|2ª Reg.|Segunda Regional Ordinaria Castellana Group 1}}
+|style="background:#C0F2DF;"|5th
+!style="background:#efefef;"|
+|-
+|style="background:#C0F2DF;"|1947–48
+!style="background:#C0F2DF;"|6
+|style="background:#C0F2DF;"|{{tooltip|2ª Reg.|Segunda Regional Ordinaria Castellana Group 2}}
+|style="background:#C0F2DF;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1948–49
+!style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{tooltip|2ª Reg. P.|Segunda Regional Preferente Castellana}}
+|style="background:#BBD7EC;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1949–50
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana Group 2}}
+|style="background:#EFEF99;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1950–51
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#EFEF99;"|13th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1951–52
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana Group 2}}
+|style="background:#EFEF99;"|7th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1952–53
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana Group 1}}
+|style="background:#EFEF99;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1953–54
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana Group 1}}
+|style="background:#EFEF99;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1954–55 Tercera División|1954–55]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|5th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1955–56 Tercera División|1955–56]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1956–57 Tercera División|1956–57]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|13th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1957–58 Tercera División|1957–58]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|12th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1958–59 Tercera División|1958–59]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|13th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1959–60 Tercera División|1959–60]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|16th
+!style="background:#efefef;"|
+|}
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#EFEF99;"|1960–61
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana Group 1}}
+|style="background:#EFEF99;"|12th
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1961–62
+!style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{tooltip|2ª Reg.|Segunda Regional Ordinaria Castellana}}
+|style="background:#BBD7EC;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1962–63
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana Group 1}}
+|style="background:#EFEF99;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1963–64 Tercera División|1963–64]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|13th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1964–65 Tercera División|1964–65]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|16th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1965–66
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana Group 1}}
+|style="background:#EFEF99;"|5th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1966–67
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#EFEF99;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1967–68 Tercera División|1967–68]]
+!style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|17th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1968–69
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#EFEF99;"|8th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1969–70
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#EFEF99;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1970–71
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#EFEF99;"|7th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1971–72
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#EFEF99;"|10th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1972–73
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#EFEF99;"|9th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1973–74
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|Reg. Pref.|Primera Regional Preferente Castellana}}
+|style="background:#EFEF99;"|10th
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1974–75
+!style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{tooltip|1ª Reg.|Primera Regional Ordinaria Castellana}}
+|style="background:#BBD7EC;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1975–76
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|Reg. Pref.|Primera Regional Preferente Castellana}}
+|style="background:#EFEF99;"|6th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1976–77
+!style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{tooltip|Reg. Pref.|Primera Regional Preferente Castellana}}
+|style="background:#EFEF99;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1977–78 Tercera División|1977–78]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|16th
+!style="background:#efefef;"|[[1977–78 Copa del Rey|Second round]]
+|-
+|style="background:#FFD3BD;"|[[1978–79 Tercera División|1978–79]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|3rd
+!style="background:#efefef;"|[[1978–79 Copa del Rey|First round]]
+|-
+|style="background:#FFD3BD;"|[[1979–80 Tercera División|1979–80]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|11th
+!style="background:#efefef;"|[[1979–80 Copa del Rey|First round]]
+|}
+|}
+{|
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#FFD3BD;"|[[1980–81 Tercera División|1980–81]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|6th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1981–82 Tercera División|1981–82]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|6th
+!style="background:#efefef;"|[[1981–82 Copa del Rey|First round]]
+|-
+|style="background:#FFD3BD;"|[[1982–83 Tercera División|1982–83]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|16th
+!style="background:#efefef;"|[[1982–83 Copa del Rey|First round]]
+|-
+|style="background:#FFD3BD;"|[[1983–84 Tercera División|1983–84]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|7th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1984–85 Tercera División|1984–85]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1985–86 Tercera División|1985–86]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|1st
+!style="background:#efefef;"|[[1985–86 Copa del Rey|Second round]]
+|-
+|style="background:#FFD3BD;"|[[1986–87 Tercera División|1986–87]]
+!style="background:#FFD3BD;"|4
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|3rd
+!style="background:#efefef;"|[[1986–87 Copa del Rey|First round]]
+|-
+|style="background:#DEC5AB;"|[[1987–88 Segunda División B|1987–88]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|7th
+!style="background:#efefef;"|[[1987–88 Copa del Rey|Second round]]
+|-
+|style="background:#DEC5AB;"|[[1988–89 Segunda División B|1988–89]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|8th
+!style="background:#efefef;"|[[1988–89 Copa del Rey|Third round]]
+|-
+|style="background:#DEC5AB;"|[[1989–90 Segunda División B|1989–90]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[1990–91 Segunda División B|1990–91]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|5th
+!style="background:#efefef;"|[[1990–91 Copa del Rey|Second round]]
+|-
+|style="background:#DEC5AB;"|[[1991–92 Segunda División B|1991–92]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|8th
+!style="background:#efefef;"|[[1991–92 Copa del Rey|Third round]]
+|-
+|style="background:#DEC5AB;"|[[1992–93 Segunda División B|1992–93]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|1st
+!style="background:#efefef;"|[[1992–93 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[1993–94 Segunda División|1993–94]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|15th
+!style="background:#efefef;"|[[1993–94 Copa del Rey|Fourth round]]
+|-
+|style="background:#D3D3D3;"|[[1994–95 Segunda División|1994–95]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|19th
+!style="background:#efefef;"|[[1994–95 Copa del Rey|Fourth round]]
+|-
+|style="background:#D3D3D3;"|[[1995–96 Segunda División|1995–96]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|8th
+!style="background:#efefef;"|[[1995–96 Copa del Rey|Third round]]
+|-
+|style="background:#D3D3D3;"|[[1996–97 Segunda División|1996–97]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|8th
+!style="background:#efefef;"|[[1996–97 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[1997–98 Segunda División|1997–98]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|13th
+!style="background:#efefef;"|[[1997–98 Copa del Rey|First round]]
+|-
+|style="background:#D3D3D3;"|[[1998–99 Segunda División|1998–99]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|17th
+!style="background:#efefef;"|[[1998–99 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[1999–2000 Segunda División|1999–2000]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|13th
+!style="background:#efefef;"|[[1999–2000 Copa del Rey|First round]]
+|}
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#D3D3D3;"|[[2000–01 Segunda División|2000–01]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|17th
+!style="background:#efefef;"|[[2000–01 Copa del Rey|Round of 16]]
+|-
+|style="background:#D3D3D3;"|[[2001–02 Segunda División|2001–02]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|14th
+!style="background:#efefef;"|[[2003–04 Copa del Rey|Round of 64]]
+|-
+|style="background:#D3D3D3;"|[[2002–03 Segunda División|2002–03]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|19th
+!style="background:#efefef;"|[[2002–03 Copa del Rey|Round of 64]]
+|-
+|style="background:#D3D3D3;"|[[2003–04 Segunda División|2003–04]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|19th
+!style="background:#efefef;"|[[2003–04 Copa del Rey|Round of 32]]
+|-
+|style="background:#DEC5AB;"|[[2004–05 Segunda División B|2004–05]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|5th
+!style="background:#efefef;"|[[2004–05 Copa del Rey|Round of 64]]
+|-
+|style="background:#DEC5AB;"|[[2005–06 Segunda División B|2005–06]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|13th
+!style="background:#efefef;"|[[2005–06 Copa del Rey|Preliminary round]]
+|-
+|style="background:#DEC5AB;"|[[2006–07 Segunda División B|2006–07]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|8th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[2007–08 Segunda División B|2007–08]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|12th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[2008–09 Segunda División B|2008–09]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[2009–10 Segunda División B|2009–10]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|5th
+!style="background:#efefef;"|[[2009–10 Copa del Rey|First round]]
+|-
+|style="background:#DEC5AB;"|[[2010–11 Segunda División B|2010–11]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|4th
+!style="background:#efefef;"|[[2010–11 Copa del Rey|First round]]
+|-
+|style="background:#DEC5AB;"|[[2011–12 Segunda División B|2011–12]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|12th
+!style="background:#efefef;"|[[2011–12 Copa del Rey|Second round]]
+|-
+|style="background:#DEC5AB;"|[[2012–13 Segunda División B|2012–13]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#DEC5AB;"|[[2013–14 Segunda División B|2013–14]]
+!style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|2nd
+!style="background:#efefef;"|[[2013–14 Copa del Rey|Third round]]
+|-
+|style="background:#D3D3D3;"|[[2014–15 Segunda División|2014–15]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|10th
+!style="background:#efefef;"|[[2014–15 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[2015–16 Segunda División|2015–16]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+!style="background:#efefef;"|[[2015–16 Copa del Rey|Round of 32]]
+|-
+|style="background:#FFEA64;"|[[2016–17 La Liga|2016–17]]
+!style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|17th
+!style="background:#efefef;"|[[2016–17 Copa del Rey|Round of 32]]
+|-
+|style="background:#FFEA64;"|[[2017–18 La Liga|2017–18]]
+!style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|17th
+!style="background:#efefef;"|[[2017–18 Copa del Rey|Semi-finals]]
+|-
+|style="background:#FFEA64;"|[[2018–19 La Liga|2018–19]]
+!style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|13th
+!style="background:#efefef;"|[[2018–19 Copa del Rey|Round of 16]]
+|-
+|style="background:#FFEA64;"|[[2019–20 La Liga|2019–20]]
+!style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|18th
+!style="background:#efefef;"|[[2019–20 Copa del Rey|Round of 16]]
+|}
+|}
+{| 
+|valign="top" width=0%|
+{|  class="wikitable"
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#D3D3D3;"|[[2020–21 Segunda División|2020–21]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|3rd
+!style="background:#efefef;"|[[2020–21 Copa del Rey|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[2021–22 Segunda División|2021–22]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|12th
+!style="background:#efefef;"|[[2021–22 Copa del Rey|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[2022–23 Segunda División|2022–23]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|14th
+!style="background:#efefef;"|[[2022–23 Copa del Rey|First round]]
+|-
+|style="background:#D3D3D3;"|[[2023–24 Segunda División|2023–24]]
+!style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|1st
+!style="background:#efefef;"|[[2023–24 Copa del Rey|Second round]]
+|-
+|style="background:#FFEA64;"|[[2024–25 La Liga|2024–25]]
+!style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|
+!style="background:#efefef;"|[[2024–25 Copa del Rey| ]]
+|}
+|}
+----
+*'''5''' seasons in [[La Liga]]
+*'''17''' seasons in [[Segunda División]]
+*'''16''' seasons in [[Segunda División B]]
+*'''19''' seasons in [[Tercera División]]
+
+==Current squad==
+{{updated|2 September 2024}}.<ref>{{Cite web|url=https://www.cdleganes.com/primer-equipo/plantilla/leganes|title=Plantilla Club Deportivo Leganés|trans-title=Squad|publisher=CD Leganés|language=es|access-date=21 September 2022|archive-date=27 March 2019|archive-url=https://web.archive.org/web/20190327223014/https://www.cdleganes.com/primer-equipo/plantilla/leganes|url-status=live}}</ref>
+{{Fs start}}
+{{Fs player|no= 1|nat=ESP|pos=GK|name=[[Juan Soriano (footballer)|Juan Soriano]]}}
+{{Fs player|no= 2|nat=ESP|pos=DF|name=[[Adrià Altimira]]|other=<small>on loan from [[Villarreal CF|Villarreal]]</small>}}
+{{Fs player|no= 3|nat=ESP|pos=DF|name=[[Jorge Sáenz]]}}
+{{Fs player|no= 4|nat=ECU|pos=DF|name=[[Jackson Porozo]]|other=<small>on loan from [[ES Troyes AC|Troyes]]</small>}}
+{{Fs player|no= 5|nat=PER|pos=MF|name=[[Renato Tapia]]}}
+{{Fs player|no= 6|nat=ESP|pos=DF|name=[[Sergio González (footballer, born 1992)|Sergio González]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no= 7|nat=ESP|pos=MF|name=[[Óscar Rodríguez (footballer, born 1998)|Óscar Rodríguez]]}}
+{{Fs player|no= 8|nat=GUI|pos=MF|name=[[Seydouba Cissé]]}}
+{{Fs player|no= 9|nat=ESP|pos=FW|name=[[Miguel de la Fuente]]}}
+{{Fs player|no=10|nat=ESP|pos=FW|name=[[Dani Raba]]}}
+{{Fs player|no=11|nat=ESP|pos=MF|name=[[Juan Cruz (footballer, born 2000)|Juan Cruz]]}}
+{{Fs player|no=12|nat=FRA|pos=DF|name=[[Valentin Rosier]]}}
+{{Fs player|no=13|nat=SRB|pos=GK|name=[[Marko Dmitrović]]}}
+{{Fs mid}}
+{{Fs player|no=14|nat=SRB|pos=MF|name=[[Darko Brašanac]]}}
+{{Fs player|no=15|nat=ESP|pos=DF|name=[[Enric Franquesa]]}}
+{{Fs player|no=17|nat=CMR|pos=MF|name=[[Yvan Neyou]]}}
+{{Fs player|no=18|nat=CIV|pos=FW|name=[[Sébastien Haller]]|other=<small>on loan from [[Borussia Dortmund]]</small>}}
+{{Fs player|no=19|nat=ESP|pos=FW|name=[[Diego García (footballer, born 2000)|Diego García]]}}
+{{Fs player|no=20|nat=ESP|pos=DF|name=[[Javi Hernández (footballer, born 1998)|Javi Hernández]]}}
+{{Fs player|no=21|nat=ESP|pos=MF|name=[[Roberto López (footballer, born 2000)|Roberto López]]}}
+{{Fs player|no=22|nat=SRB|pos=DF|name=[[Matija Nastasić]]}}
+{{Fs player|no=23|nat=MAR|pos=FW|name=[[Munir El Haddadi]]}}
+{{Fs player|no=24|nat=ARG|pos=MF|name=[[Julián Chicco]]}}
+{{Fs player|no=27|nat=ESP|pos=MF|name=[[Naim García]]}}
+{{Fs player|no=36|nat=ESP|pos=GK|name=[[Álvaro Abajas Martin|Alvin Abajas]]}}
+{{Fs end}}
+
+===Reserve team===
+{{main|CD Leganés B}}
+{{Fs start}}
+{{Fs player|no=34|nat=DOM|pos=DF|name=[[Joao Urbáez]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|nat=ESP|pos=GK|name=[[Javier Garrido López|Javi Garrido]]|other=at [[Sestao River Club|Sestao River]] until 30 June 2025}}
+{{Fs player|no=|nat=UGA|pos=DF|name=[[Allan Enyou]]|other=at [[Vancouver FC]] until 31 December 2024}}
+{{Fs player|no=|nat=ESP|pos=DF|name=[[Lalo Aguilar]]|other=at [[Albacete Balompié|Albacete]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|nat=ESP|pos=MF|name=[[Carlos Guirao Mora|Carlos Guirao]]|other=at [[Betis Deportivo Balompié|Betis Deportivo]] until 30 June 2025}}
+{{Fs player|no=|nat=MLI|pos=MF|name=[[Issa Fomba]]|other=at [[FC Baník Ostrava|Baník Ostrava]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=MF|name=[[Alejandro Gil Gómez|Álex Gil]]|other=at [[CF Intercity|Intercity]] until 30 June 2025}}
+{{Fs end}}
+
+==Club officials==
+=== Current technical staff ===
+{{Fb cs header}}
+{{Fb cs staff |bg= |p=Manager |s= {{flagicon|ESP}} [[Borja Jiménez]]}}
+{{Fb cs staff |bg= |p=Assistant manager |s={{flagicon|ESP}} Álex Martínez}}
+{{Fb cs staff |bg= |p=Technical assistant |s= {{flagicon|ESP}} Jesús Rueda}}
+{{Fb cs staff |bg= |p=Fitness coach |s= {{flagicon|ESP}} Daniel de Castro}}
+{{Fb cs staff |bg= |p=Goalkeeping coach |s= {{flagicon|ESP}} [[Juanjo Valencia]]}}
+{{Fb cs staff |bg= |p=Analyst |s= {{flagicon|ESP}} Iván Ramis}}
+{{Fb cs staff |bg= |p=Delegate |s= {{flagicon|ESP}} David Monjo}}
+{{Fb cs staff |bg= |p=Equipment manager |s= {{flagicon|ESP}} Sergio Rodríguez <br/> {{flagicon|ESP}} Rubén Escaso <br/> {{flagicon|ESP}} Daniel Pozuelo}}
+{{Fb cs staff |bg= |p=Head of medical staff |s= {{flagicon|ESP}} Alberto Lam}}
+{{Fb cs staff |bg= |p=Physiotherapist  |s={{flagicon|ESP}} Álvaro Crespo <br/>{{flagicon|ESP}} Carlos Carballo <br/> {{flagicon|ESP}}  Sergio Hontoria <br/> {{flagicon|ESP}} Diego Manzano}}
+{{Fb cs staff |bg= |p=Rehab fitness coach |s={{flagicon|ESP}} Alberto Galisteo <br/> {{flagicon|ESP}} Sergio Martos}}
+{{Fb cs staff |bg= |p=Nutritionist |s={{flagicon|GUA}} Kevin Ardón}}
+{{Fb cs footer|u=17 August 2023|s=[https://www.cdleganes.com/plantilla?category=coach CD Leganés] {{in lang|es}}|date=21 September 2022}}
+
+=== Board of directors ===
+{| class="wikitable"
+|-
+!Office
+!Name
+|-
+| President
+| [[Jeff Luhnow]]
+|-
+| First vice president
+| Harry Browne
+|-
+| Second vice president
+| Joe Ortega
+|-
+| Secretary
+| Scott Graeme
+|-
+| General director
+| Martin Cooper
+|-
+| Financial director
+| Andrew Hutchinson
+|-
+| Security director
+| Stuart McLean
+|-
+| Communication, marketing and social director
+| Declan Donovan
+|-
+| Medical director
+| Edward Stevens
+|-
+| Academy director
+| Gary Barnett
+
+{{Fb cs footer|u=9 April 2019|s=[https://files.proyectoclubes.com/leganes/201807/17180931organigrama-a4-2.pdf CD Leganés]|date=April 2019}}
+
+==Honours==
+*'''[[Segunda División]]:''' [[2023–24 Segunda División|2023–24]]
+*'''[[Segunda División B]]:''' [[1992–93 Segunda División B|1992–93]]
+*'''[[Tercera División]]:''' [[1985–86 Tercera División|1985–86]]
+
+==Famous players==
+Note: this list includes players that have played at least 100 league games and have reached international status.
+{{see also|Category:CD Leganés players}}
+{|
+|- style="vertical-align: top;"
+|
+*{{flagicon|Argentina}} [[José Chamot]]
+*{{flagicon|Argentina}} [[Federico Domínguez (footballer, born 1976)|Federico Domínguez]]
+*{{flagicon|Argentina}} [[Martín Mantovani]]
+*{{flagicon|Argentina}} [[Jonathan Silva (footballer)|Jonathan Silva]]
+*{{flagicon|Cameroon}} [[Samuel Eto'o]]
+*{{flagicon|Cameroon}} [[Allan Nyom]]
+*{{flagicon|Cameroon}} [[Pierre Webó]]
+*{{flagicon|Chile}} [[Bryan Rabello]]
+*{{flagicon|Denmark}} [[Martin Braithwaite]]
+*{{flagicon|Equatorial Guinea}} [[Chupe (footballer)|Chupe]]
+*{{flagicon|Equatorial Guinea}} [[Iván Zarandona]]
+*{{flagicon|France}} [[:es:Julián Ronda|Julián Ronda]]
+||
+*{{flagicon|Greece}} [[Dimitris Siovas]]
+*{{flagicon|Morocco}} [[Nabil El Zhar]]
+*{{flagicon|Morocco}} [[Youssef En-Nesyri]]
+*{{flagicon|Morocco}} [[Nordin Amrabat]]
+*{{flagicon|Mexico}} [[Diego Antonio Reyes|Diego Reyes]]
+*{{flagicon|Nigeria}} [[Christopher Ohen]]
+*{{flagicon|Nigeria}} [[Kenneth Omeruo]]
+*{{flagicon|Portugal}} [[Ariza Makukula]]
+*{{flagicon|Portugal}} [[Paulo Torres]]
+*{{flagicon|Russia}} [[Andrei Mokh]]
+*{{flagicon|Saudi Arabia}} [[Yahya Al-Shehri]]
+*{{flagicon|Spain}} [[Alberto Martín Romo García Adámez|Alberto]]
+||
+*{{flagicon|Spain}} [[Alfredo Sánchez Benito|Alfredo]]
+*{{flagicon|Spain}} [[Raúl Arribas]]
+*{{flagicon|Spain}} [[Unai Bustinza]]
+*{{flagicon|Spain}} [[Catanha]]
+*{{flagicon|Spain}} [[Iván Cuéllar]]
+*{{flagicon|Spain}} [[Javier Eraso]]
+*{{flagicon|Spain}} [[:es:Óscar Fernández Moraleda|Óscar Fernández]]
+*{{flagicon|Spain}} [[Rubén Falcón]]
+*{{flagicon|Spain}} [[Jordi Lardín]]
+*{{flagicon|Spain}} [[Pedro Largo Carazo|Pedro Largo]]
+*{{flagicon|Spain}} [[Carlos Martínez Fernández|Carlos Martínez]]
+*{{flagicon|Spain}} [[:es:Miguel Melgar|Miguel Melgar]]
+||
+*{{flagicon|Spain}} [[:es:Miguel Ángel Muñoz Benítez|Miguel Muñoz]]
+*{{flagicon|Spain}} [[Raúl Moreno]]
+*{{flagicon|Spain}} [[Rubén Pérez]]
+*{{flagicon|Spain}} [[Jaime Ramos]]
+*{{flagicon|Spain}} [[Óscar Rodríguez Arnaiz|Óscar Rodríguez]]
+*{{flagicon|Spain}} [[Joaquín Álvarez Álvarez|Quini]]
+*{{flagicon|Uruguay}} [[Diego Rolán]]
+*{{flagicon|Uruguay}} [[Michael Santos (footballer)|Michael Santos]]
+*{{flagicon|Venezuela}} [[Darwin Machís]]
+|}
+
+==List of coaches==
+{|
+|- style="vertical-align: top;"
+|
+*{{flagicon|Spain}} [[José Iglesias Fernández|Joseíto]] (1979–80)
+*{{flagicon|Spain}} [[Luis Ángel Duque]] (1989–95)
+*{{flagicon|Spain}} [[Luis Sánchez Duque]] (1995–97)
+*{{flagicon|Spain}} [[Pedro Braojos]] (1997–98)
+*{{flagicon|Spain}} [[Luis Sánchez Duque]] (1998–99)
+*{{flagicon|Spain}} [[Enrique Martín Monreal|Enrique Martín]] (1999–01)
+*{{flagicon|Spain}} [[Ciriaco Cano]] (2001)
+*{{flagicon|Spain}} [[Carlos Sánchez Aguiar]] (2001–02)
+*{{flagicon|Spain}} [[Enrique Martín Monreal|Enrique Martín]] (2002–03)
+*{{flagicon|Argentina}} [[Carlos Aimar]] (2003–04)
+*{{flagicon|Argentina}} [[Víctor Hugo Marchesini]] (2004)
+||
+*{{flagicon|Spain}} [[Juan José Martín Delgado|Martín Delgado]] (2004)
+*{{flagicon|Spain}} [[Quique Estebaranz]] (2005)
+*{{flagicon|Spain}} [[Luis Ángel Duque]] (2005–06, 2009–10)
+*{{flagicon|Spain}} [[Santiago Martín Prado]](2006–2007)
+*{{flagicon|Spain}} [[Miguel Rivera (football manager)|Miguel Rivera]] (2010–11)
+*{{flagicon|Spain}} [[Rafael Francisco Muñoz González|Rafa Muñoz]] (2011)
+*{{flagicon|Spain}} [[Miguel Álvarez Jurado|Miguel Álvarez]] (2011)
+*{{flagicon|Spain}} [[Carlos Orúe]] (2011–12)
+*{{flagicon|Spain}} [[Víctor (footballer, born 1974)|Víctor]] (2012)
+*{{flagicon|Spain}} [[Pablo Alfaro Armengot|Pablo Alfaro]] (2012–13)
+||
+*{{flagicon|Spain}} [[Asier Garitano]] (2013–2018)
+*{{flagicon|Argentina}} [[Mauricio Pellegrino]] (2018–2019)
+*{{flagicon|Mexico}} [[Javier Aguirre]] (2019–2020)
+*{{flagicon|Spain}} [[José Luis Martí]] (2020–2021)
+*{{flagicon|Spain}} [[Asier Garitano]] (2021)
+*{{flagicon|Tunisia}} [[Mehdi Nafti]] (2021–2022)
+*{{flagicon|Spain}} [[Imanol Idiakez]] (2022-2023)
+*{{flagicon|Spain}} [[Borja Jiménez]] (2023-present)
+|}
+
+==Reserve team==
+{{main|CD Leganés B}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{official website|http://www.deportivoleganes.com/}}. {{Webarchive|url=https://web.archive.org/web/20180505155406/http://www.deportivoleganes.com/ |date=5 May 2018 }} {{in lang|es}}.
+*[http://www.futbolme.com/coj/index_equipo.asp?modo_e=2&id_equipo=403 Futbolme team profile] {{in lang|es}}
+*[https://bettingfellow.com/football/spain-la-liga#Legan%C3%A9s Leganes Betting profile] {{in lang|en}}
+
+{{CD Leganés}}
+{{Spanish football club template|Leganés}}
+{{Community of Madrid Sports}}
+
+{{DEFAULTSORT:Leganes}}
+[[Category:CD Leganés| ]]
+[[Category:Football clubs in the Community of Madrid]]
+[[Category:Association football clubs established in 1928]]
+[[Category:1928 establishments in Spain]]
+[[Category:Segunda División clubs]]
+[[Category:La Liga clubs]]

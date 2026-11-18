@@ -1,0 +1,1269 @@
+{{Infobox football club season
+|club               = CD Leganés
+|season             = 2024–25
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Jeff Luhnow]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Borja Jiménez]]
+|stdtitle           = 
+|stadium            = [[Estadio Municipal de Butarque]]
+|league             = [[2024–25 La Liga|La Liga]]
+|league result      = 18th (relegated)
+|cup1               = [[2024–25 Copa del Rey|Copa del Rey]]
+|cup1 result        = Quarter-finals
+|league topscorer   = <br>[[Dani Raba]] (8)
+|season topscorer   = <br>[[Juan Cruz (footballer, born 2000)|Juan Cruz]]<br>Dani Raba<br>(8 each)
+|highest attendance = 12,530
+|lowest attendance  = 
+|average attendance = 11,135<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = 
+|largest loss       = 
+| pattern_la1 = _leganes2425h
+| pattern_b1 = _leganes2425h
+| pattern_ra1 = _leganes2425h
+| pattern_sh1 = _leganes2425h
+| pattern_so1 = _leganes2425hl
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _leganes2425a
+| pattern_b2 = _leganes2425a
+| pattern_ra2 = _leganes2425a
+| pattern_sh2 = _leganes2425a
+| pattern_so2 = _leganes2425al
+| leftarm2 = 00811c
+| body2 = 00811c
+| rightarm2 = 00811c
+| shorts2 = 00811c
+| socks2 = 00811c
+| pattern_la3 = _leganes2425t
+| pattern_b3 = _leganes2425t
+| pattern_ra3 = _leganes2425t
+| pattern_sh3 = _leganes2425t
+| pattern_so3 = _leganes2425tl
+| leftarm3 = 141414
+| body3 = 141414
+| rightarm3 = 141414
+| shorts3 = 141414
+| socks3 = 141414
+|prevseason         = [[2023–24 CD Leganés season|2023–24]]
+|nextseason         = 2025–26
+}}
+The 2024–25 season was the 97th season in the history of CD Leganés and the first in the top flight since 2020.<ref>{{Cite web|url=https://www.flashscore.com/news/soccer-laliga2-leganes-win-spanish-second-division-to-return-to-laliga-after-four-years/YJlJwoi2/|title=Leganes win Spanish second division to return to LaLiga after four years &#124; Flashscore.com|website=www.flashscore.com}}</ref> In addition to the domestic league, the team participated in the [[Copa del Rey]].
+
+== Summary ==
+On 14 June, as a result of gaining promotion, the purchase clause was activated for midfielder [[Darko Brašanac]], who was loaned from Osasuna to continue for one year with the Madrid region club.<ref>{{Cite web|url=https://as.com/futbol/segunda/oficial-el-leganes-compra-a-brasanac-por-solo-una-temporada-n/|title=Oficial: El Leganés compra a Brasanac por sólo una temporada|first=Kiko|last=Martín|date=June 14, 2024|website=Diario AS}}</ref>
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|De la Fuente, Miguel|{{flagicon|ESP}} [[Miguel de la Fuente]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|€2,000,000{{Cref2|†|group=TR}}<ref>{{Cite web|url=https://as.com/futbol/el-alaves-se-despide-de-miguel-de-la-fuente-para-la-proxima-temporada-n/|title=El Alavés se despide de Miguel De la Fuente para la próxima temporada|first=Javier|last=Lekuona|date=June 3, 2024|website=Diario AS|access-date=June 14, 2024|archive-url=https://web.archive.org/web/20240614133101/https://as.com/futbol/el-alaves-se-despide-de-miguel-de-la-fuente-para-la-proxima-temporada-n/|archive-date=June 14, 2024|url-status=dead}}</ref> 
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.cdleganes.com/en/news/cd-leganes-signs-juan-cruz-for-the-next-four-seasons|title=C.D. Leganes signs Juan Cruz for the next four seasons|website=www.cdleganes.com}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort| |{{flagicon|ESP}} [[Juan Cruz (footballer, born 2000)|Juan Cruz]]}}
+|{{fbaicon|ESP}} [[Real Betis]]
+|€1,000,000<ref>{{Cite web|url=https://www.sport.es/es/noticias/segunda-division/leganes-lograr-ascenso-efectiva-compra-103276581|title=Juan Cruz, el primer 'fichaje' del Leganés de Primera|date=June 3, 2024|website=Diario Sport}}</ref>{{Cref2|†|group=TR}}
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.marca.com/futbol/betis/2024/06/02/665ccf27268e3e06198b4573.html|title=El Betis ingresará un millón de euros por Juan Cruz tras el ascenso del Leganés|date=June 2, 2024|website=MARCA}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Franquesa, Enric|{{flagicon|ESP}} [[Enric Franquesa]]}}
+|{{fbaicon|ESP}} [[Levante UD|Levante]]
+|€90,000
+|<ref>{{cite web|url=https://www.cdleganes.com/en/news/cd-leganes-signs-enric-franquesa-for-the-next-two-seasons|title=C.D. Leganés signs Enric Franquesa for the next two seasons|publisher=CD Leganés|date=13 June 2024|accessdate=8 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Rosier, Valentin|{{flagicon|FRA}} [[Valentin Rosier]]}}
+|{{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|Free
+|{{dts|5 July 2024}}
+|<ref>{{Cite web|url=https://www.cdleganes.com/en/news/cd-leganes-signs-right-back-valentin-rosier|title=C.D. Leganés signs right back Valentin Rosier|website=www.cdleganes.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|López, Roberto|{{flagicon|ESP}} [[Roberto López (footballer, born 2000)|Roberto López]]}}
+|{{fbaicon|ESP}} [[Real Sociedad]]
+|Undisclosed
+|{{dts|10 July 2024}}
+|<ref>{{Cite web|url=https://www.marca.com/futbol/leganes/2024/07/10/668ec7f1e2704e88a28b458b.html|title=El Lega hace oficial su tercer fichaje: Roberto López|date=July 10, 2024|website=MARCA}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Porozo, Jackson|{{flagicon|ECU}} [[Jackson Porozo]]}}
+|{{fbaicon|FRA}} [[ES Troyes AC|Troyes]]
+|Loan
+|{{dts|23 August 2024}}
+|<ref>{{Cite web|url=https://www.cdleganes.com/en/news/el-cd-leganes-refuerza-el-centro-de-su-defensa-con-jackson-porozo|title=C.D. Leganés reinforces the centre of defence with Jackson Porozo|website=www.cdleganes.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Nastasić, Matija|{{flagicon|SRB}} [[Matija Nastasić]]}}
+|{{fbaicon|ESP}} [[RCD Mallorca|Mallorca]]
+|Undisclosed
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://www.cdleganes.com/en/news/el-cd-leganes-suma-la-experiencia-de-nastasic-para-el-centro-de-su-defensa|title=C.D. Leganés adds Nastasic's experience to the centre of the defence|website=www.cdleganes.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Haller, Sébastien|{{flagicon|CIV}} [[Sébastien Haller]]}}
+|{{fbaicon|GER}} [[Borussia Dortmund]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://www.cdleganes.com/en/news/el-cd-leganes-completa-su-delantera-con-la-llegada-de-sebastien-haller|title=C.D. Leganés completes its forward line with the arrival of Sébastien Haller|website=www.cdleganes.com}}</ref>
+|-
+| align="center" |{{sort|18|FW}}
+|{{sort|Lopes, Luís|{{flagicon|CPV}} [[Luís Henriques de Barros Lopes]]}}
+|{{fbaicon|SCO}} [[Aberdeen FC]]
+|Transfer
+|{{dts|3 February 2025}}
+|<ref>{{Cite web|url=https://www.cdleganes.com/noticias/el-cd-leganes-refuerza-su-extremo-izquierdo-con-la-llegada-de-duk|title=C.D. Leganés completes its forward line with the arrival of Duk|website=www.cdleganes.com}}</ref>
+|-
+| align="center" |{{sort|4|LB}}
+|{{sort|Barišić, Borna|{{flagicon|CRO}} [[Borna Barišić]]}}
+|{{fbaicon|TUR}} [[Trabzonspor]]
+|Loan
+|{{dts|3 February 2025}}
+|<ref>{{Cite web|url=https://www.cdleganes.com/en/news/el-cd-leganes-refuerza-su-lateral-izquierdo-con-el-croata-borna-barisic|title=C.D. Leganes reinforces its left back with Croatian Borna Barisic|website=www.cdleganes.com}}</ref>
+|}
+;Notes
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|†|n=0|group=TR|<sup>†</sup> Loan transfer made permanent}}
+{{Cnote2 End}}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Haller, Sébastien|{{flagicon|CIV}} [[Sébastien Haller]]}}
+|{{fbaicon|GER}} [[Borussia Dortmund]]
+|Loan return
+|{{dts|8 January 2025}}
+|
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = Friendly
+|date = 19 July 2024
+|time = 10:30
+|team1 = [[OGC Nice|Nice]]
+|score = 2–2
+|report = 
+|team2 = Leganés
+|goals1 =
+*[[Jeremie Boga|Boga]] {{goal|18}}
+*[[Billal Brahimi|Brahimi]] {{goal|83}}
+|goals2 =
+*[[Diego García (footballer, born 2000)|García]] {{goal|38|pen.}}
+*[[Roberto López (footballer, born 2000)|López]] {{goal|54}}
+|stadium = Stade de la Plaine du Var
+|location = [[Nice]], France
+|attendance = 
+|referee = Benoît Millot ([[French Football Federation|France]])
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 24 July 2024
+|time = 09:30
+|team1 = Leganés
+|score = 1–2
+|report = 
+|team2 = [[AD Alcorcón|Alcorcón]]
+|goals1 =
+*[[Seydouba Cissé|Cissé]] {{goal|81|pen.}}
+|goals2 =
+*[[Rafa Llorente|Llorente]] {{goal|67}}
+*[[Mario Da Costa|da Costa]] {{goal|69}}
+|stadium = Instalación Deportiva Butarque
+|location = [[Leganés]]
+|attendance = 1,200
+|referee = Luis Enrique Morona del Campo
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 3 August 2024
+|time = {{UTZ|13:00|1}}
+|team1 = [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|score = 0–0
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = England
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 9 August 2024
+|time = {{UTZ|18:30|2}}
+|team1 = [[Real Oviedo|Oviedo]]
+|score = 1–2
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 10 August 2024
+|time = {{UTZ|21:00|2}}
+|team1 = [[Deportivo de La Coruña|Deportivo La Coruña]]
+|score = 1–3
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+
+==== Mid-season ====
+{{Football box collapsible
+|round = Friendly
+|date = 4 September 2024
+|time = {{UTZ|19:00|2}}
+|team1 = [[CF Fuenlabrada|Fuenlabrada]]
+|score = 0–3
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=17 August 2024 |lm1=24 May 2025 |sr1=Matchday 1 |fp1=18th |w1=9 |d1=13 |l1=16 |f1=39 |a1=56
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=30 October 2024 |lm2=5 February 2025 |sr2=First round |fp2=Quarter-finals |w2=3 |d2=1 |l2=1 |f2=11 |a2=9
+|s=[https://int.soccerway.com/teams/spain/club-deportivo-leganes-sad/2053/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=LEG}}
+
+==== Results summary ====
+{{Fb rs |hw=7 |hd=4 |hl=8 |hgf=23 |hga=27 |aw=2 |ad=9 |al=8 |agf=16 |aga=29 }}
+{{Fb rs footer |s= [https://int.soccerway.com/teams/spain/club-deportivo-leganes-sad/2053/ Soccerway]|date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=25 April 2025
+| label1=Ground
+| res1=A/H/A/H/A/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/
+| label2=Result
+| res2=D/W/D/L/L/D/L/D/D/L/W/L/W/L/D/L/W/L/D/W/D/L/L/D/L/W/L/L/L/D/L/D/D/
+| label3=Position
+| pos3=11/6/7/9/15/14/15/16/17/17/14/15/14/14/15/17/15/15/16/15/16/16/17/16/16/16/17/18/18/18/19/19/19/
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source= [https://int.soccerway.com/teams/spain/club-deportivo-leganes-sad/2053/ Soccerway]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{Cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=June 14, 2024|language=es|website=MARCA}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 17 August 2024
+|time = 19:00
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-cd-leganes-1
+|team2 = Leganés
+|goals1 =
+*[[Juan Cruz (footballer, born 2000)|Juan Cruz]] {{yel|74}}
+*[[Juan Soriano (footballer)|Soriano]] {{goal|79|o.g.}}
+*[[Jorge Herrando|Herrando]] {{yel|82}}
+*[[Jon Moncayola|Moncayola]] {{yel|89}}
+|goals2 =
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|22}}
+*[[Valentin Rosier|V.Rosier]] {{yel|31}}
+*[[Juan Soriano (footballer)|Soriano]] {{yel|61}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,561
+|referee = Juan Luis Pulido Santana
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 25 August 2024
+|time = 19:00
+|team1 = Leganés
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-ud-las-palmas-2
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Miguel de la Fuente|Miguel]] {{yel|39}}
+*[[Juan Cruz (footballer, born 2000)|Juan Cruz]] {{goal|71}}
+*[[Enric Franquesa|Franquesa]] {{goal|85}}
+|goals2 =
+*[[Kirian Rodríguez|Kirian]] {{yel|45+2}}
+*[[Sandro Ramírez|Sandro]] {{goal|90+3}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10.052
+|referee = Ricardo De Burgos Bengoetxea
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 19:00
+|team1 = [[Real Valladolid CF|Valladolid]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-cd-leganes-3
+|team2 = Leganés
+|goals1 = 
+*[[Stanko Juric|S.Juric]] {{yel|90+4}}
+|goals2 = 
+*[[Enric Franquesa|Franquesa]] {{yel|17}}
+*[[Yvan Neyou|Neyou]] {{yel|46}}
+*[[Sergio González (footballer, born 1992)|Sergio]] {{yel|69}}
+*[[Jorge Sáenz|Sáenz]] {{yel|82}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|83}}
+|stadium = [[Estadio Municipal José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21.764
+|referee = Alejandro Quintero González
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 31 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Leganés
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-rcd-mallorca-4
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Yvan Neyou|Neyou]] {{yel|89}}
+|goals2 =
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{goal|43}}
+*[[Manu Morlanes|Morlanes]] {{yel|77}}
+*[[Omar Mascarell|Mascarell]] {{yel|85}}
+*[[Robert Navarro (footballer)|Navarro]] {{yel|90+2}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10,482
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 13 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Betis]]
+|score = 2–0
+|report = 
+|team2 = Leganés
+|goals1 =
+*[[Adrián]] {{yel|41}}
+*[[Abde Ezzalzouli|Ezzalzouli]] {{goal|74}}
+*[[Vitor Roque]] {{goal|86}}
+|goals2 =
+*[[Juan Cruz (footballer, born 2000)|Juan Cruz]] {{yel|11}}
+*[[Valentin Rosier|Rosier]] {{yel|37}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 48,089
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 19 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Leganés
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-athletic-club-7
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Miguel de la Fuente|Miguel]] {{yel|41}}
+*[[Valentin Rosier|Rosier]] {{yel|65}}
+*[[Renato Tapia|Tapia]] {{yel|90}}
+|goals2 =
+*[[Dani Vivian|Vivian]] {{goal|63}}
+*[[Iñaki Williams Arthuer|I.Williams]] {{goal|76}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 8,304
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = [[South Madrid derby|6]]
+|date = 22 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-cd-leganes-6
+|team2 = Leganés
+|goals1 =
+*[[Mauro Arambarri|Arambarri]] {{yel|53}}
+*[[Djené Dakonam|Djené]] {{yel|56}}
+*[[Diego Rico|Rico]] {{yel|63}}
+*[[Borja Mayoral]] {{goal|83|pen.}}
+|goals2 =
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|20}}
+*[[Jorge Sáenz]] {{goal|74}}
+*[[Matija Nastasic|Nastasic]] {{yel|80}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 13.060
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 28 September 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Rayo Vallecano]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-cd-leganes-8
+|team2 = Leganés
+|goals1 =
+*[[Sergio Camello|Camello]] {{goal|8}}
+*[[James Rodríguez|Rodríguez]] {{yel|57}}
+*[[Adrián Embarba|Embarba]] {{yel|90+4}}
+|goals2 =
+*[[Renato Tapia|Tapia]] {{yel|27}}
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|55}}
+|stadium = [[Vallecas Stadium]]
+|location = [[Madrid]]
+|attendance = 13,186
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 9
+|date = 4 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Leganés
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-valencia-cf-9
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Valentin Rosier|Rosier]] {{yel|30}}
+*[[Yvan Neyou|Neyou]] {{yel|49}}
+|goals2 =
+*[[César Tárrega|Tárrega]] {{yel|32}}
+*[[Pepelu]] {{yel|67}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 
+|referee = Alejandro Quintero González
+|result = D
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-cd-leganes-10
+|team2 = Leganés
+|goals1 =
+*[[Clément Lenglet|Lenglet]] {{yel|30}}
+*[[Alexander Sørloth|Sørloth]] {{goal|69||90+9}}
+*[[Javi Galán|Galán]] {{yel|73}}
+*[[Antoine Griezmann|Griezmann]] {{goal|81}}, {{yel|89}}
+*[[Giuliano Simeone|Simeone]] {{yel|90+2}}
+*[[Rodrigo De Paul|De Paul]] {{yel|90+8}}
+|goals2 =
+*[[Yvan Neyou|Neyou]] {{goal|34}}
+*[[Seydouba Cissé|Cissé]] {{yel|80}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,122
+|referee = [[José Luis Munuera Montero]]
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 October 2024
+|time = 20:00
+|team1 = Leganés
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-rc-celta-11
+|team2 = [[Celta Vigo]]
+|goals1 =
+*[[Diego García (footballer, born 2000)|Diego]] {{goal|59}}
+*[[Renato Tapia|Tapia]] {{yel|71}}
+*[[Yvan Neyou|Neyou]] {{yel|75}}
+*[[Darko Brasanac|Darko]] {{goal|78}}
+*[[Sergio González (footballer, born 1992)|Sergio]] {{goal|82}}
+|goals2 =
+*[[Carl Starfelt|Starfelt]] {{yel|62}}
+*[[Óscar Mingueza|Mingueza]] {{yel|84}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,358
+|referee = [[Mario Melero López]]
+|result = W
+}}
+{{Football box collapsible
+|round = 12
+|date = 2 November 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Girona FC|Girona]]
+|score = 4–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-cd-leganes-12
+|team2 = Leganés
+|goals1 =
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{goal|21}}
+*[[Arnau Martínez|Martínez]] {{goal|31}}
+*[[Cristhian Stuani|Stuani]] {{goal|62|pen.}}
+*[[Sergio González (footballer, born 1992)|González]] {{goal|73|o.g.}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|88}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|89}}
+*[[Oriol Romeu|Romeu]] {{yel|90+2}}
+|goals2 =
+*[[Renato Tapia|Tapia]] {{goal|25}}
+*[[Yvan Neyou|Neyou]] {{yel|33}}
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|41}}
+*[[Munir El Haddadi|Munir]] {{goal|77}}, {{yel|87}}
+*[[Matija Nastasić|Nastasić]] {{yel|81}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|90+8}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 10,839
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Leganés
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-sevilla-fc-13
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Sergio González (footballer, born 1992)|Sergio]] {{yel|41}}
+*[[Seydouba Cissé|Cissé]] {{yel|69}}
+*[[Miguel de la Fuente|Miguel]] {{gol|82|pen.}}
+|goals2 =
+*[[Lucien Agoumé|Agoumé]] {{sent off|0|80}}
+*[[Nemanja Gudelj|Gudelj]] {{yel|87}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 11.167
+|referee = [[Juan Luis Pulido Santana]]
+|result = W
+}}
+{{footballbox collapsible
+|round      = 14
+|date       = 24 November 2024
+|time       = {{UTZ|18:30|1}}
+|team1      = Leganés
+|score      = 0–3
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-real-madrid-14
+|team2      = [[Real Madrid]]
+|goals1     = 
+|goals2     =
+*[[Kylian Mbappé|Mbappé]] {{goal|43}}
+*[[Federico Valverde|Valverde]] {{goal|66}}
+*[[Jude Bellingham|Bellingham]] {{goal|85}}
+|stadium    = [[Estadio Municipal de Butarque|Butarque]]
+|location   = [[Leganés]]
+|attendance = 12,338
+|referee    = Javier Alberola Rojas
+|result     = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 22:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Alavés]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-cd-leganes-15
+|team2 = Leganés
+|goals1 =
+*[[Abdel Abqar|Abqar]] {{yel|80}}
+*[[Carlos Vicente (footballer)|Carlos]] {{goal|87}}
+|goals2 =
+*[[Javi Hernández (footballer, born 1998)|Javi]] {{yel|27}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{goal|67}}
+*[[Borja Jimenez|Borja]] {{yel|76}}
+*[[Yvan Neyou|Neyou]] {{yel|90+3}}
+*[[Jorge Sáenz]] {{yel|90+4}}
+*[[Renato Tapia|Tapia]] {{yel|90+6}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,881
+|referee = [[Isidro Díaz de Mera Escuderos]]
+|result = D
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Leganés
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-real-sociedad-16
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Valentin Rosier|Rosier]] {{yel|70}}
+*[[Yvan Neyou|Neyou]] {{yel|75}}
+|goals2 =
+*[[Brais Méndez|Méndez]] {{goal|14}}, {{yel|70}}
+*[[Aihen Muñoz|Muñoz]] {{yel|27}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|78}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|90+2}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,312
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-cd-leganes-17
+|team2 = Leganés
+|goals1 =
+|goals2 =
+*[[Sergio González (footballer, born 1992)|González]] {{goal|4}}
+*[[Seydouba Cissé|Cissé]] {{yel|74}}
+*[[Javi Hernández (footballer, born 1998)|Hernández]] {{yel|90+5}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 39,523
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Leganés
+|score = 2–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-villarreal-cf-18
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Seydouba Cissé|Cissé]] {{goal|6}}
+*[[Dani Raba|Raba]] {{goal|33}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{sentoff|0|58}}
+*[[Jorge Sáenz|Sáenz]] {{sentoff|0|77}}
+*[[Adrià Altimira|Altimira]] {{yel|90+1}}
+|goals2 =
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|16||45+2|pen.|65}}, {{yel|79}}
+*[[Yeremy Pino|Pino]] {{yel|58}}
+*[[Gerard Moreno|Gerard]] {{goal|90+2|pen.}}
+*[[Pau Cabanes|Cabanes]] {{goal|90+8}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,034
+|referee = Alejandro Muñiz Ruiz 
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 11 January 2025
+|time = 17:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Espanyol de Barcelona|Espanyol]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-cd-leganes-19
+|team2 = Leganés
+|goals1 =
+*[[Leandro Cabrera|Cabrera]] {{goal|2}}
+*[[Omar El Hilali|El Hilali]] {{yel|15}}
+*[[Alex Král]] {{yel|15}}
+|goals2 =
+*[[Seydouba Cissé|Cissé]] {{goal|14}}
+*[[Daniel Rabaseda|Raba]] {{yel|45+1}}
+*[[Darko Brašanac|Brašanac]] {{yel|71}}
+*[[Juan Soriano (footballer)|Soriano]] {{sentoff|0|90+1}}
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 26.606
+|referee = Juan Martínez Munuera
+|result = D
+}}
+{{Football box collapsible
+|round = 20
+|date = 18 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Leganés
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-atletico-de-madrid-20
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Matija Nastasić|Nastasić]] {{goal|49}}
+*[[Yvan Neyou|Neyou]] {{yel|90}}
+|goals2 =
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|43}}
+*[[Javi Galán|Galán]] {{yel|57}}
+*[[Clément Lenglet|Lenglet]] {{yel|70}}
+*[[Antoine Griezmann|Griezmann]] {{penmiss}} 90'
+|stadium = [[Estadio Municipal Butarque]]
+|location = [[Leganés]]
+|attendance = 12,371
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Athletic Bilbao]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-cd-leganes-21
+|team2 = Leganés
+|goals1 =
+*[[Mikel Jauregizar|Jauregizar]] {{yel|22}}
+|goals2 =
+*[[Adrià Altimira|Altimira]] {{yel|28}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47,612
+|referee = [[Alejandro Hernández Hernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 31 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Leganés
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-rayo-vallecano-22
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Dani Raba|Raba]] {{yel|34}}
+*[[Sergio Gónzalez|Gónzalez]] {{sentoff|0|45+2}}
+*[[Yvan Neyou|Neyou]] {{yel|63}}
+*[[Borja Jiménez]] {{yel|90}}
+|goals2 =
+*[[Randy Nteka|Nteka]] {{yel|54}}
+*[[Andrei Ratiu|Ratiu]] {{yel|55}}
+*[[Unai López|López]] {{yel|75}}
+*[[Pathé Ismaël Ciss|Pathé I. Ciss]] {{goal|78}}
+*[[Adrián Embarba|Embarba]] {{yel|89}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 11.432
+|referee = Alejandro Quintero González (
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-cd-leganes-23
+|team2 = Leganés
+|goals1 =
+*[[Enzo Barrenechea|Barrenechea]] {{yel|25}}
+*[[Cristhian Mosquera|Mosquera]] {{goal|30}}
+*[[Mouctar Diakhaby|Diakhaby]] {{goal|41}}
+|goals2 =
+*[[Yvan Neyou|Neyou]] {{yel|23}}
+*[[Borja Jiménez Sáez|Borja Jiménez]] {{yel|59}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 42.314
+|referee = Guillermo Cuadra Fernández
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 15 February 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Leganés
+|score = 3–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-deportivo-alaves-24
+|team2 = [[CD Alavés|Alavés]]
+|goals1 =
+*[[Dani Raba|Raba]] {{goal|10|pen.|37|pen.}}, {{yel|65}}
+*[[Darko Brašanac|Brašanac]] {{yel|57}}
+*[[Juan Cruz Díaz Espósito|Juan Cruz]] {{yel|67}}
+*[[Luis Henrique Barros Lopes|Duk]] {{yel|83}}
+*[[Munir El Haddadi|Munir]] {{goal|88}}, {{sentoff|0|90+6}}
+|goals2 =
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|9}}
+*[[Manuel Sánchez de la Peña|Manu Sánchez]] {{yel|18}}
+*[[Kike García (Spanish footballer)|García]] {{goal|25}}
+*[[Antonio Sivera Salvá|Sivera]] {{yel|36}}
+*[[Joan Jordán|Jordán]] {{goal|50|pen.|68}}
+*[[Santiago Mouriño|Mouriño]] {{yel|59}}
+*[[Abdelkabir Abqar|Abqar]] {{yel|90+10}}
+|stadium = [[Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10.681
+|referee = Pablo González Fuertes
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-cd-leganes-25
+|team2 = Leganés
+|goals1 =
+*[[Arsen Zakharyan|Zakharyan]] {{goal|12}}
+*[[Takefusa Kubo|Kubo]] {{goal|48}}, {{yel|61}}
+*[[Nayef Aguerd|Aguerd]] {{yel|58}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|74}}, {{goal|80}}
+|goals2 =
+*[[Valentin Rosier|Rosier]] {{yel|41}}
+*[[Renato Tapia|Tapia]] {{yel|61}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|63}} 
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 22,533
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 2 March 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Leganés
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-getafe-cf-26
+|team2 = [[Getafe CF|Getafe]]
+|goals1 = 
+*[[Javi Hernández (footballer, born 1998)|Javi]] {{yel|71}}
+*[[Diego García (footballer, born 2000)|García]] {{goal|90+2}}
+|goals2 = 
+*[[Mauro Arambarri|Arambarri]] {{yel|86}}
+|stadium = [[Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10.311
+|referee = Juan Martínez Munuera
+|result = W
+}}
+{{Football box collapsible
+|round = 27
+|date = 8 March 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-cd-leganes-27
+|team2 = Leganés
+|goals1 = 
+*[[Óscar Mingueza|Mingueza]] {{goal|26}}, {{yel|90+3}}
+*[[Alfon González|Alfon]] {{goal|45+1}}
+*[[Damián Rodríguez (footballer, born 2003)|Damián]] {{yel|56}}
+*[[Jailson]] {{yel|70}}
+|goals2 = 
+*[[Matija Nastasić|Nastasić]] {{yel|9}}
+*[[Valentin Rosier|Valentin]] {{goal|19}}
+*[[Jorge Sáenz|Sáenz]] {{yel|76}}
+|stadium = [[Estadio ABANCA Balaídos]]
+|location = [[Vigo]]
+|attendance = 17.326
+|referee = Isidro Díaz de Mera
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Leganés
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-real-betis-28
+|team2 = [[Real Betis]]
+|goals1 = 
+*[[Yvan Neyou|Neyou]] {{yel|26}}
+*[[Dani Raba|Raba]] {{goal|29||44}}
+*[[Valentin Rosier|Rosier]] {{yel|65}}
+|goals2 =
+*[[Romain Perraud|Perraud]] {{yel|38}}
+*[[Isco]] {{goal|64|pen.}}
+*[[Cedric Bakambu|Bakambu]] {{goal|78}}
+*[[Cucho Hernández|Hernández]] {{goal|82}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 11,691
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2025
+|time = {{UTZ|21:00|1}}
+|team1 = [[Real Madrid]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-cd-leganes-29
+|team2 = Leganés
+|goals1     =
+*[[Kylian Mbappé|Mbappé]] {{goal|32|pen.|76}}
+*[[Jude Bellingham|Bellingham]] {{goal|47}}
+|goals2     =
+*[[Diego García (footballer, born 2000)|García]] {{goal|33}}
+*[[Dani Raba|Raba]] {{goal|41}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = Madrid
+|attendance = 73,641
+|referee    = Pablo González Fuertes
+|result     = L
+}}
+{{Football box collapsible
+|round = 30
+|date = 7 April 2025
+|time = {{UTZ|21:00|1}}
+|team1 = Leganés
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-ca-osasuna-30
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1     =
+*[[Yvan Neyou|Neyou]] {{yel|55}}
+*[[Valentin Rosier|Rosier]] {{yel|61}}
+*[[Dani Raba|Raba]] {{yel|62}}, {{goal|87|pen.}}
+|goals2     =
+*[[Aimar Oroz|Oroz]] {{yel|45+1}}
+*[[Herrando]] {{goal|49}}
+*[[Moncayola]] {{yel|72}}
+*[[Abel Bretones|Bretones]] {{yel|86}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10.755
+|referee    = Víctor García Verdura
+|result     = D
+}}
+{{Football box collapsible
+|round      = 31
+|date       = 12 April 2025
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Leganés
+|score      = 0–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-fc-barcelona-31
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Adrià Altimira|Altimira]] {{yel|7}}
+*[[Dani Raba|Raba]] {{yel|87}}
+|goals2     =
+*[[Jorge Sáenz|Sáenz]] {{goal|48|o.g.}}
+*[[Frenkie de Jong|De Jong]] {{yel|87}}
+|stadium    = [[Estadio Municipal de Butarque|Municipal de Butarque]]
+|location   = [[Leganés]]
+|attendance = 12,530
+|referee    = Francisco José Hernández Maeso
+|result     = L
+}}
+{{Football box collapsible
+|round      = 32
+|date       = 19 April 2025
+|time       = 18:30 
+|team1      = [[RCD Mallorca|Mallorca]]
+|score      = 0–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-cd-leganes-32
+|team2      = Leganés
+|goals1     = 
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|44}}
+*[[Pablo Maffeo|Maffeo]] {{yel|59}}
+|goals2     = 
+*[[Yvan Neyou|Neyou]] {{yel|76}}
+|stadium    = [[Estadi Mallorca Son Moix|Son Moix]]
+|location   = [[Palma de Mallorca]]
+|attendance = 17.404
+|referee    = Alejandro Muñiz Ruiz
+|result     = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 24 April 2025
+|time = 19:00
+|team1 = Leganés
+|score = 1-1
+|report= 
+|team2 = [[Girona FC|Girona]]
+|goals1 = 
+*[[Adrià Altimira|Altimira]] {{yel|14}}
+*[[Seydouba Cissé|Cissé]] {{sentoff|0|19}}
+*[[Darko Brašanac|Brašanac]] {{yel|51}}
+*[[Óscar]] {{yel|74}}
+*[[Diego García (footballer, born 2000)|García]] {{yel|87}}
+*[[Munir]] {{goal|90+2}}
+|goals2 = 
+*[[Cristhian Stuani|Stuani]] {{goal|54}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|66}}
+*[[Arthur Melo|Melo]] {{yel|75}}
+|stadium    = [[Estadio Municipal de Butarque|Municipal de Butarque]]
+|location   = [[Leganés]]
+|attendance = 
+|referee = José Munuera Montero
+|result = D
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = 
+|team1 = Sevilla
+|score = 2–2
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Seville]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = 35
+|date = 11 May 2025
+|time = 
+|team1 = Leganés
+|score = 3–2
+|report = 
+|team2 = Espanyol
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Leganés]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 36
+|date = 14 May 2025
+|time = 
+|team1 = Villarreal
+|score = 3–0
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Villarreal]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = Las Palmas
+|score = 0–1
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Las Palmas]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Leganés
+|score = 3–0
+|report = 
+|team2 = Valladolid
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Leganés]]
+|attendance = 
+|referee = 
+|result = W
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 30 October 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[CD Ciudad de Lucena|Ciudad de Lucena]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-lucena-cd-leganes-2
+|team2 = Leganés
+|goals1 =
+*[[Iván Vela Resina (footballer, born 2002)|Iván Vela]] {{yel|41}}
+*[[David Agudo|Agudo]] {{goal|45+1}}
+*[[Pedro Juan Morillo|Morillo]] {{yel|71}}
+*[[Javier Hervás Salmoral|Javier Hervás]] {{yel|90+3}}
+|goals2 =
+*[[Jackson Porozo|Porozo]] {{yel|27}}
+*[[Munir El Haddadi|El Haddadi]] {{goal|42}}
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|52}}
+|stadium = Estadio Ciudad de Lucena
+|location = [[Lucena]]
+|attendance = 2.600
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date= 4 December 2024
+|time= 21:00
+|team1= [[CD Estepona FS|Estepona]]
+|score= 2–2
+|aet=yes
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-estepona-cd-leganes-3
+|team2= Leganés
+|goals1=
+*[[Rubén Mesa|Mesa]] {{goal|25}}
+*[[Oriol Riera|Riera]] {{yel|40}}
+*[[Álex Carrasco|Carrasco]] {{yel|42}}
+*[[Ekhiotz Orobio|Orobio]] {{goal|60}}
+*[[Alfonso Liceras|Liceras]] {{yel|80}}
+|goals2=
+*[[Munir El Haddadi|Munir]] {{goal|47}}
+*[[Javi Hernández (footballer, born 1998)|Hernández]] {{yel|83}}, {{goal|87}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|104}}
+|penaltyscore=4–5
+|penalties1=
+*[[Hugo Rodríguez (footballer, born 1989)|H. Rodríguez]] {{pengoal}}
+*[[Jacques Dago|Dago]] {{penmiss}}
+*[[Jorge Luis García Salmón|García]] {{pengoal}}
+*[[José Ignacio Goma Jiménez|Goma]] {{pengoal}}
+*[[José Antonio Caro (footballer, born 1993)|Caro]] {{pengoal}}
+|penalties2=
+*{{pengoal}} [[Óscar Rodríguez (footballer, born 1998)|Óscar]] 
+*{{pengoal}} [[Renato Tapia|Tapia]]
+*{{pengoal}} [[Diego García (footballer, born 2000)|García]]
+*{{pengoal}} [[Munir El Haddadi|Munir]] 
+*{{pengoal}} [[Juan Cruz (footballer, born 2000)|Cruz]]
+|stadium= [[Estadio Municipal Francisco Muñoz Pérez|Francisco Muñoz Pérez]]
+|location= [[Estepona]]
+|attendance= 4.000
+|referee= Francisco Hernández Maeso
+|result = D
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date= 5 January 2025
+|time= 15:30
+|team1= [[FC Cartagena|Cartagena]]
+|score= 1–2
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-fc-cartagena-cd-leganes-4
+|team2= Leganés
+|goals1=
+*[[Luis Muñoz (footballer, born 1997)|Luis Muñoz]] {{goal|17}}
+|goals2=
+*[[Suleiman El Haddadi|El Haddadi]] {{goal|28}}
+*[[Valentin Rosier|Rosier]] {{yel|42}}
+*[[Dani Raba|Raba]] {{goal|51}}
+|stadium= [[Estadio Cartagonova|Cartagonova]]
+|location= [[Cartagena, Spain|Cartagena]]
+|attendance=
+|referee= Víctor García Verdura
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date= 15 January 2025
+|time= 19:30
+|team1= [[UD Almería|Almería]]
+|score= 2–3
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ud-almeria-cd-leganes-5
+|team2= Leganés
+|goals1=
+*[[Luis Javier Suárez|Suárez]] {{goal|38}}
+*[[Lázaro Vinicius Marques|Lázaro]] {{goal|52}}
+*[[Álex Centelles|Centelles]] {{yel|78}}
+|goals2=
+*[[Adrià Altimira|Altimira]] {{goal|33}}
+*[[Seydouba Cissé|Cissé]] {{yel|43}}
+*[[Miguel de la Fuente|Miguel]] {{goal|76|pen.}}
+*[[Dani Raba|Raba]] {{yel|81}}
+*[[Diego García (footballer, born 2000)|García]] {{goal|86}}
+*[[Matija Nastasić|Nastasić]] {{yel|90+5}}
+|stadium= [[UD Almería Stadium]]
+|location= [[Almería]]
+|attendance=
+|referee= Ricardo De Burgos Bengoetxea
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 Copa del Rey#Quarter-finals|Quarter-finals]]
+|date = 5 February 2025
+|time = {{UTZ|21:00|1}}
+|team1= Leganés
+|score= 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-leganes-real-madrid-6
+|team2= [[Real Madrid]]
+|goals1=
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|39|pen.|59}}
+*[[Sergio Gónzalez]] {{yel|67}}
+|goals2=
+*[[Luka Modrić|Modrić]] {{goal|18}}
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|25}}
+*[[Jacobo Ramón]] {{yel|79}}
+*[[Vinícius Junior|Vinícius]] {{yel|82}}
+*[[Luka Modrić|Modrić]] {{yel|87}}
+*[[Gonzalo García (footballer, born 2004)|G. García]] {{goal|90+3}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,709
+|referee = Javier Alberola Rojas
+|result = L
+}}
+
+== References ==
+{{Reflist}}
+
+{{CD Leganés}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 CD Leganes season}}
+[[Category:CD Leganés seasons]]
+[[Category:Spanish football clubs 2024–25 season|Leganés]]
+[[Category:2024 in the Community of Madrid]]
+[[Category:2025 in the Community of Madrid]]

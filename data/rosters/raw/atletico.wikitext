@@ -1,0 +1,2274 @@
+{{Use dmy dates|date=June 2024}}
+{{Infobox football club season
+|club               = [[Atlético Madrid]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Enrique Cerezo]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Diego Simeone]]
+|stdtitle           = 
+|stadium            = [[Metropolitano Stadium|Cívitas Metropolitano]]<br>''(until 9 October)''<br>[[Metropolitano Stadium|Riyadh Air Metropolitano]]<br>''(from 9 October)''
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|3rd]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Semi-finals]]
+|cup2               = [[UEFA Champions League]]
+|cup2 result        = [[2024–25 UEFA Champions League|Round of 16]]
+|cup3               = [[FIFA Club World Cup]]
+|cup3 result        = [[2025 FIFA Club World Cup|Group stage]]
+|league topscorer   = <br>[[Alexander Sørloth]] (20)
+|season topscorer   = <br>[[Julián Alvarez]] (29)
+|highest attendance = 
+|lowest attendance  = 
+|average attendance = 60,883<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = 6–0 vs [[AC Sparta Prague|Sparta Prague]] (A)
+|largest loss       = 0–4 vs [[S.L. Benfica|Benfica]] (A)<br>0–4 vs [[Paris Saint-Germain FC|Paris Saint-Germain]] (N)
+|pattern_la1        = _atlmadrid2425h
+|pattern_b1         = _atlmadrid2425h
+|pattern_ra1        = _atlmadrid2425h
+|pattern_sh1        = _atlmadrid2425h
+|pattern_so1        = 
+|leftarm1           = FF0000
+|body1              = FF0000
+|rightarm1          = FF0000
+|shorts1            = 0000E8
+|socks1             = FF0000
+|pattern_la2        = _atlmadrid2425a
+|pattern_b2         = _atlmadrid2425a
+|pattern_ra2        = _atlmadrid2425a
+|pattern_sh2        = _atlmadrid2425a
+|pattern_so2        = 
+|leftarm2           = C1D3E1
+|body2              = C1D3E1
+|rightarm2          = C1D3E1
+|shorts2            = C1D3E1
+|socks2             = C1D3E1
+|pattern_la3        = _atletico2425t
+|pattern_b3         = _atletico2425t
+|pattern_ra3        = _atletico2425t
+|pattern_sh3        = _atletico2425t
+|pattern_so3        = 
+|leftarm3           = 0d1c45
+|body3              = 0d1c45
+|rightarm3          = 0d1c45
+|shorts3            = 0d1c45
+|socks3             = 0d1c45
+|prevseason         = [[2023–24 Atlético Madrid season|2023–24]]
+|nextseason         = [[2025–26 Atlético Madrid season|2025–26]]
+}}
+The '''2024–25 season''' was the [[List of Atlético Madrid seasons|122nd season]] in the history of [[Atlético Madrid]], and the club's 23rd consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]], the [[2024–25 UEFA Champions League|UEFA Champions League]], and the [[2025 FIFA Club World Cup|FIFA Club World Cup]].<ref name="sabcsport">{{cite news|url=https://www.sabcsport.com/soccer/news/antoine-griezmann-seals-champions-league-spot-for-atletico-madrid|title=Antoine Griezmann seals Champions League spot for Atletico Madrid|website=SABC Sport|date=16 May 2024|access-date=24 May 2024}}</ref>
+
+Following the club's 1–0 win over [[CA Osasuna|Osasuna]] on 12 January 2025, Atlético broke its own all-time record of fourteen consecutive victories in all competitions.<ref>{{cite news |agency=The Canadian Press |date=12 January 2025 |title=Barcelona routs rival Real Madrid to claim Spanish Super Cup |url=https://www.tsn.ca/soccer/atletico-madrid-wins-record-14th-game-in-a-row-to-lead-spanish-league-at-halfway-stage-1.2234611 |access-date=14 January 2025 |website=TSN}}</ref>
+
+== Kits ==
+{|
+|{{Football kit
+|pattern_la        = _atlmadrid2425h
+|pattern_b         = _atlmadrid2425h
+|pattern_ra        = _atlmadrid2425h
+|pattern_sh        = _atlmadrid2425h
+|pattern_so        = 
+|leftarm           = FF0000
+|body              = FF0000
+|rightarm          = FF0000
+|shorts            = FF0000
+|socks             = FF0000
+| title    = Home
+}}
+|{{Football kit
+|pattern_la        = _atlmadrid2425h
+|pattern_b         = _atlmadrid2425h
+|pattern_ra        = _atlmadrid2425h
+|pattern_sh        = _atlmadrid2425h2
+|pattern_so        = 
+|leftarm           = FF0000
+|body              = FF0000
+|rightarm          = FF0000
+|shorts            = FF0000
+|socks             = FF0000
+| title    = Home alt
+}}
+|{{Football kit
+|pattern_la        = _atlmadrid2425a
+|pattern_b         = _atlmadrid2425a
+|pattern_ra        = _atlmadrid2425a
+|pattern_sh        = _atlmadrid2425a
+|pattern_so        = 
+|leftarm           = C1D3E1
+|body              = C1D3E1
+|rightarm          = C1D3E1
+|shorts            = C1D3E1
+|socks             = C1D3E1
+| title    = Away 
+}}
+|{{Football kit
+|pattern_la        = _atletico2425t
+|pattern_b         = _atletico2425t
+|pattern_ra        = _atletico2425t
+|pattern_sh        = _atletico2425t
+|pattern_so        = 
+|leftarm           = 0d1c45
+|body              = 0d1c45
+|rightarm          = 0d1c45
+|shorts            = 0d1c45
+|socks             = 0d1c45
+| title    = Third 
+}}
+|{{Football kit
+|pattern_la        = _atleticomadrid2526h
+|pattern_b         = _atleticomadrid2526h
+|pattern_ra        = _atleticomadrid2526h
+|pattern_sh        = 
+|pattern_so        = 
+|leftarm           = FF0000
+|body              = FF0000
+|rightarm          = FF0000
+|shorts            = 0000FF
+|socks             = 0000FF
+|title    = Home [[2025 FIFA Club World Cup|Club World Cup]] ([[2025–26 Atlético Madrid season|2025–26]] home)
+}}
+|{{Football kit
+|pattern_la        = _atleticomadrid2526h
+|pattern_b         = _atleticomadrid2526h
+|pattern_ra        = _atleticomadrid2526h
+|pattern_sh        = 
+|pattern_so        = 
+|leftarm           = FF0000
+|body              = FF0000
+|rightarm          = FF0000
+|shorts            = FF0000
+|socks             = FF0000
+|title    = Home alt. [[2025 FIFA Club World Cup|Club World Cup]] ([[2025–26 Atlético Madrid season|2025–26]] home)
+}}
+|{{Football kit
+|pattern_la        = _atleticomadrid2526a
+|pattern_b         = _atleticomadrid2526a
+|pattern_ra        = _atleticomadrid2526a
+|pattern_sh        = _atleticomadrid2526a
+|pattern_so        = _atleticomadrid2526al
+|leftarm           = 3B3C62
+|body              = 3B3C62
+|rightarm          = 3B3C62
+|shorts            = 3B3C62
+|socks             = 3B3C62
+| title    = Away [[2025 FIFA Club World Cup|Club World Cup]] ([[2025–26 Atlético Madrid season|2025–26]] away)
+}}
+|}
+
+== Players ==
+===First-team squad===
+{{updated|27 August 2024}}.<ref>{{cite web|url=https://www.atleticodemadrid.com/jugadores-primer-equipo/|title=Primer Equipo|publisher=Atlético Madrid|access-date=1 September 2022|archive-date=2 September 2022|archive-url=https://web.archive.org/web/20220902002632/https://www.atleticodemadrid.com/jugadores-primer-equipo/|url-status=live}}</ref>
+<!--NOTICE, PLEASE READ-->
+<!--Please do not remove a player until a transfer has been confirmed between the two clubs and the transfer has been officially announced-->
+<!--This is Wikipedia, not a news article. If players are added and the transfer hasn't been officially confirmed it will be removed on sight-->
+{{Fs start}}
+{{Fs player|no=1|nat=ARG|pos=GK|name=[[Juan Musso]]|other=on loan from [[Atalanta BC|Atalanta]]}}
+{{Fs player|no=2|nat=URU|pos=DF|name=[[José María Giménez|José Giménez]]|other=[[Captain (association football)#Vice-captain|3rd captain]]}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=[[César Azpilicueta]]}}
+{{Fs player|no=4|nat=ENG|pos=MF|name=[[Conor Gallagher]]}}
+{{Fs player|no=5|nat=ARG|pos=MF|name=[[Rodrigo De Paul]]}}
+{{Fs player|no=6|nat=ESP|pos=MF|name=[[Koke (footballer, born 1992)|Koke]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=7|nat=FRA|pos=FW|name=[[Antoine Griezmann]]}}
+{{Fs player|no=8|nat=ESP|pos=MF|name=[[Pablo Barrios (footballer)|Pablo Barrios]]}}
+{{Fs player|no=9|nat=NOR|pos=FW|name=[[Alexander Sørloth]]}}
+{{Fs player|no=10|nat=ARG|pos=FW|name=[[Ángel Correa]]}}
+{{Fs player|no=11|nat=FRA|pos=MF|name=[[Thomas Lemar]]}}
+{{Fs player|no=12|nat=BRA|pos=MF|name=[[Samuel Lino]]}}
+{{Fs mid}}
+{{Fs player|no=13|nat=SVN|pos=GK|name=[[Jan Oblak]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{Fs player|no=14|nat=ESP|pos=MF|name=[[Marcos Llorente]]}}
+{{Fs player|no=15|nat=FRA|pos=DF|name=[[Clément Lenglet]]|other=on loan from [[FC Barcelona|Barcelona]]}}
+{{Fs player|no=16|nat=ARG|pos=DF|name=[[Nahuel Molina]]}}
+{{Fs player|no=17|nat=ESP|pos=MF|name=[[Rodrigo Riquelme (footballer, born 2000)|Rodrigo Riquelme]]}}
+{{Fs player|no=19|nat=ARG|pos=FW|name=[[Julián Alvarez]]}}
+{{Fs player|no=20|nat=BEL|pos=DF|name=[[Axel Witsel]]}}
+{{Fs player|no=21|nat=ESP|pos=DF|name=[[Javi Galán]]}}
+{{Fs player|no=22|nat=ARG|pos=FW|name=[[Giuliano Simeone]]}}
+{{Fs player|no=23|nat=MOZ|pos=DF|name=[[Reinildo Mandava]]}}
+{{Fs player|no=24|nat=ESP|pos=DF|name=[[Robin Le Normand]]}}
+{{Fs end}}
+
+===Reserve team===
+{{Main|Atlético Madrid B}}
+{{Fs start}}
+{{Fs player|no=27|nat=GRE|pos=DF|name=[[Ilias Kostis]]}}
+{{Fs player|no=28|nat=ESP|pos=MF|name=[[Aitor Gismera]]}}
+{{fs player|no=29|nat=ESP|pos=MF|name=[[Javi Serrano]]}}
+{{Fs player|no=31|nat=ESP|pos=GK|name=[[Antonio Gomis]]}}
+{{Fs player|no=32|nat=ESP|pos=FW|name=[[Adrián Niño]]}}
+{{Fs player|no=33|nat=ESP|pos=GK|name=[[Alejandro Iturbe]]}}
+{{Fs mid}}
+{{Fs player|no=34|nat=ESP|pos=GK|name=[[Salvi Esquivel]]}}
+{{Fs player|no=38|nat=ESP|pos=MF|name=[[Taufik Seidu]]}}
+{{Fs player|no=40|nat=ESP|pos=MF|name=[[Rayane Belaid]]}}
+{{Fs player|no=41|nat=ESP|pos=DF|name=[[Carlos Giménez (footballer)|Carlos Giménez]]}}
+{{Fs player|no=43|nat=ARG|pos=DF|name=[[Gerónimo Spina]]}}
+{{fs player|no=47|nat=ESP|pos=FW|name=[[Omar Janneh]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|nat=ROU|pos=GK|name=[[Horațiu Moldovan]]|other=at [[Real Oviedo]] until 30 June 2026}}
+{{Fs player|no=|nat=ESP|pos=MF|name=[[Saúl (footballer, born 1994)|Saúl]]|other=at [[Sevilla FC|Sevilla]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Carlos Martín (footballer)|Carlos Martín]]|other=at [[Deportivo Alavés|Alavés]] until 30 June 2025}}
+{{Fs player|no=|nat=MAR|pos=FW|name=[[Salim El Jebari]]|other=at [[FC Cartagena|Cartagena]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!From
+! style="width: 65px;" |Type
+!Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Galan, Javi|{{flagicon|ESP}} [[Javi Galán]]}}
+|{{fbaicon|ESP}} [[Real Sociedad]]
+| colspan="2" align="center" |Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://sports.yahoo.com/atletico-madrid-signing-set-them-100900980.html|title=Atletico Madrid signing will set them back €30-32m as negotiations begin for Javi Galan|date=12 June 2024|website=Yahoo Sports}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Simeone, Giuliano|{{flagicon|ARG}} [[Giuliano Simeone]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+| colspan="2" align="center" |Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Felix, Joao|{{flagicon|POR}} [[João Félix]]}}
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=center colspan=2|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.goal.com/en/lists/joao-felix-stay-barcelona-hansi-flick-decision-future-return-atletico-madrid/blt978fe9abad99813f|title=Will Joao Felix return to Barcelona? Hansi Flick makes big decision on attacker's future as loan from Atletico Madrid ends|date=1 June 2024|website=Goal.com}}</ref>
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Soyuncu, Caglar|{{flagicon|TUR}} [[Çağlar Söyüncü]]}}
+|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|align=center colspan=2|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Aghehowa, Samu|{{flagicon|ESP}} [[Samu Aghehowa]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+| colspan="2" align="center" |Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Mourino, Santiago|{{flagicon|URU}} [[Santiago Mouriño]]}}
+|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+| colspan="2" align="center" |Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Valera, German|{{flagicon|ESP}} [[Germán Valera]]}}
+|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+| colspan="2" align="center" |Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Martin, Carlos|{{flagicon|ESP}} [[Carlos Martín (footballer)|Carlos Martín]]}}
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|align=center colspan=2|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Garces, Borja|{{flagicon|ESP}} [[Borja Garcés]]}}
+|{{fbaicon|ESP}} [[Elche CF|Elche]]
+| colspan="2" align="center" |Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Molejo, Victor|{{flagicon|ESP}} [[Víctor Mollejo]]}}
+|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+|align=center colspan=2|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Serrano, Javi|{{flagicon|ESP}} [[Javi Serrano]]}}
+|{{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|align=center colspan=2|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Le Normand, Robin|{{flagicon|ESP}} [[Robin Le Normand]]}}
+|{{fbaicon|ESP}} [[Real Sociedad]]
+|Transfer
+|€34.5M
+|{{dts|27 July 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/agreement-with-real-sociedad-for-the-transfer-of-robin-le-normand|title=Agreement with Real Sociedad for the transfer of Robin Le Normand|publisher=Atlético Madrid|date=27 July 2024|access-date=27 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Sorloth, Alexander|{{flagicon|NOR}} [[Alexander Sørloth]]}}
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|Transfer
+|€32M
+|{{dts|3 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/welcome-alexander-s-rloth|title=Welcome, Alexander Sørloth!|publisher=Atlético Madrid|date=3 August 2024|access-date=3 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Alvarez, Julian|{{flagicon|ARG}} [[Julián Alvarez]]}}
+|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|Transfer
+|€75M
+|{{dts|12 August 2024}}
+|<ref>{{cite news |date=6 August 2024 |title=Manchester City: Atletico Madrid agree £81.5m Julian Alvarez deal |url=https://www.bbc.com/sport/football/articles/clywwgzv51vo |access-date=12 August 2024 |website=BBC Sport}}</ref>
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Gallagher, Conor|{{flagicon|ENG}} [[Conor Gallagher]]}}
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|Transfer
+|€42M
+|{{dts|21 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/welcome-conor-gallagher|title=Welcome, Conor Gallagher!|publisher=Atlético Madrid|date=21 August 2024|access-date=21 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Lenglet, Clément|{{flagicon|FRA}} [[Clément Lenglet]]}}
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|Loan
+|€3M
+|{{dts|26 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/welcome-lenglet|title=Welcome, Clément Lenglet!|publisher=Atlético Madrid|date=26 August 2024|access-date=26 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Goalkeeper (association football)|GK]]}}
+|{{sort|Musso, Juan|{{flagicon|ARG}} [[Juan Musso]]}}
+|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|Loan
+|€1.5M
+|{{dts|27 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/welcome-juan-musso|title=Welcome, Juan Musso!|publisher=Atlético Madrid|date=27 August 2024|access-date=27 August 2024}}</ref>
+|}
+Total expenditure: {{Decrease}} €188&nbsp;million <small>''(excluding potential add-ons, bonuses and undisclosed figures)''</small>
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!To
+! style="width: 80px;" |Type
+!Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Paulista, Gabriel|{{flagicon|BRA}} [[Gabriel Paulista]]}}
+|{{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+| colspan="2" align="center" |End of contract
+|{{dts|1 July 2024}}
+|<ref name="Hermoso">{{cite news |date=30 June 2024 |title=Hermoso, Memphis and Paulista are no longer part of the Rojiblancos team |url=https://en.atleticodemadrid.com/noticias/hermoso-memphis-and-paulista-are-no-longer-part-of-the-rojiblancos-team |access-date=1 July 2024 |publisher=Atlético Madrid}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Depay, Memphis|{{flagicon|NED}} [[Memphis Depay]]}}
+|{{fbaicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|align=center colspan=2|End of contract
+|{{dts|1 July 2024}}
+|<ref name="Hermoso"/>
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Hermoso, Mario|{{flagicon|ESP}} [[Mario Hermoso]]}}
+|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|align=center colspan=2|End of contract
+|{{dts|1 July 2024}}
+|<ref name="Hermoso"/>
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Soyuncu, Caglar|{{flagicon|TUR}} [[Çağlar Söyüncü]]}}
+|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|Transfer
+|€8.5M
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/s-y-nc-to-fenerbah-e-on-a-permanent-basis|title=Söyüncü to Fenerbahçe on a permanent basis|publisher=Atlético Madrid|date=1 July 2024|access-date=1 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Saul|{{flagicon|ESP}} [[Saúl (footballer, born 1994)|Saúl]]}}
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|align=center colspan=2|Loan
+|{{dts|15 July 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/agreement-with-sevilla-for-the-loan-of-saul|title=Agreement with Sevilla for the loan of Saúl|publisher=Atlético Madrid|date=15 July 2024|access-date=15 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Morata, Alvaro|{{flagicon|ESP}} [[Álvaro Morata]]}}
+|{{fbaicon|ITA}} [[AC Milan|Milan]]
+|Transfer
+|€13M
+|{{dts|19 July 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/laliga-has-informed-the-club-that-alvaro-moratas-buyout-fee-has-been-officially-deposited|title=LaLiga has informed the club that Álvaro Morata’s buyout fee has been officially deposited|publisher=Atlético Madrid|date=19 July 2024|access-date=19 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Savic, Stefan|{{flagicon|MNE}} [[Stefan Savić]]}}
+|{{fbaicon|TUR}} [[Trabzonspor]]
+|Transfer
+|Free
+|{{dts|26 July 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/thank-you-savi|title=Thank you, Savić!|publisher=Atlético Madrid|date=26 July 2024|access-date=26 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Martin, Carlos|{{flagicon|ESP}} [[Carlos Martín (footballer)|Carlos Martín]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|align=center colspan=2|Loan
+|{{dts|17 August 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Felix, Joao|{{flagicon|POR}} [[João Félix]]}}
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|Transfer
+|€52M
+|{{dts|21 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/agreement-with-chelsea-for-the-sale-of-jo-o-felix|title=Agreement with Chelsea for the sale of João Félix|publisher=Atlético Madrid|date=21 August 2024|access-date=21 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Goalkeeper (association football)|GK]]}}
+|{{sort|Moldovan, Horațiu|{{flagicon|ROU}} [[Horațiu Moldovan]]}}
+|{{fbaicon|ITA}} [[US Sassuolo Calcio|Sassuolo]]
+|Loan
+|€0.5M
+|{{dts|23 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/agreement-with-sassuolo-for-moldovan-loan|title=Agreement with Sassuolo for Moldovan loan|publisher=Atlético Madrid|date=23 August 2024|access-date=23 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Aghehowa, Samu|{{flagicon|ESP}} [[Samu Aghehowa]]}}
+|{{fbaicon|POR}} [[FC Porto|Porto]]
+|Transfer
+|€15M
+|{{dts|24 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/agreement-with-fc-porto-for-the-transfer-of-samu-omorodion|title=Agreement with FC Porto for the transfer of Samu Omorodion|publisher=Atlético Madrid|date=24 August 2024|access-date=24 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Vermeeren, Arthur|{{flagicon|BEL}} [[Arthur Vermeeren]]}}
+|{{fbaicon|GER}} [[RB Leipzig]]
+|Loan
+|€3M
+|{{dts|26 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/agreement-with-leipzig-for-the-loan-of-vermeeren|title=Agreement with Leipzig for the loan of Vermeeren|publisher=Atlético Madrid|date=26 August 2024|access-date=26 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|[[Defender (association football)|DF]]}}
+|{{sort|Mourino, Santiago|{{flagicon|URU}} [[Santiago Mouriño]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|Transfer
+|€2M
+|{{dts|27 August 2024}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/agreement-with-alaves-for-the-transfer-of-mourino|title=Agreement with Alavés for the transfer of Mouriño|publisher=Atlético Madrid|date=27 August 2024|access-date=27 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Paulo, Marcos|{{flagicon|POR}} [[Marcos Paulo (footballer, born 2001)|Marcos Paulo]]}}
+|{{fbaicon|BEL}} [[R.W.D. Molenbeek (2015)|Molenbeek]]
+|align=center colspan=2|Loan
+|{{dts|29 August 2024}}
+|
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Valera, Germán|{{flagicon|ESP}} [[Germán Valera]]}}
+|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|Transfer
+|Free
+|{{dts|30 August 2024}}
+|
+|-
+| align="center" |{{sort|3|[[Midfielder|MF]]}}
+|{{sort|Vermeeren, Arthur|{{flagicon|BEL}} [[Arthur Vermeeren]]}}
+|{{fbaicon|GER}} [[RB Leipzig]]
+|Transfer
+|€20M
+|{{dts|17 January 2025}}
+|<ref>{{cite news|url=https://en.atleticodemadrid.com/noticias/arthur-vermeeren-joins-rb-leipzig-on-a-permanent-deal|title=Arthur Vermeeren joins RB Leipzig on a permanent deal|publisher=Atlético Madrid|date=17 January 2025|access-date=17 January 2025}}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|Paulo, Marcos|{{flagicon|POR}} [[Marcos Paulo (footballer, born 2001)|Marcos Paulo]]}}
+|{{fbaicon|POR}} [[Boavista F.C.|Boavista]]
+|Transfer
+|Free
+|{{dts|25 January 2025}}
+|
+|}
+Total expenditure: {{Increase}} €114&nbsp;million <small>''(excluding potential add-ons, bonuses and undisclosed figures)''</small>
+
+==Pre-season and friendlies==
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}} {{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}} {{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}} {{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+|round = [[Jesús Gil Trophy]]
+|date = 27 July 2024
+|time = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid 
+|score = 1–1
+|report = https://en.atleticodemadrid.com/postpartidos/atletico-de-madrid-cd-numancia-27-07-2024-18-00
+|team2 = [[CD Numancia|Numancia]]
+|goals1 =
+*[[Rodrigo Riquelme (footballer, born 2000)|Riquelme]] {{goal|30}}
+*[[César Azpilicueta|Azpilicueta]] {{yel|35}}
+*[[Ángel Correa|Correa]] {{yel|37}}
+*[[Santiago Mouriño|Mouriño]] {{yel|40}}
+*[[Carlos Giménez (footballer)|Giménez]] {{yel|86}}
+|goals2 =
+*[[Alain Ribeiro|Ribeiro]] {{goal|32}}
+|penaltyscore = 5–3
+|penalties1 =
+*[[Adrián Niño|Niño]] {{pengoal}}
+*[[Carlos Martín (footballer)|Martín]] {{pengoal}}
+*[[Javi Serrano|Serrano]] {{pengoal}}
+*[[Javi Galán|Galán]] {{pengoal}}
+*[[Taufik Seidu|Seidu]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Cristian Dieste|Dieste]]
+*{{pengoal}} [[Gexan Elosegi|Elosegi]]
+*{{penmiss}} [[Fabio Conte|Conte]]
+*{{pengoal}} [[Aitor Seguín|Seguín]]
+|stadium = Estadio Municipal
+|location = [[Burgo de Osma-Ciudad de Osma|Burgo de Osma]]
+|attendance = 4,000
+|referee = Néstor Holgueras Castellanos
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Getafe CF|Getafe]] 
+|score = 1–3
+|report = https://en.atleticodemadrid.com/postpartidos/getafe-atletico-de-madrid-03-08-2024-21-00
+|team2 =  Atlético Madrid 
+|goals1 =
+*[[Christantus Uche|Uche]] {{goal|60}}
+*[[Diego Rico|Rico]] {{yel|82}}
+*[[Ismael Fernández|Fernández]] {{sentoff|0|88}}
+|goals2 =
+*[[Ángel Correa|Correa]] {{goal|38||55}}
+*[[Axel Witsel|Witsel]] {{yel|39}}
+*[[João Félix|Félix]] {{goal|45}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = BOC Life Cup
+|date = 7 August 2024
+|time = 20:00 [[Hong Kong Time|HKT]] ([[UTC+08:00|UTC+8]])
+|team1 = [[Kitchee SC|Kitchee]] 
+|score = 1–6
+|report = https://en.atleticodemadrid.com/postpartidos/kitchee-sc-atletico-de-madrid-07-08-2024-14-00-2
+|team2 = Atlético Madrid 
+|goals1 =
+*[[Sherzod Temirov|Temirov]] {{goal|67}}
+|goals2 =
+*[[Alexander Sørloth|Sørloth]] {{goal|7||8}}
+*[[Carlos Martín (footballer)|Martín]] {{goal|53}}
+*[[Santiago Mouriño|Mouriño]] {{goal|63}}
+*[[Adrián Niño|Niño]] {{goal|71}}
+*[[Thomas Lemar|Lemar]] {{goal|87}}
+|stadium = [[Hong Kong Stadium]]
+|location = Hong Kong
+|attendance = 
+|referee = Fong-Hei Lau ([[Football Association of Hong Kong, China|Hong Kong]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 11 August 2024
+|time = 15:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 2–0
+|report = https://en.atleticodemadrid.com/postpartidos/atletico-de-madrid-juventus-fc-11-08-2024-15-00-2
+|team2 =[[Juventus FC|Juventus]]
+|goals1 =
+*[[Samuel Lino|Lino]] {{yel|43}}
+*[[João Félix|Félix]] {{goal|48}}
+*[[Javi Serrano|Serrano]] {{yel|68}}
+*[[Ángel Correa|Correa]] {{goal|85|pen.}}
+|goals2 =
+|stadium = [[Ullevi]]
+|location = [[Gothenburg]], Sweden
+|attendance = 13,767
+|referee = [[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+|result = W
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=4
+|c1=[[2024–25 La Liga|La Liga]] |fm1=19 August 2024 |lm1=25 May 2025 |sr1=Matchday 1 |fp1=3rd |w1=22 |d1=10 |l1=6 |f1=68 |a1=30
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=31 October 2024 |lm2=2 April 2025|sr2=First round |fp2=Semi-finals |w2=5 |d2=1 |l2=1 |f2=19 |a2=6
+|c3=[[2024–25 UEFA Champions League|UEFA Champions League]] |fm3=19 September 2024 |lm3=12 March 2025 |sr3=League phase |fp3=Round of 16 |w3=7 |d3=0 |l3=3 |f3=22 |a3=14
+|c4=[[2025 FIFA Club World Cup|FIFA Club World Cup]] |fm4=15 June 2025 |lm4=23 June 2025 |sr4=Group stage |fp4=Group stage |w4=2 |d4=0 |l4=1 |f4=4 |a4=5
+|s=[https://int.soccerway.com/teams/spain/club-atletico-de-madrid/2020/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=ATM}}
+
+==== Results summary ====
+{{Fb rs |hw=14 |hd=4 |hl=1 |hgf=42 |hga=15 |aw=8 |ad=6 |al=5 |agf=26 |aga=15 }}
+{{Fb rs footer |u= |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=complete
+| header=Round
+| label1=Ground
+| res1=A/H/H/A/H/A/A/H/A/H/A/H/A/H/A/H/H/A/H/A/H/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/H/A
+| label2=Result
+| res2=D/W/D/W/W/D/W/D/D/W/L/W/W/W/W/W/W/W/W/L/D/W/D/D/W/W/L/L/D/W/W/L/W/D/W/L/W/W
+| label3=Position
+| pos3=5/4/5/3/2/4/3/4/3/3/4/3/3/3/3/3/2/1/1/2/2/2/2/3/3/2/3/3/3/3/3/3/3/3/3/3/3/3
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The match schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 19 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-atletico-de-madrid-1
+|team2 = Atlético Madrid
+|goals1 =
+*[[Yeremy Pino|Pino]] {{yel|10}}
+*[[Arnaut Danjuma|Danjuma]] {{goal|18}}
+*[[Koke (footballer, born 1992)|Koke]] {{goal|37|o.g.}}
+|goals2 =
+*[[Marcos Llorente|Llorente]] {{goal|20}}
+*[[Robin Le Normand|Le Normand]] {{yel|40}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|43}}
+*[[Alexander Sørloth|Sørloth]] {{goal|45+5}}
+*[[Samuel Lino|Lino]] {{yel|81}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 21,566
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 25 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-girona-fc-2
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Rodrigo De Paul|De Paul]] {{yel|25}}
+*[[Antoine Griezmann|Griezmann]] {{goal|39}}
+*[[Marcos Llorente|Llorente]] {{goal|48}}
+*[[Koke (footballer, born 1992)|Koke]] {{goal|90+4}}
+|goals2 =
+*[[Abel Ruiz|Ruiz]] {{yel|28}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|37}}
+*[[Oriol Romeu|Romeu]] {{yel|55}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,414
+|referee = [[Juan Martínez Munuera]]
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rcd-espanyol-3
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+|goals2 =
+*[[Javi Puado|Puado]] {{yel|55}}
+*[[Omar El Hilali|El Hilali]] {{yel|82}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 56,669
+|referee = [[Ricardo De Burgos Bengoetxea]]
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 31 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Athletic Bilbao]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-atletico-de-madrid-4
+|team2 = Atlético Madrid
+|goals1 =
+*[[Nico Williams|N. Williams]] {{yel|15}}
+*[[Yeray Álvarez|Yeray]] {{yel|34}}
+*[[Oihan Sancet|Sancet]] {{yel|35}}
+|goals2 =
+*[[Koke (footballer, born 1992)|Koke]] {{yel|85}}
+*[[Ángel Correa|Correa]] {{goal|90+2}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,617
+|referee = [[Alejandro Hernández Hernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 15 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-valencia-cf-5
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Koke (footballer, born 1992)|Koke]] {{yel|25}}
+*[[Conor Gallagher|Gallagher]] {{goal|39}}
+*[[Antoine Griezmann|Griezmann]] {{goal|54}}
+*[[Julián Alvarez|Alvarez]] {{goal|90+4}}
+|goals2 =
+*[[César Tárrega|Tárrega]] {{yel|10}}
+*[[Hugo Guillamón|Guillamón]] {{yel|32}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 61,752
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 22 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Rayo Vallecano]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-atletico-de-madrid-6
+|team2 = Atlético Madrid
+|goals1 =
+*[[Isi Palazón|Palazón]] {{goal|35}}
+|goals2 =
+*[[Conor Gallagher|Gallagher]] {{goal|49}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 13,646
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 7
+|date = 26 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-atletico-de-madrid-7
+|team2 = Atlético Madrid
+|goals1 =
+*[[Carl Starfelt|Starfelt]] {{yel|33}}
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{yel|90+2}}
+|goals2 =
+*[[Reinildo Mandava|Mandava]] {{yel|38}}
+*[[José María Giménez|Giménez]] {{yel|76}}
+*[[Julián Alvarez|Alvarez]] {{goal|90}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 21,533
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = [[Madrid derby|8]]
+|date = 29 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-real-madrid-8
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Robin Le Normand|Le Normand]] {{yel|63}}
+*[[Conor Gallagher|Gallagher]] {{yel|70}}
+*[[Julián Alvarez|Alvarez]] {{yel|75}}
+*[[Ángel Correa|Correa]] {{goal|90+5}}
+*[[Marcos Llorente|Llorente]] {{sentoff|0|90+9}}
+|goals2 =
+*[[Luka Modrić|Modrić]] {{yel|40}}
+*[[Éder Militão|Militão]] {{goal|64}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 70,112
+|referee = Mateo Busquets Ferrer
+|result = D
+|note = The match was temporarily suspended in the 69th minute after Atlético Madrid supporters threw objects onto the pitch.<ref>{{cite news|url=https://www.reuters.com/sports/soccer/atletico-real-madrid-derby-suspended-after-fans-throw-objects-onto-pitch-2024-09-29/|title=Atletico-Real Madrid derby suspended after fans throw objects onto the pitch|publisher=Reuters|date=29 September 2024|access-date=29 September 2024}}</ref>
+}}
+{{Football box collapsible
+|round = 9
+|date = 6 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Sociedad]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-atletico-de-madrid-9
+|team2 = Atlético Madrid
+|goals1 =
+*[[Luka Sučić|Sučić]] {{goal|84}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|1}}
+*[[Clément Lenglet|Lenglet]] {{yel|55}}
+*[[Javi Galán|Galán]] {{yel|80}}
+|stadium = [[Anoeta Stadium|Anoeta]]
+|location = [[San Sebastián]]
+|attendance = 31,983
+|referee = Isidro Díaz de Mera Escuderos
+|result = D
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-cd-leganes-10
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Clément Lenglet|Lenglet]] {{yel|30}}
+*[[Alexander Sørloth|Sørloth]] {{goal|69||90+9}}
+*[[Javi Galán|Galán]] {{yel|73}}
+*[[Antoine Griezmann|Griezmann]] {{goal|81}}, {{yel|89}}
+*[[Giuliano Simeone|Simeone]] {{yel|90+2}}
+*[[Rodrigo De Paul|De Paul]] {{yel|90+8}}
+|goals2 =
+*[[Yvan Neyou|Neyou]] {{goal|34}}
+*[[Seydouba Cissé|Cissé]] {{yel|80}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,122
+|referee = [[José Luis Munuera Montero]]
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 October 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Betis]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-atletico-de-madrid-11
+|team2 = Atlético Madrid
+|goals1 =
+*[[José María Giménez|Giménez]] {{goal|4|o.g.}}
+*[[Romain Perraud|Perraud]] {{yel|75}}
+*[[Aitor Ruibal|Ruibal]] {{yel|83}}
+*[[Adrián (footballer)|Adrián]] {{yel|88}}
+|goals2 =
+*[[Reinildo Mandava|Mandava]] {{yel|7}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|66}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 52,621 
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-ud-las-palmas-12
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Giuliano Simeone|Simeone]] {{goal|37}}
+*[[Clément Lenglet|Lenglet]] {{yel|73}}
+*[[Alexander Sørloth|Sørloth]] {{goal|83}}
+|goals2 =
+*[[Viti (footballer)|Viti]] {{yel|88}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 56,610
+|referee = [[Ricardo De Burgos Bengoetxea]]
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 16:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-atletico-de-madrid-13
+|team2 = Atlético Madrid
+|goals1 =
+*[[Samú Costa|Costa]] {{yel|57}}
+|goals2 =
+*[[Clément Lenglet|Lenglet]] {{yel|10}}
+*[[Julián Alvarez|Alvarez]] {{goal|61}}
+*[[Reinildo Mandava|Mandava]] {{yel|83}}
+*[[Ángel Correa|Correa]] {{yel|90+4}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 19,500
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 14
+|date = 23 November 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-deportivo-alaves-14
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Ángel Correa|Correa]] {{yel|45+3}}
+*[[Antoine Griezmann|Griezmann]] {{goal|76|pen.}}
+*[[Alexander Sørloth|Sørloth]] {{goal|86}}
+*[[Julián Alvarez|Alvarez]] {{yel|90}}
+*[[Rodrigo De Paul|De Paul]] {{yel|90+6}}
+|goals2 =
+*[[Jon Guridi|Guridi]] {{goal|7|pen.}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|58}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|70}}
+*[[Tomás Conechny|Conechny]] {{yel|88}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 58,910
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 15
+|date = 30 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 0–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-atletico-de-madrid-15
+|team2 = Atlético Madrid
+|goals1 =
+*[[Kike Pérez|Pérez]] {{yel|32}}
+|goals2 =
+*[[Clement Lenglet|Lenglet]] {{goal|26}}
+*[[Julián Alvarez|Alvarez]] {{goal|35}}
+*[[Rodrigo De Paul|De Paul]] {{goal|37}}
+*[[Javi Galán|Galán]] {{yel|41}}
+*[[Antoine Griezmann|Griezmann]] {{goal|52}}
+*[[Giuliano Simeone|Simeone]] {{yel|75}}
+*[[Alexander Sørloth|Sørloth]] {{goal|90+2}}
+|stadium = [[José Zorrilla Stadium|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 23,482
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 4–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-sevilla-fc-16
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Rodrigo De Paul|De Paul]] {{goal|10}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|48}}
+*[[Antoine Griezmann|Griezmann]] {{goal|62||90+4}}, {{yel|90+5}}
+*[[Julián Alvarez|Alvarez]] {{yel|72}}
+*[[Samuel Lino|Lino]] {{goal|79}}
+*[[Javi Galán|Galán]] {{yel|87}}
+|goals2 =
+*[[Dodi Lukebakio|Lukebakio]] {{goal|12}}
+*[[Isaac Romero|Romero]] {{goal|32}}
+*[[Lucien Agoumé|Agoumé]] {{yel|49}}
+*[[Juanlu Sánchez|Juanlu]] {{goal|57}}
+*[[Álvaro Fernández (footballer, born 1998)|Fernández]] {{yel|67}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|76}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,065
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-getafe-cf-17
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{goal|69}}
+*[[Ángel Correa|Correa]] {{yel|72}}
+*[[Rodrigo De Paul|De Paul]] {{yel|90}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|90+2}}
+|goals2 =
+*[[Juan Iglesias|Iglesias]] {{yel|69}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,169
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = 18
+|date = 21 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-atletico-de-madrid-18
+|team2 = Atlético Madrid
+|goals1 =
+*[[Pedri]] {{goal|30}}
+|goals2 =
+*[[Axel Witsel|Witsel]] {{yel|54}}
+*[[Rodrigo De Paul|De Paul]] {{goal|60}}
+*[[Robin Le Normand|Le Normand]] {{yel|77}}
+*[[Alexander Sørloth|Sørloth]] {{goal|90+6}}
+*[[José María Giménez|Giménez]] {{yel|90+6}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 46,249
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = W
+}}
+{{Football box collapsible
+|round = 19
+|date = 12 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-ca-osasuna-19
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Giuliano Simeone|Simeone]] {{yel|34}}
+*[[Samuel Lino|Lino]] {{yel|53}}
+*[[Julián Alvarez|Alvarez]] {{goal|55}}
+|goals2 =
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 64,801 
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 18 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-atletico-de-madrid-20
+|team2 = Atlético Madrid
+|goals1 =
+*[[Matija Nastasić|Nastasić]] {{goal|49}}
+*[[Yvan Neyou|Neyou]] {{yel|90}}
+|goals2 =
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|43}}
+*[[Javi Galán|Galán]] {{yel|57}}
+*[[Clément Lenglet|Lenglet]] {{yel|70}}
+*[[Antoine Griezmann|Griezmann]] {{penmiss}} {{small|90'}}
+|stadium = [[Butarque Stadium|Butarque]]
+|location = [[Leganés]]
+|attendance = 12,371
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 25 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-villarreal-cf-21
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[José María Giménez|Giménez]] {{yel|34}}
+*[[Rodrigo De Paul|De Paul]] {{yel|52}}
+*[[Samuel Lino|Lino]] {{goal|58}}
+*[[Robin Le Normand|Le Normand]] {{yel|62}}
+*[[Julián Alvarez|Alvarez]] {{yel|63}}
+|goals2 =
+*[[Yeremy Pino|Pino]] {{yel|22}}
+*[[Gerard Moreno|Gerard]] {{goal|29|pen.}}
+*[[Kiko Femenía|Femenía]] {{yel|76}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 63,596
+|referee = [[José María Sánchez Martínez]]
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 1 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rcd-mallorca-22
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Samuel Lino|Lino]] {{goal|26}}
+*[[Robin Le Normand|Le Normand]] {{yel|70}}
+*[[Conor Gallagher|Gallagher]] {{yel|82}}
+*[[Antoine Griezmann|Griezmann]] {{goal|90+3}}
+|goals2 =
+*[[Martin Valjent|Valjent]] {{yel|65}}
+*[[Robert Navarro (footballer)|Navarro]] {{yel|72}}
+*[[José Manuel Copete|Copete]] {{yel|85}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,710
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = [[Madrid derby|23]]
+|date = 8 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-atletico-de-madrid-23
+|team2 = Atlético Madrid
+|goals1 =
+*[[Dani Ceballos|Ceballos]] {{yel|25}}
+*[[Kylian Mbappé|Mbappé]] {{goal|50}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|35|pen.}}
+*[[Clément Lenglet|Lenglet]] {{yel|45+4}}
+*[[Javi Galán|Galán]] {{yel|49}}
+*[[Alexander Sørloth|Sørloth]] {{yel|90+2}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 78,082
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 24
+|date = 15 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rc-celta-24
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Pablo Barrios (footballer)|Barrios]] {{sentoff|0|7}}
+*[[Rodrigo De Paul|De Paul]] {{yel|65}}
+*[[Robin Le Normand|Le Normand]] {{yel|67}}
+*[[José María Giménez|Giménez]] {{yel|67}}
+*[[Alexander Sørloth|Sørloth]] {{goal|81}}
+|goals2 =
+*[[Carlos Domínguez (Spanish footballer)|Domínguez]] {{yel|31}}
+*[[Pablo Durán|Durán]] {{yel|47}}
+*[[Iago Aspas|Aspas]] {{goal|68|pen.}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|72}}
+*[[Iker Losada|Losada]] {{yel|80}}
+*[[Borja Iglesias|Iglesias]] {{yel|90+3}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 64,211
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 22 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-atletico-de-madrid-25
+|team2 = Atlético Madrid
+|goals1 =
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{yel|42}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|12||30}}
+*[[Ángel Correa|Correa]] {{goal|86}}
+*[[Samuel Lino|Lino]] {{yel|23}}
+*[[Clément Lenglet|Lenglet]] {{yel|40}}
+*[[Javi Galán|Galán]] {{yel|64}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 46,297
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 26
+|date = 1 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-athletic-club-26
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{yel|57}}
+*[[Julián Alvarez|Alvarez]] {{goal|66}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|68}}
+|goals2 =
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|32}}
+*[[Andoni Gorosabel|Gorosabel]] {{yel|62}}
+*[[Yeray Álvarez|Yeray]] {{yel|87}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 63,810
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-atletico-de-madrid-27
+|team2 = Atlético Madrid
+|goals1 =
+*[[Domingos Duarte|Duarte]] {{yel|40}}
+*[[Omar Alderete|Alderete]] {{yel|40}}
+*[[Álvaro Rodríguez (footballer, born 2004)|Rodríguez]] {{yel|57}}
+*[[Diego Rico|Rico]] {{yel|74}}
+*[[Djené]] {{yel|74}}
+*[[Mauro Arambarri|Arambarri]] {{goal|88||90+2}}
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{yel|90+11}}
+|goals2 =
+*[[Robin Le Normand|Le Normand]] {{yel|40}}
+*[[Alexander Sørloth|Sørloth]] {{goal|75|pen.}}, {{yel|90+8}}
+*[[Ángel Correa|Correa]] {{sentoff|0|88}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 12,862
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 2–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-fc-barcelona-28
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Reinildo Mandava|Mandava]] {{yel|36}}
+*[[Julián Alvarez|Alvarez]] {{goal|45}}
+*[[Alexander Sørloth|Sørloth]] {{goal|70}}
+|goals2 =
+*[[Jules Koundé|Koundé]] {{yel|26}}
+*[[Alejandro Balde|Balde]] {{yel|64}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|72}}
+*[[Ferran Torres|Torres]] {{goal|78||90+8}}
+*[[Lamine Yamal|Yamal]] {{goal|90+2}}, {{yel|90+3}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 67,602
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = L
+}}
+{{Football box collapsible
+|round = 29
+|date = 29 March 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-atletico-de-madrid-29
+|team2 = Atlético Madrid
+|goals1 =
+*[[Marash Kumbulla|Kumbulla]] {{yel|21}}
+*[[Javi Puado|Puado]] {{goal|71|pen.}}
+*[[Alejo Véliz (footballer)|Véliz]] {{yel|73}}
+|goals2 =
+*[[César Azpilicueta|Azpilicueta]] {{goal|38}}
+*[[José María Giménez|Giménez]] {{yel|90+1}}
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 30,559
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-atletico-de-madrid-30
+|team2 = Atlético Madrid
+|goals1 =
+*[[Lucien Agoumé|Agoumé]] {{goal|7}}
+*[[Kike Salas|Salas]] {{yel|90+6}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|25|pen.}}
+*[[Giuliano Simeone|Simeone]] {{yel|51}}
+*[[Clément Lenglet|Lenglet]] {{yel|57}}
+*[[Robin Le Normand|Le Normand]] {{yel|85}}
+*[[Pablo Barrios (footballer)|Barrios]] {{goal|90+3}}
+*[[Alexander Sørloth|Sørloth]] {{yel|90+6}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 34,505
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 14 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-real-valladolid-cf-31
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Julián Alvarez|Alvarez]] {{goal|25|pen.|71|pen.}}
+*[[Giuliano Simeone|Simeone]] {{goal|27}}
+*[[Clément Lenglet|Lenglet]] {{yel|55}}
+*[[Alexander Sørloth|Sørloth]] {{goal|79}}
+|goals2 =
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|21}}
+*[[Javi Sánchez (footballer)|Sánchez]] {{goal|56}}
+*[[Anuar Tuhami|Anuar]] {{yel|63}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 55,936
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 32
+|date = 19 April 2025
+|time = 20:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-atletico-de-madrid-32
+|team2 = Atlético Madrid
+|goals1 =
+*[[Javier Muñoz (Spanish footballer)|J. Muñoz]] {{yel|71}}, {{goal|90+3}}
+*[[Dário Essugo|Essugo]] {{yel|77}}
+*[[Jaime Mata|Mata]] {{yel|90+4}}
+|goals2 =
+*[[Javi Galán|Galán]] {{yel|54}}
+|stadium = [[Gran Canaria Stadium|Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 27,154
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 33
+|date = 24 April 2025
+|time = 17:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rayo-vallecano-33
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{goal|3}}
+*[[Conor Gallagher|Gallagher]] {{goal|45}}
+*[[Julián Alvarez|Alvarez]] {{goal|77}}
+|goals2 =
+*[[Andrei Rațiu|Rațiu]] {{yel|66}}
+*[[Augusto Batalla|Batalla]] {{yel|79}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 49,410
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 34
+|date = 3 May 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-atletico-de-madrid-34
+|team2 = Atlético Madrid
+|goals1 =
+*[[Ander Guevara|Guevara]] {{yel|28}}
+*[[Santiago Mouriño|Mouriño]] {{yel|56}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|63}}
+|goals2 =
+*[[César Azpilicueta|Azpilicueta]] {{yel|41}}
+*[[Julián Alvarez|Alvarez]] {{yel|42}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 18,117
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-real-sociedad-35
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{goal|7||10||11||30}}
+|goals2 =
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|54}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 59,612
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 36
+|date = 15 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-atletico-de-madrid-36
+|team2 = Atlético Madrid
+|goals1 =
+*[[Alejandro Catena|Catena]] {{goal|25}}
+*[[Pablo Ibáñez (footballer, born 1998)|Ibáñez]] {{yel|40}}
+*[[Ante Budimir|Budimir]] {{goal|82}}
+|goals2 =
+*[[Rodrigo De Paul|De Paul]] {{yel|26}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 21,171
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 4–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-real-betis-37
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Julián Alvarez|Alvarez]] {{goal|10||75}}
+*[[Robin Le Normand|Le Normand]] {{goal|45+3}}
+*[[Nahuel Molina|Molina]] {{yel|90+3}}
+*[[Ángel Correa|Correa]] {{goal|90+6}}
+|goals2 =
+*[[Pablo Fornals|Fornals]] {{goal|67}}
+*[[Nobel Mendy|Mendy]] {{yel|89}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 62,269
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 25 May 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Girona FC|Girona]]
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-atletico-de-madrid-38
+|team2 = Atlético Madrid
+|goals1 =
+|goals2 =
+*[[Alexander Sørloth|Sørloth]] {{goal|68||90||90+3}}
+*[[Clément Lenglet|Lenglet]] {{goal|87}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 11,546
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 31 October 2024
+|time = 19:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UE Vic|Vic]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ue-vic-atletico-de-madrid-2
+|team2 = Atlético Madrid
+|goals1 =
+*[[Roger Cunill Maciá|Maciá]] {{yel|48}}
+*[[Alfons Senyé|Senyé]] {{sentoff|2|74|80}}
+*[[David Busquets|Busquets]] {{yel|85}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|81|pen.|89}}
+|stadium = [[Hipòlit Planàs Stadium|Hipòlit Planàs]]
+|location = [[Vic, Spain|Vic]]
+|attendance = 6,300
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 5 December 2024
+|time = 19:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CP Cacereño|Cacereño]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cp-cacereno-atletico-de-madrid-3
+|team2 = Atlético Madrid
+|goals1 =
+*[[Álvaro Merencio|Merencio]] {{goal|30}}
+*[[Diego Nieves|Nieves]] {{yel|80}}
+*[[Jaime Sancho (footballer)|Sancho]] {{sentoff|2|82|85}}
+|goals2 =
+*[[Robin Le Normand|Le Normand]] {{yel|40}}
+*[[César Azpilicueta|Azpilicueta]] {{yel|45+3}}
+*[[Clément Lenglet|Lenglet]] {{goal|83}}
+*[[Adrián Pérez (footballer, born 1996)|Pérez]] {{goal|90+2|o.g.}}
+*[[Julián Alvarez|Alvarez]] {{goal|90+6}}
+|stadium = [[Estadio Príncipe Felipe|Príncipe Felipe]]
+|location = [[Cáceres, Spain|Cáceres]]
+|attendance = 9,384
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 4 January 2025
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Marbella FC|Marbella]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-marbella-fc-atletico-de-madrid-4
+|team2 = Atlético Madrid
+|goals1 =
+*[[Marcos Olguín|Olguín]] {{yel|85}}
+|goals2 =
+*[[Antoine Griezmann|Griezmann]] {{goal|16}}
+*[[Clément Lenglet|Lenglet]] {{yel|62}}
+*[[Javi Galán|Galán]] {{yel|73}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|90}}
+|stadium = [[La Rosaleda Stadium|La Rosaleda]]
+|location = [[Málaga]]
+|attendance = 30,044
+|referee = Alejandro Muñiz Ruiz
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 15 January 2025
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Elche CF|Elche]]
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-elche-cf-atletico-de-madrid-5
+|team2 = Atlético Madrid
+|goals1 =
+*[[Agustín Álvarez (footballer, born May 2001)|A. Álvarez]] {{yel|7}}
+*[[Nicolás Fernández (footballer, born 2000)|Fernández]] {{sentoff|2|32|50}}
+*[[John Nwankwo|Nwankwo]] {{yel|34}}
+|goals2 =
+*[[Alexander Sørloth|Sørloth]] {{goal|8||29|pen.}}
+*[[Rodrigo Riquelme (footballer, born 2000)|Riquelme]] {{goal|61}}
+*[[Robin Le Normand|Le Normand]] {{yel|69}}
+*[[Julián Alvarez|Alvarez]] {{goal|75}}
+|stadium = [[Estadio Manuel Martínez Valero|Martínez Valero]]
+|location = [[Elche]]
+|attendance = 26,405
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Quarter-finals|Quarter-finals]]
+|date = 4 February 2025
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid
+|score = 5–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-atletico-de-madrid-getafe-cf-6
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Giuliano Simeone|Simeone]] {{goal|8||17}}
+*[[Samuel Lino|Lino]] {{goal|42}}
+*[[Conor Gallagher|Gallagher]] {{yel|70}}
+*[[Ángel Correa|Correa]] {{goal|78}}
+*[[Alexander Sørloth|Sørloth]] {{goal|86}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{yel|8}}
+*[[Ismael Bekhoucha|Bekhoucha]] {{yel|77}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,000
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Semi-finals|Semi-finals<br>First leg]]
+|date = 25 February 2025
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 4–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-fc-barcelona-atletico-de-madrid-7
+|team2 = Atlético Madrid
+|goals1 =
+*[[Pedri]] {{goal|19}} 
+*[[Pau Cubarsí|Cubarsí]] {{goal|21}}
+*[[Iñigo Martínez|Martínez]] {{goal|41}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|74}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|1}}
+*[[Antoine Griezmann|Griezmann]] {{goal|6}}
+*[[Javi Galán|Galán]] {{yel|16}}
+*[[José María Giménez|Giménez]] {{yel|82}}
+*[[Marcos Llorente|Llorente]] {{goal|84}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|88}}
+*[[Alexander Sørloth|Sørloth]] {{yel|90+1}}, {{goal|90+3}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 40,915
+|referee = [[Alejandro Hernández Hernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Semi-finals|Semi-finals<br>Second leg]]
+|date = 2 April 2025
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid
+|score = 0–1
+|aggregatescore = 4–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-atletico-de-madrid-fc-barcelona-8
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[César Azpilicueta|Azpilicueta]] {{yel|6}}
+*[[Rodrigo De Paul|De Paul]] {{yel|13}}
+*[[Reinildo Mandava|Mandava]] {{yel|31}}
+*[[Julián Alvarez|Alvarez]] {{yel|45+3}}
+*[[Nahuel Molina|Molina]] {{yel|59}}
+|goals2 =
+*[[Ferran Torres|Torres]] {{goal|27}}
+*[[Frenkie de Jong|De Jong]] {{yel|35}}
+*[[Alejandro Balde|Balde]] {{yel|68}}
+*[[Gerard Martín (footballer)|Martín]] {{yel|90+3}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 69,014
+|referee = [[José Luis Munuera Montero]]
+|result = L
+}}
+
+=== UEFA Champions League ===
+{{main|2024–25 UEFA Champions League}}
+
+==== League phase ====
+{{main|2024–25 UEFA Champions League league phase}}
+
+The draw for the league phase was held on 29 August 2024.
+
+{{:2024–25 UEFA Champions League league phase|transcludesection=Table|showteam=ATM}}
+
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=complete
+| header=Round
+| label1=Ground
+| res1=H/A/H/A/A/H/H/A
+| label2=Result
+| res2=W/L/L/W/W/W/W/W
+| label3=Position
+| pos3=12/23/27/23/15/11/5/5
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1-8=green1|color_9-16=blue1|color_17-24=blue2
+| source=[https://www.uefa.com/uefachampionsleague/fixtures-results/ UEFA]
+}}
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Atlético Madrid v RB Leipzig|1]]
+|date = 19 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.uefa.com/uefachampionsleague/match/2042031/
+|team2 = {{fbaicon|GER}} [[RB Leipzig]]
+|goals1 =
+*[[Robin Le Normand|Le Normand]] {{yel|10}}
+*[[Antoine Griezmann|Griezmann]] {{goal|28}}
+*[[Rodrigo De Paul|De Paul]] {{yel|60}}
+*[[José María Giménez|Giménez]] {{yel|60}}, {{goal|90}}
+|goals2 =
+*[[Benjamin Šeško|Šeško]] {{goal|4}}
+*[[Castello Lukeba|Lukeba]] {{yel|39}}
+*[[Christoph Baumgartner|Baumgartner]] {{yel|49}}
+*[[Benjamin Henrichs|Henrichs]] {{yel|64}}
+*[[Loïs Openda|Openda]] {{yel|90+4}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]], Spain
+|attendance = 57,856
+|referee = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Benfica v Atlético Madrid|2]]
+|date = 2 October 2024
+|time = 20:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[S.L. Benfica|Benfica]] {{fbaicon|POR}}
+|score = 4–0
+|report = https://www.uefa.com/uefachampionsleague/match/2041946/
+|team2 = {{fbaicon|ESP}} Atlético Madrid
+|goals1 =
+*[[Kerem Aktürkoğlu|Aktürkoğlu]] {{goal|13}}
+*[[Fredrik Aursnes|Aursnes]] {{yel|22}}
+*[[Ángel Di María|Di María]] {{goal|52|pen.}}
+*[[Alexander Bah|Bah]] {{goal|75}}
+*[[Orkun Kökçü|Kökçü]] {{goal|84|pen.}}
+|goals2 =
+*[[Javi Serrano|Serrano]] {{yel|70}}
+*[[José María Giménez|Giménez]] {{yel|83}}
+*[[Reinildo Mandava|Mandava]] {{yel|84}}
+*[[Ángel Correa|Correa]] {{yel|90+5}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 62,028 
+|referee = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Atlético Madrid v Lille|3]]
+|date = 23 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Atlético Madrid {{fbaicon|ESP}}
+|score = 1–3
+|report = https://www.uefa.com/uefachampionsleague/match/2041965/
+|team2 = {{fbaicon|FRA}} [[Lille OSC|Lille]]
+|goals1 =
+*[[Julián Alvarez|Alvarez]] {{goal|8}}
+*[[Javi Galán|Galán]] {{yel|17}}
+*[[José María Giménez|Giménez]] {{yel|78}}
+*[[Axel Witsel|Witsel]] {{yel|88}}
+|goals2 =
+*[[Ousmane Touré (footballer)|Touré]] {{yel|44}}
+*[[Edon Zhegrova|Zhegrova]] {{goal|61}}
+*[[Jonathan David|David]] {{goal|74|pen.|89}}
+*[[Thomas Meunier|Meunier]] {{yel|78}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]], Spain
+|attendance = 61,197
+|referee = [[Marco Guida]] ([[Italian Football Federation|Italy]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Paris Saint-Germain v Atlético Madrid|4]]
+|date = 6 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score = 1–2
+|report = https://www.uefa.com/uefachampionsleague/match/2041981/
+|team2 = {{fbaicon|ESP}} Atlético Madrid
+|goals1 =
+*[[Warren Zaïre-Emery|Zaïre-Emery]] {{goal|14}}
+|goals2 =
+*[[Nahuel Molina|Molina]] {{goal|18}}
+*[[Ángel Correa|Correa]] {{yel|87}}, {{goal|90+3}}
+|stadium = [[Parc des Princes]]
+|location = [[Paris]], France
+|attendance = 47,369
+|referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Sparta Prague v Atlético Madrid|5]]
+|date = 26 November 2024
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[AC Sparta Prague|Sparta Prague]] {{fbaicon|CZE}}
+|score = 0–6
+|report = https://www.uefa.com/uefachampionsleague/match/2041997/
+|team2 = {{fbaicon|ESP}} Atlético Madrid
+|goals1 =
+*[[Jakub Pešek|Pešek]] {{yel|65}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|15||59}}
+*[[Marcos Llorente|Llorente]] {{goal|43}}
+*[[Pablo Barrios (footballer)|Barrios]] {{yel|67}}
+*[[Antoine Griezmann|Griezmann]] {{goal|70}}
+*[[Ángel Correa|Correa]] {{goal|85||89}}
+|stadium = [[Stadion Letná]]
+|location = [[Prague]], Czech Republic
+|attendance = 18,110
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Atlético Madrid v Slovan Bratislava|6]]
+|date = 11 December 2024
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid {{fbaicon|ESP}}
+|score = 3–1
+|report = https://www.uefa.com/uefachampionsleague/match/2042017/
+|team2 = {{fbaicon|SVK}} [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|goals1 =
+*[[Julián Alvarez|Alvarez]] {{goal|16}}
+*[[Antoine Griezmann|Griezmann]] {{goal|42||57}}
+|goals2 =
+*[[David Strelec|Strelec]] {{goal|51|pen.|}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]], Spain
+|attendance = 59,134
+|referee = Manfredas Lukjančukas ([[Lithuanian Football Federation|Lithuania]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Atlético Madrid v Bayer Leverkusen|7]]
+|date = 21 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.uefa.com/uefachampionsleague/match/2042058/
+|team2 = {{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|goals1 =
+*[[Pablo Barrios (footballer)|Barrios]] {{sentoff|0|23}}
+*[[José María Giménez|Giménez]] {{yel|45+2}}
+*[[Julián Alvarez|Alvarez]] {{goal|52||90}}
+*[[Giuliano Simeone|Simeone]] {{yel|66}}
+|goals2 =
+*[[Florian Wirtz|Wirtz]] {{yel|44}}
+*[[Piero Hincapié|Hincapié]] {{goal|45+1}}, {{sentoff|2|45+4|76}}
+*[[Nathan Tella|Tella]] {{yel|45+2}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]], Spain
+|attendance = 66,820
+|referee = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Red Bull Salzburg v Atlético Madrid|8]]
+|date = 29 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Red Bull Salzburg|Red Bull Salzburg]] {{fbaicon|AUT}}
+|score = 1–4
+|report = https://www.uefa.com/uefachampionsleague/match/2042074/
+|team2 = {{fbaicon|ESP}} Atlético Madrid
+|goals1 =
+*[[Nicolás Capaldo|Capaldo]] {{yel|58}}
+*[[Hendry Blank|Blank]] {{yel|66}}
+*[[Adam Daghim|Daghim]] {{goal|90+1}}
+|goals2 =
+*[[Giuliano Simeone|Simeone]] {{goal|5}}
+*[[Antoine Griezmann|Griezmann]] {{goal|13||45+1}}
+*[[Marcos Llorente|Llorente]] {{goal|63}}
+|stadium = [[Red Bull Arena (Salzburg)|Red Bull Arena]]
+|location = [[Salzburg]], Austria
+|attendance = 23,389
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result = W
+}}
+
+====Knockout phase====
+{{main|2024–25 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+The draw for the round of 16 was held on 21 February 2025.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League knockout phase#Real Madrid v Atlético Madrid|First leg]]
+|date = 4 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score = 2–1
+|report = https://www.uefa.com/uefachampionsleague/match/2044818/
+|team2 = {{fbaicon|ESP}} Atlético Madrid
+|goals1 =
+*[[Rodrygo]] {{goal|4}}
+*[[Brahim Díaz|Brahim]] {{goal|55}}, {{yel|56}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|32}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]], Spain
+|attendance = 77,261
+|referee = [[Clément Turpin]] ([[French Football Federation|France]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League knockout phase#Atlético Madrid v Real Madrid|Second leg]]
+|date = 12 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Atlético Madrid {{fbaicon|ESP}}
+|score = 1–0
+|aet = yes
+|aggregatescore = 2–2
+|report = https://www.uefa.com/uefachampionsleague/match/2044778/
+|team2 = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Conor Gallagher|Gallagher]] {{goal|1}}
+*[[Giuliano Simeone|Simeone]] {{yel|66}}
+*[[Clément Lenglet|Lenglet]] {{yel|68}}
+*[[César Azpilicueta|Azpilicueta]] {{yel|114}}
+*[[Marcos Llorente|Llorente]] {{yel|115}}
+|goals2 =
+*[[Aurélien Tchouaméni|Tchouaméni]] {{yel|39}}
+*[[Vinícius Júnior|Vinícius]] {{yel|59}}, {{penmiss}} {{small|70'}}
+*[[Lucas Vázquez|Vázquez]] {{yel|115}}
+*[[Kylian Mbappé|Mbappé]] {{yel|PSO}}
+|penaltyscore = 2–4
+|penalties1 = 
+*[[Alexander Sørloth|Sørloth]] {{pengoal}}
+*[[Julián Alvarez|Alvarez]] {{penmiss}}
+*[[Joaquín Correa|Correa]] {{pengoal}}
+*[[Marcos Llorente|Llorente]] {{penmiss}}
+|penalties2 = 
+*{{pengoal}} [[Kylian Mbappé|Mbappé]]
+*{{pengoal}} [[Jude Bellingham|Bellingham]]
+*{{pengoal}} [[Federico Valverde|Valverde]]
+*{{penmiss}} [[Lucas Vázquez|Vázquez]]
+*{{pengoal}} [[Antonio Rüdiger|Rüdiger]]
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]], Spain
+|attendance = 69,304
+|referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result = W
+}}
+
+=== FIFA Club World Cup ===
+{{main|2025 FIFA Club World Cup}}
+
+==== Group stage ====
+{{main|2025 FIFA Club World Cup Group B}}
+
+The draw for the group stage was held on 5 December 2024.
+
+{{2025 FIFA Club World Cup group tables|Group B|showteam=ATM}}
+
+{{footballbox collapsible
+| round      = [[2025 FIFA Club World Cup Group B#Paris Saint-Germain v Atlético Madrid|1]]
+| date       = 15 June 2025
+| time       = 12:00 [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC−7]])
+| team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+| score      = 4–0
+| report     = https://www.fifa.com/en/match-centre/match/10005/289175/289176/400019155
+| team2      = {{fbaicon|ESP}} Atlético Madrid 
+| goals1     = 
+*[[Fabián Ruiz|Fabián]] {{goal|19}}, {{yel|28}}
+*[[Vitinha (footballer, born February 2000)|Vitinha]] {{goal|45+1}}
+*[[Marquinhos]] {{yel|62}}
+*[[Senny Mayulu|Mayulu]] {{goal|87}}
+*[[Lee Kang-in|Lee]] {{goal|90+7|pen.}}
+| goals2     = 
+*[[Clément Lenglet|Lenglet]] {{sentoff|2|20|78}}
+*[[Robin Le Normand|Le Normand]] {{yel|25}}
+*[[Giuliano Simeone|Simeone]] {{yel|29}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|48}}
+*[[Ángel Correa|Correa]] {{yel|63}}
+*[[Reinildo Mandava|Mandava]] {{yel|64}}
+| stadium    = [[Rose Bowl (stadium)|Rose Bowl]]
+| location   = [[Pasadena, California|Pasadena]], United States
+| attendance = 80,619
+| referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+| result     = L
+}}
+{{footballbox collapsible
+| round      = [[2025 FIFA Club World Cup Group B#Seattle Sounders FC v Atlético Madrid|2]]
+| date       = 19 June 2025
+| time       = 15:00 [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC−7]])
+| team1      = [[Seattle Sounders FC]] {{fbaicon|USA}}
+| score      = 1–3
+| report     = https://www.fifa.com/en/match-centre/match/10005/289175/289176/400019158
+| team2      = {{fbaicon|ESP}} Atlético Madrid 
+| goals1     = 
+*[[Albert Rusnák (footballer, born 1994)|Rusnák]] {{goal|50}}
+*[[Paul Rothrock|Rothrock]] {{yel|63}}
+| goals2     = 
+*[[Pablo Barrios (footballer)|Barrios]] {{goal|11||55}}
+*[[Rodrigo De Paul|De Paul]] {{yel|42}}
+*[[Axel Witsel|Witsel]] {{goal|47}}
+*[[Conor Gallagher|Gallagher]] {{yel|77}}
+| stadium    = [[Lumen Field]]
+| location   = [[Seattle]], United States
+| attendance = 51,636
+| referee    = Yael Falcón ([[Argentine Football Association|Argentina]])
+| result     = W
+}}
+{{footballbox collapsible
+| round      = [[2025 FIFA Club World Cup Group B#Atlético Madrid v Botafogo|3]]
+| date       = 23 June 2025
+| time       = 12:00 [[Pacific Time Zone|PDT]] ([[UTC−07:00|UTC−7]])
+| team1      = Atlético Madrid {{fbaicon|ESP}}
+| score      = 1–0
+| report     = https://www.fifa.com/en/match-centre/match/10005/289175/289176/400019154
+| team2      = {{fbaicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| goals1     = 
+*[[Antoine Griezmann|Griezmann]] {{goal|87}}
+| goals2     = 
+*[[Gregore]] {{yel|90+5}}
+| stadium    = [[Rose Bowl (stadium)|Rose Bowl]]
+| location   = [[Pasadena, California|Pasadena]], United States
+| attendance = 22,992
+| referee    = [[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])
+| result     = W
+}}
+
+==Statistics==
+===Squad statistics===
+{{Efs start|[[2024–25 La Liga|La Liga]]|[[2024–25 Copa del Rey|Copa del Rey]]|[[2024–25 UEFA Champions League|Champions League]]|[[2025 FIFA Club World Cup|Club World Cup]]}}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Goalkeepers
+{{Efs player|no=1 |name=[[Juan Musso]]|pos=GK|nat=ARG                                                |2|0|7|0|0|0|0|0}}
+{{Efs player|no=13|name=[[Jan Oblak]]|pos=GK|nat=SVN                                                 |36   |0 |0    |0 |10   |0 |3    |0 }}
+{{Efs player|no=31|name=[[Antonio Gomis]]|pos=GK|nat=ESP                                             |0    |0 |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Defenders
+{{Efs player|no=2 |name=[[José María Giménez|José Giménez]]|pos=DF|nat=URU                           |20+7 |0 |3    |0 |8    |1 |1    |0 }}
+{{Efs player|no=3 |name=[[César Azpilicueta]]|pos=DF|nat=ESP                                         |10+4 |1 |3+1  |0 |1+1  |0 |0    |0 }}
+{{Efs player|no=15|name=[[Clément Lenglet]]|pos=DF|nat=FRA                                           |23   |2 |2+2  |1 |7    |0 |2    |0 }}
+{{Efs player|no=16|name=[[Nahuel Molina]]|pos=DF|nat=ARG                                             |17+13|0 |3+3  |0 |3+5  |1 |0+2  |0 }}
+{{Efs player|no=20|name=[[Axel Witsel]]|pos=DF|nat=BEL                                               |9+5  |0 |3    |0 |3+1  |0 |0+1  |1 }}
+{{Efs player|no=21|name=[[Javi Galán]]|pos=DF|nat=ESP                                                |21+4 |0 |4+2  |0 |6    |0 |3    |0 }}
+{{Efs player|no=23|name=[[Reinildo Mandava]]|pos=DF|nat=MOZ                                          |10+9 |0 |2+2  |0 |3+3  |0 |0+1  |0 }}
+{{Efs player|no=24|name=[[Robin Le Normand]]|pos=DF|nat=ESP                                          |24+3 |1 |5    |0 |2+3  |0 |3    |0 }}
+{{Efs player|no=27|name=[[Ilias Kostis]]|pos=DF|nat=GRE                                              |0    |0 |1    |0 |0    |0 |0    |0 }}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Midfielders
+{{Efs player|no=4 |name=[[Conor Gallagher]]|pos=MF|nat=ENG                                           |19+13|3 |4+2  |0 |4+5  |1 |2+2  |0 }}
+{{Efs player|no=5 |name=[[Rodrigo De Paul]]|pos=MF|nat=ARG                                           |23+11|3 |5+1  |0 |10   |0 |3    |0 }}
+{{Efs player|no=6 |name=[[Koke (footballer, born 1992)|Koke]]|pos=MF|nat=ESP                         |20+12|1 |3+2  |0 |4+3  |0 |1+2  |0 }}
+{{Efs player|no=8 |name=[[Pablo Barrios (footballer)|Pablo Barrios]]|pos=MF|nat=ESP                  |28+3 |1 |3+1  |0 |6    |0 |3    |2 }}
+{{Efs player|no=11|name=[[Thomas Lemar]]|pos=MF|nat=FRA                                              |0+5  |0 |0+2  |0 |0+1  |0 |0    |0 }}
+{{Efs player|no=12|name=[[Samuel Lino]]|pos=MF|nat=BRA                                               |21+10|3 |3+1  |1 |3+7  |0 |1+1  |0 }}
+{{Efs player|no=14|name=[[Marcos Llorente]]|pos=MF|nat=ESP                                           |28+5 |2 |3+2  |1 |8    |2 |3    |0 }}
+{{Efs player|no=17|name=[[Rodrigo Riquelme (footballer, born 2000)|Rodrigo Riquelme]]|pos=MF|nat=ESP |4+12 |0 |3+2  |1 |1+4  |0 |0    |0 }}
+{{Efs player|no=29|name=[[Javi Serrano]]|pos=MF|nat=ESP                                              |0    |0 |1    |0 |0+1  |0 |0    |0 }}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Forwards
+{{Efs player|no=7 |name=[[Antoine Griezmann]]|pos=FW|nat=FRA                                         |29+9 |8 |4+1  |2 |9+1  |6 |1+2  |1 }}
+{{Efs player|no=9 |name=[[Alexander Sørloth]]|pos=FW|nat=NOR                                         |15+20|20|3+4  |4 |2+6  |0 |2+1  |0 }}
+{{Efs player|no=10|name=[[Ángel Correa]]|pos=FW|nat=ARG                                              |3+28 |4 |3+3  |1 |2+6  |3 |0+3  |0 }}
+{{Efs player|no=19|name=[[Julián Alvarez]]|pos=FW|nat=ARG                                            |30+7 |17|4+3  |5 |10   |7 |3    |0 }}
+{{Efs player|no=22|name=[[Giuliano Simeone]]|pos=FW|nat=ARG                                          |26+7 |2 |5    |2 |7+2  |1 |3    |0 }}
+{{Efs player|no=32|name=[[Adrián Niño]]|pos=FW|nat=ESP                                               |0+1  |0 |0    |0 |0    |0 |0    |0 }}
+|-
+{{Fb cs footer|s=[[#Competitions|Competitions]]|date=October 2024}}
+
+===Goalscorers===
+
+{| class="wikitable" style="text-align:center"
+|-
+!width=10|{{Tooltip|Rank|Rank}}
+!width=10|{{Tooltip|No.|Squad Number}}
+!width=10|{{Tooltip|Pos.|Position}}
+!width=10|{{Tooltip|Nat.|Nationality}}
+!width=200|Player
+!width=120|[[2024–25 La Liga|La Liga]]
+!width=120|[[2024–25 Copa del Rey|Copa del Rey]]
+!width=150|[[2024–25 UEFA Champions League|Champions League]]
+!width=150|[[2025 FIFA Club World Cup|Club World Cup]]
+!width=120|Total
+|-
+|'''1'''
+|19
+|[[Forward (association football)|FW]]
+|{{flagicon|ARG}}
+|[[Julián Alvarez]]
+|17
+|5
+|7
+|0
+|'''29'''
+|-
+|'''2'''
+|9
+|[[Forward (association football)|FW]]
+|{{flagicon|NOR}}
+|[[Alexander Sørloth]]
+|20
+|4
+|0
+|0
+|'''24'''
+|-
+|rowspan=1|'''3'''
+|7
+|[[Forward (association football)|FW]]
+|{{flagicon|FRA}}
+|[[Antoine Griezmann]]
+|8
+|2
+|6
+|1
+|'''17'''
+|-
+|rowspan=1|'''4'''
+|10
+|[[Forward (association football)|FW]]
+|{{flagicon|ARG}}
+|[[Ángel Correa]]
+|4
+|1
+|3
+|0
+|'''8'''
+|-
+|rowspan=2|'''5'''
+|14
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Marcos Llorente]]
+|2
+|1
+|2
+|0
+|'''5'''
+|-
+|22
+|[[Forward (association football)|FW]]
+|{{flagicon|ARG}}
+|[[Giuliano Simeone]]
+|2
+|2
+|1
+|0
+|'''5'''
+|-
+|rowspan=2|'''7'''
+|4
+|[[Midfielder|MF]]
+|{{flagicon|ENG}}
+|[[Conor Gallagher]]
+|3
+|0
+|1
+|0
+|'''4'''
+|-
+|12
+|[[Midfielder|MF]]
+|{{flagicon|BRA}}
+|[[Samuel Lino]]
+|3
+|1
+|0
+|0
+|'''4'''
+|-
+|rowspan=3|'''9'''
+|5
+|[[Midfielder|MF]]
+|{{flagicon|ARG}}
+|[[Rodrigo De Paul]]
+|3
+|0
+|0
+|0
+|'''3'''
+|-
+|8
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Pablo Barrios (footballer)|Pablo Barrios]]
+|1
+|0
+|0
+|2
+|'''3'''
+|-
+|15
+|[[Defender (association football)|DF]]
+|{{flagicon|FRA}}
+|[[Clément Lenglet]]
+|2
+|1
+|0
+|0
+|'''3'''
+|-
+|rowspan=7|'''11'''
+|2
+|[[Defender (association football)|DF]]
+|{{flagicon|URU}}
+|[[José María Giménez|José Giménez]]
+|0
+|0
+|1
+|0
+|'''1'''
+|-
+|3
+|[[Defender (association football)|DF]]
+|{{flagicon|ESP}}
+|[[César Azpilicueta]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|6
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Koke (footballer, born 1992)|Koke]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|16
+|[[Defender (association football)|DF]]
+|{{flagicon|ARG}}
+|[[Nahuel Molina]]
+|0
+|0
+|1
+|0
+|'''1'''
+|-
+|17
+|[[Midfielder|MF]]
+|{{flagicon|ESP}}
+|[[Rodrigo Riquelme (footballer, born 2000)|Rodrigo Riquelme]]
+|0
+|1
+|0
+|0
+|'''1'''
+|-
+|20
+|[[Defender (association football)|DF]]
+|{{flagicon|BEL}}
+|[[Axel Witsel]]
+|0
+|0
+|0
+|1
+|'''1'''
+|-
+|24
+|[[Defender (association football)|DF]]
+|{{flagicon|ESP}}
+|[[Robin Le Normand]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|colspan=5|[[Own goal#Association football|Own goals]]
+|0
+|1
+|0
+|0
+|'''1'''
+|-
+!colspan=5|Totals
+!68
+!19
+!22
+!4
+!113
+|}
+
+== References ==
+{{Reflist}}
+
+{{Atlético Madrid seasons}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Atlético Madrid season}}
+[[Category:Atlético Madrid seasons]]
+[[Category:Spanish football clubs 2024–25 season|Atlético Madrid]]
+[[Category:2024–25 UEFA Champions League participants seasons|Atlético Madrid]]
+[[Category:2025 FIFA Club World Cup participants seasons|Atletico Madrid]]
+[[Category:2024 in Madrid]]
+[[Category:2025 in Madrid]]

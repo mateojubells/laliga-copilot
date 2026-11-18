@@ -1,0 +1,1761 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[Girona FC]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Delfí Geli]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Míchel (footballer, born 1975)|Míchel]]
+|stdtitle           = 
+|stadium            = [[Estadi Montilivi]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|16th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Second round]]
+|cup2               = [[UEFA Champions League]]
+|cup2 result        = [[2024–25 UEFA Champions League|League phase]]
+|league topscorer   = <br>[[Cristhian Stuani]] (11)
+|season topscorer   = <br>Cristhian Stuani (11)
+|highest attendance = 13,891
+|lowest attendance  = 
+|average attendance = 11,657<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = Girona 4–0 [[CA Osasuna|Osasuna]]<br>[[CD Extremadura 1924|Extremadura]] 0–4 Girona
+|largest loss       = [[PSV Eindhoven]] 4–0 Girona<br>Girona 0–4 [[Atlético Madrid]]
+|pattern_la1        = _girona2425h
+|pattern_b1         = _girona2425h
+|pattern_ra1        = _girona2425h
+|pattern_sh1        = _girona2425h
+|pattern_so1        = 
+|leftarm1           = FF0000
+|body1              = FF0000
+|rightarm1          = FF0000
+|shorts1            = FF0000
+|socks1             = FFFFFF
+| pattern_la2 = _girona2425a
+| pattern_b2 = _girona2425a
+| pattern_ra2 = _girona2425a
+| pattern_sh2 = _girona2425a
+| pattern_so2 = 
+| leftarm2 = 000060
+| body2 = 000060
+| rightarm2 = 000060
+| shorts2 = 000060
+| socks2 = 000060
+|pattern_la3        = _girona2425t
+|pattern_b3         = _girona2425t
+|pattern_ra3        = _girona2425t
+|pattern_sh3        = _girona2425t
+|pattern_so3        = 
+|leftarm3           = 
+|body3              = 
+|rightarm3          = 
+|shorts3            = 
+|socks3             = 891C8A
+|prevseason         = [[2023–24 Girona FC season|2023–24]]
+|nextseason         = [[2025–26 Girona FC season|2025–26]]
+}}
+The '''2024–25 season''' was the 95th season in the history of '''[[Girona FC|Girona Futbol Club]]''', and the club's third consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]] and made a debut appearance in the [[2024–25 UEFA Champions League|UEFA Champions League]], their first ever European competition participation.<ref>{{cite news|url=https://www.nytimes.com/athletic/5471698/2024/05/04/girona-champions-league/|title=Girona beat Barcelona to qualify for Champions League for first time|first=Callum|last=Davis|publisher=The New York Times|date=4 May 2024}}</ref>
+
+== Players ==
+=== First-team squad ===
+{{updated|1 February 2025}}<ref>{{cite web|url=https://www.gironafc.cat/en/players|title=First team|publisher=Girona FC|access-date=4 February 2023|archive-date=9 March 2023|archive-url=https://web.archive.org/web/20230309063545/https://www.gironafc.cat/en/players|url-status=live}}</ref>
+{{Fs start}}
+{{Fs player|no=1|pos=GK|nat=ESP|name=[[Juan Carlos (footballer, born 1988)|Juan Carlos]]}}
+{{Fs player|no=3|pos=DF|nat=ESP|name=[[Miguel Gutiérrez (footballer, born 2001)|Miguel Gutiérrez]]}}
+{{Fs player|no=4|pos=DF|nat=ESP|name=[[Arnau Martínez]]|other=[[captain (association football)#3rd captain|3rd captain]]}}
+{{Fs player|no=5|pos=DF|nat=ESP|name=[[David López (footballer, born 1989)|David López]]}}
+{{Fs player|no=6|pos=MF|nat=NED|name=[[Donny van de Beek]]}}
+{{Fs player|no=7|pos=FW|nat=URU|name=[[Cristhian Stuani]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=8|pos=FW|nat=UKR|name=[[Viktor Tsyhankov]]}}
+{{Fs player|no=9|pos=FW|nat=ESP|name=[[Abel Ruiz]]}}
+{{Fs player|no=10|pos=FW|nat=COL|name=[[Yáser Asprilla]]}}
+{{Fs player|no=11|pos=FW|nat=NED|name=[[Arnaut Danjuma]]|other=on loan from [[Villarreal CF|Villarreal]]}}
+{{Fs player|no=12|pos=MF|nat=BRA|name=[[Arthur Melo|Arthur]]|other=on loan from [[Juventus FC|Juventus]]}}
+{{Fs player|no=13|pos=GK|nat=ARG|name=[[Paulo Gazzaniga]]}}
+{{Fs mid}}
+{{Fs player|no=14|pos=MF|nat=ESP|name=[[Oriol Romeu]]|other=on loan from [[FC Barcelona|Barcelona]]}}
+{{Fs player|no=15|pos=DF|nat=ESP|name=[[Juanpe (footballer, born 1991)|Juanpe]]}}
+{{Fs player|no=16|pos=DF|nat=ESP|name=[[Alejandro Francés]]}}
+{{Fs player|no=17|pos=DF|nat=NED|name=[[Daley Blind]]}}
+{{Fs player|no=18|pos=DF|nat=CZE|name=[[Ladislav Krejčí (footballer, born 1999)|Ladislav Krejčí]]}}
+{{Fs player|no=19|pos=FW|nat=MKD|name=[[Bojan Miovski]]}}
+{{Fs player|no=20|pos=FW|nat=ESP|name=[[Bryan Gil]]|other=on loan from [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+{{Fs player|no=21|pos=MF|nat=VEN|name=[[Yangel Herrera]]}}
+{{Fs player|no=22|pos=MF|nat=COL|name=[[Jhon Solís (footballer, born 2004)|Jhon Solís]]}}
+{{Fs player|no=23|pos=MF|nat=ESP|name=[[Iván Martín (footballer, born 1999)|Iván Martín]]|other=[[vice-captain (association football)|vice-captain]]}}
+{{Fs player|no=24|pos=FW|nat=ESP|name=[[Portu]]}}
+{{Fs player|no=27|pos=FW|nat=NED|name=[[Gabriel Misehouy]]}}
+{{Fs end}}
+
+=== Reserve team ===
+{{Main|Girona FC B}}
+{{Fs start}}
+{{Fs player|no=26|pos=DF|nat=ESP|name=[[Oriol Comas Feixas|Oriol Comas]]}}
+{{Fs player|no=29|pos=FW|nat=KOR|name=[[Kim Min-su (footballer, born 2006)|Kim Min-su]]}}
+{{Fs player|no=30|pos=MF|nat=ESP|name=[[Enric García Hurtado|Enric García]]}}
+{{Fs player|no=31|pos=FW|nat=POR|name=[[Jastin García]]}}
+{{Fs player|no=33|pos=DF|nat=ESP|name=[[Marc Aznar Baides|Marc Aznar]]}}
+{{Fs player|no=34|pos=FW|nat=VEN|name=[[Juan Arango Jr.|Juan Arango]]}}
+{{Fs player|no=35|pos=DF|nat=HUN|name=[[Antal Yaakobishvili]]}}
+{{Fs player|no=36|pos=MF|nat=ESP|name=[[Ricard Artero]]}}
+{{Fs mid}}
+{{Fs player|no=37|pos=MF|nat=ESP|name=[[Raúl Martínez Moreno|Raúl Martínez]]}}
+{{Fs player|no=40|pos=GK|nat=GAM|name=[[Jordi Bilali Danso|Jordi Danso]]}}
+{{Fs player|no=41|pos=GK|nat=ESP|name=[[Pau Funallet García|Pau Funallet]]}}
+{{Fs player|no=42|pos=GK|nat=ESP|name=[[Lucas García Madrigal|Lucas García]]}}
+{{Fs player|no=43|pos=GK|nat=BUL|name=[[Aleksandar Metodiev Andreev|Aleksandar Andreev]]}}
+{{Fs player|no=44|pos=FW|nat=SEN|name=[[Papa Dame Ba|Papa Ba]]}}
+{{Fs player|no=45|pos=DF|nat=ESP|name=[[Ferran Ruiz]]}}
+{{Fs player|no=46|pos=FW|nat=MTN|name=[[Dawda Camara]]}}
+{{Fs end}}
+
+=== Out on loan ===
+{{Fs start}}
+{{Fs player|no=|pos=GK|nat=ESP|name=[[Toni Fuidias]]|other=at [[FC Cartagena|Cartagena]] until 30 June 2025}}
+{{Fs player|no=|pos=DF|nat=ESP|name=[[Valery Fernández]]|other=at [[RCD Mallorca|Mallorca]] until 30 June 2025}}
+{{Fs player|no=|pos=MF|nat=MLI|name=[[Ibrahima Kébé (footballer)|Ibrahima Kébé]]|other=at [[Lommel S.K.|Lommel]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|pos=FW|nat=MAR|name=[[Ilyas Chaira]]|other=at [[Real Oviedo|Oviedo]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Joel Roca]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 65px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|MAR}} [[Ilyas Chaira]]
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|MLI}} [[Ibrahima Kébé (footballer)|Ibrahima Kébé]]
+|{{fbaicon|ESP}} [[CD Mirandés|Mirandés]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} [[Manu Vallejo]]
+|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|CZE}} [[Ladislav Krejčí (footballer, born 1999)|Ladislav Krejčí]]
+|{{fbaicon|CZE}} [[AC Sparta Prague|Sparta Prague]]
+|€12,000,000<ref>{{cite web|url=https://www.diaridegirona.cat/girona-fc/2024/06/14/oficial-ladislav-krejci-primer-fitxatge-103801333.html|title=Oficial: Ladislav Krejci, el primer fitxatge de Champions|first=Tatiana|last=Pérez|date=14 June 2024|website=Diari de Girona}}</ref>
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/ladislav-krejci-signed-for-5-seasons|title=Ladislav Krejčí, signed for 5 seasons|publisher=Girona FC|date=14 June 2024|access-date=10 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} [[Abel Ruiz]]
+|{{fbaicon|POR}} [[S.C. Braga|Braga]]
+|€8,500,000
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/abel-ruiz-red-and-white-until-2029|title=Abel Ruiz, red and white until 2029|publisher=Girona FC|date=27 June 2024|access-date=10 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|NED}} [[Gabriel Misehouy]]
+|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|Free
+|{{dts|10 July 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/gabriel-misehouy-joins-girona-fc|title=Gabriel Misehouy joins Girona FC|publisher=Girona FC|date=10 July 2024|access-date=10 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|NED}} [[Donny van de Beek]]
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|€500,000<ref>{{cite news|url=https://www.nytimes.com/athletic/5621551/2024/07/11/man-utd-donny-van-de-beek-girona/|title=Van de Beek completes Girona move|first=Mark|last=Critchley|publisher=The New York Times|date=11 July 2024|access-date=11 July 2024}}</ref>
+|{{dts|11 July 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/van-de-beek-joins-girona-until-2028|title=Van de Beek joins Girona until 2028|publisher=Girona FC|date=11 July 2024|access-date=11 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Alejandro Francés]]
+|{{fbaicon|ESP}} [[Real Zaragoza|Zaragoza]]
+|€4,000,000
+|{{dts|26 July 2024}}
+|<ref>{{cite web|url=https://as.com/futbol/primera/oficial-alejandro-frances-ya-es-del-girona-n/|title=Oficial: Alejandro Francés ya es del Girona|first1=Álex|last1=Biescas|first2=Javier|last2=Marín|date=26 July 2024|website=Diario AS|access-date=29 July 2024|archive-url=https://web.archive.org/web/20240806142047/https://as.com/futbol/primera/oficial-alejandro-frances-ya-es-del-girona-n/|archive-date=6 August 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Bryan Gil]]
+|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|Loan
+|{{dts|29 July 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/bryan-gil-arriba-cedit-des-del-tottenham|title=Bryan Gil arrives on loan from Tottenham|publisher=Girona FC|date=29 July 2024|access-date=29 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Oriol Romeu]]
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|Loan
+|{{dts|5 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/el-retorn-doriol-romeu|title=The return of Oriol Romeu|publisher=Girona FC|date=5 August 2024|access-date=5 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|FW}}
+|{{flagicon|MKD}} [[Bojan Miovski]]
+|{{fbaicon|SCO}} [[Aberdeen F.C.|Aberdeen]]
+|€4,700,000
+|{{dts|15 August 2024}}
+|<ref>{{cite web|url=https://www.bbc.com/sport/football/articles/c05jm3mjml1o|title=Aberdeen receive record fee as Miovski joins Girona|date=15 August 2024|website=BBC Sport}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{flagicon|ESP}} [[Pau López]]
+|{{fbaicon|FRA}} [[Olympique de Marseille|Marseille]]
+|Loan
+|{{dts|16 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/pau-lopez-a-new-goalkeeper-for-girona|title=Pau López, a new goalkeeper for Girona|publisher=Girona FC|date=16 August 2024|access-date=16 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|COL}} [[Yáser Asprilla]]
+|{{fbaicon|ENG}} [[Watford F.C.|Watford]]
+|€18,000,000
+|{{dts|23 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/yaser-asprilla-nou-jugador-del-girona-fc|title=Yáser Asprilla, new player of Girona FC|publisher=Girona FC|date=23 August 2024|access-date=23 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Danjuma, Arnaut|{{flagicon|NED}} [[Arnaut Danjuma]]}}
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/danjuma-new-girona-fc-player|title=Danjuma, new Girona FC player|publisher=Girona FC|date=30 August 2024|access-date=30 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Arthur|{{flagicon|BRA}} [[Arthur Melo|Arthur]]}}
+|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|Loan
+|{{dts|1 February 2025}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/arthur-melo-nou-jugador-del-girona|title=Arthur Melo, new Girona player|publisher=Girona FC|date=1 February 2025|access-date=1 February 2025}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 65px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Couto, Yan|{{flagicon|BRA}} [[Yan Couto]]}}
+|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Garcia, Eric|{{flagicon|ESP}} [[Eric García (footballer, born 2001)|Eric García]]}}
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|End of loan
+|{{dts|30 June 2024}}
+|<ref>{{cite news|url=https://www.besoccer.com/new/i-will-return-to-barcelona-and-they-ll-decide-my-future-1313532|title="I will return to Barcelona and they'll decide my future"|website=BeSoccer|date=4 May 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Torre, Pablo|{{flagicon|ESP}} [[Pablo Torre (footballer)|Pablo Torre]]}}
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|End of loan
+|{{dts|30 June 2024}}
+|<ref>{{cite web|url=https://www.football-espana.net/2024/04/01/pablo-torre-future-at-barcelona-in-serious-doubt|title=Pablo Torre future at Barcelona in serious doubt|first=Ruairidh|last=Barlow|date=1 April 2024|website=Football España}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Savinho|{{flagicon|BRA}} [[Savinho]]}}
+|{{fbaicon|FRA}} [[ES Troyes AC|Troyes]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Garcia, Aleix|{{flagicon|ESP}} [[Aleix García]]}}
+|{{fbaicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|€18,000,000
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://sports.yahoo.com/girona-captain-aleix-garcia-headed-113200867.html|title=Girona captain Aleix Garcia headed to Bayer Leverkusen but first two signings over the line|date=13 June 2024|website=Yahoo Sports}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Fuidias, Toni|{{flagicon|ESP}} [[Toni Fuidias]]}}
+|{{fbaicon|ESP}} [[FC Cartagena|Cartagena]]
+|Loan
+|{{dts|10 July 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/toni-fuidias-on-loan-to-fc-cartagena|title=Toni Fuidias, on loan to FC Cartagena|publisher=Girona FC|date=10 July 2024|access-date=10 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Kebe, Ibrahima|{{flagicon|MLI}} [[Ibrahima Kébé (footballer)|Ibrahima Kébé]]}}
+|{{fbaicon|BEL}} [[Lommel S.K.|Lommel]]
+|Loan
+|{{dts|24 July 2024}}
+|<ref>{{cite news|url=https://sports.yahoo.com/news/ibra-k-b-loan-lommel-133000327.html|title=Ibra Kébé on loan to Lommel|date=24 July 2024|website=Yahoo Sports}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Dovbyk, Artem|{{flagicon|UKR}} [[Artem Dovbyk]]}}
+|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|€30,500,000
+|{{dts|2 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/dovbyk-transferred-to-as-roma|title=Dovbyk transferred to AS Roma|publisher=Girona FC|date=2 August 2024|access-date=2 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Urena, Oscar|{{flagicon|DOM}} [[Oscar Ureña]]}}
+|{{fbaicon|ESP}} [[FC Barcelona Atlètic|Barcelona B]]
+|Undisclosed
+|{{dts|19 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/oscar-urena-traspassat-al-fc-barcelona|title=Oscar Ureña transferred to FC Barcelona|publisher=Girona FC|date=19 August 2024|access-date=19 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Vallejo, Manu|{{flagicon|ESP}} [[Manu Vallejo]]}}
+|{{fbaicon|ESP}} [[Racing de Ferrol|Racing Ferrol]]
+|Free
+|{{dts|20 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/manu-vallejo-will-not-continue-at-girona-fc|title=Manu Vallejo will not continue at Girona FC|publisher=Girona FC|date=20 August 2024|access-date=20 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Chaira, Ilyas|{{flagicon|MAR}} [[Ilyas Chaira]]}}
+|{{fbaicon|ESP}} [[Real Oviedo|Oviedo]]
+|Loan
+|{{dts|24 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/ilyas-chaira-cedit-al-real-oviedo|title=Ilyas Chaira, on loan to Real Oviedo|publisher=Girona FC|date=24 August 2024|access-date=24 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Villa, Toni|{{flagicon|ESP}} [[Toni Villa]]}}
+|{{fbaicon|ESP}} [[SD Eibar|Eibar]]
+|Free
+|{{dts|26 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/toni-villa-leaves-girona-fc|title=Toni Villa leaves Girona FC|publisher=Girona FC|date=26 August 2024|access-date=26 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Almena, Iker|{{flagicon|ESP}} [[Iker Almena]]}}
+|{{fbaicon|KSA}} [[Al Qadsiah FC|Al Qadsiah]]
+|Undisclosed
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/iker-almena-traspassat-a-lal-qadisiyah|title=Iker Almena, transferred to Al Qadisiyah|publisher=Girona FC|date=30 August 2024|access-date=30 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Fernandez, Valery|{{flagicon|ESP}} [[Valery Fernández]]}}
+|{{fbaicon|ESP}} [[RCD Mallorca|Mallorca]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/valery-on-loan-to-mallorca|title=Valery on loan to Mallorca|publisher=Girona FC|date=30 August 2024|access-date=30 August 2024}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Lopez, Pau|{{flagicon|ESP}} [[Pau López]]}}
+|{{fbaicon|FRA}} [[Olympique de Marseille|Marseille]]
+|End of loan
+|{{dts|6 January 2025}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/pau|title=Pau López leaves Girona|publisher=Girona FC|date=1 February 2025|access-date=1 February 2025}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Dovbyk, Artem|{{flagicon|ESP}} [[Selvi Clua]]}}
+|{{fbaicon|ESP}} [[UD Almería|Almería]]
+|Undisclosed
+|{{dts|31 January 2025}}
+|<ref>{{cite news|url=https://www.gironafc.cat/en/news/selvi-clua-traspassat-a-lalmeria|title=Selvi Clua, transferred to Almería|publisher=Girona FC|date=31 January 2025|access-date=31 January 2025}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+A first friendly programme versus Olot, Espanyol and Toulouse was announced on 29 May.<ref>{{cite news|url=https://www.gironafc.cat/es/noticias/partidos-amistoso-contra-olot-espanyol-y-toulouse|title=Partidos amistoso contra Olot, Espanyol y Toulouse|publisher=Girona FC|language=es|date=29 May 2024}}</ref><ref>{{cite web|url=https://as.com/futbol/primera/el-girona-define-la-pretemporada-n/|title=El Girona define la pretemporada|first=Álex|last=Biescas|date=29 May 2024|website=Diario AS}}</ref>
+
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 17 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[UE Olot|Olot]] {{fbaicon|ESP}}
+|score = 1–1
+|report = 
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Albert Torres (footballer)|Torres]] {{goal|49}}
+|goals2 =
+*[[Iker Almena|Almena]] {{goal|51}}
+|stadium = Camp Municipal d'Olot
+|location = [[Olot]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 20 July 2024
+|time = 11:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Montpellier HSC|Montpellier]] {{fbaicon|FRA}}
+|score = 3–3
+|report = 
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Arnaud Nordin|Nordin]] {{goal|19}}
+*[[Wahbi Khazri|Khazri]] {{goal|71|pen.|85}}
+|goals2 =
+*[[Artem Dovbyk|Dovbyk]] {{goal|24||38}}
+*[[Manu Vallejo|Vallejo]] {{goal|81}}
+|stadium = Instalaciones de Royalverd
+|location = [[Les Preses]]
+|attendance = 0
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 27 July 2024
+|time = 11:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Espanyol|Espanyol]] {{fbaicon|ESP}}
+|score = 0–0
+|report = 
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+|goals2 =
+|stadium = Campo de Torremirona
+|location = [[Navata]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 31 July 2024
+|time = 11:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona {{fbaicon|ESP}}
+|score = 0–4
+|report = 
+|team2 = {{fbaicon|FRA}} [[Toulouse FC|Toulouse]]
+|goals1 =
+*[[Paulo Gazzaniga|Gazzaniga]] {{sentoff|0|42}}
+|goals2 =
+*[[Rasmus Nicolaisen|Nicolaisen]] {{goal|45+4}}
+*[[Shavy Babicka|Babicka]] {{goal|50}}
+*[[Zakaria Aboukhlal|Aboukhlal]] {{goal|61}}
+*[[César Gelabert|Gelabert]] {{goal|69}}
+|stadium = Campo de Torremirona
+|location = [[Navata]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[SSC Napoli|Napoli]] {{fbaicon|ITA}}
+|score = 0–2
+|report = 
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Giovanni Di Lorenzo|Di Lorenzo]] {{yel|80}}
+|goals2 =
+*[[Donny van de Beek|Van de Beek]] {{goal|23}}
+*[[Valery Fernández|Valery]] {{yel|61}}
+*[[Arnau Martínez|Martínez]] {{yel|63}}
+*[[Toni Villa|Toni]] {{goal|83}}
+|stadium = [[Stadio Teofilo Patini]]
+|location = [[Castel di Sangro]], Italy
+|attendance = 
+|referee = Gabriele Scatena ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{Football box collapsible
+|round = Sela Cup
+|date = 9 August 2024
+|time = 19:30 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Newcastle United F.C.|Newcastle United]] {{fbaicon|ENG}}
+|score = 4–0
+|report = 
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Sean Longstaff|Longstaff]] {{goal|2||38}}
+*[[Jacob Murphy|Murphy]] {{goal|13}}
+*[[Alexander Isak|Isak]] {{penmiss}} {{small|21'}}
+*[[Anthony Gordon (footballer)|Gordon]] {{goal|25}}
+|goals2 =
+|stadium = [[St James' Park]]
+|location = [[Newcastle upon Tyne]], England
+|attendance = 31,958
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 10 August 2024
+|time = 17:15 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[AFC Bournemouth|Bournemouth]] {{fbaicon|ENG}}
+|score = 3–2
+|report = 
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Justin Kluivert|Kluivert]] {{goal|6|pen.}}
+*[[Alex Scott (footballer, born 2003)|Scott]] {{yel|57}}
+*[[Luis Sinisterra|Sinisterra]] {{goal|72}}
+*[[Daniel Jebbison|Jebbison]] {{goal|80}}
+|goals2 =
+*[[Cristhian Stuani|Stuani]] {{goal|35}}, {{yel|82}}
+*[[Joel Roca|Roca]] {{goal|50}}, {{yel|66}}
+|stadium = [[Dean Court]]
+|location = [[Bournemouth]], England
+|attendance = 
+|referee = Yusuke Araki ([[Japan Football Association|Japan]])
+|result = L
+}}
+
+=== Copa Catalunya ===
+{{Football box collapsible
+|round = Semi-finals
+|date = 2 April 2025
+|time = 19:00
+|team1 = [[FC Andorra|Andorra]]
+|score = 2–3
+|report = https://www.gironafc.cat/es/noticias/el-girona-accede-a-la-final-de-la-copa-catalunya
+|team2 = Girona
+|goals1 =
+*[[Álvaro Peña (Spanish footballer)|Peña]] {{goal|9}}
+*[[Lautaro de León|De León]] {{goal|33}}
+|goals2 =
+*[[Dawda Camara|Camara]] {{goal|44}}
+*[[Arnau Torras Folgarolas|Folgarolas]] {{goal|57|o.g.}}
+*[[Juan Arango Jr.|Arango]] {{goal|90+3}}
+|stadium = [[Estadi Nacional]]
+|location = [[Andorra la Vella]]
+|attendance = 
+|referee = 
+|result = W
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=3
+|c1=[[2024–25 La Liga|La Liga]] |fm1=15 August 2024 |lm1=25 May 2025 |sr1=Matchday 1 |fp1=16th |w1=11 |d1=8 |l1=19 |f1=44 |a1=60
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=30 October 2024 |lm2=4 December 2024 |sr2=First round |fp2=Second round |w2=1 |d2=1 |l2=0 |f2=4 |a2=0
+|c3=[[2024–25 UEFA Champions League|UEFA Champions League]] |fm3=18 September 2024 |lm3=29 January 2025 |sr3=League phase |fp3=League phase |w3=1 |d3=0 |l3=7 |f3=5 |a3=13
+|s=[https://www.soccerway.com/team/girona/nNNpcUSL/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=GIR}}
+
+==== Results summary ====
+{{Fb rs |hw=7 |hd=3 |hl=9 |hgf=27 |hga=30 |aw=4 |ad=5 |al=10 |agf=17 |aga=30}}
+{{Fb rs footer |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| res1=A/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/A/H
+| label2=Result
+| res2=D/L/W/W/L/L/D/D/W/L/L/W/W/W/D/L/L/W/W/L/L/W/L/L/L/D/D/D/L/L/L/L/D/W/L/W/L/L
+| label3=Position
+| pos3=15/18/7/5/8/12/12/12/11/12/13/12/10/7/8/9/10/8/8/8/8/7/8/10/13/13/13/13/13/14/16/16/16/15/15/13/15/16
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 15 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Betis]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-girona-fc-1
+|team2 = Girona
+|goals1 =
+*[[Marc Bartra|Bartra]] {{goal|6}}
+*[[Romain Perraud|Perraud]] {{yel|83}}
+*[[Aitor Ruibal|Ruibal]] {{yel|87}}
+|goals2 =
+*[[Gabriel Misehouy|Misehouy]] {{goal|72}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 54,084
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 25 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-girona-fc-2
+|team2 = Girona
+|goals1 =
+*[[Rodrigo De Paul|De Paul]] {{yel|25}}
+*[[Antoine Griezmann|Griezmann]] {{goal|39}}
+*[[Marcos Llorente|Llorente]] {{goal|48}}
+*[[Koke (footballer, born 1992)|Koke]] {{goal|90+4}}
+|goals2 =
+*[[Abel Ruiz|Ruiz]] {{yel|28}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|37}}
+*[[Oriol Romeu|Romeu]] {{yel|55}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,414
+|referee = [[Juan Martínez Munuera]]
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 29 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-ca-osasuna-3
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Bryan Gil|Gil]] {{goal|34}}
+*[[Viktor Tsyhankov|Tsyhankov]] {{goal|53}}
+*[[Abel Ruiz|Ruiz]] {{goal|56}}
+*[[Cristhian Stuani|Stuani]] {{goal|90}}
+|goals2 =
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 13,275
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-girona-fc-4
+|team2 = Girona
+|goals1 =
+*[[Albert Sambi Lokonga|Sambi Lokonga]] {{yel|47}}
+*[[Loïc Badé|Badé]] {{yel|67}}
+*[[Isaac Romero|Romero]] {{yel|90+4}}
+|goals2 =
+*[[Iván Martín (footballer, born 1999)|Martín]] {{goal|41}}
+*[[Yáser Asprilla|Asprilla]] {{yel|63}}
+*[[Abel Ruiz|Ruiz]] {{goal|73|pen.}}
+*[[Alejandro Francés|Francés]] {{yel|76}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,735
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 15 September 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 1–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-fc-barcelona-5
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Bryan Gil|Gil]] {{yel|36}}
+*[[Cristhian Stuani|Stuani]] {{goal|80}}, {{yel|90+6}}
+*[[Portu]] {{yel|90+1}}
+|goals2 =
+*[[Lamine Yamal|Yamal]] {{goal|30||37}}, {{yel|90+1}}
+*[[Dani Olmo|Olmo]] {{goal|47}}
+*[[Pedri]] {{goal|64}}
+*[[Pau Víctor|Víctor]] {{yel|84}}
+*[[Ferran Torres|Torres]] {{sentoff|0|86}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 13,891
+|referee = Alejandro Muñiz Ruiz
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 21 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-girona-fc-6
+|team2 = Girona
+|goals1 =
+*[[Luis Rioja|Rioja]] {{goal|56}}
+*[[Dani Gómez (footballer, born 1998)|Gómez]] {{goal|58}}
+*[[Pepelu]] {{yel|60}}
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{yel|82}}
+*[[Sergi Canós|Canós]] {{yel|89}}
+|goals2 =
+*[[Juanpe (footballer, born 1991)|Juanpe]] {{yel|24}}
+*[[Arnaut Danjuma|Danjuma]] {{yel|45}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 40,896
+|referee = [[Alejandro Hernández Hernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 25 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-rayo-vallecano-7
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Viktor Tsyhankov|Tsyhankov]] {{yel|20}}
+*[[Abel Ruiz|Ruiz]] {{yel|58}}
+*[[Yangel Herrera|Herrera]] {{yel|83}}
+|goals2 =
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{yel|45}}
+*[[Unai López|López]] {{yel|64}}
+*[[Iván Balliu|Balliu]] {{yel|89}}
+*[[Andrei Rațiu|Rațiu]] {{yel|90+3}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,272
+|referee = Juan Martínez Munuera
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 29 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-girona-fc-8
+|team2 = Girona
+|goals1 =
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|78}}
+*[[Iago Aspas|Aspas]] {{goal|81}}
+|goals2 =
+*[[Yangel Herrera|Herrera]] {{goal|38}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 21,347
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = D
+}}
+{{Football box collapsible
+|round = 9
+|date = 6 October 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-athletic-club-9
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|31}}
+*[[Yáser Asprilla|Asprilla]] {{goal|39}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|56}}
+*[[David López (footballer, born 1989)|D. López]] {{yel|57}}
+*[[Yangel Herrera|Herrera]] {{yel|90+1}}
+*[[Cristhian Stuani|Stuani]] {{goal|90+9|pen.}}
+|goals2 =
+*[[Álex Berenguer|Berenguer]] {{penmiss}} {{small|28'}}
+*[[Oihan Sancet|Sancet]] {{goal|41}}
+*[[Daniel Vivian (footballer)|Vivian]] {{yel|45+3}}
+*[[Ander Herrera|Herrera]] {{penmiss}} {{small|58'}}
+*[[Aitor Paredes|Paredes]] {{sentoff|2|90+7|90+8}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 13,396
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 10
+|date = 19 October 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-real-sociedad-10
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Arnau Martínez|Martínez]] {{yel|30}}
+*[[Yangel Herrera|Herrera]] {{yel|74}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|44}}
+*[[Brais Méndez|Méndez]] {{yel|55}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,602
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 26 October 2024
+|time = 17:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-girona-fc-11
+|team2 = Girona
+|goals1 =
+*[[José Campaña|Campaña]] {{yel|21}}
+*[[Álex Muñoz|Á. Muñoz]] {{goal|42}}
+*[[Dário Essugo|Essugo]] {{yel|47}}
+*[[Jaime Mata|Mata]] {{yel|90+5}}
+*[[Sandro Ramírez|Sandro]] {{yel|90+7}}
+|goals2 =
+*[[Donny van de Beek|Van de Beek]] {{yel|72}}
+*[[Juan Carlos (footballer, born 1988)|Juan Carlos]] {{sentoff|0|78}}
+*[[Daley Blind|Blind]] {{yel|87}}
+*[[Arnau Martínez|Martínez]] {{yel|90+1}}
+*[[David López (footballer, born 1989)|D. López]] {{yel|90+2}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|90+6}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 21,506
+|referee = Alejandro Quintero González
+|result = L
+|note = Juan Carlos received a red card for dissent as an unused substitute.
+}}
+{{Football box collapsible
+|round = 12
+|date = 2 November 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 4–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-cd-leganes-12
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{goal|21}}
+*[[Arnau Martínez|Martínez]] {{goal|31}}
+*[[Cristhian Stuani|Stuani]] {{goal|62|pen.}}
+*[[Sergio González (footballer, born 1992)|González]] {{goal|73|o.g.}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|88}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|89}}
+*[[Oriol Romeu|Romeu]] {{yel|90+2}}
+|goals2 =
+*[[Renato Tapia|Tapia]] {{goal|25}}
+*[[Yvan Neyou|Neyou]] {{yel|33}}
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|41}}
+*[[Munir El Haddadi|Munir]] {{goal|77}}, {{yel|87}}
+*[[Matija Nastasić|Nastasić]] {{yel|81}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|90+8}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 10,839
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-girona-fc-13
+|team2 = Girona
+|goals1 =
+*[[Diego Rico|Rico]] {{yel|38}}
+*[[Álex Sola|Sola]] {{yel|87}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|90+2}}
+|goals2 =
+*[[Donny van de Beek|Van de Beek]] {{yel|34}}
+*[[Oriol Romeu|Romeu]] {{yel|39}}
+*[[Yangel Herrera|Herrera]] {{yel|40}}, {{goal|42}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 10,923
+|referee = [[Juan Martínez Munuera]]
+|result = W
+}}
+{{Football box collapsible
+|round = 14
+|date = 23 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 4–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-rcd-espanyol-14
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Bryan Gil|Gil]] {{goal|4}}
+*[[Bojan Miovski|Miovski]] {{goal|16||21}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|27}}
+|goals2 =
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{yel|36}}
+*[[Javi Puado|Puado]] {{goal|55}}, {{yel|71}}
+*[[Jofre Carreras|Carreras]] {{yel|72}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,461
+|referee = [[Alejandro Hernández Hernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-girona-fc-15
+|team2 = Girona
+|goals1 =
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|23}}
+*[[Sergi Cardona|Cardona]] {{yel|40}}
+*[[Álex Baena|Baena]] {{goal|46}}
+*[[Raúl Albiol|Albiol]] {{yel|85}}
+|goals2 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|18}}, {{goal|90+7}}
+*[[Bryan Gil|Gil]] {{yel|31}}
+*[[Donny van de Beek|Van de Beek]] {{goal|66}}, {{yel|90+3}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|85}}
+*[[Daley Blind|Blind]] {{yel|90+3}}
+*[[Portu]] {{yel|90+8}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,732
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 16
+|date = 7 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-real-madrid-16
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|76}}
+*[[Oriol Romeu|Romeu]] {{yel|90}}
+*[[Portu]] {{yel|90+4}}
+|goals2 =
+*[[Jude Bellingham|Bellingham]] {{goal|36}}
+*[[Kylian Mbappé|Mbappé]] {{yel|45+2}}, {{goal|62}}
+*[[Arda Güler|Güler]] {{goal|55}}
+*[[Antonio Rüdiger|Rüdiger]] {{yel|76}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 13,827
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 14 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-girona-fc-17
+|team2 = Girona
+|goals1 =
+*[[Cyle Larin|Larin]] {{goal|20||51}}
+*[[Vedat Muriqi|Muriqi]] {{sentoff|0|32}}
+*[[Manu Morlanes|Morlanes]] {{yel|32}}
+*[[Omar Mascarell|Mascarell]] {{yel|42}}
+*[[José Manuel Copete|Copete]] {{yel|42}}
+*[[Martin Valjent|Valjent]] {{yel|66}}
+*[[Abdón Prats|Abdón]] {{yel|78}}
+|goals2 =
+*[[Donny van de Beek|Van de Beek]] {{goal|7}}
+*[[David López (footballer, born 1989)|D. López]] {{yel|47}}
+*[[Oriol Romeu|Romeu]] {{yel|57}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 15,866
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 18
+|date = 20 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-real-valladolid-cf-18
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Abel Ruiz|Ruiz]] {{yel|24}}, {{goal|39}}
+*[[David López (footballer, born 1989)|D. López]] {{goal|31}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|54}}
+*[[Iván Martín (footballer, born 1999)|Martín]] {{yel|60}}
+*[[Arnaut Danjuma|Danjuma]] {{goal|81}}
+|goals2 =
+*[[Iván Sánchez (footballer)|Sánchez]] {{yel|30}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 9,534
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 19
+|date = 11 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-girona-fc-19
+|team2 = Girona
+|goals1 =
+*[[Jon Guridi|Guridi]] {{yel|55}}
+|goals2 =
+*[[Arnaut Danjuma|Danjuma]] {{yel|35}}
+*[[Yangel Herrera|Herrera]] {{yel|45+2}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|49}}
+*[[Cristhian Stuani|Stuani]] {{yel|81}}
+*[[Jhon Solís (footballer, born 2004)|Solís]] {{goal|90+1}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,454
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 18 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-sevilla-fc-20
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Arnau Martínez|Martínez]] {{goal|36}}
+|goals2 =
+*[[Isaac Romero|Romero]] {{penmiss}} {{small|3'}}, {{yel|65}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|55}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{goal|59}}, {{yel|90+3}}
+*[[José Ángel Carmona|Carmona]] {{yel|76}}
+*[[Dodi Lukebakio|Lukebakio]] {{goal|88}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,040
+|referee = [[Juan Martínez Munuera]]
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Rayo Vallecano]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-girona-fc-21
+|team2 = Girona
+|goals1 =
+*[[Unai López|López]] {{yel|21}}
+*[[Randy Nteka|Nteka]] {{goal|80||83}}, {{yel|90+2}}
+*[[Florian Lejeune|Lejeune]] {{yel|90+7}}
+|goals2 =
+*[[Bryan Gil|Gil]] {{goal|58}}
+*[[Yangel Herrera|Herrera]] {{yel|70}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 12,405
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 22
+|date = 3 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-ud-las-palmas-22
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Abel Ruiz|Ruiz]] {{goal|8}}, {{penmiss}} {{small|45+1'}}
+*[[Donny van de Beek|Van de Beek]] {{yel|42}}
+*[[Yáser Asprilla|Asprilla]] {{goal|79}}
+*[[Jhon Solís (footballer, born 2004)|Solís]] {{yel|81}}
+|goals2 =
+*[[Scott McKenna|McKenna]] {{yel|45}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|82}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 10,088
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = 23
+|date = 8 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Athletic Bilbao]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-girona-fc-23
+|team2 = Girona
+|goals1 =
+*[[Oihan Sancet|Sancet]] {{goal|42|pen.|45+1||79}}
+|goals2 =
+*[[Bryan Gil|Gil]] {{yel|63}}
+*[[Juanpe (footballer, born 1991)|Juanpe]] {{yel|71}}
+*[[Yangel Herrera|Herrera]] {{yel|74}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|88}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48,261
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 14 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-getafe-cf-24
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Yangel Herrera|Herrera]] {{goal|54}}, {{sentoff|0|73}}
+*[[Portu]] {{yel|79}}
+*[[Yáser Asprilla|Asprilla]] {{yel|90+7}}
+|goals2 =
+*[[Christantus Uche|Uche]] {{goal|3}}, {{yel|88}}
+*[[Borja Mayoral|Mayoral]] {{goal|62}}
+*[[Carles Pérez|Pérez]] {{yel|76}}
+*[[Omar Alderete|Alderete]] {{yel|90}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 10,354
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-girona-fc-25
+|team2 = Girona
+|goals1 =
+*[[Luka Modrić|Modrić]] {{goal|41}}
+*[[Vinícius Júnior|Vinícius]] {{goal|83}}
+|goals2 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|64}}
+*[[Jhon Solís (footballer, born 2004)|Solís]] {{yel|70}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 74,028
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 1 March 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-getafe-cf-24
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Viktor Tsyhankov|Tsyhankov]] {{goal|21}}
+*[[Yangel Herrera|Herrera]] {{goal|68}}
+|goals2 =
+*[[Iker Losada|Losada]] {{goal|36}}
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{goal|51|pen.}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 11,449
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 10 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Espanyol|Espanyol]] 
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-girona-fc-27
+|team2 = Girona
+|goals1 =
+*[[Pol Lozano|Lozano]] {{yel|22}}
+*[[Edu Expósito|Expósito]] {{yel|45+3}}
+*[[Javi Puado|Puado]] {{yel|45+3}}
+*[[Jofre Carreras|Carreras]] {{goal|49}}
+|goals2 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|12}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|61}}
+*[[Bryan Gil|Gil]] {{yel|75}}
+*[[Cristhian Stuani|Stuani]] {{goal|88|pen.}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 23,997
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 28
+|date = 15 March 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-valencia-cf-28
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Yangel Herrera|Herrera]] {{yel|18}}
+*[[Cristhian Stuani|Stuani]] {{goal|64}}
+*[[Donny van de Beek|Van de Beek]] {{yel|90+3}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|58}}
+*[[José Gayà|Gayà]] {{yel|67}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 10,262
+|referee = [[José Luis Munuera Montero]]
+|result = D
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 4–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-girona-fc-29
+|team2 = Girona
+|goals1 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|43|o.g.}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|61||77}}
+*[[Ferran Torres|Torres]] {{goal|86}}
+|goals2 =
+*[[Yangel Herrera|Herrera]] {{yel|42}}
+*[[Arnaut Danjuma|Danjuma]] {{goal|53}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 48,258
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 30
+|date = 5 April 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-deportivo-alaves-30
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|90+5}}
+|goals2 =
+*[[Jon Guridi|Guridi]] {{yel|58}}
+*[[Carlos Vicente (footballer)|Vicente]] {{goal|61}}
+*[[Abdel Abqar|Abqar]] {{yel|65}}
+*[[Tomás Conechny|Conechny]] {{yel|83}}
+*[[Antonio Sivera|Sivera]] {{yel|87}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|89}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 11,384
+|referee = Alejandro Muñiz Ruiz
+|result = L
+}}
+{{Football box collapsible
+|round = 31
+|date = 13 April 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-girona-fc-31
+|team2 = Girona
+|goals1 =
+*[[Ante Budimir|Budimir]] {{goal|38}}
+*[[Pablo Ibáñez|Ibáñez]] {{goal|79}}
+*[[Kike Barja|Barja]] {{yel|86}}
+*[[Juan Cruz (footballer, born 1992)|Cruz]] {{yel|89}}
+|goals2 =
+*[[Cristhian Stuani|Stuani]] {{yel|73}}
+*[[Yáser Asprilla|Asprilla]] {{goal|90+6}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 20,260
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 21 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-real-betis-32
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Arthur Melo|Arthur]] {{yel|52}}
+*[[Alejandro Francés|Francés]] {{yel|65}}
+*[[Cristhian Stuani|Stuani]] {{goal|85}}
+*[[David López (footballer, born 1989)|D. López]] {{yel|90+3}}
+|goals2 =
+*[[Johnny Cardoso|Cardoso]] {{goal|6}}
+*[[Aitor Ruibal|Ruibal]] {{yel|26}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|39}}
+*[[Isco]] {{goal|42}}
+*[[Romain Perraud|Perraud]] {{yel|90+1}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,535
+|referee = [[Alejandro Hernández Hernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 33
+|date = 24 April 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-girona-fc-33
+|team2 = Girona
+|goals1 =
+*[[Adrià Altimira|Altimira]] {{yel|14}}
+*[[Seydouba Cissé|Cissé]] {{sentoff|0|19}}
+*[[Darko Brašanac|Brašanac]] {{yel|51}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|74}}
+*[[Diego García (footballer, born 2000)|García]] {{yel|87}}
+*[[Munir El Haddadi|Munir]] {{goal|90+2}}
+|goals2 =
+*[[Cristhian Stuani|Stuani]] {{goal|54}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|66}}
+*[[Arthur Melo|Arthur]] {{yel|75}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,595
+|referee = [[José Luis Munuera Montero]]
+|result = D
+}}
+{{Football box collapsible
+|round = 34
+|date = 5 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-rcd-mallorca-34
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Cristhian Stuani|Stuani]] {{goal|10}}
+|goals2 =
+*[[Antonio Raíllo|Raíllo]] {{yel|32}}
+*[[Sergi Darder|Darder]] {{yel|83}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 7,721
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-villarreal-cf-35
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|1}}
+*[[Yangel Herrera|Herrera]] {{yel|69}}
+|goals2 =
+*[[Pape Gueye|Gueye]] {{yel|15}}
+*[[Ayoze Pérez|Pérez]] {{yel|22}}
+*[[Dani Parejo|Parejo]] {{yel|87}}
+*[[Karl Etta Eyong|Etta Eyong]] {{goal|89}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,011
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 13 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-girona-fc-36
+|team2 = Girona
+|goals1 =
+|goals2 =
+*[[Cristhian Stuani|Stuani]] {{goal|80}}
+|stadium = [[José Zorrilla Stadium|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 12,664
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = [[Real Sociedad]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-girona-fc-37
+|team2 = Girona
+|goals1 =
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{goal|5}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|20|pen.}}
+*[[Hamari Traoré|Traoré]] {{yel|62}}
+*[[Arkaitz Mariezkurrena|Mariezkurrena]] {{goal|90+1}}
+|goals2 =
+*[[Cristhian Stuani|Stuani]] {{goal|10}}, {{yel|62}}
+*[[Jhon Solís (footballer, born 2004)|Solís]] {{yel|49}}
+*[[Portu]] {{goal|77}}
+*[[Arnau Martínez|Martínez]] {{yel|90+6}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 28,315
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 25 May 2025
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-atletico-de-madrid-38
+|team2 = [[Atlético Madrid]]
+|goals1 =
+|goals2 =
+*[[Alexander Sørloth|Sørloth]] {{goal|68||90||90+3}}
+*[[Clément Lenglet|Lenglet]] {{goal|87}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 11,546
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 30 October 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CD Extremadura 1924|Extremadura]]
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-extremadura-girona-fc-2
+|team2 = Girona
+|goals1 =
+*[[Fran Rosales|Rosales]] {{yel|85}}
+|goals2 =
+*[[Bryan Gil|Gil]] {{goal|12}}
+*[[Gabriel Misehouy|Misehouy]] {{yel|41}}
+*[[Donny van de Beek|Van de Beek]] {{yel|45}}
+*[[Bojan Miovski|Miovski]] {{goal|58||62}}
+*[[Arnau Martínez|Martínez]] {{goal|76}}
+|stadium = [[Estadio Francisco de la Hera]]
+|location = [[Almendralejo]]
+|attendance = 6,865
+|referee = [[José Luis Munuera Montero]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 4 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Logroñés]]
+|score = 0–0
+|aet = yes
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ud-logrones-girona-fc-3
+|team2 = Girona
+|goals1 =
+*[[Yasin Iribarren|Iribarren]] {{yel|90+6}}
+*[[Eloy Moreno|Moreno]] {{yel|96}}
+*[[Iván Garrido (footballer, born 2004)|Garrido]] {{yel|113}}
+*[[Antonio Caballero (footballer)|Caballero]] {{yel|119}}
+|goals2 =
+*[[Iván Martín (footballer, born 1999)|Martín]] {{yel|67}}
+*[[Juanpe (footballer, born 1991)|Juanpe]] {{yel|106}}
+|penaltyscore = 4–3
+|penalties1 =
+*[[Antonio Caballero (footballer)|Caballero]] {{pengoal}}
+*[[Jon Madrazo|Madrazo]] {{penmiss}}
+*[[Juan Agüero (footballer, born 1999)|Agüero]] {{pengoal}}
+*[[Eloy Moreno|Moreno]] {{pengoal}}
+*[[Yasin Iribarren|Iribarren]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Donny van de Beek|Van de Beek]]
+*{{penmiss}} [[Abel Ruiz|Ruiz]]
+*{{pengoal}} [[Arnaut Danjuma|Danjuma]]
+*{{pengoal}} [[Juanpe (footballer, born 1991)|Juanpe]]
+*{{penmiss}} [[Cristhian Stuani|Stuani]]
+|stadium = [[Estadio Las Gaunas|Las Gaunas]]
+|location = [[Logroño]]
+|attendance = 7,287
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = D
+}}
+
+===UEFA Champions League===
+{{main|2024–25 UEFA Champions League}}
+
+====League phase====
+{{main|2024–25 UEFA Champions League league phase}}
+
+The league phase draw was held on 29 August 2024.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0290-1bbaa109447c-6dbed8c6fe14-1000--champions-league-league-phase-draw-all-36-teams-learn-their|title=Champions League league phase draw: All 36 teams learn their opponents|publisher=UEFA|date=29 August 2024}}</ref>
+
+{{:2024–25 UEFA Champions League league phase|transcludesection=Table|showteam=GIR}}
+
+{{#invoke:sports rbr table|table|legendpos=b
+| header = Round
+| label1 = Ground
+| res1 = A/H/H/A/A/H/A/H
+| label2 = Result
+| res2 = L/L/W/L/L/L/L/L
+| label3 = Position
+| pos3 = 26/30/24/29/30/30/31/33
+| label4 = Points
+| pos4 = 0p/0p/3p/3p/3p/3p/3p/3p
+| color_W = green1 |text_W = Win
+| color_D = yellow1 |text_D = Draw
+| color_L = red1 |text_L = Loss
+| text_H = Home |text_A = Away
+| color_1–8 = green1 |color_9–16 = blue1 |color_17–24 = blue2
+| source = [https://www.uefa.com/uefachampionsleague/fixtures-results UEFA]
+}}
+
+{{legend2|#BBF3BB|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFBB|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFBBBB|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixtures|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Paris Saint-Germain v Girona|1]]
+|date = 18 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score = 1–0
+|report = https://www.uefa.com/uefachampionsleague/match/2042039/
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Marquinhos]] {{yel|17}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{goal|90|o.g.}}
+|goals2 =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|20}}
+*[[Oriol Romeu|Romeu]] {{yel|43}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|74}}
+|stadium = [[Parc des Princes]]
+|location = [[Paris]], France
+|attendance = 39,951
+|referee = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Girona v Feyenoord|2]]
+|date = 2 October 2024
+|time = 18:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona {{fbaicon|ESP}}
+|score = 2–3
+|report = https://www.uefa.com/uefachampionsleague/match/2041951/
+|team2 = {{fbaicon|NED}} [[Feyenoord]]
+|goals1 =
+*[[Yangel Herrera|Herrera]] {{yel|4}}
+*[[Ibrahim Osman (footballer, born 2004)|Osman]] {{yel|14}}
+*[[David López (footballer, born 1989)|D. López]] {{goal|19}}, {{yel|45+1}}
+*[[Iván Martín (footballer, born 1999)|Martín]] {{yel|35}}
+*[[Arnaut Danjuma|Danjuma]] {{yel|49}}
+*[[Bojan Miovski|Miovski]] {{penmiss}} {{small|67'}}
+*[[Donny van de Beek|Van de Beek]] {{goal|73}}, {{yel|75}}
+*[[Cristhian Stuani|Stuani]] {{yel|88}}
+|goals2 =
+*[[Yangel Herrera|Herrera]] {{goal|23|o.g.}}
+*[[Antoni Milambo|Milambo]] {{goal|33}}
+*[[Ayase Ueda|Ueda]] {{penmiss}} {{small|36'}}
+*[[Hugo Bueno (footballer, born 2002)|Bueno]] {{yel|60}}
+*[[Hwang In-beom|Hwang]] {{yel|64}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|79|o.g.}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]], Spain
+|attendance = 8,752
+|referee = Urs Schnyder ([[Swiss Football Association|Switzerland]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Girona v Slovan Bratislava|3]]
+|date = 22 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Girona {{fbaicon|ESP}}
+|score = 2–0
+|report = https://www.uefa.com/uefachampionsleague/match/2041960/
+|team2 = {{fbaicon|SVK}} [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|goals1 =
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{goal|42}}
+*[[Alejandro Francés|Francés]] {{yel|45}}
+*[[Juanpe (footballer, born 1991)|Juanpe]] {{goal|73}}
+*[[Cristhian Stuani|Stuani]] {{penmiss}} {{small|88'}}
+|goals2 =
+*[[Marko Tolić|Tolić]] {{yel|16}}
+*[[Danylo Ihnatenko|Ihnatenko]] {{yel|69}}
+*[[Tigran Barseghyan|Barseghyan]] {{yel|71}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]], Spain
+|attendance = 9,246
+|referee = Horațiu Feșnic ([[Romanian Football Federation|Romania]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#PSV Eindhoven v Girona|4]]
+|date = 5 November 2024
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[PSV Eindhoven]] {{fbaicon|NED}}
+|score = 4–0
+|report = https://www.uefa.com/uefachampionsleague/match/2041975/
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Ryan Flamingo|Flamingo]] {{goal|16}}
+*[[Malik Tillman|Tillman]] {{goal|33}}
+*[[Luuk de Jong|De Jong]] {{yel|40}}
+*[[Rick Karsdorp|Karsdorp]] {{yel|58}}
+*[[Matteo Dams|Dams]] {{yel|60}}
+*[[Johan Bakayoko|Bakayoko]] {{goal|83}}, {{yel|90+1}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|88|o.g.}}
+|goals2 =
+*[[Arnau Martínez|Martínez]] {{sentoff|2|40|55}}
+*[[Bryan Gil|Gil]] {{yel|48}}
+*[[Cristhian Stuani|Stuani]] {{yel|90+1}}
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|90+1}}
+|stadium = [[Philips Stadion]]
+|location = [[Eindhoven]], Netherlands
+|attendance = 34,400
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Sturm Graz v Girona|5]]
+|date = 27 November 2024
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[SK Sturm Graz|Sturm Graz]] {{fbaicon|AUT}}
+|score = 1–0
+|report = https://www.uefa.com/uefachampionsleague/match/2042006/
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Jusuf Gazibegović|Gazibegović]] {{yel|20}}
+*[[Mika Biereth|Biereth]] {{goal|59}}
+|goals2 = 
+*[[Bryan Gil|Gil]] {{yel|64}}
+|stadium = [[Wörthersee Stadion]]
+|location = [[Klagenfurt am Wörthersee|Klagenfurt]], Austria
+|attendance = 21,502
+|referee = Rohit Saggi ([[Norwegian Football Federation|Norway]])
+|result = L
+|note = The match was played at Wörthersee Stadion in Klagenfurt, instead of Sturm Graz's regular stadium, [[Liebenauer Stadium]] in [[Graz]], as it did not meet UEFA requirements.
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Girona v Liverpool|6]]
+|date = 10 December 2024
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona {{fbaicon|ESP}}
+|score = 0–1
+|report = https://www.uefa.com/uefachampionsleague/match/2042014/
+|team2 = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1 =
+*[[Oriol Romeu|Romeu]] {{yel|55}}
+*[[Alejandro Francés|Francés]] {{yel|87}}
+*[[Portu]] {{yel|90+3}}
+|goals2 = 
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{yel|53}}
+*[[Mohamed Salah|Salah]] {{goal|63|pen.}}
+*[[Joe Gomez (footballer)|Gomez]] {{yel|79}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]], Spain
+|attendance = 9,241
+|referee = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Milan v Girona|7]]
+|date = 22 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[AC Milan|Milan]] {{fbaicon|ITA}}
+|score = 1–0
+|report = https://www.uefa.com/uefachampionsleague/match/2042065/
+|team2 = {{fbaicon|ESP}} Girona
+|goals1 =
+*[[Rafael Leão|Leão]] {{goal|37}}
+*[[Davide Calabria|Calabria]] {{yel|41}}
+*[[Théo Hernandez|Hernandez]] {{yel|80}}
+|goals2 =
+*[[Bryan Gil|Gil]] {{yel|59}}
+*[[Iván Martín (footballer, born 1999)|Martín]] {{yel|82}}
+|stadium = [[San Siro]]
+|location = [[Milan]], Italy
+|attendance = 66,030
+|referee = [[Tobias Stieler]] ([[German Football Association|Germany]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Champions League league phase#Girona v Arsenal|8]]
+|date = 29 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Girona {{fbaicon|ESP}}
+|score = 1–2
+|report = https://www.uefa.com/uefachampionsleague/match/2042077/
+|team2 = {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1 =
+*[[Arnaut Danjuma|Danjuma]] {{goal|28}}
+*[[Antal Yaakobishvili|Yaakobishvili]] {{yel|51}}
+*[[Portu]] {{yel|79}}
+*[[Arnau Martínez|Martínez]] {{yel|85}}
+*[[Cristhian Stuani|Stuani]] {{yel|90+3}}
+|goals2 =
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|38|pen.}}
+*[[Ethan Nwaneri|Nwaneri]] {{goal|42}}
+*[[Raheem Sterling|Sterling]] {{yel|70}}, {{penmiss}} {{small|90+3'}}
+*[[Declan Rice|Rice]] {{yel|90+3}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]], Spain
+|attendance = 9,048
+|referee = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+|result = L
+}}
+
+==Statistics==
+===Squad statistics===
+:''As of match played 1 August 2024.''
+{{Efs start|[[2024–25 La Liga|La Liga]]|[[2024–25 Copa del Rey|Copa del Rey]]|[[2024–25 UEFA Champions League|Champions League]]}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Goalkeepers
+{{Efs player|no=1 |name=[[Juan Carlos (footballer, born 1988)|Juan Carlos]]|pos=GK|nat=ESP            |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=13|name=[[Paulo Gazzaniga]]|pos=GK|nat=ARG                                            |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=25|name=[[Pau López]]|pos=GK|nat=ESP                                                  |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Defenders
+{{Efs player|no=3 |name=[[Miguel Gutiérrez (footballer, born 2001)|Miguel Gutiérrez]]|pos=DF|nat=ESP  |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=4 |name=[[Arnau Martínez]]|pos=DF|nat=ESP                                             |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=5 |name=[[David López (footballer, born 1989)|David López]]|pos=DF|nat=ESP            |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=15|name=[[Juanpe (footballer, born 1991)|Juanpe]]|pos=DF|nat=ESP                      |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=16|name=[[Alejandro Francés]]|pos=DF|nat=ESP                                          |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=17|name=[[Daley Blind]]|pos=DF|nat=NED                                                |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=18|name=[[Ladislav Krejčí (footballer, born 1999)|Ladislav Krejčí]]|pos=DF|nat=CZE    |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Midfielders
+{{Efs player|no=6 |name=[[Donny van de Beek]]|pos=MF|nat=NED                                          |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=10|name=[[Yáser Asprilla]]|pos=MF|nat=COL                                             |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=14|name=[[Oriol Romeu]]|pos=MF|nat=ESP                                                |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=21|name=[[Yangel Herrera]]|pos=MF|nat=VEN                                             |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=22|name=[[Jhon Solís (footballer, born 2004)|Jhon Solís]]|pos=MF|nat=COL              |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=23|name=[[Iván Martín (footballer, born 1999)|Iván Martín]]|pos=MF|nat=ESP            |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Forwards
+{{Efs player|no=7 |name=[[Cristhian Stuani]]|pos=FW|nat=URU                                           |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=8 |name=[[Viktor Tsyhankov]]|pos=MF|nat=UKR                                           |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=9 |name=[[Abel Ruiz]]|pos=FW|nat=ESP                                                  |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=11|name=[[Arnaut Danjuma]]|pos=FW|nat=NED                                             |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=19|name=[[Bojan Miovski]]|pos=FW|nat=MKD                                              |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=20|name=[[Bryan Gil]]|pos=FW|nat=ESP                                                  |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=24|name=[[Portu]]|pos=FW|nat=ESP                                                      |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=27|name=[[Gabriel Misehouy]]|pos=FW|nat=NED                                           |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Players transferred out during the season
+|}
+
+== References ==
+{{Reflist}}
+
+{{Girona FC}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Girona FC season}}
+[[Category:Girona FC seasons]]
+[[Category:Spanish football clubs 2024–25 season|Girona]]
+[[Category:2024–25 UEFA Champions League participants seasons|Girona]]
+[[Category:2024–25 in Catalan football|Girona]]

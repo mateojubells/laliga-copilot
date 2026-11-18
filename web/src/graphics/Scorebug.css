@@ -1,0 +1,27 @@
+.sb-wrap { display: inline-flex; flex-direction: column; align-items: stretch; }
+.sb {
+  display: flex; align-items: stretch; height: 88px; overflow: hidden; color: var(--c-text);
+  background: var(--c-glass-strong); border: 1px solid var(--c-line-strong); border-radius: var(--r-md);
+  box-shadow: var(--shadow-panel);
+}
+/* con la banda de demostración pegada debajo, el marcador pierde el radio inferior */
+.sb--demo { border-bottom: 0; border-radius: var(--r-md) var(--r-md) 0 0; }
+.sb-wrap > .demo-badge--band { border-left: 1px solid var(--c-line-strong); border-right: 1px solid var(--c-line-strong); border-bottom: 1px solid var(--c-line-strong); width: auto; }
+/* celda de equipo: fondo del club al 35 % y filete inferior de 6 px a todo el ancho, simétrico */
+.sb__team {
+  position: relative; display: flex; align-items: center; gap: 14px; padding: 0 18px;
+  background: color-mix(in srgb, var(--club-fill) 35%, #0b1018);
+  transition: background-color 200ms var(--ease-std);
+}
+.sb__team::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 6px; background: var(--club-edge, var(--club-fill)); }
+.sb__team.is-flash { background: var(--club-fill); }
+.sb__abbr { font-size: 40px; line-height: 1; letter-spacing: 0.04em; min-width: 84px; }
+.sb__team--home .sb__abbr { text-align: left; }
+.sb__team--away .sb__abbr { text-align: right; }
+.sb__score { display: flex; align-items: center; justify-content: center; gap: 16px; min-width: 168px; padding: 0 14px; background: rgba(0, 0, 0, 0.45); }
+.sb__goals { display: inline-block; overflow: hidden; min-width: 52px; text-align: center; font-size: 64px; line-height: 88px; height: 88px; color: #fff; }
+.sb__goals > span { display: block; }
+.sb__sep { font-style: normal; font-family: var(--font-display); font-weight: 500; font-size: 40px; color: var(--c-text-2); line-height: 1; display: inline-block; transform: scaleX(1.5); }
+.sb__time { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; min-width: 112px; padding: 0 14px; border-left: 1px solid var(--c-line); }
+.sb__min { font-size: 44px; line-height: 1; color: var(--c-gold); min-width: 5ch; text-align: center; }
+.sb__period { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); color: var(--c-text-2); line-height: 1; }

@@ -1,0 +1,1777 @@
+[
+ {
+  "id": "gol",
+  "label": "Gol",
+  "kind": "play",
+  "pats": [
+   "gol",
+   "golazo",
+   "golazazo",
+   "goool",
+   "gooool",
+   "ha marcado",
+   "acaba de marcar",
+   "marco el",
+   "anota",
+   "anoto",
+   "ha anotado",
+   "gol olimpico"
+  ],
+  "refines": [],
+  "labels": {
+   "against": "Gol encajado"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "gol_penalti",
+  "label": "Gol de penalti",
+  "kind": "play",
+  "pats": [
+   "(marca|marco|anota|anoto|convierte|convirtio|transforma|transformo) (de|el|un)? penalti",
+   "gol de penalti",
+   "gol de pena maxima"
+  ],
+  "refines": [
+   "penalti",
+   "gol"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "autogol",
+  "label": "Autogol",
+  "kind": "play",
+  "pats": [
+   "autogol",
+   "gol en propia",
+   "en propia puerta",
+   "en propia meta"
+  ],
+  "refines": [
+   "gol"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "gol_anulado",
+  "label": "Gol anulado",
+  "kind": "play",
+  "pats": [
+   "gol anulado",
+   "anula* el? gol",
+   "anulado el? gol",
+   "gol no vale",
+   "no vale el? gol",
+   "gol invalidado"
+  ],
+  "refines": [
+   "gol"
+  ],
+  "labels": {
+   "victim": "Gol anulado"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "doblete",
+  "label": "Doblete / triplete",
+  "kind": "play",
+  "pats": [
+   "doblete",
+   "hat trick",
+   "hattrick",
+   "triplete"
+  ],
+  "refines": [
+   "gol"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "adelanta",
+  "label": "Se adelanta en el marcador",
+  "kind": "play",
+  "pats": [
+   "se adelanta",
+   "se pone por delante",
+   "pone por delante",
+   "ponen por delante",
+   "abre el marcador",
+   "abre la lata"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "empate",
+  "label": "Empata",
+  "kind": "play",
+  "pats": [
+   "empata*",
+   "empate",
+   "iguala*",
+   "igualada"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "remontada",
+  "label": "Remontada",
+  "kind": "play",
+  "pats": [
+   "remontada",
+   "remontar",
+   "remonta*",
+   "da la vuelta al marcador",
+   "voltea el partido"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "asistencia",
+  "label": "Asistencia",
+  "kind": "play",
+  "pats": [
+   "asistencia",
+   "asiste",
+   "asistio",
+   "pase de gol",
+   "pase del gol",
+   "sirve el gol",
+   "sirve en bandeja",
+   "deja el gol"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Asistencia recibida"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": true
+ },
+ {
+  "id": "tiro",
+  "label": "Tiro",
+  "kind": "play",
+  "pats": [
+   "dispar*",
+   "tiro",
+   "chut*",
+   "remat*",
+   "zurdazo",
+   "derechazo",
+   "trallazo",
+   "latigazo",
+   "canonazo",
+   "empalma*"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Tiro recibido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "tiro_puerta",
+  "label": "Tiro a puerta",
+  "kind": "play",
+  "pats": [
+   "tiro a puerta",
+   "dispara a puerta",
+   "remate a puerta",
+   "chuta a puerta",
+   "entre los tres palos",
+   "a porteria"
+  ],
+  "refines": [
+   "tiro"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "tiro_fuera",
+  "label": "Tiro fuera",
+  "kind": "play",
+  "pats": [
+   "(tiro|disparo|remate|chut*|dispar*|remat*) fuera",
+   "se va fuera",
+   "se marcha fuera",
+   "por encima del larguero",
+   "por encima de la porteria",
+   "muy desviado",
+   "desviado",
+   "rozando el palo",
+   "lamiendo el palo"
+  ],
+  "refines": [
+   "tiro"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "palo",
+  "label": "Palo / larguero",
+  "kind": "play",
+  "pats": [
+   "palo",
+   "poste",
+   "larguero"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "remate_cabeza",
+  "label": "Remate de cabeza",
+  "kind": "play",
+  "pats": [
+   "cabezazo",
+   "cabecea*",
+   "cabeceo",
+   "remate de cabeza",
+   "remata de cabeza"
+  ],
+  "refines": [
+   "tiro"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "chilena",
+  "label": "Chilena",
+  "kind": "play",
+  "pats": [
+   "chilena",
+   "tijereta"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "vaselina",
+  "label": "Vaselina",
+  "kind": "play",
+  "pats": [
+   "vaselina",
+   "vaselin*",
+   "picada",
+   "pica el balon"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "volea",
+  "label": "Volea",
+  "kind": "play",
+  "pats": [
+   "volea",
+   "vole*"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "taconazo",
+  "label": "Taconazo / rabona",
+  "kind": "play",
+  "pats": [
+   "taconazo",
+   "de tacon",
+   "rabona"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "ocasion",
+  "label": "Ocasión",
+  "kind": "play",
+  "pats": [
+   "(una|gran|primera|segunda|buena|mejor|clara|otra) ocasion",
+   "ocasion (clara|clarisima|de gol)",
+   "ocasionazo",
+   "oportunidad clara",
+   "clarisima",
+   "tuvo el gol"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "mano_a_mano",
+  "label": "Mano a mano",
+  "kind": "play",
+  "pats": [
+   "mano a mano",
+   "uno contra uno con el portero"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "fallo",
+  "label": "Fallo / ocasión perdida",
+  "kind": "play",
+  "pats": [
+   "falla",
+   "fallo",
+   "se lo pierde",
+   "lo falla",
+   "desperdicia*"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "error",
+  "label": "Error",
+  "kind": "play",
+  "pats": [
+   "error",
+   "error garrafal",
+   "cantada",
+   "pifia",
+   "patinazo"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "penalti",
+  "label": "Penalti",
+  "kind": "award",
+  "pats": [
+   "penalti",
+   "penalty",
+   "penal",
+   "pena maxima",
+   "once metros",
+   "punto de penalti",
+   "punto fatidico",
+   "punto de cal"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Penalti cometido",
+   "victim": "Penalti provocado",
+   "benef": "Penalti a favor",
+   "against": "Penalti en contra",
+   "ref": "Penalti (citado)"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "penalti_fallado",
+  "label": "Penalti fallado",
+  "kind": "play",
+  "pats": [
+   "penalti fallado",
+   "falla* el? penalti",
+   "fallo el? penalti",
+   "no marca el penalti",
+   "falla la pena maxima",
+   "penalti al palo",
+   "penalti a las nubes",
+   "penalti desviado",
+   "penalti fuera"
+  ],
+  "refines": [
+   "penalti",
+   "fallo"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "penalti_parado",
+  "label": "Penalti parado",
+  "kind": "play",
+  "pats": [
+   "penalti parado",
+   "para* el penalti",
+   "paro el penalti",
+   "detiene el penalti",
+   "ataja el penalti",
+   "le para el penalti",
+   "penalti atajado",
+   "penalti detenido"
+  ],
+  "refines": [
+   "penalti"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "penalti_reclamado",
+  "label": "Penalti reclamado",
+  "kind": "play",
+  "pats": [
+   "pide* penalti",
+   "piden penalti",
+   "reclama* penalti",
+   "reclaman penalti",
+   "protesta* penalti",
+   "penalti reclamado"
+  ],
+  "refines": [
+   "penalti"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "penalti_no",
+  "label": "Penalti no pitado",
+  "kind": "event",
+  "pats": [
+   "no es penalti",
+   "no hay penalti",
+   "no pita penalti",
+   "no da penalti",
+   "no senala penalti",
+   "no es pena maxima",
+   "sin penalti",
+   "no existe penalti"
+  ],
+  "refines": [
+   "penalti"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "lanza_penalti",
+  "label": "Lanza el penalti",
+  "kind": "play",
+  "pats": [
+   "lanz* el? penalti",
+   "(chuta*|tira*|patea*|dispara*|pega*) el? penalti",
+   "(chuta|tira|patea|dispara) la pena maxima",
+   "penalti lo? (lanza|chuta|tira|patea|ejecuta)",
+   "ejecut* el? penalti",
+   "cobr* el? penalti",
+   "penalti lanzado",
+   "penalti ejecutado",
+   "se encarga del penalti",
+   "encargado del penalti",
+   "lanzador del penalti",
+   "lanz* la pena maxima",
+   "va a lanzar la pena maxima"
+  ],
+  "refines": [
+   "penalti"
+  ],
+  "labels": {
+   "actor": "Lanza penaltis"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "falta",
+  "label": "Falta",
+  "kind": "award",
+  "pats": [
+   "(una|esa|esta|otra|primera|segunda|tercera|gran|clara|dura|innecesaria|ingenua|tonta|fuerte) falta",
+   "falta (sobre|clara|dura|innecesaria|cometida|a favor|en contra|en campo)",
+   "falta de +E",
+   "falta a +E",
+   "comete* falta",
+   "pita* falta",
+   "pitan falta",
+   "senala* falta",
+   "cobra falta",
+   "sufre* falta",
+   "recibe* falta",
+   "provoca* falta",
+   "gana* falta",
+   "hay falta",
+   "infraccion",
+   "derriba*",
+   "derribad*",
+   "derribo",
+   "zancadilla",
+   "zancadille*",
+   "agarron",
+   "tiron de camiseta",
+   "empujon",
+   "patada",
+   "pisoton",
+   "codazo",
+   "manotazo",
+   "entrada dura",
+   "entrada por detras",
+   "entrada tarde",
+   "entrada peligrosa",
+   "juego peligroso"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Falta cometida",
+   "victim": "Falta recibida",
+   "benef": "Falta a favor",
+   "against": "Falta en contra",
+   "ref": "Falta (citada)"
+  },
+  "passive": "^(derribad|zancadilleado|empujad|golpead|agarrad)",
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "falta_tactica",
+  "label": "Falta táctica",
+  "kind": "award",
+  "pats": [
+   "falta tactica",
+   "falta para cortar",
+   "falta para evitar"
+  ],
+  "refines": [
+   "falta"
+  ],
+  "labels": {
+   "actor": "Falta cometida",
+   "victim": "Falta recibida",
+   "benef": "Falta a favor",
+   "against": "Falta en contra",
+   "ref": "Falta (citada)"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "falta_peligrosa",
+  "label": "Falta peligrosa",
+  "kind": "award",
+  "pats": [
+   "falta peligrosa",
+   "falta lateral",
+   "falta frontal",
+   "falta directa",
+   "falta indirecta",
+   "falta al borde del area",
+   "falta en la frontal",
+   "falta cerca del area",
+   "tiro libre",
+   "libre directo",
+   "libre indirecto",
+   "golpe franco"
+  ],
+  "refines": [
+   "falta"
+  ],
+  "labels": {
+   "actor": "Falta cometida",
+   "victim": "Falta recibida",
+   "benef": "Falta a favor",
+   "against": "Falta en contra",
+   "ref": "Falta (citada)"
+  },
+  "passive": null,
+  "ofTeam": "benef",
+  "forVictim": false
+ },
+ {
+  "id": "lanza_falta",
+  "label": "Lanza faltas",
+  "kind": "play",
+  "pats": [
+   "lanz* la? (falta|libre)",
+   "cobr* la? (falta|libre)",
+   "ejecut* la? (falta|libre)",
+   "bota* la? (falta|libre)",
+   "falta lanzada",
+   "lanzador de faltas",
+   "especialista en faltas",
+   "especialista a balon parado",
+   "tiene que lanzar la falta"
+  ],
+  "refines": [
+   "falta",
+   "falta_peligrosa"
+  ],
+  "labels": {
+   "actor": "Lanza faltas"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "corner",
+  "label": "Córner",
+  "kind": "award",
+  "pats": [
+   "(corner|cornel|corne|carner|korner)",
+   "saque de esquina",
+   "tiro de esquina",
+   "saca de esquina"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Córner",
+   "benef": "Córner a favor",
+   "against": "Córner en contra",
+   "victim": "Córner",
+   "ref": "Córner (citado)"
+  },
+  "passive": null,
+  "ofTeam": "benef",
+  "forVictim": false
+ },
+ {
+  "id": "lanza_corner",
+  "label": "Lanza córners",
+  "kind": "play",
+  "pats": [
+   "lanz* el? (corner|cornel)",
+   "bota* el? corner",
+   "(centra|centrara|centrar|centran) el? (corner|cornel)",
+   "saca el corner",
+   "cobra el corner",
+   "ejecuta el corner",
+   "(corner|cornel) sera? (centrado|lanzado|botado|sacado|cobrado)",
+   "(corner|cornel) va a ser (centrado|lanzado|botado|sacado|cobrado)",
+   "(corner|cornel) (lo|los)? (centra|centrara|lanza|lanzara|bota|botara|saca|sacara|cobra|cobrara)",
+   "(corner|cornel) de (lo|los) (centra|centrara|lanza|lanzara|bota|botara)"
+  ],
+  "refines": [
+   "corner"
+  ],
+  "labels": {
+   "actor": "Lanza córners"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "saque_banda",
+  "label": "Saque de banda",
+  "kind": "award",
+  "pats": [
+   "saque de banda",
+   "saque lateral",
+   "saque de lateral",
+   "saca de banda",
+   "saca de lateral"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Saque de banda",
+   "benef": "Saque de banda a favor",
+   "against": "Saque de banda en contra",
+   "ref": "Saque de banda"
+  },
+  "passive": null,
+  "ofTeam": "benef",
+  "forVictim": false
+ },
+ {
+  "id": "saque_largo",
+  "label": "Saque de banda largo",
+  "kind": "award",
+  "pats": [
+   "saque de banda largo",
+   "saque largo",
+   "saque de mano largo"
+  ],
+  "refines": [
+   "saque_banda"
+  ],
+  "labels": {
+   "actor": "Saque largo",
+   "benef": "Saque largo a favor",
+   "against": "Saque largo en contra",
+   "ref": "Saque largo"
+  },
+  "passive": null,
+  "ofTeam": "benef",
+  "forVictim": false
+ },
+ {
+  "id": "saque_puerta",
+  "label": "Saque de puerta",
+  "kind": "award",
+  "pats": [
+   "saque de puerta",
+   "saque de meta",
+   "saca de puerta",
+   "saca de meta",
+   "saque del portero"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Saque de puerta",
+   "benef": "Saque de puerta a favor",
+   "against": "Saque de puerta en contra",
+   "ref": "Saque de puerta"
+  },
+  "passive": null,
+  "ofTeam": "benef",
+  "forVictim": false
+ },
+ {
+  "id": "balon_parado",
+  "label": "Balón parado",
+  "kind": "event",
+  "pats": [
+   "balon parado",
+   "jugada ensayada",
+   "jugada de estrategia"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "falta_lanzador",
+  "label": "Lanzador",
+  "kind": "play",
+  "pats": [
+   "coloca el balon",
+   "coge el balon",
+   "se dispone a lanzar",
+   "se hace cargo"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Lanzador"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "amarilla",
+  "label": "Amarilla",
+  "kind": "sanction",
+  "pats": [
+   "amarilla",
+   "amonest*",
+   "amonestacion",
+   "cartulina amarilla",
+   "tarjeta amarilla"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "segunda_amarilla",
+  "label": "Doble amarilla",
+  "kind": "sanction",
+  "pats": [
+   "segunda amarilla",
+   "doble amarilla",
+   "dos amarillas",
+   "segunda tarjeta"
+  ],
+  "refines": [
+   "amarilla"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "roja",
+  "label": "Roja / expulsión",
+  "kind": "sanction",
+  "pats": [
+   "roja",
+   "expuls*",
+   "expulsion",
+   "cartulina roja",
+   "tarjeta roja",
+   "a la ducha",
+   "a la calle",
+   "roja directa"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "tarjeta",
+  "label": "Tarjeta",
+  "kind": "sanction",
+  "pats": [
+   "tarjeta",
+   "cartulina",
+   "tarjetazo"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "fuera_juego",
+  "label": "Fuera de juego",
+  "kind": "sanction",
+  "pats": [
+   "fuera de juego",
+   "offside",
+   "posicion adelantada",
+   "levanta el banderin",
+   "bandera del linier"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "mano",
+  "label": "Mano",
+  "kind": "award",
+  "pats": [
+   "mano dentro del area",
+   "mano en el area",
+   "mano clara",
+   "toca* con la mano",
+   "toca* con el brazo",
+   "con el brazo",
+   "tocado con la mano"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Mano",
+   "victim": "Mano (sufrida)",
+   "benef": "Mano a favor",
+   "against": "Mano en contra",
+   "ref": "Mano"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "simulacion",
+  "label": "Simulación",
+  "kind": "play",
+  "pats": [
+   "simula*",
+   "simulacion",
+   "piscinazo",
+   "se tira"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "protesta",
+  "label": "Protestas",
+  "kind": "play",
+  "pats": [
+   "protesta*",
+   "protestas",
+   "rodean al arbitro",
+   "encaran al arbitro"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "ventaja",
+  "label": "Ley de la ventaja",
+  "kind": "event",
+  "pats": [
+   "ley de la ventaja",
+   "aplica la ventaja",
+   "juega la ventaja",
+   "permite la ventaja",
+   "deja seguir"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "var",
+  "label": "VAR",
+  "kind": "event",
+  "pats": [
+   "var",
+   "videoarbitro",
+   "videoarbitraje",
+   "revision",
+   "revisa*",
+   "revisando",
+   "al monitor",
+   "va al monitor",
+   "pantalla",
+   "revisar la jugada",
+   "llaman al arbitro"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "lesion",
+  "label": "Lesión",
+  "kind": "sanction",
+  "pats": [
+   "se lesiona",
+   "se ha lesionado",
+   "lesionarse",
+   "queda lesionado",
+   "sale lesionado",
+   "se duele",
+   "camilla",
+   "atencion medica",
+   "asistencia medica",
+   "atienden a",
+   "sanitarios",
+   "se queda tendido",
+   "se queda en el suelo",
+   "cojea",
+   "molestias",
+   "no puede continuar"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "regate",
+  "label": "Regate",
+  "kind": "duel",
+  "pats": [
+   "(regate|regatea|regateo|regatean|regatear|regateando|regateado|regateada|regatearon|regateara|regatee)",
+   "(dribla|driblo|driblan|driblar|driblando|driblado|dribling)",
+   "se quita*",
+   "se deshace de",
+   "se zafa",
+   "quiebra",
+   "quiebro",
+   "recorte",
+   "recorta*",
+   "bicicleta",
+   "elastico",
+   "croqueta",
+   "ruleta"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Regateado"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "cano",
+  "label": "Caño",
+  "kind": "duel",
+  "pats": [
+   "un cano",
+   "el cano",
+   "le hace un cano",
+   "hace un cano"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Caño sufrido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "sombrero",
+  "label": "Sombrero",
+  "kind": "duel",
+  "pats": [
+   "sombrero",
+   "le hace un sombrero"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Sombrero sufrido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "finta",
+  "label": "Finta",
+  "kind": "duel",
+  "pats": [
+   "finta",
+   "amaga*",
+   "amago"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "desborde",
+  "label": "Desborde",
+  "kind": "duel",
+  "pats": [
+   "desborda*",
+   "desborde",
+   "gana la espalda",
+   "gana la linea de fondo",
+   "se va por la banda",
+   "uno contra uno",
+   "un contra uno"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Desbordado"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "conduccion",
+  "label": "Conducción / carrera",
+  "kind": "play",
+  "pats": [
+   "conduce*",
+   "conduccion",
+   "arrancada",
+   "cabalgada",
+   "galopada",
+   "se va solo",
+   "se lleva el balon"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "entrada",
+  "label": "Entrada",
+  "kind": "duel",
+  "pats": [
+   "entrada limpia",
+   "buena entrada",
+   "gran entrada",
+   "entrada providencial",
+   "tackle",
+   "se desliza",
+   "deslizamiento"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Entrada recibida"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "robo",
+  "label": "Robo / recuperación",
+  "kind": "duel",
+  "pats": [
+   "roba* el? (balon|pelota|esferico|cuero)",
+   "le roba*",
+   "robo de balon",
+   "recupera* el? (balon|pelota|esferico)",
+   "gana el balon",
+   "quita el balon",
+   "le quita"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Balón perdido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "perdida",
+  "label": "Pérdida de balón",
+  "kind": "play",
+  "pats": [
+   "pierde el balon",
+   "perdida de balon",
+   "pierde la pelota",
+   "balon perdido",
+   "pierde la posesion",
+   "regala el balon",
+   "pierde el esferico"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "intercepcion",
+  "label": "Intercepción",
+  "kind": "duel",
+  "pats": [
+   "intercept*",
+   "anticipa*",
+   "anticipacion",
+   "corta el pase",
+   "corta el balon",
+   "corta el centro",
+   "corta la jugada"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "bloqueo",
+  "label": "Bloqueo",
+  "kind": "play",
+  "pats": [
+   "bloquea*",
+   "bloqueo",
+   "bloqueado",
+   "se interpone"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "despeje",
+  "label": "Despeje",
+  "kind": "play",
+  "pats": [
+   "despeje",
+   "despeja*",
+   "despejo"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "rechace",
+  "label": "Rechace",
+  "kind": "play",
+  "pats": [
+   "rechace",
+   "rechaza*"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "salvada",
+  "label": "Salvada bajo palos",
+  "kind": "play",
+  "pats": [
+   "salva en la linea",
+   "salvada",
+   "sobre la linea",
+   "bajo palos"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "parada",
+  "label": "Parada",
+  "kind": "play",
+  "pats": [
+   "parada",
+   "paradon",
+   "ataja*",
+   "blocaje",
+   "bloca*",
+   "saca una mano",
+   "detiene (el|un|la)? (disparo|tiro|remate|balon|cabezazo)",
+   "gran intervencion"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Parada sufrida"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "rebote",
+  "label": "Rebote",
+  "kind": "play",
+  "pats": [
+   "rebote",
+   "rebota*"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "pierde_tiempo",
+  "label": "Pierde tiempo",
+  "kind": "play",
+  "pats": [
+   "pierde tiempo",
+   "pierde el tiempo",
+   "hace tiempo",
+   "gasta tiempo",
+   "perder tiempo"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "tiro_lejano",
+  "label": "Tiro lejano",
+  "kind": "play",
+  "pats": [
+   "tiro lejano",
+   "disparo lejano",
+   "de media distancia",
+   "zapatazo",
+   "punterazo",
+   "taponazo"
+  ],
+  "refines": [
+   "tiro"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "tangana",
+  "label": "Tangana",
+  "kind": "play",
+  "pats": [
+   "tangana",
+   "rifirrafe",
+   "tumulto",
+   "tension entre"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "interrupcion",
+  "label": "Juego interrumpido",
+  "kind": "event",
+  "pats": [
+   "partido detenido",
+   "se detiene el partido",
+   "partido interrumpido",
+   "interrupcion"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "mal_control",
+  "label": "Mal control",
+  "kind": "play",
+  "pats": [
+   "mal control",
+   "control defectuoso",
+   "se le va el balon"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "corner_corto",
+  "label": "Córner corto",
+  "kind": "play",
+  "pats": [
+   "corner corto",
+   "corner en corto"
+  ],
+  "refines": [
+   "corner"
+  ],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "salida_portero",
+  "label": "Salida del portero",
+  "kind": "play",
+  "pats": [
+   "sale el portero",
+   "sale el guardameta",
+   "salida del portero",
+   "portero sale",
+   "sale a cortar",
+   "sale a por el balon",
+   "sale del area"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "duelo_aereo",
+  "label": "Duelo aéreo",
+  "kind": "duel",
+  "pats": [
+   "duelo aereo",
+   "gana por arriba",
+   "gana el salto",
+   "disputa aerea",
+   "por alto"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Duelo aéreo perdido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "duelo",
+  "label": "Duelo",
+  "kind": "duel",
+  "pats": [
+   "duelo",
+   "disputa el balon",
+   "forcejea*",
+   "forcejeo",
+   "lucha el balon"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "pase",
+  "label": "Pase",
+  "kind": "play",
+  "pats": [
+   "se la pasa*",
+   "(la|se la) da para",
+   "lada para",
+   "pasala",
+   "pasalo",
+   "pasa* (a|para) +E",
+   "pase (de|del|a|para) +E",
+   "le pasa*",
+   "se la deja",
+   "la deja para",
+   "toca para +E",
+   "se la juega a",
+   "da el pase",
+   "(un|el) pase"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Pase recibido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": true
+ },
+ {
+  "id": "pase_clave",
+  "label": "Pase clave",
+  "kind": "play",
+  "pats": [
+   "pase filtrado",
+   "pase clave",
+   "pase al hueco",
+   "pase en profundidad",
+   "pase vertical",
+   "pase magico",
+   "balon en profundidad"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Pase clave recibido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "pase_largo",
+  "label": "Pase largo / cambio de juego",
+  "kind": "play",
+  "pats": [
+   "pase largo",
+   "balon largo",
+   "pelotazo",
+   "cambio de orientacion",
+   "cambio de juego",
+   "envio largo"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "pared",
+  "label": "Pared",
+  "kind": "play",
+  "pats": [
+   "pared",
+   "una dos",
+   "uno dos"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Pared con"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "centro",
+  "label": "Centro",
+  "kind": "play",
+  "pats": [
+   "centro al area",
+   "centro lateral",
+   "centro desde",
+   "centro raso",
+   "centro atras",
+   "centro medido",
+   "centro peligroso",
+   "(centra|centran|centrar|centrando|centrara|centraran|centrado|centrada)",
+   "pelota colgada",
+   "balon colgado",
+   "pase de la muerte"
+  ],
+  "refines": [],
+  "labels": {
+   "victim": "Centro recibido"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": true
+ },
+ {
+  "id": "cesion",
+  "label": "Cesión",
+  "kind": "play",
+  "pats": [
+   "cesion",
+   "cesion al portero",
+   "pase atras"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "contragolpe",
+  "label": "Contragolpe",
+  "kind": "play",
+  "pats": [
+   "contragolpe",
+   "contraataque",
+   "contraataca*",
+   "a la contra",
+   "transicion rapida"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "posesion",
+  "label": "Posesión / circulación",
+  "kind": "play",
+  "pats": [
+   "posesion",
+   "circulacion",
+   "tiquitaca",
+   "tiki taka"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "presion",
+  "label": "Presión",
+  "kind": "play",
+  "pats": [
+   "presion",
+   "presiona*",
+   "pressing",
+   "presionando"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "cambio",
+  "label": "Cambio",
+  "kind": "swap",
+  "pats": [
+   "cambio en el",
+   "sustitucion",
+   "sustituye*",
+   "sustituido",
+   "sustituyen",
+   "hace el cambio",
+   "hace un cambio",
+   "doble cambio",
+   "triple cambio",
+   "primer cambio",
+   "segundo cambio",
+   "ultimo cambio",
+   "entra* por +E",
+   "entra* al campo",
+   "entra* en el campo",
+   "sale del campo",
+   "sale sustituido",
+   "abandona el campo",
+   "abandona el terreno"
+  ],
+  "refines": [],
+  "labels": {
+   "actor": "Entra",
+   "victim": "Sale"
+  },
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "inicio",
+  "label": "Comienzo",
+  "kind": "event",
+  "pats": [
+   "pitido inicial",
+   "arranca el partido",
+   "comienza el partido",
+   "empieza el partido",
+   "saque de centro",
+   "saca de centro",
+   "saque inicial"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "descanso",
+  "label": "Descanso",
+  "kind": "event",
+  "pats": [
+   "descanso",
+   "al descanso",
+   "vestuarios",
+   "fin de la primera parte"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "final",
+  "label": "Final del partido",
+  "kind": "event",
+  "pats": [
+   "pitido final",
+   "final del partido",
+   "final del encuentro",
+   "acaba el partido",
+   "termina el partido",
+   "fin del partido"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "tiempo_anadido",
+  "label": "Tiempo añadido",
+  "kind": "event",
+  "pats": [
+   "tiempo anadido",
+   "descuento",
+   "minutos de descuento",
+   "tiempo de descuento",
+   "anadidos",
+   "minutos anadidos",
+   "prolongacion"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ },
+ {
+  "id": "prorroga",
+  "label": "Prórroga / tanda",
+  "kind": "event",
+  "pats": [
+   "prorroga",
+   "tanda de penaltis"
+  ],
+  "refines": [],
+  "labels": {},
+  "passive": null,
+  "ofTeam": null,
+  "forVictim": false
+ }
+]

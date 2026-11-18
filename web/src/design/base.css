@@ -1,0 +1,25 @@
+@import "./tokens.css";
+
+*, *::before, *::after { box-sizing: border-box; }
+html, body, #root { margin: 0; height: 100%; }
+body {
+  background: #0a0e16;
+  color: var(--c-text);
+  font-family: var(--font-text);
+  font-weight: var(--fw-text);
+  font-size: var(--fs-md);
+  line-height: var(--lh-text);
+  -webkit-font-smoothing: antialiased;
+  font-variant-numeric: tabular-nums;
+}
+/* Números tabulares en todo el producto: las cifras no bailan al cambiar */
+.num, .display { font-variant-numeric: tabular-nums lining-nums; font-feature-settings: "tnum" 1, "lnum" 1; }
+.display { font-family: var(--font-display); font-weight: var(--fw-display); line-height: var(--lh-tight); }
+.caps { text-transform: uppercase; letter-spacing: var(--ls-caps); }
+
+/* La vista de programa es transparente (OBS) */
+body.program { background: transparent; }
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-in: 1ms; --dur-out: 1ms; }
+}

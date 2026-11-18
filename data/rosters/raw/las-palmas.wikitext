@@ -1,0 +1,1319 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = UD Las Palmas
+|season             = 2024–25
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = Miguel Ángel Ramírez Alonso
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = 
+|manager            = [[Luis Carrión]]<br>(until 8 October)<br>[[Diego Martínez (Spanish footballer, born 1980)|Diego Martínez]]<br>(from 8 October)
+|stdtitle           = 
+|stadium            = [[Estadio Gran Canaria]]
+|league             = [[2024–25 La Liga|La Liga]]
+|league result      = 19th (relegated)
+|cup1               = [[2024–25 Copa del Rey|Copa del Rey]]
+|cup1 result        = Round of 32
+|league topscorer   = <br>[[Fábio Silva (footballer, born 2002)|Fábio Silva]] (10)
+|season topscorer   = <br>Fábio Silva (10)
+|highest attendance = 31,192 vs [[Real Madrid CF|Real Madrid]]
+|lowest attendance  = 17,566 vs [[Deportivo Alavés]]
+|average attendance = 23,010<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = [[Ontiñena CF|Ontiñena]] 0–7 Las Palmas
+|largest loss       = [[Elche CF|Elche]] 4–0 Las Palmas
+| pattern_la1 = _laspalmas2425h
+| pattern_b1 = _laspalmas2425h
+| pattern_ra1 = _laspalmas2425h
+| pattern_sh1 = _laspalmas2425h
+| pattern_so1 = _laspalmas2425hl
+| leftarm1 = FFFF00
+| body1 = FFFF00
+| rightarm1 = FFFF00
+| shorts1 = 0000FF
+| socks1 = 0000FF
+| pattern_la2 = _laspalmas2425a
+| pattern_b2 = _laspalmas2425a
+| pattern_ra2 = _laspalmas2425a
+| pattern_sh2 = _laspalmas2425a
+| pattern_so2 = _laspalmas2425al
+| leftarm2 = 0000ff
+| body2 = 0000ff
+| rightarm2 = 0000ff
+| shorts2 = ffff00
+| socks2 = ffff00
+| pattern_la3 = _laspalmas2425t
+| pattern_b3 = _laspalmas2425t
+| pattern_ra3 = _laspalmas2425t
+| pattern_sh3 = _laspalmas2425t
+| pattern_so3 = _laspalmas2425tl
+| leftarm3 = CBE3D3
+| body3 = CBE3D3
+| rightarm3 = CBE3D3
+| shorts3 = CBE3D3
+| socks3 = CBE3D3
+|prevseason         = [[2023–24 UD Las Palmas season|2023–24]]
+|nextseason         = 2025–26
+}}
+The 2024–25 season was the 76th season in the history of the [[UD Las Palmas]] and the club's second consecutive season in [[2024–25 La Liga|La Liga]]. In addition to the domestic league, the team participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+== Players ==
+=== First-team squad ===
+{{updated|8 August 2024}}
+{{Fs start}}
+{{Fs player|no=1|nat=NED|name=[[Jasper Cillessen]]|pos=GK}}
+{{Fs player|no=2|nat=ESP|name=[[Marvin Park]]|pos=MF}}
+{{Fs player|no=3|nat=ESP|name=[[Mika Mármol]]|pos=DF}}
+{{Fs player|no=4|nat=ESP|name=[[Álex Suárez (footballer, born 1993)|Álex Suárez]]|pos=DF}}
+{{Fs player|no=5|nat=ESP|name=[[Javier Muñoz (Spanish footballer)|Javi Muñoz]]|pos=MF}}
+{{Fs player|no=6|nat=ESP|name=[[Fabio González]]|pos=MF}}
+{{Fs player|no=7|nat=GUI|name=[[Sory Kaba]]|pos=FW}}
+{{Fs player|no=8|nat=ESP|name=[[José Campaña]]|pos=MF}}
+{{Fs player|no=9|nat=ESP|name=[[Marc Cardona]]|pos=FW}}
+{{Fs player|no=10|nat=ESP|name=[[Alberto Moleiro]]|pos=MF}}
+{{Fs player|no=11|nat=ESP|name=[[Benito Ramírez]]|pos=FW}}
+{{Fs player|no=12|nat=FRA|name=[[Enzo Loiodice]]|pos=MF}}
+{{Fs player|no=13|nat=CRO|name=[[Dinko Horkaš]]|pos=GK}}
+{{Fs player|no=14|nat=ESP|name=[[Manu Fuster]]|pos=MF}}
+{{Fs player|no=15|nat=SCO|name=[[Scott McKenna]]|pos=DF}}
+{{Fs mid}}
+{{Fs player|no=16|nat=SCO|name=[[Oli McBurnie]]|pos=FW}}
+{{Fs player|no=17|nat=ESP|name=[[Jaime Mata]]|pos=FW}}
+{{Fs player|no=18|nat=ESP|name=[[Viti (footballer)|Viti Rozada]]|pos=MF}}
+{{Fs player|no=19|nat=ESP|name=[[Sandro Ramírez]]|pos=FW}}
+{{Fs player|no=20|nat=ESP|name=[[Kirian Rodríguez]]|other=[[Captain (association football)|captain]]|pos=MF}}
+{{Fs player|no=21|nat=ESP|name=[[Iván Gil]]|pos=MF}}
+{{Fs player|no=22|nat=NED|name=[[Daley Sinkgraven]]|pos=DF}}
+{{Fs player|no=23|nat=ESP|name=[[Álex Muñoz]]|pos=DF}}
+{{Fs player|no=24|nat=ESP|name=[[Enrique Clemente]]|pos=DF}}
+{{Fs player|no=25|nat=ESP|name=[[Álvaro Valles]]|pos=GK}}
+{{Fs player|no=28|nat=ESP|name=[[Juanma Herzog]]|pos=DF}}
+{{Fs player|no=|nat=BEL|name=[[Adnan Januzaj]]|other={{small|on loan from [[Sevilla FC|Sevilla]]}}|pos=MF}}
+{{Fs player|no=|nat=CMR|name=[[Iván Cédric]]|pos=FW}}
+{{Fs player|no=|nat=ESP|name=[[Pejiño]]|pos=FW}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Montiel, Gonzalo|{{flagicon|ESP}} [[Marvin Park]]}}
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|€2,000,000
+|{{dts|1 July 2024}}
+|<ref>{{Cite web |date=5 June 2024 |title=Marvin Park firmará su nuevo contrato con Las Palmas, que pagará 2 millones de euros al Real Madrid |url=https://www.marca.com/futbol/las-palmas/2024/06/05/66602350e2704ee7078b4573.html |access-date=5 June 2024 |website=MARCA |language=es}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Cillessen, Jasper|{{flagicon|NED}} [[Jasper Cillessen]]}}
+|{{fbaicon|NED}} [[NEC Nijmegen]]
+|Undisclosed
+|{{dts|1 July 2024}}
+|<ref>{{cite web | url=https://getfootballnewsspain.com/former-dutch-international-jasper-cillessen-signs-for-ud-las-palmas/ | title=Former Dutch international Jasper Cillessen signs for UD las Palmas - Get Spanish Football News | date=19 June 2024 }}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Horkaš, Dinko|{{flagicon|CRO}} [[Dinko Horkaš]]}}
+|{{fbaicon|BUL}} [[PFC Lokomotiv Plovdiv|Lokomotiv Plovdiv]]
+|Undisclosed
+|{{dts|1 July 2024}}
+|<ref>{{cite news|url=https://scsport.ba/bivsi-golman-zrinjskog-i-posusja-ce-braniti-u-la-ligi|title=Bivši golman Zrinjskog i Posušja će braniti u La Ligi|website=scsport.ba|date=25 June 2024|accessdate=25 June 2024|language=Bosnian}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Mata, Jaime|{{flagicon|ESP}} [[Jaime Mata]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Free
+|{{dts|1 July 2024}}
+|<ref>{{cite web|url=https://www.udlaspalmas.es/en/news/jaime-mata-new-player-for-ud-las-palmas|title=Jaime Mata, new player for UD Las Palmas|publisher=UD Las Palmas|date=27 June 2024|access-date=2 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Cédric, Iván|{{flagicon|CMR}} [[Iván Cédric]]}}
+|{{fbaicon|ESP}} [[Real Valladolid]]
+|Free<ref>{{Cite web|url=https://www.udlaspalmas.net/2024/06/24/oficial-ivan-cedric-nuevo-ariete-de-la-ud-las-palmas/|title=OFICIAL &#124; Iván Cédric, nuevo ariete de la UD Las Palmas &#124; udlaspalmas.NET|date=24 June 2024}}</ref>
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.udlaspalmas.es/en/news/ivan-cedric-new-forward-for-ud-las-palmas|title=Iván Cédric, nuevo delantero de la UD Las Palmas|website=www.udlaspalmas.es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Gil, Iván|{{flagicon|ESP}} [[Iván Gil]]}}
+|{{fbaicon|AND}} [[FC Andorra]]
+|Free
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.besoccer.com/new/official-las-palmas-announce-ivan-gil-1320785|title=OFFICIAL: Las Palmas announce Ivan Gil|website=www.besoccer.com}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|BEL}} [[Adnan Januzaj]]
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|Loan
+|{{dts|24 July 2024}}
+|<ref>{{Cite web|url=https://www.udlaspalmas.es/en/news/adnan-januzaj-nuevo-jugador-de-la-ud-las-palmas|title=Adnan Januzaj, new player for UD Las Palmas|website=www.udlaspalmas.es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|SCT}} [[Oli McBurnie]]
+|Free agent
+|Free
+|{{dts|25 July 2024}}
+|<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/c6p2e1peg11o|title=Oli McBurnie: Las Palmas sign former Sheffield United striker|date=25 July 2024|website=BBC Sport}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Essugo, Dário|{{flagicon|POR}} [[Dário Essugo]]}}
+|{{fbaicon|POR}} [[Sporting CP]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://www.udlaspalmas.es/en/news/dario-essugo-nuevo-jugador-de-la-ud-las-palmas|title=Dário Essugo, nuevo jugador de la UD Las Palmas|website=www.udlaspalmas.es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Silva, Fábio|{{flagicon|POR}} [[Fábio Silva (footballer, born 2002)|Fábio Silva]]}}
+|{{fbaicon|ENG}} [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://www.udlaspalmas.es/en/news/fabio-silva-nuevo-jugador-de-la-ud-las-palmas|title=Fábio Silva, nuevo jugador de la UD Las Palmas|website=www.udlaspalmas.es}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 115px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|MEX}} [[Julián Araujo]]
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{Cite news |title=Julian Araujo bids fond farewell to Las Palmas as he heads back to Barcelona |date=2024-06-04 |url=https://www.barcablaugranes.com/2024/6/4/24170281/julian-araujo-bids-fond-farewell-to-las-palmas-as-he-heads-back-to-barcelona |access-date=2024-06-05 |work=Barca Blaugranes |publisher=[[Vox Media]]}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ARG}} [[Máximo Perrone]]
+|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{Cite web |date=5 June 2024 |title=Las Palmas sigue sumando fichajes a falta de entrenador: Cedric, el último en llegar |url=https://www.relevo.com/futbol/liga-primera/ivan-cedric-20240605134719-nt.html |access-date=5 June 2024 |website=Relevo |language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Cristian Herrera]]
+|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|End of contract
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Sergi Cardona]]
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://as.com/futbol/primera/sergi-cardona-se-despide-de-las-palmas-n/|title=Sergi Cardona se despide de Las Palmas|first=Néstor|last=Cebrián|date=19 May 2024|website=Diario AS}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|MAR}} [[Munir El Haddadi]]
+|{{fbicon|ESP}} [[CD Leganés|Leganés]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web |date=30 May 2024 |title=Munir toma la decisión de no continuar en Las Palmas |url=https://www.marca.com/futbol/las-palmas/2024/05/30/66587bddca474113708b4572.html |access-date=5 June 2024 |website=MARCA |language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Eric Curbelo]]
+|{{fbaicon|ESP}} [[Sporting de Gijón|Sporting Gijón]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.eldiario.es/canariasahora/Deportes/futbol/eric-curbelo-ud-palmas_1_11494448.html|title=Eric Curbelo se va de la UD Las Palmas "sin saber muy bien por qué"|date=2 July 2024|website=ElDiario.es}}</ref>
+|-
+| align="center" |{{sort|1|GK}}
+|{{flagicon|ESP}} [[Aarón Escandell]]
+|{{fbaicon|ESP}} [[Real Oviedo]]
+|Contract termination
+|{{dts|9 July 2024}}
+|<ref>{{Cite web|url=https://www.marca.com/futbol/las-palmas/2024/07/09/668d1b26e2704e032e8b4588.html|title=Aarón Escandell rescinde rumbo a Oviedo: "Pimienta no intercambió una palabra conmigo en toda la temporada"|date=9 July 2024|website=MARCA}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|EQG}} [[Saúl Coco]]
+|{{fbaicon|ITA}} [[Torino FC]]
+|€7,500,000
+|{{dts|17 July 2024}}
+|<ref>{{Cite web|url=https://as.com/futbol/primera/saul-coco-a-punto-de-cerrar-su-salida-de-las-palmas-n/|title=Saúl Coco, a punto de cerrar su salida de Las Palmas|first=Verónica|last=Macías|date=16 July 2024|website=Diario AS}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|COD}} [[Omenuke Mfulu]]
+|{{fbaicon|ESP}} [[Deportivo de La Coruña|Deportivo La Coruña]]
+|Contract termination
+|{{dts|31 July 2024}}
+|<ref>{{Cite web|url=https://www.udlaspalmas.es/noticias/la-ud-las-palmas-rescinde-anticipadamente-el-contrato-de-mfulu|title=La UD Las Palmas rescinde anticipadamente el contrato de Mfulu|website=www.udlaspalmas.es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|GUI}} [[Sory Kaba]]
+|{{fbaicon|ESP}} [[Elche CF|Elche]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{Cite web|url=https://www.udlaspalmas.es/en/news/sory-kaba-cedido-al-elche-cf|title=Sory Kaba, cedido al Elche CF|website=www.udlaspalmas.es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Gil, Iván|{{flagicon|ESP}} [[Iván Gil]]}}
+|{{fbaicon|ESP}} [[SD Eibar|Eibar]]
+|Loan
+|{{dts|3 January 2025}}
+|<ref>{{Cite web|url=https://www.udlaspalmas.es/en/news/ivan-gil-joins-eibar-on-loan|title=Iván Gil, cedido al Eibar|website=www.udlaspalmas.es}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = Friendly
+|date = 20 July 2024
+|time = 10:30
+|team1 = Las Palmas
+|score = 1–2
+|report = https://www.udlaspalmas.es/noticias/las-palmas-pierde-su-primer-amistoso-de-marbella-2-1
+|team2 = [[Como 1907|Como]]
+|goals1 =
+*[[Iván Cédric|Cédric]] {{goal|4}}
+|goals2 =
+*Cutrone {{goal|48}}
+*Strefezza {{goal|50}}
+|stadium = 
+|location = [[Marbella]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 23 July 2024
+|time = 18:30
+|team1 = Las Palmas
+|score = 0–0
+|report = 
+|team2 = [[Al Sadd SC|Al Sadd]]
+|goals1 =
+|goals2 =
+|stadium = Marbella Football Center
+|location = [[Marbella]]
+|attendance = 
+|referee = Manuel Jesús Orellana Cid
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 27 July 2024
+|time = 19:30
+|team1 = [[Inter Milan]]
+|score = 3–0
+|report = 
+|team2 = Las Palmas
+|goals1 =
+|goals2 =
+|stadium = [[Stadio Dino Manuzzi]]
+|location = [[Cesena]], Italy
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 2 August 2024
+|time = 13:00
+|team1 = Las Palmas
+|score = 2–1
+|report = 
+|team2 = [[Al Shabab FC (Riyadh)|Al Shabab]]
+|goals1 =
+*[[Álex Muñoz|Muñoz]] {{goal|45+2}}
+*[[Adnan Januzaj|Januzaj]] {{goal|47}}
+|goals2 =
+*[[Yannick Carrasco|Carrasco]] {{goal|86}}
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 3 August 2024
+|time = {{UTZ|12:00|1}}
+|team1 = Las Palmas
+|score = 4–0
+|report = 
+|team2 = [[CD Unión Sur Yaiza|Unión Sur Yaiza]]
+|goals1 =
+*[[Sandro Ramírez|Sandro]] {{goal|7||11}}
+*[[Aboubacar Bassinga|Bassinga]] {{goal|35}}
+*[[Manu Fuster|Fuster]] {{goal|84}}
+|goals2 =
+|stadium = Ciudad Deportiva de Barranco Seco
+|location = [[Las Palmas]]
+|attendance = 700
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 8 August 2024
+|time = {{UTZ|18:30|1}}
+|team1 = Las Palmas
+|score = 1–0
+|report = 
+|team2 = [[UD Tamaraceite]]
+|goals1 =
+*[[Iván Gil|Gil]] {{goal|70}}
+|goals2 =
+|stadium = Ciudad Deportiva de Barranco Seco
+|location = [[Las Palmas]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 11 August 2024
+|time = {{UTZ|17:00|1}}
+|team1 = [[Liverpool F.C.|Liverpool]]
+|score = 0–0
+|report = 
+|team2 = Las Palmas
+|goals1 =
+|goals2 =
+|stadium = [[Anfield]]
+|location = [[Liverpool]], England
+|attendance = 
+|referee = 
+|result = D
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=16 August 2024 |lm1=24 May 2025 |sr1=Matchday 1 |fp1=19th |w1=8 |d1=8 |l1=22 |f1=40 |a1=61
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=31 October 2024 |lm2=5 January 2025 |sr2=First round |fp2=Round of 32 |w2=2 |d2=0 |l2=1 |f2=9 |a2=5
+|s=[https://int.soccerway.com/teams/spain/union-deportiva-las-palmas/2055/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=LPA}}
+
+==== Results summary ====
+{{Fb rs |hw=4 |hd=5 |hl=10 |hgf=21 |hga=29 |aw=4 |ad=3 |al=12 |agf=19 |aga=32 }}
+{{Fb rs footer |s= |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=24 April 2024
+| header=Round
+| label1=Ground
+| res1=H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/A/H/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/
+| label2=Result
+| res2=D/L/D/L/L/L/D/L/L/W/W/L/W/L/W/W/D/W/L/L/D/L/L/L/L/D/L/D/D/L/W/W/L/
+| label3=Position
+| pos3=6/14/15/18/19/20/20/20/20/19/18/18/16/17/14/14/14/13/14/14/15/15/15/17/17/17/19/19/19/19/18/17/18/
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{Cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=MARCA}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 16 August 2024
+|time = 20:30
+|team1 = Las Palmas
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-sevilla-fc-1
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Tanguy Nianzou|Nianzou]] {{goal|42|o.g.}}
+*[[Sandro Ramírez|Sandro]] {{goal|71}}
+*[[Viti (footballer)|Viti]] {{yel|81}}
+*[[Mika Mármol|Mármol]] {{yel|90+6}}
+|goals2 =
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{goal|25|o.g.}}
+*[[Juanlu Sánchez|Juanlu]] {{yel|34}}, {{goal|61}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|80}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 24,843
+|referee = Francisco José Hernández Maeso
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 25 August 2024
+|time = 19:00
+|team1 = [[CD Leganés|Leganés]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-ud-las-palmas-2
+|team2 = Las Palmas
+|goals1 =
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|71}}
+*[[Enric Franquesa|Franquesa]] {{goal|85}}
+|goals2 =
+*[[Sandro Ramírez|Ramírez]] {{goal|90+3}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 10,052
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 29 August 2024
+|time = 20:30
+|team1 = Las Palmas
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-real-madrid-3
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Alberto Moleiro|Moleiro]] {{goal|5}}
+|goals2 =
+*[[Ferland Mendy|Mendy]] {{yel|40}}
+*[[Vinícius Júnior|Júnior]] {{goal|69|pen.}}
+*[[Éder Militão|Militão]] {{yel|88}}
+*[[Dani Carvajal|Carvajal]] {{yel|90}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 31,192
+|referee = Mateo Busquets Ferrer
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 17:00
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-ud-las-palmas-4
+|team2 = Las Palmas
+|goals1 =
+*[[Carlos Vicente (footballer)|Vicente]] {{goal|7}}
+*[[Jon Guridi|Guridi]] {{yel|32}}
+*[[Tomás Conechny|Conechny]] {{yel|45}}
+*[[Toni Martínez|Martínez]] {{goal|78}}
+*[[Abdel Abqar|Abqar]] {{yel|83}}
+|goals2 =
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,386
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 5
+|date = 15 September 2024
+|time = 17:30
+|team1 = Las Palmas
+|score = 2–3
+|report = 
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Sandro Ramírez|Sandro]] {{goal|58}}
+*[[Álex Muñoz|Muñoz]] {{goal|83}}
+|goals2 =
+*[[Oihan Sancet|Sancet]] {{goal|7}}
+*[[Nico Williams|N. Williams]] {{goal|30}}
+*[[Aitor Paredes|Paredes]] {{goal|76}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 21 September 2024
+|time = 16:15
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-ud-las-palmas-6
+|team2 = Las Palmas
+|goals1 =
+*[[Ante Budimir|Budimir]] {{goal|39|pen.}}
+*[[Aimar Oroz|Oroz]] {{goal|60}}
+|goals2 =
+*[[Alberto Moleiro|Moleiro]] {{goal|41}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,043
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 26 September 2024
+|time = {{UTZ|18:00|1}}
+|team1 = Las Palmas
+|score = 1–1
+|report = 
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Alberto Moleiro|Moleiro]] {{goal|9}}
+|goals2 =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|45+3}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 27,722
+|referee = José María Sánchez Martínez
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 30 September 2024
+|time = {{UTZ|21:00|2}}
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 3–1
+|report = 
+|team2 = Las Palmas
+|goals1 =
+*[[Nicolas Pépé|Pépé]] {{goal|45}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{goal|84}}
+*[[Álex Baena|Baena]] {{goal|90+7}}
+|goals2 =
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|47}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = {{UTZ|17:30|1}}
+|team1 = Las Palmas
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-rc-celta-9
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|28}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 21 October 2024
+|time = {{UTZ|21:00|2}}
+|team1 = [[Valencia CF|Valencia]]
+|score = 2–3
+|report = 
+|team2 = Las Palmas
+|goals1 =
+|goals2 =
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 26 October 2024
+|time = {{UTZ|17:30|1}}
+|team1 = Las Palmas
+|score = 1–0
+|report = 
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+|goals2 =
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = {{UTZ|14:00|1}}
+|team1 = [[Atlético Madrid]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-ud-las-palmas-12
+|team2 = Las Palmas
+|goals1 =
+*[[Giuliano Simeone|Simeone]] {{goal|37}}
+*[[Clément Lenglet|Lenglet]] {{yel|73}}
+*[[Alexander Sørloth|Sørloth]] {{goal|83}}
+|goals2 =
+*[[Viti (footballer)|Viti]] {{yel|88}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 56,610
+|referee = [[Ricardo De Burgos Bengoetxea]]
+|result = L
+}}
+{{Football box collapsible
+|round = 13
+|date = 8 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Rayo Vallecano]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-ud-las-palmas-13
+|team2 = Las Palmas
+|goals1 =
+*[[Gerard Gumbau|Gumbau]] {{yel|34}}
+*[[Scott McKenna|McKenna]] {{goal|90+2|o.g.}}
+|goals2 =
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|6}}
+*[[Scott McKenna|McKenna]] {{yel|10}}
+*[[Álex Muñoz|Muñoz]] {{yel|45+2}}
+*[[Dário Essugo|Essugo]] {{yel|49}}
+*[[Aridane Hernández|Aridane]] {{goal|62|o.g.}}
+*[[Manu Fuster|Fuster]] {{goal|67}}
+|stadium = [[Vallecas Stadium]]
+|location = [[Madrid]]
+|attendance = 12,978
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 14
+|date = 24 November 2024
+|time = 06:30[[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1 = Las Palmas
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-rcd-mallorca-14
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Dário Essugo|Essugo]] {{yel|64}}, {{goal|77}}
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{goal|83}}
+*[[Jaime Mata|Mata]] {{yel|88}}
+*[[Alberto Moleiro|Moleiro]] {{yel|90+2}}
+*[[Álex Suárez (footballer, born 1993)|Álex Suárez]] {{yel|90+2}}
+|goals2 =
+*[[Manu Morlanes|Morlanes]] {{yel|43}}
+*[[Dani Rodríguez (footballer, born 1988)|Dani Rodríguez]] {{goal|46}}
+*[[Robert Navarro (footballer)|Navarro]] {{goal|56}}
+*[[Antonio Raíllo|Raíllo]] {{yel|68}}
+*[[Vedat Muriqi|Muriqi]] {{sentoff|0|88}}
+*[[Johan Mojica|Mojica]] {{goal|90+1}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 22,940
+|referee = [[Alejandro Muñiz Ruiz]]
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 30 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-ud-las-palmas-15
+|team2 = Las Palmas
+|goals1 =
+*[[Raphinha]] {{goal|61}}
+|goals2     = 
+*[[Sandro Ramírez|Sandro]] {{goal|49}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|67}}
+|stadium    = [[Estadi Olímpic Lluís Companys]]
+|location   = [[Barcelona]]
+|attendance = 43,921
+|referee    = [[Adrián Cordero Vega]]
+|result     = W
+|note       = This match served to commemorate the club's 125th anniversary.<ref>{{cite web|url=https://www.fcbarcelona.com/en/football/first-team/news/4177930/first-game-of-the-125th-anniversary-is-barca-v-ud-las-palmas-on-saturday |publisher=fcbarcelona.com |title=First game of the 125th anniversary. |date=29 November 2024 |accessdate=4 December 2024}}</ref>
+}}
+{{Football box collapsible
+|round = 16
+|date = 7 December 2024
+|time = 20:00
+|team1 = Las Palmas
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-real-valladolid-cf-16
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Sandro Ramírez|Sandro]] {{goal|20||64}}
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{yel|26}}
+*[[Álex Suárez (footballer, born 1993)|Álex Suárez]] {{yel|76}}
+*[[Scott McKenna|McKenna]] {{yel|80}}
+*[[Marvin Park]] {{yel|90+8}}
+|goals2 =
+*[[Marcos André]] {{goal|45}}
+*[[Eray Cömert]] {{yel|49}}
+*[[Alberto Moleiro]] {{yel|78}}
+*[[Amath Ndiaye]] {{yel|90+9}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 21,610
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-ud-las-palmas-17
+|team2 = Las Palmas
+|goals1 = 
+*[[Takefusa Kubo|Kubo]] {{yel|39}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|73}}
+|goals2 = 
+*[[Jaime Mata|Mata]] {{yel|57}}
+*[[Sandro Ramírez|Sandro]] {{yel|74}}
+*[[Benito Ramírez|Benito]] {{yel|90+1}}
+|stadium = [[Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 30.775
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 18:30
+|team1 = Las Palmas
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-rcd-espanyol-18
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{yel|17}}
+*[[Marvin Park]] {{yel|30}}
+*[[Álex Suárez (footballer, born 1993)|Álex Suárez]] {{yel|59}}
+*[[Sandro Ramírez|Sandro]] {{goal|67}}
+*[[Enzo Loiodice|Loiodice]] {{yel|80}}
+|goals2 =
+*[[Javi Puado|Puado]] {{yel|19}}
+*[[Pol Lozano|Lozano]] {{yel|83}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 23,743 
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = 19
+|date = 12 January 2025
+|time = 14:00
+|team1 = Las Palmas
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-getafe-cf-19
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Dário Essugo|Essugo]] {{yel|46}}
+*[[Álex Suárez (footballer, born 1993)|Álex Suárez]] {{yel|82}}
+*[[Adnan Januzaj|Januzaj]] {{goal|88}}
+|goals2 =
+*[[Mauro Arambarri|Arambarri]] {{yel|16}}
+*[[Luis Milla (footballer, born 1994)|Milla]] {{yel|64}}
+*[[Coba da Costa|Coba]] {{goal|70}}, {{yel|82}}
+*[[Borja Mayoral|Mayoral]] {{goal|86}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 23,698 
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{footballbox collapsible
+|round      = 20
+|date       = 19 January 2025
+|time       = {{UTZ|16:15|1}}
+|team1      = [[Real Madrid CF|Real Madrid]]
+|score      = 4–1
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-ud-las-palmas-20
+|team2      = Las Palmas
+|goals1     =
+*[[Kylian Mbappé|Mbappé]] {{goal|18|pen.|36}}
+*[[Brahim Díaz|Brahim]] {{goal|33}}
+*[[Rodrygo]] {{goal|57}}
+|goals2     = 
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|1}}
+*[[Sandro Ramírez|Sandro]] {{yel|45+3}}
+*[[Benito Ramírez|Benito]] {{sentoff|0|64}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 74,808
+|referee    = Alejandro Quintero González
+|result     = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 21:00
+|team1 = Las Palmas
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-ca-osasuna-21
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Manu Fuster|Fuster]] {{yel|11}}
+*[[Dário Essugo|Essugo]] {{sent off|2|30|72}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{yel|69}}
+*[[Álex Suárez (footballer, born 1993)|Álex Suárez]] {{yel|72}}
+*[[Andy Pelmard|Pelmard]] {{yel|88}}
+*[[Adnan Januzaj|Januzaj]] {{goal|90+8}}, {{yel|90+10}}
+|goals2 =
+*[[Kike Barja|Barja]] {{yel|19}}
+*[[Jesús Areso|Areso]] {{yel|23}}
+*[[Alejandro Catena|Catena]] {{yel|24}}
+*[[Aimar Oroz|Oroz]] {{goal|53}}
+*[[Jon Moncayola|Moncayola]] {{yel|58}}
+*[[Flavien Enzo Boyomo|Boyomo]] {{yel|77}}
+*[[Rubén García (footballer, born 1993)|García]] {{yel|82}}
+*[[Jorge Herrando|Herrando]] {{yel|90+1}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 19,762
+|referee = [[Jesús Gil Manzano]]
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 3 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Girona FC|Girona]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-ud-las-palmas-22
+|team2 = Las Palmas
+|goals1 =
+*[[Abel Ruiz|Ruiz]] {{goal|8}}, {{penmiss}} {{small|45+1'}}
+*[[Donny van de Beek|Van de Beek]] {{yel|42}}
+*[[Yáser Asprilla|Asprilla]] {{goal|79}}
+*[[Jhon Solís (footballer, born 2004)|Solís]] {{yel|81}}
+|goals2 =
+*[[Scott McKenna|McKenna]] {{yel|45}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|82}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 10,088
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 18:30
+|team1 = Las Palmas
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-villarreal-cf-23
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Mika Mármol|Mármol]] {{yel|37}}
+*[[Sandro Ramírez|Sandro]] {{yel|40}}
+*[[Scott McKenna|McKenna]] {{yel|55}}
+*[[Manu Fuster|Fuster]] {{goal|84}}
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|87}}
+*[[Javi Muñoz|Muñoz]] {{yel|90+9}}
+*[[Alberto Moleiro|Moleiro]] {{yel|90+10}}
+|goals2 =
+*[[Marcelino García Toral|Marcelino]] {{yel|12}}
+*[[Sergi Cardona|Cardona]] {{yel|33}}
+*[[Santi Comesaña|Santi CV]] {{yel|38}}
+*[[Álex Baena|Baena]] {{goal|53}}
+*[[Ayoze Pérez]] {{goal|66}}, {{yel|90}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 22.909
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-ud-las-palmas-24
+|team2 = Las Palmas
+|goals1 =
+*[[Vedat Muriqi|Muriqi]] {{goal|7||28}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{goal|35}}
+*[[Cyle Larin|Larin]] {{yel|83}}
+|goals2 =
+*[[Enzo Loiodice|Loiodice]] {{yel|25}}
+*[[Mika Mármol|Mármol]] {{yel|44}}
+*[[Viti (footballer)|Viti]] {{yel|45+1}}
+*[[Stefan Bajčetić|Bajčetić]] {{goal|62}}
+*[[Scott McKenna|McKenna]] {{yel|90+6}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18,475
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 21:00
+|team1 = Las Palmas
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-fc-barcelona-25
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 = 
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|80}}
+|goals2     =
+*[[Dani Olmo|Olmo]] {{goal|62}}
+*[[Frenkie de Jong|De Jong]] {{yel|82}}
+*[[Ferran Torres|Torres]] {{goal|90+5}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 30,746
+|referee    = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 28 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Valladolid]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-ud-las-palmas-26
+|team2 = Las Palmas
+|goals1 = 
+*[[Tamás Nikitscher|Nikitscher]] {{yel|50}}
+*[[Juanmi Latasa|Latasa]] {{goal|63}}
+*[[Mario Martín|Martín]] {{yel|70}}
+|goals2 = 
+*[[Sandro Ramírez|Sandro]] {{goal|22}}
+*[[Scott McKenna|McKenna]] {{sentoff|0|29}}
+*[[Alberto Moleiro|Moleiro]] {{yel|45+6}}
+|stadium = [[Estadio Municipal José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 15.643
+|referee = De Burgos Bengoetxea
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Betis]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-ud-las-palmas-27
+|team2 = Las Palmas
+|goals1 = 
+*[[Diego Llorente|Llorente]] {{yel|19}}, {{goal|65}}
+*[[Johnny Cardoso|Cardoso]] {{yel|80}}
+*[[Isco]] {{penmiss}} 90+5
+|goals2 = 
+*[[Viti (footballer)|Viti]] {{yel|30}}
+*[[Álex Muñoz|Álex]] {{yel|38}}
+*[[Stefan Bajčetić|Bajčetić]] {{yel|39}}
+*[[Dário Essugo|Essugo]] {{sentoff|2|53|61}}
+*[[Jaime Mata|Mata]] {{yel|64}}
+*[[Javi Muñoz|Javi]] {{yel|67}}
+*[[Juanma Herzog|Herzog]] {{yel|90+1}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 49.292
+|referee = José Sánchez Martínez
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 14 March 2025
+|time = 21:00
+|team1 = Las Palmas
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-deportivo-alaves-28
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 = 
+*[[Álex Muñoz|Muñoz]] {{yel|5}}
+*[[Sandro]] {{yel|49}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|90|pen.}}
+*[[Diego Martínez (Spanish footballer, born 1980)|D.Martínez]] {{yel|90}}
+*[[Adnan Januzaj|Januzaj]] {{yel|90+3}}
+*[[Alberto Moleiro|Moleiro]] {{goal|90+5}}
+*[[Álex Suárez (footballer, born 1993)|Suarez]] {{yel|90+7}}
+*[[Manu Fuster|Fuster]] {{yel|90+10}}
+|goals2 = 
+*[[Joan Jordán|Jordan]] {{yel|4}}
+*[[Toni Martínez|Martínez]] {{yel|7}}, {{goal|45+1}}
+*[[Jon Guridi|Guridi]] {{goal|63}}
+*[[Facundo Tenaglia|Tenaglia]] {{yel|80}}
+*[[Eduardo Coudet|E.Coudet]] {{yel|90}}
+*[[Villalibre]] {{yel|90+9}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 17.566
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 29
+|date = 31 March 2025
+|time = 21:00
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-ud-las-palmas-29
+|team2 = Las Palmas
+|goals1 = 
+*[[Alfon González|Alfon]] {{goal|45+2}}
+*[[Iker Losada|Losada]] {{yel|45+5}}
+*[[Javi Rodríguez (footballer)|Javi]] {{yel|79}}
+*[[Fer López]] {{yel|83}}
+|goals2 = 
+*[[Alberto Moleiro|Moleiro]] {{goal|48}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 18.549
+|referee = Juan Martínez Munuera
+|result = D
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 14:00
+|team1 = Las Palmas
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-real-sociedad-30
+|team2 = [[Real Sociedad]]
+|goals1 = 
+*[[Oliver McBurnie|McBurnie]] {{goal|60}}
+|goals2 = 
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|5}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|45+2}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{goal|56}}
+*[[Jon Aramburu|Aramburu]] {{goal|68}}
+*[[Jon Martín|Martín]] {{yel|76}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 22.616
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 31
+|date = 12 April 2025
+|time = 16:15
+|team1 = [[Getafe CF|Getafe]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-ud-las-palmas-31
+|team2 = Las Palmas
+|goals1 = 
+*[[Omar Alderete|Alderete]] {{goal|19}}
+*[[Diego Rico|Rico]] {{sentoff|0|33}}
+|goals2 = 
+*[[Stefan Bajčetić|Bajčetić]] {{yel|48}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|53||74}}
+*[[Oliver McBurnie|McBurnie]] {{goal|61}}
+*[[Jaime Mata|Mata]] {{yel|85}}
+|stadium = [[Coliseum]]
+|location = [[Getafe]]
+|attendance = 8.370
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 32
+|date = 20 April 2025
+|time = 21:00
+|team1 = Las Palmas
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-atletico-de-madrid-32
+|team2 = [[Atlético Madrid]]
+|goals1 = 
+*[[Javi Muñoz]] {{yel|71}}, {{goal|90+3}}
+*[[Dário Essugo|Essugo]] {{yel|77}}
+*[[Jaime Mata|Mata]] {{yel|90+4}}
+|goals2 = 
+*[[Javi Galán|Galán]] {{yel|54}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 27.154
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = 19:00
+|team1 = [[Athletic Bilbao|Bilbao]]
+|score = 1–0
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-ud-las-palmas-33
+|team2 = Las Palmas
+|goals1 = 
+*[[Iñaki Williams|I.Williams]] {{goal|5}}
+*[[Yuri Berchiche|Yuri]] {{yel|11}}
+|goals2 = 
+*[[Stefan Bajčetić|Bajčetić]] {{yel|27}}
+*[[Oliver McBurnie|McBurnie]] {{yel|53}}
+*[[Álex Suárez (footballer, born 1993)|Suárez]] {{yel|76}}
+|stadium = [[San Mamés]]
+|location = [[Bilbao]]
+|attendance = 47.724
+|referee = Isidro Díaz de Mera
+|result = L
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = 
+|team1 = Las Palmas
+|score = 2–3
+|report = 
+|team2 = Valencia
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Las Palmas]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 35
+|date = 9 May 2025
+|time = 
+|team1 = Las Palmas
+|score = 0–1
+|report = 
+|team2 = Rayo Vallecano
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Las Palmas]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 13 May 2025
+|time = 
+|team1 = Sevilla
+|score = 1–0
+|report = 
+|team2 = Las Palmas
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Seville]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = Las Palmas
+|score = 0–1
+|report = 
+|team2 = Leganés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Las Palmas]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Espanyol
+|score = 2–0
+|report = 
+|team2 = Las Palmas
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Cornellà de Llobregat]]
+|attendance = 
+|referee = 
+|result = L
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 31 October 2024
+|time = {{UTZ|21:00|1}}
+|team1 = [[Ontiñena CF]]
+|score = 0–7
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-ontinena-ud-las-palmas-2
+|team2 = Las Palmas
+|goals1 = 
+*[[Abdoulaye Bah|Bah]] {{yel|38}}
+*[[Damián Llobet|Llobet]] {{penmiss}} 90+4
+|goals2 = 
+*[[Jaime Mata|Mata]] {{goal|18||68||85||88}}
+*[[Marc Cardona|Cardona]] {{goal|74}}
+*[[Juanma Herzog|Herzog]] {{goal|78}}
+*[[Manu Fuster|Fuster]] {{goal|89}}
+|stadium = [[Estadio Isidro Calderón]]
+|location = [[Monzón]]
+|attendance = 2.000
+|referee = Víctor García Verdura
+|result = W
+}}
+{{football box collapsible
+|round= [[2024–25 Copa del Rey#Second round|Second round]]
+|date= 3 December 2024
+|time= 21:15
+|team1= [[CE Europa|Europa]]
+|score= 1–2
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ce-europa-ud-las-palmas-3
+|team2= Las Palmas
+|goals1= 
+*[[Manel Lozano|Lozano]] {{yel|34}}
+*[[Juan Flere|Flere]] {{yel|41}}
+*[[Julián Mahicas|Mahicas]] {{goal|55}}
+*[[Roger Escoruela|Escoruela]] {{yel|66}}
+|goals2= 
+*[[José Campaña|Campaña]] {{yel|34}}
+*[[Fabio González|Fabio]] {{yel|41}}
+*[[Ollie McBurnie|McBurnie]] {{goal|48||75}}
+*[[Mika Mármol|Mika]] {{yel|66}}
+|stadium= [[Nou Sardenya]]
+|location= [[Barcelona]]
+|attendance= 4.018
+|referee= Mario Melero López
+|result = W
+}}
+{{football box collapsible
+|round= [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date= 5 January 2025
+|time= 12:00
+|team1= [[Elche CF|Elche]]
+|score= 4–0
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-elche-cf-ud-las-palmas-4
+|team2= Las Palmas
+|goals1= 
+*[[Aleix Febas|Febas]] {{yel|12}}
+*[[Rodrigo Mendoza|R. Mendoza]] {{goal|45}}
+*[[José Salinas (footballer)|José Salinas]] {{yel|51}}, {{goal|60}}
+*[[David Affengruber (footballer, born 2001)|Affengruber]] {{goal|56}}
+*[[Pedro Bigas|Bigas]] {{yel|65}}
+*[[Nico Gonzalez (footballer, born 2000)|Nico González]] {{goal|71}}
+*[[Raúl Guti]] {{yel|90+3}}
+|goals2= 
+*[[Marvin Park]] {{yel|55}}
+|stadium= [[Estadio Manuel Martínez Valero|Martínez Valero]]
+|location= [[Elche]]
+|attendance=18,302
+|referee= José Luis Munuera Montero
+|result = L
+}}
+
+== References ==
+{{Reflist}}
+
+{{UD Las Palmas}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 UD Las Palmas season}}
+[[Category:UD Las Palmas seasons]]
+[[Category:Spanish football clubs 2024–25 season|Las Palmas]]

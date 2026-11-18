@@ -1,0 +1,65 @@
+{
+ "match": "2024-25/J04/barcelona-valladolid",
+ "date": "2024-08-31",
+ "home": "barcelona",
+ "away": "valladolid",
+ "_doc": "Alineaciones oficiales (públicas ~1 h antes del partido). Es lo que el operador carga antes de empezar; NO incluye nada de lo que ocurre después (goles, cambios).",
+ "lineups": {
+  "barcelona": {
+   "starting": [
+    "barcelona/ter-stegen",
+    "barcelona/inigo-martinez",
+    "barcelona/cubarsi",
+    "barcelona/balde",
+    "barcelona/kounde",
+    "barcelona/casado",
+    "barcelona/pedri",
+    "barcelona/dani-olmo",
+    "barcelona/raphinha",
+    "barcelona/lewandowski",
+    "barcelona/lamine-yamal"
+   ],
+   "bench": [
+    "barcelona/inaki-pena",
+    "barcelona/hector-fort",
+    "barcelona/fermin-lopez",
+    "barcelona/ferran-torres",
+    "barcelona/astralaga",
+    "barcelona/sergi-dominguez",
+    "barcelona/eric-garcia",
+    "barcelona/gerard-martin",
+    "barcelona/pablo-torre",
+    "barcelona/pau-victor"
+   ]
+  },
+  "valladolid": {
+   "starting": [
+    "valladolid/hein",
+    "valladolid/javi-sanchez",
+    "valladolid/comert",
+    "valladolid/juric",
+    "valladolid/lucas-rosa",
+    "valladolid/luis-perez",
+    "valladolid/amallah",
+    "valladolid/kike-perez",
+    "valladolid/raul-moro",
+    "valladolid/ivan-sanchez",
+    "valladolid/marcos-andre"
+   ],
+   "bench": [
+    "valladolid/sylla",
+    "valladolid/amath-ndiaye",
+    "valladolid/meseguer",
+    "valladolid/mario-martin",
+    "valladolid/andre-ferreira",
+    "valladolid/machis",
+    "valladolid/koke",
+    "valladolid/chuki",
+    "valladolid/raul-chasco",
+    "valladolid/juanmi-latasa",
+    "valladolid/david-torres",
+    "valladolid/ozkacar"
+   ]
+  }
+ }
+}

@@ -1,0 +1,13 @@
+.cn .fs__side { gap: var(--sp-2); }
+.cn__figs { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-3); }
+/* etiqueta encima de la cifra (columna); la cifra va en blanco y el color REAL del jugador, en un filete de 8 px */
+.cn__fig { --c: var(--club-edge, var(--club-fill)); display: flex; flex-direction: column; align-items: flex-start; gap: 4px; padding: 0 0 0 var(--sp-2); border-left: 8px solid var(--c); }
+.cn__fig-l { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); text-transform: uppercase; color: var(--c-text-2); white-space: nowrap; line-height: 1.1; }
+.cn .cn__fig-v { font-size: 104px; line-height: 0.95; color: var(--c-text); }
+.cn__tiles { grid-template-columns: 1fr 1fr; }
+/* leyenda en una fila de 40 px, en la columna de datos (nunca sobre el césped); mismos trazos que el campo */
+.cn__legend { display: flex; align-items: center; gap: var(--sp-4); height: 40px; font-size: var(--fs-sm); line-height: 1.1; color: var(--c-text); }
+.cn__legend span { display: inline-flex; align-items: center; gap: 10px; white-space: nowrap; }
+.cn__legend i { display: inline-block; width: 32px; border-radius: 3px; }
+/* nombres largos: las dos etiquetas pasan a dos líneas con la misma altura, y las cifras siguen alineadas */
+.cn__figs--long .cn__fig-l { white-space: normal; min-height: 2.2em; }

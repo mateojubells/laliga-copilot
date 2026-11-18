@@ -1,0 +1,43 @@
+.st__cols { display: grid; column-gap: 64px; }
+/* filete entre las dos columnas de la tabla completa */
+.st__table--full + .st__table--full { position: relative; }
+.st__table--full + .st__table--full::before { content: ""; position: absolute; left: -32px; top: 0; bottom: 0; width: 1px; background: rgba(255, 255, 255, 0.14); }
+/* ventana (medio panel): filas de 56 px con texto de 30 px */
+.st__table { --row-h: 56px; --row-fs: 30px; display: flex; flex-direction: column; }
+/* completa (pantalla completa, 2 columnas de 10): filas de 50 px con texto de 28 px */
+.st__table--full { --row-h: 56px; --row-fs: 30px; }
+.st__row {
+  display: grid;
+  grid-template-columns: 8px 44px 36px minmax(0, 1fr) 72px 92px 112px 112px;
+  align-items: center; column-gap: 12px;
+  height: var(--row-h); padding-right: 12px;
+  font-size: var(--row-fs); line-height: 1;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+.st__table--full .st__row { grid-template-columns: 8px 44px 32px minmax(0, 1fr) 68px 48px 48px 48px 88px 88px; column-gap: 10px; }
+/* sin escudos no se reserva su columna */
+.st__table--nocrest .st__row { grid-template-columns: 8px 44px minmax(0, 1fr) 72px 92px 112px 112px; }
+.st__table--full.st__table--nocrest .st__row { grid-template-columns: 8px 44px minmax(0, 1fr) 68px 48px 48px 48px 88px 88px; }
+.st__row--head { height: 40px; font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); color: var(--c-text-2); letter-spacing: 0.08em; border-bottom: 1px solid var(--c-line); }
+.st__row--hl { background: var(--row); color: var(--row-ink); font-weight: 600; border-radius: 8px; }
+.st__row--hl .st__name, .st__row--hl .st__n, .st__row--hl .st__pos, .st__row--hl .st__pts { color: var(--row-ink); }
+.st__row--hl .st__name { font-weight: 700; }
+.st__zone { align-self: stretch; width: 8px; margin: 4px 0; border-radius: 4px; }
+.st__zone--champions { background: var(--c-zone-champions); }
+.st__zone--europa { background: var(--c-zone-europa); }
+.st__zone--conference { background: var(--c-zone-conference); }
+.st__zone--relegation { background: var(--c-zone-relegation); }
+.st__pos { text-align: right; color: var(--c-text-2); }
+.st__name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.st__n { text-align: right; color: var(--c-text-2); }
+.st__n--dim { color: var(--c-text-3); font-size: var(--fs-md); }
+.st__pts { font-size: 36px; color: var(--c-text); font-weight: 700; }
+.st__row--head .st__pts { font-size: var(--fs-sm); }
+.st__form { display: flex; justify-content: flex-end; }
+.st__row--head .st__pos { text-align: right; }
+.st__legend { display: flex; flex-wrap: wrap; gap: var(--sp-3); margin-top: var(--sp-1); font-size: var(--fs-sm); line-height: 32px; color: var(--c-text-2); }
+.st__legend span { display: inline-flex; align-items: center; gap: 8px; }
+.st__swatch { display: inline-block; width: 14px; height: 14px; border-radius: 4px; }
+.st__live { padding: 2px 14px; border-radius: var(--r-pill); background: var(--c-bad); color: #fff; font-family: var(--font-display); font-weight: 700; font-size: var(--fs-sm); line-height: 28px; }
+/* sin escudo el nombre arranca pegado al puesto: 8 px de aire */
+.st__table--nocrest .st__name { padding-left: 8px; }

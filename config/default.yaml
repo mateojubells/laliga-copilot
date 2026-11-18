@@ -1,0 +1,25 @@
+# Configuración por defecto. Sobrescribe en config/local.yaml (no versionado) o con variables COPILOT_*.
+season: "2024-25"
+match: "2024-25/J04/barcelona-valladolid"
+server: {host: 127.0.0.1, port: 8765}
+asr:
+  # Chosen with measurements (see docs/FINAL_REPORT.md): the only Whisper que aguanta el tiempo real en streaming en un M5.
+  engine: mlx-whisper-small
+  options: {step_ms: 600, max_window_s: 8}
+  fallback: parakeet             # si el principal falla o se retrasa; si tampoco carga, se usa la transcripción guardada
+  language: es
+nlu:
+  engine: "copilot.nlu.engine:Engine"
+  slow_path: null                # modelo local opcional; nunca bloquea
+data:
+  provider: composite            # openfootball (resultados reales) + sintético (todo lo demás)
+  synth_db: data/synth/out/laliga-2024-25.sqlite
+  seed: 20240831
+graphics:
+  max_on_screen: 3
+  auto_program: false            # true: lo que supere el umbral sale a programa sin operador
+  auto_threshold: 80
+replay:
+  audio: eval/asr/barca-valladolid-2024-08-31.mp3
+sessions:
+  persist: true                  # guarda el partido en data/sessions/ para sobrevivir a un reinicio

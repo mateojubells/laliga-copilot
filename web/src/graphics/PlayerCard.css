@@ -1,0 +1,15 @@
+/* el nombre del protagonista manda: 64 px (los demás títulos de panel, 44) */
+.player-card .panel__title { font-size: var(--fs-title); line-height: 1; margin-top: 0; }
+.pc__meta { display: flex; align-items: center; gap: 12px; margin: 0 0 var(--sp-2); font-family: var(--font-display); font-weight: 600; font-size: var(--fs-md); color: var(--c-text-2); line-height: 1; }
+.pc__dot { color: var(--c-text-2); }
+/* el dato más caliente de la ficha: banda propia justo bajo el nombre */
+.pc__today {
+  display: flex; align-items: center; gap: var(--sp-3); margin: 0 0 var(--sp-2); padding: 12px var(--sp-3);
+  border-radius: var(--r-md); background: color-mix(in srgb, var(--club-fill) 55%, transparent);
+  font-size: var(--fs-lg); font-weight: var(--fw-strong); line-height: 1; color: var(--c-text);
+}
+.pc__today-l { flex: none; font-family: var(--font-display); font-weight: 700; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); color: var(--c-kicker); }
+.pc__today-v { display: flex; flex-wrap: wrap; gap: 4px var(--sp-4); }
+.pc__part { display: inline-flex; align-items: baseline; gap: 10px; }
+.pc .pc__n { font-size: 40px; font-weight: 700; line-height: 1; }
+.pc__grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--sp-2); align-items: stretch; }

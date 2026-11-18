@@ -1,0 +1,1325 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[RCD Espanyol]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = Chen Yansheng
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Manolo González]]
+|stdtitle           = 
+|stadium            = [[RCDE Stadium]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|14th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Second round]]
+|league topscorer   = <br>[[Javi Puado]] (12)
+|season topscorer   = <br>Javi Puado (12)
+|highest attendance = 
+|lowest attendance  = 
+|average attendance = 25,640<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = 
+|largest loss       = 
+|pattern_la1        = _espanyol2425h
+|pattern_b1         = _espanyol2425h
+|pattern_ra1        = _espanyol2425h
+|pattern_sh1        = _espanyol2425h
+|pattern_so1        = _espanyol2425hl
+|leftarm1           = FFFFFF
+|body1              = FFFFFF
+|rightarm1          = FFFFFF
+|shorts1            = 0000FF
+|socks1             = FFFFFF
+|pattern_la2        = _espanyol2425a
+|pattern_b2         = _espanyol2425a
+|pattern_ra2        = _espanyol2425a
+|pattern_sh2        = _espanyol2425a
+|pattern_so2        = _espanyol2425al
+|leftarm2           = 858a90
+|body2              = 40355f
+|rightarm2          = 858a90
+|shorts2            = 40355f
+|socks2             = 40355f
+|pattern_la3        = _espanyol2425t
+|pattern_b3         = _espanyol2425t
+|pattern_ra3        = _espanyol2425t
+|pattern_sh3        = _espanyol2425t
+|pattern_so3        = _espanyol2425tl
+|leftarm3           = 454545
+|body3              = 3c3c3c
+|rightarm3          = 454545
+|shorts3            = 3c3c3c
+|socks3             = 3c3c3c
+|prevseason         = [[2023–24 RCD Espanyol season|2023–24]]
+|nextseason         = [[2025–26 RCD Espanyol season|2025–26]]
+}}
+The '''2024–25 season''' was the 125th season in the history of '''[[RCD Espanyol]]''', and the club's first season back in [[La Liga]] following promotion from the [[Segunda División]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+== Players ==
+=== First-team squad ===
+{{updated|3 February 2025}}<ref>{{cite web |url=https://www.rcdespanyol.com/ca/equips/rcd-espanyol/1 |title=RCD Espanyol - Equips|trans-title=RCD Espanyol - Teams|language=es|publisher=RCD Espanyol |access-date=18 July 2024}}</ref>
+{{Fs start}}
+{{Fs player|no=1|pos=GK|nat=ESP|name=[[Joan Garcia]]}}
+{{Fs player|no=2|pos=FW|nat=ESP|name=[[Roberto Fernández (footballer, born 2002)|Roberto Fernández]]|other=on loan from [[S.C. Braga|Braga]]}}
+{{Fs player|no=3|pos=DF|nat=ESP|name=[[Sergi Gómez]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=4|pos=DF|nat=ALB|name=[[Marash Kumbulla]]|other=on loan from [[AS Roma|Roma]]}}
+{{Fs player|no=5|pos=DF|nat=ESP|name=[[Fernando Calero]]}}
+{{Fs player|no=6|pos=DF|nat=URU|name=[[Leandro Cabrera]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{Fs player|no=7|pos=FW|nat=ESP|name=[[Javi Puado]]|other=[[Captain (association football)#Vice-captain|3rd captain]]}}
+{{Fs player|no=8|pos=MF|nat=ESP|name=[[Edu Expósito]]}}
+{{Fs player|no=9|pos=FW|nat=ARG|name=[[Alejo Véliz (footballer)|Alejo Véliz]]|other=on loan from [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+{{Fs player|no=10|pos=MF|nat=ESP|name=[[Pol Lozano]]|other=[[Captain (association football)#Vice-captain|4th captain]]}}
+{{Fs player|no=11|pos=FW|nat=ESP|name=[[Pere Milla]]}}
+{{Fs player|no=12|pos=DF|nat=ESP|name=[[Álvaro Tejero]]}}
+{{Fs player|no=13|pos=GK|nat=ESP|name=[[Fernando Pacheco]]}}
+{{Fs mid}}
+{{Fs player|no=14|pos=DF|nat=ESP|name=[[Brian Oliván]]}}
+{{Fs player|no=15|pos=MF|nat=ESP|name=[[José Gragera]]}}
+{{Fs player|no=16|pos=FW|nat=MAR|name=[[Walid Cheddira]]|other=on loan from [[SSC Napoli|Napoli]]}}
+{{Fs player|no=17|pos=FW|nat=ESP|name=[[Jofre Carreras]]}}
+{{Fs player|no=18|pos=MF|nat=ESP|name=[[Álvaro Aguado]]}}
+{{Fs player|no=19|pos=MF|nat=ESP|name=[[Urko González de Zárate]]|other=on loan from [[Real Sociedad]]}}
+{{Fs player|no=20|pos=MF|nat=CZE|name=[[Alex Král]]|other=on loan from [[1. FC Union Berlin|Union Berlin]]}}
+{{Fs player|no=22|pos=DF|nat=ESP|name=[[Carlos Romero (footballer, born 2001)|Carlos Romero]]|other=on loan from [[Villarreal CF|Villarreal]]}}
+{{Fs player|no=23|pos=DF|nat=MAR|name=[[Omar El Hilali]]}}
+{{Fs player|no=24|pos=DF|nat=ESP|name=[[Pablo Ramón]]}}
+{{Fs player|no=31|pos=MF|nat=ESP|name=[[Antoniu Roca]]}}
+{{Fs player|no=33|pos=GK|nat=ESP|name=[[Ángel Fortuño]]}}
+{{Fs end}}
+
+=== Reserve team ===
+{{main|RCD Espanyol B}}
+{{Fs start}}
+{{Fs player|no=27|pos=DF|nat=ESP|name=[[José Luis Català Vázquez|José Luis Català]]}}
+{{Fs player|no=32|pos=FW|nat=MAR|name=[[Omar Sadik]]}}
+{{Fs player|no=34|pos=GK|nat=ESP|name=[[Llorenç Serred Martínez|Llorenç Serred]]}}
+{{Fs player|no=35|pos=MF|nat=ESP|name=[[Rafel Bauzà]]}}
+{{Fs player|no=38|pos=GK|nat=ESP|name=[[Pol Tristán Jiménez|Pol Tristán]]}}
+{{Fs mid}}
+{{Fs player|no=39|pos=MF|nat=ESP|name=[[Álex Almansa López|Alex Almansa]]}}
+{{Fs player|no=40|pos=MF|nat=CAN|name=[[Justin Smith (soccer)|Justin Smith]]}}
+{{Fs player|no=41|pos=DF|nat=ESP|name=[[José Ángel López (footballer, born 2006)|José Ángel López]]}}
+{{Fs player|no=42|pos=DF|nat=ESP|name=[[Roger Hinojo]]}}
+{{Fs end}}
+
+=== Out on loan ===
+{{Fs start}}
+{{Fs player|no=|pos=DF|nat=ESP|name=[[Rubén Sánchez (footballer, born 2001)|Rubén Sánchez]]|other=at [[Granada CF|Granada]] until 30 June 2025}}
+{{Fs player|no=|pos=DF|nat=ESP|name=[[Ian Forns]]|other=at [[Real Murcia CF|Murcia]] until 30 June 2025}}
+{{Fs player|no=|pos=MF|nat=ESP|name=[[Javi Hernández (footballer, born 2004)|Javi Hernández]]|other=at [[SD Huesca|Huesca]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|pos=MF|nat=ESP|name=[[Roger Martínez (footballer, born 2004)|Roger Martínez]]|other=at [[CD Lugo|Lugo]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=URU|name=[[Gastón Valles]]|other=at [[FC Cartagena|Cartagena]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Kenneth Soler]]|other=at [[Real Murcia CF|Murcia]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Carlos Romero (footballer, born 2001)|Carlos Romero]]
+|[[Villarreal CF|Villarreal]]
+|Loan
+|{{dts|9 July 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/ca/noticia/carlos-romero,-nou-jugador-del-rcd-espanyol/17361|title=Carlos Romero, nou jugador del RCD Espanyol|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} {{sortname|Álvaro|Tejero}}
+|[[SD Eibar|Eibar]]
+|Free
+|{{dts|9 July 2024}}
+|<ref>{{Cite web|url=https://www.marca.com/futbol/espanyol/2024/07/09/668d22cfca4741e0718b45a2.html|title=Álvaro Tejero, nuevo jugador del Espanyol|date=9 July 2024|website=MARCA}}</ref>
+|-
+| align="center" |{{sort|20|DM}}
+|{{flagicon|CZE}} [[Alex Král]]
+|{{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|Loan
+|{{dts|7 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/en/new/alex-kral-joins-rcd-espanyol-on-loan/17460|title=Alex Král joins RCD Espanyol on loan|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|9|ST}}
+|{{flagicon|ARG}} [[Alejo Véliz (footballer)|Alejo Véliz]]
+|{{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|Loan
+|{{dts|7 August 2024}}
+|<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/cp9r52vnm37o|title=Veliz joins Espanyol on loan|website=www.bbc.com}}</ref>
+|-
+| align="center" |{{sort||FW}}
+|{{flagicon|FRA}} [[Irvin Cardona]]
+|{{fbaicon|GER}} [[FC Augsburg]]
+|Loan
+|{{dts|10 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/ca/noticia/cardona,-nou-jugador-del-rcd-espanyol/17472#|title=Cardona, nou jugador del RCD Espanyol|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|4|CB}}
+|{{flagicon|ALB}} [[Marash Kumbulla]]
+|{{fbaicon|ITA}} [[AS Roma|Roma]]
+|Loan
+|{{dts|17 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/en/new/marash-kumbulla-joins-on-loan/17493|title=Marash Kumbulla joins RCD Espanyol on loan|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|MAR}} {{sortname|Walid|Cheddira}}
+|{{fbaicon|ITA}} [[SSC Napoli|Napoli]]
+|Loan
+|{{dts|27 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/en/new/cheddira-joins-rcd-espanyol-on-loan/17533|title=Cheddira joins RCD Espanyol on loan|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|TUR}} {{sortname|Naci|Ünüvar}}
+|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|Loan
+|{{dts|29 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/en/new/naci-unuvar-joins-rcd-espanyol-on-loan/17550|title=Naci Ünüvar joins RCD Espanyol on loan|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Pablo Ramón]]
+|[[Real Madrid Castilla]]
+|Free
+|{{dts|3 January 2025}}
+|<ref>[https://www.rcdespanyol.com/en/new/pablo-ramon-joins-rcd-espanyol/18080 Pablo Ramón joins RCD Espanyol]</ref>
+|-
+| align="center" |{{sort|2|FW}}
+|{{flagicon|ESP}} [[Roberto Fernández (footballer, born 2002)|Roberto Fernández]]
+|{{fbaicon|POR}} [[SC Braga|Braga]]
+|Loan
+|{{dts|14 January 2025}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/en/new/roberto-fernandez-becomes-rcd-espanyol-player/18125|title=Roberto Fernández joins RCD Espanyol on loan|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|19|CDM|DM}}
+|{{flagicon|ESP}} [[Urko González de Zárate]]
+|[[Real Sociedad]]
+|Loan
+|{{dts|23 January 2025}}
+|<ref>https://www.realsociedad.eus/es/noticias/detalle/cedido-al-rcd-espanyol</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 115px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|SEN}} [[Keita Baldé]]
+|{{fbaicon|RUS}} [[FC Spartak Moscow|Spartak Moscow]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Nico Melamed]]
+|[[UD Almería|Almería]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.udalmeriasad.com/en/news/ud-almeria-sings-sought-after-midfielder-nico-melamed|title=UD Almería sings sought-after midfielder Nico Melamed|website=www.udalmeriasad.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Óscar Gil (footballer, born 1998)|Óscar Gil]]
+|{{fbaicon|BEL}} [[Oud-Heverlee Leuven|OH Leuven]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://ohleuven.com/news/oscar-gil-voor-twee-seizoenen-naar-oh-leuven/|title=ÓSCAR GIL VOOR TWEE SEIZOENEN NAAR OH LEUVEN|website=www.ohleuven.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Víctor Ruiz (footballer, born 1989)|Víctor Ruiz]]
+|Retired
+|End of contract
+|{{dts|1 July 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ALB}} [[Keidi Bare]]
+|[[Real Zaragoza|Zaragoza]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.realzaragoza.com/noticias/keidi-nuevo-jugador-real-zaragoza|title=¡Bienvenido, Keidi!|website=www.realzaragoza.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} [[Joselu]]
+|[[Real Madrid CF|Real Madrid]]
+|€1,500,000
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.football-espana.net/2024/06/27/real-madrid-active-buy-option-from-espanyol-for-joselu-mato|title=Real Madrid activate buy option from Espanyol for Joselu Mato|first=Ruairidh|last=Barlow|date=27 June 2024|website=Football España}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|DEN}} [[Martin Braithwaite]]
+|{{fbaicon|BRA}} [[Grêmio FBPA|Gremio]]
+|Contract terminated
+|{{dts|15 July 2024}}
+|<ref>{{Cite web|url=https://el1900.com/martin-braithwaite-salida-espanyol-clausula-contrato/|title=Martin Braithwaite decide no seguir en el Espanyol|date=15 July 2024}}</ref>
+|-
+| align="center" |{{sort|4|RB}}
+|{{flagicon|ESP}} [[Rubén Sánchez (footballer, born 2001)|Rubén Sánchez]]
+|[[Granada CF|Granada]]
+|Loan
+|{{dts|23 July 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/ca/noticia/ruben-sanchez,-cedit-al-granada-cf/17406|title=Rubén Sánchez, cedit al Granada CF|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|SWE}} [[Max Svensson (footballer, born 2001)|Max Svensson]]
+|{{fbaicon|POR}} [[Casa Pia AC|Casa Pia]]
+|End of contract
+|{{dts|7 August 2024}}
+|<ref>{{Cite web|url=https://desporto.sapo.pt/futebol/primeira-liga/artigos/espanhol-max-svensson-e-reforco-do-casa-pia-por-tres-temporadas|title=Max Svensson joins Casa Pia for three seasons|website=www.desporto.sapo.pt}}</ref>
+|-
+| align="center" |{{sort|4|LW}}
+|{{flagicon|ESP}} [[José Carlos Lazo]]
+|[[Albacete Balompié|Albacete]]
+|Contract terminated
+|{{dts|12 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/en/new/lazo-leaves-rcd-espanyol/17473|title=Lazo leaves RCD Espanyol|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|4|MF}}
+|{{flagicon|ESP}} [[Javi Hernández (footballer, born 2004)|Javi Hernández]]
+|[[SD Huesca|Huesca]]
+|Loan
+|{{dts|13 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/es/noticia/javi-hernandez,-renovado-y-cedido-a-la-sd-huesca/17466|title=Javi Hernández, renewed and loaned to SD Huesca|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|URU}} [[Gastón Valles]]
+|[[FC Cartagena|Cartagena]]
+|Loan
+|{{dts|14 August 2024}}
+|<ref>{{Cite web|url=https://www.rcdespanyol.com/ca/noticia/gaston-valles,-renovat-i-cedit-al-fc-cartagena/17487|title=Gastón Valles, renovat i cedit al FC Cartagena|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|4|LW}}
+|{{flagicon|ESP}} [[Kenneth Soler]]
+|[[Real Murcia CF|Murcia]]
+|Loan
+|{{dts|20 August 2024}}
+|<ref>{{Cite web|url=https://www.realmurcia.es/kenneth-soler-desborde-y-descaro-para-el-ataque-grana/|title=Kenneth Soler, overflow and impudence for the grana attack|website=www.realmurcia.es}}</ref>
+|-
+| align="center" |{{sort|3|FW}}
+|{{flagicon|TUR}} [[Naci Ünüvar]]
+|{{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|Loan return
+|{{dts|15 January 2025}}
+|
+|-
+| align="center" |{{sort|3|RW}}
+|{{flagicon|ESP}} [[Salvi (footballer)|Salvi]]
+|[[AD Ceuta FC|Ceuta]]
+|End of contract
+|{{dts|23 January 2025}}
+||<ref>{{Cite web|url=https://www.rcdespanyol.com/ca/noticia/acord-amb-salvi-sanchez/18157|title=Agreement with Salvi Sánchez|website=www.rcdespanyol.com}}</ref>
+|-
+| align="center" |{{sort|2|FW}}
+|{{flagicon|FRA}} [[Irvin Cardona]]
+|{{fbaicon|GER}} [[FC Augsburg]]
+|Loan return
+|{{dts|27 January 2025}} 
+|
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 27 July 2024
+|time = 11:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Espanyol
+|score = 0–0
+|report = 
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+|goals2 =
+|stadium = Campo de Torremirona
+|location = [[Navata]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 31 July 2024
+|time = 19:00
+|team1 = Espanyol
+|score = 1–0
+|report = 
+|team2 = [[SD Huesca|Huesca]]
+|goals1 =
+|goals2 =
+|stadium = Ciutat Esportiva Dani Jarque
+|location = [[Sant Adrià de Besòs]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 4 August 2024
+|time = 19:00
+|team1 = Espanyol
+|score = 0–0
+|report = 
+|team2 = [[Toulouse FC|Toulouse]]
+|goals1 =
+|goals2 =
+|stadium = Ciutat Esportiva Dani Jarque
+|location = [[Sant Adrià de Besòs]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 10 August 2024
+|time = 15:30
+|team1 = [[1. FC Heidenheim]]
+|score = 2–1
+|report = 
+|team2 = Espanyol
+|goals1 =
+|goals2 =
+|stadium = [[Voith-Arena]]
+|location = [[Heidenheim an der Brenz]], Germany
+|attendance = 
+|referee = 
+|result = L
+}}
+
+==== Copa Catalunya ====
+{{Football box collapsible
+|round = Quarter-finals
+|date = 29 January 2025
+|time = 19:00
+|team1 = [[CE Sabadell FC|Sabadell]]
+|score = 0–1
+|report = https://www.rcdespanyol.com/en/new/match-report-rcd-espanyol-advance-in-copa-catalunya/18191
+|team2 = Espanyol
+|goals1 =
+|goals2 =
+*[[Leo Salazar|Salazar]] {{goal|5}}
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Semi-finals
+|date = 19 March 2025
+|time = 20:45
+|team1 = Espanyol
+|score = 5–0
+|report = 
+|team2 = [[FC Barcelona Atlètic|Barcelona Atlètic]]
+|goals1 =
+*[[Víctor Mingo|Mingo]] {{goal|1||5||30}}
+*[[José Ángel López (footballer, born 2006)|A. López]] {{goal|15}}
+*[[Alex Almansa|Almansa]] {{goal|50}}
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Final
+|date = TBD
+|time = 
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 
+|report = 
+|team2 = Girona
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = 
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=19 August 2024 |lm1=24 May 2025 |sr1=Matchday 1 |fp1=14th |w1=11 |d1=9 |l1=18 |f1=40 |a1=51
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=31 October 2024 |lm2=3 December 2024 |sr2=First round |fp2=Second round |w2=1 |d2=0 |l2=1 |f2=4 |a2=2
+|s=[https://www.soccerway.com/team/espanyol/QFfPdh1J/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=ESP}}
+
+==== Results summary ====
+{{Fb rs |hw=8 |hd=6 |hl=5 |hgf=23 |hga=20 |aw=3 |ad=3 |al=13 |agf=17 |aga=31 }}
+{{Fb rs footer|s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| rnd26=27
+| rnd27=28
+| rnd28=29
+| rnd29=30
+| rnd30=31
+| rnd31=32
+| rnd32=33
+| rnd33=26<sup>1</sup>
+| res1=A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/A/H/A/A/H/A/H/A/H
+| label2=Result
+| res2=L/L/D/W/W/L/L/L/W/L/L/L/D/L/W/L/D/L/D/W/D/W/L/D/W/D/L/D/W/W/W/D/L/L/L/L/L/W
+| label3=Position
+| pos3=20/19/19/15/11/13/14/17/14/15/17/17/18/19/18/17/18/18/18/18/18/17/16/15/15/15/15/16/16/15/13/13/13/14/14/16/17/14
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+<sup>'''1'''</sup> Matchday 26 (vs [[Villarreal CF|Villarreal]]) was postponed due to heavy rain and risk of flooding.
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 19 August 2024
+|time = 19:00
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 1–0
+|report = https://www.laliga.com/en-BR/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rcd-espanyol-1
+|team2 = Espanyol
+|goals1 =
+*[[Raúl Moro|Moro]] {{goal|23}}
+*[[Lucas Rosa|Rosa]] {{yel|80}}
+*[[Iván Sánchez (footballer)|Sánchez]] {{yel|90+7}}
+|goals2 =
+*[[Antoniu Roca|Roca]] {{yel|72}}
+*[[Irvin Cardona|Cardona]] {{yel|87}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 22,027
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 2
+|date = 24 August 2024
+|time = 21:30
+|team1 = Espanyol
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-real-sociedad-2
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Alejo Véliz (footballer)|Véliz]] {{yel|52}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|90+7}}
+|goals2 =
+*[[Beñat Turrientes|Turrientes]] {{yel|51}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|57}}
+*[[Takefusa Kubo|Kubo]] {{goal|80}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 20,900
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 21:30
+|team1 = [[Atlético Madrid]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rcd-espanyol-3
+|team2 = Espanyol
+|goals1 =
+|goals2 =
+*[[Javi Puado|Puado]] {{yel|55}}
+*[[Omar El Hilali|El Hilali]] {{yel|82}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 56,669
+|referee = [[Ricardo de Burgos Bengoetxea]]
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 31 August 2024
+|time = 19:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Espanyol
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-rayo-vallecano-4
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{goal|8}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|81}}
+*[[Álvaro Aguado|Aguado]] {{yel|85}}
+*[[Alejo Véliz (footballer)|Véliz]] {{goal|90+6}}
+*[[Alejo Véliz (footballer)|Véliz]] {{yel|90+7}}
+|goals2 =
+*[[Álvaro García (footballer, born 1992)|García]] {{goal|4}}
+*[[Álvaro García (footballer, born 1992)|García]] {{yel|82}}
+*[[Abdul Mumin|Mumin]] {{yel|90+3}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 22,405
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 14 September 2024
+|time = 16:15 
+|team1 = Espanyol
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-deportivo-alaves-5
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Javi Puado|Puado]] {{goal|21||56||63|pen.}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|48}}
+*[[Omar El Hilali|El Hilali]] {{yel|54}}
+|goals2 =
+*[[Abdel Abqar|Abqar]] {{yel|29}}
+*[[Tomás Conechny|Conechny]] {{goal|35}}
+*[[Antonio Sivera|Sivera]] {{yel|61}}
+*[[Nahuel Tenaglia|Tenaglia]] {{goal|68}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|76}}
+*[[Luis García (footballer, born 1972)|García]] {{yel|90+2}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 24,238
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 21 September 2024
+|time = 21:00
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 4–1
+|report = https://www.laliga.com/en-BR/match/temporada-2024-2025-laliga-ea-sports-real-madrid-rcd-espanyol-6
+|team2 = Espanyol
+|goals1 =
+*[[Dani Carvajal|Carvajal]] {{goal|58}}
+*[[Rodrygo]] {{goal|75}}
+*[[Vinicius Junior|Vinicius]] {{goal|78}}
+*[[Kylian Mbappé|Mbappé]] {{goal|90|pen.}}
+|goals2 =
+*[[Thibaut Courtois|Courtois]] {{goal|54|o.g.}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 72,284
+|referee = [[José Luis Munuera Montero]]
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 26 September 2024
+|time = 19:00
+|team1 = Espanyol
+|score = 1–2
+|report = https://www.laliga.com/en-BR/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-villarreal-cf-7
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Jofre Carreras|Carreras]] {{goal|46}}
+|goals2 =
+*[[Ayoze Pérez|Pérez]] {{goal|51||63}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 23,147
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 8
+|date = 29 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Betis]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rcd-espanyol-8
+|team2 = Espanyol
+|goals1 =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|85}}
+|goals2 =
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 53,065
+|referee = Alejandro José Hernández Hernández
+|result = L
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 14:00
+|team1 = Espanyol
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-rcd-mallorca-9
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Marash Kumbulla|Kumbulla]] {{goal|18}}
+*[[Jofre Carreras|Carreras]] {{goal|47}}
+|goals2 =
+*[[Antonio Raíllo|Raíllo]] {{goal|68}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 24,434
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 10
+|date = 19 October 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Athletic Bilbao]]
+|score = 4–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rcd-espanyol-10
+|team2 = Espanyol
+|goals1 =
+*[[Daniel Vivian (footballer)|Vivian]] {{goal|6}}
+*[[Iñaki Williams|I. Williams]] {{goal|28||30}}
+*[[Unai Nuñez|Nuñez]] {{yel|48}}
+*[[Yuri Berchiche|Berchiche]] {{yel|45+3}}
+*[[Álex Berenguer|Berenguer]] {{goal|55}}
+|goals2 =
+*[[Pere Milla|Milla]] {{yel|51}}
+*[[Leandro Cabrera|Cabrera]] {{yel|74}}
+*[[Omar El Hilali|El Hilali]] {{yel|82}}
+*[[Álvaro Tejero|Tejero]] {{goal|90+2}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 46,713
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 25 October 2024
+|time = 21:00
+|team1 = Espanyol
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-sevilla-fc-11
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Antoniu Roca|Roca]] {{yel|82}}
+*[[Pol Lozano|Lozano]] {{yel|90+1}}
+|goals2 =
+*[[Dodi Lukebakio|Lukebakio]] {{goal|20||45}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 23,656
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = 16:15
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-rcd-espanyol-12
+|team2 = Espanyol
+|goals1 =
+*[[Dani Olmo|Olmo]] {{goal|12||31}}
+*[[Raphinha]] {{goal|23}}
+|goals2 =
+*[[Javi Puado|Puado]] {{goal|63}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 48,843
+|referee = José Luis Munuera Montero
+|result = L
+}}
+{{Football box collapsible
+|round = 14
+|date = 23 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Girona FC|Girona]]
+|score = 4–1
+|report = 
+|team2 = Espanyol
+|goals1 =
+*[[Bryan Gil|Gil]] {{goal|4}}
+*[[Bojan Miovski|Miovski]] {{goal|16||21}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|27}}
+|goals2 =
+*[[Javi Puado|Puado]] {{goal|55}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 30 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Espanyol
+|score = 3–1
+|report = 
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+|goals2 =
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 16
+|date = 9 December 2024
+|time = 22:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Getafe]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-rcd-espanyol-16
+|team2 = Espanyol
+|goals1 =
+*[[Álvaro Rodríguez (footballer, born 2004)|Álvaro]] {{goal|8}}
+*[[Omar Alderete|Alderete]] {{yel|29}}
+*[[Mauro Arambarri|Arambarri]] {{yel|42}}
+*[[John Patrick (footballer, born 2003)|J.Patrick]] {{yel|83}}
+|goals2 =
+*[[Jofre Carreras|Jofre]] {{yel|5}}
+*[[Omar El Hilali|El Hilali]] {{yel|57}}
+*[[Leandro Cabrera|Cabrera]] {{yel|64}}
+*[[Antoniu Roca|A.Roca]] {{yel|82}}
+*[[Sergi Gómez|S.Gómez]] {{yel|90}}
+*[[Brian Oliván|B.Oliván]] {{yel|90}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 7.559
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 14 December 2024
+|time = 14:00
+|team1 = Espanyol
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-ca-osasuna-17
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Pol Lozano|Lozano]] {{yel|31}}
+*[[Álvaro Tejero|Tejero]] {{yel|58}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|65}}
+|goals2 =
+*[[Alejandro Catena|Catena]] {{yel|36}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 20.513
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 13
+|date = 18 December 2024
+|time = 21:30
+|team1 = Espanyol
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-valencia-cf-13
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Javi Puado|Puado]] {{goal|44}}
+*[[Omar El Hilali|El Hilali]] {{yel|63}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|47}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 18,122
+|referee = Pablo González Fuertes
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 18:30
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-rcd-espanyol-18
+|team2 = Espanyol
+|goals1 =
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{yel|17}}
+*[[Marvin Park]] {{yel|30}}
+*[[Álex Suárez (footballer, born 1993)|Alex Suárez]] {{yel|59}}
+*[[Sandro Ramírez|Ramírez]] {{goal|67}}
+*[[Enzo Loiodice|Loiodice]] {{yel|80}}
+|goals2 =
+*[[Javi Puado]] {{yel|18}}
+*[[Pol Lozano]] {{yel|83}}
+|stadium = [[Estadio de Gran Canaria]]
+|location = [[Gran Canaria]]
+|attendance = 23.743
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 11 January 2025
+|time = 17:30  
+|team1 = Espanyol
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-cd-leganes-19
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Leandro Cabrera|Cabrera]] {{goal|2}}
+*[[Omar El Hilali|El Hilali]] {{yel|15}}
+*[[Alex Král]] {{yel|15}}
+|goals2 =
+*[[Seydouba Cissé|Cissé]] {{goal|14}}
+*[[Daniel Rabaseda|Raba]] {{yel|45+1}}
+*[[Darko Brašanac|Brašanac]] {{yel|71}}
+*[[Juan Soriano (footballer)|Soriano]] {{sentoff|0|90+1}}
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 26.606
+|referee = Juan Martínez Munuera
+|result = D
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 21:00
+|team1 = Espanyol
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-real-valladolid-cf-20
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Javi Puado]] {{goal|31}}
+*[[Omar El Hilali|El Hilali]] {{yel|45}}
+*[[Roberto Fernández (footballer, born 2002)|Fernández]] {{goal|74}}
+*[[Brian Oliván|Oliván]] {{yel|90+1}}
+|goals2 =
+*[[Javi Sánchez (footballer)|Javi Sánchez]] {{goal|57}}
+*[[Stanko Juric]] {{yel|63}}
+*[[Selim Amallah|Amallah]] {{yel|81}}
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 23.554
+|referee = De Burgos Bengoetxea
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 25 January 2025
+|time = 18:30
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rcd-espanyol-21
+|team2 = Espanyol
+|goals1 =
+*[[Loïc Badé]] {{goal|61}}
+*[[Juanlu Sánchez|Juanlu]] {{yel|65}}
+|goals2 =
+*[[Marash Kumbulla|Kumbulla]] {{goal|15}}
+*[[Roberto Fernández (footballer, born 2002)|R.Fernández]] {{yel|45+5}}
+*[[Álvaro Tejero|Tejero]] {{yel|48}}
+*[[Pol Lozano]] {{yel|56}}
+*[[Edu Expósito|Expósito]] {{yel|79}}
+|stadium = [[Ramón Sánchez-Pizjuán]]
+|location = [[Seville]]
+|attendance = 33.602
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 1 February 2025
+|time = 21:00
+|team1 = Espanyol
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-real-madrid-22
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{yel|61}}, {{goal|85}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|90}}
+|goals2 =
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 33.669
+|referee = Alejandro Muñiz Ruiz
+|result = W
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rcd-espanyol-23
+|team2 = Espanyol
+|goals1 =
+*[[Sheraldo Becker|Becker]] {{goal|1}}
+*[[Nayef Aguerd|Aguerd]] {{yel|51}}
+*[[Brais Méndez|Méndez]] {{goal|84}}
+|goals2 =
+*[[Álvaro Aguado|Aguado]] {{yel|40}}
+*[[Javi Puado|Puado]] {{goal|53|pen.}}
+*[[Leandro Cabrera|Cabrera]] {{yel|90+2}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 29,478
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Espanyol
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-por-determinar-athletic-club-24
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Urko González de Zárate|González de Zárate]] {{yel|46}}
+*[[Roberto Fernández (footballer, born 2002)|Fernández]] {{goal|62}}
+|goals2 =
+*[[Yeray Álvarez|Yeray]] {{yel|5}}
+*[[Oihan Sancet|Sancet]] {{goal|77}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 26,645
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 22 February 2025
+|time = 13:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rcd-espanyol-25
+|team2 = Espanyol
+|goals1 =
+*[[Facundo Tenaglia|Tenaglia]] {{yel|7}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|65}}
+|goals2 =
+*[[Pol Lozano|Lozano]] {{yel|17}}
+*[[Omar El Hilali|El Hilali]] {{yel|84}}
+*[[Fernando Calero|Calero]] {{goal|86}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 17.068
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 27
+|date = 10 March 2025
+|time = 21:00
+|team1 = Espanyol
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-girona-fc-27
+|team2 = [[Girona FC|Girona]]
+|goals1 = 
+*[[Pol Lozano|Lozano]] {{yel|22}}
+*[[Javier Puado|Puado]] {{yel|45+3}}
+*[[Edu Expósito|Expósito]] {{yel|45+3}}
+*[[Jofre Carreras|Carreras]] {{goal|49}}
+|goals2 = 
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|12}}
+*[[Miguel Gutiérrez (footballer, born 2001)|Gutiérrez]] {{yel|61}}
+*[[Bryan Gil|Gil]] {{yel|75}}
+*[[Cristhian Stuani|Stuani]] {{goal|87|pen.}}
+|stadium = [[RCDE Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 23.997
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 28
+|date = 15 March 2025
+|time = 15:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-rcd-espanyol-28
+|team2 = Espanyol
+|goals1 = 
+*[[Vedat Muriqi|Muriqi]] {{penmiss}} 62, {{goal|90+7|pen.}}
+*[[Takuma Asano|Asano]] {{goal|65}}
+*[[Abdón]] {{penmiss}} 90+1, 
+|goals2 = 
+*[[Vedat Muriqi|Muriqi]] {{goal|53|o.g.}}
+*[[Omar El Hilali|El Hilali]] {{yel|61}}
+*[[Álvaro Aguado|Aguado]] {{yel|90+10}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18.240
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 29
+|date = 29 March 2025
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Espanyol
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-atletico-de-madrid-29
+|team2 = [[Atlético Madrid]]
+|goals1 = 
+*[[Marash Kumbulla|Kumbulla]] {{yel|21}}
+*[[Javi Puado|Puado]] {{goal|71|pen.}}
+*[[Alejo Véliz (footballer)|Veliz]] {{yel|73}}
+|goals2 = 
+*[[César Azpilicueta|Azpilicueta]] {{goal|38}}
+*[[José María Giménez|Giménez]] {{yel|90+1}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 30.559
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 30
+|date = 4 April 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Rayo Vallecano]]
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-rcd-espanyol-30
+|team2 = Espanyol
+|goals1 = 
+*[[Pep Chavarría|Chavarría]] {{yel|28}}
+*[[Pathé Ciss]] {{yel|70}}
+|goals2 = 
+*[[Leandro Cabrera|Cabrera]] {{goal|12}}
+*[[Roberto Fernández (footballer, born 2002)|Roberto]] {{goal|16}}
+*[[Pol Lozano|Lozano]] {{yel|55}}
+*[[Javier Puado|Puado]] {{goal|72|pen.}}
+*[[Pere Milla|Milla]] {{yel|87}}, {{goal|90}} 
+|stadium = [[Campo de Fútbol de Vallecas]]
+|location = [[Madrid]]
+|attendance = 11.905
+|referee = Alejandro José Hernández Hernández
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 12 April 2025
+|time = 18:30
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-rcd-espanyol-31
+|team2 = Espanyol
+|goals1 = 
+*[[Javi Rodríguez (footballer)|Javi]] {{yel|45+4}}
+*[[Jailson]] {{yel|65}}
+|goals2 = 
+*[[Roberto Fernández (footballer, born 2002)|Roberto]] {{goal|28||63}}
+*[[Pol Lozano|Lozano]] {{yel|44}}
+*[[Javier Puado|Puado]] {{yel|77}}
+|stadium = [[Estadio ABANCA Balaídos]]
+|location = [[Vigo]]
+|attendance = 19.801
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 32
+|date = 18 April 2025
+|time = 21:00
+|team1 = Espanyol
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-getafe-cf-32
+|team2 = [[Getafe CF|Getafe]]
+|goals1 = 
+*[[Marash Kumbulla|Kumbulla]] {{goal|39}}
+|goals2 =
+*[[Coba da Costa|da Costa]] {{yel|14}}
+*[[Chrisantus]] {{sentoff|0|60}}
+*[[Mauro Arambarri|Arambarri]] {{yel|73}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 25.003
+|referee = Ricardo De Burgos Bengochea
+|result = W
+}}
+{{Football box collapsible
+|round = 33
+|date = 22 April 2025
+|time = 19:00
+|team1 = [[Valencia CF|Valencia]] 
+|score = 1–1
+|report= https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rcd-espanyol-33
+|team2 = Espanyol
+|goals1 = 
+*[[André Almeida (footballer, born 2000)|Almeida]] {{yel|39}}
+*[[César Tárrega|Tárrega]] {{yel|45+2}}
+*[[Javi Guerra (footballer, born 2003)|Guerra]] {{goal|57}}
+|goals2 = 
+*[[Carlos Romero (footballer, born 2001)|Romero]] {{yel|31}}
+*[[Javier Puado|Puado]] {{goal|40}}
+|stadium = [[Estadio de Mestalla|Mestalla]]
+|location = [[Valencia]]
+|attendance = 42.448
+|referee = Juan Pulido Santana
+|result = D
+}}
+{{Football box collapsible
+|round = 26
+|date = 27 April 2025
+|time = 16:15
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rcd-espanyol-26
+|team2 = Espanyol
+|goals1 =
+|goals2 =
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 
+|referee = José Luis Munuera Montero
+|result = L
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = 
+|team1 = Espanyol
+|score = 1–2
+|report = 
+|team2 = Real Betis
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Cornellà de Llobregat]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 35
+|date = 11 May 2025
+|time = 
+|team1 = Leganés
+|score = 3–2
+|report = 
+|team2 = Espanyol
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Leganés]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 15 May 2025
+|time = 
+|team1 = Espanyol
+|score = 0–2
+|report = 
+|team2 = Barcelona
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Cornellà de Llobregat]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = Osasuna
+|score = 2–0
+|report = 
+|team2 = Espanyol
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Pamplona]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Espanyol
+|score = 2–0
+|report = 
+|team2 = Las Palmas
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Cornellà de Llobregat]]
+|attendance = 
+|referee = 
+|result = W
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 31 October 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[San Tirso SD]]
+|score = 0–4
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-san-tirso-sd-rcd-espanyol-de-barcelona-2
+|team2 = Espanyol
+|goals1 =
+*[[Alejandro Segade|Segade]] {{yel|10}}
+*[[Denis López]] {{yel|55}}
+|goals2 =
+*[[Sergi Gómez]] {{yel|24}}
+*[[Alejo Véliz (footballer)|Véliz]] {{goal|54||86||90+1}}
+*[[Rafel Bauzà]] {{yel|71}}
+*[[Irvin Cardona|Cardona]] {{goal|85}}
+|stadium = [[Estadio Riazor|Riazor]]
+|location = [[A Coruña]]
+|attendance = 3.041
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 3 December 2024
+|time = {{UTZ|21:00|1}}
+|team1 = [[UD Barbastro]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-barbastro-rcd-espanyol-de-barcelona-3
+|team2 = Espanyol
+|goals1 =
+*[[Sito Barrera|Barrera]] {{goal|55|pen.|81}}
+*[[Hugo Bautista|Bautista]] {{yel|89}}
+|goals2 =
+*[[Marash Kumbulla|Kumbulla]] {{yel|6}}
+*[[Alejo Véliz (footballer)|Véliz]] {{yel|78}}
+|stadium = Estadio Municipal de Deportes de Barbastro
+|location = [[Barbastro]]
+|attendance = 
+|referee = Javier Alberola Rojas
+|result = L
+}}
+
+== References ==
+{{Reflist}}
+
+{{RCD Espanyol}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 RCD Espanyol season}}
+[[Category:RCD Espanyol seasons]]
+[[Category:Spanish football clubs 2024–25 season|Espanyol]]
+[[Category:2024–25 in Catalan football]]

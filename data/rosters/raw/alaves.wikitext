@@ -1,0 +1,1381 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[Deportivo Alavés]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = Alfonso Fernández de Trocóniz
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Luis García (footballer, born 1972)|Luis García]]<br>''(until 2 December)''<br>[[Eduardo Coudet]]<br>''(from 2 December)''
+|stdtitle           = 
+|stadium            = [[Mendizorrotza Stadium|Mendizorrotza]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|15th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Second round]]
+|league topscorer   = <br>[[Kike García (Spanish footballer)|Kike García]] (13)
+|season topscorer   = <br>Kike García (15)
+|highest attendance = 19,468
+|lowest attendance  = 
+|average attendance = 17,318<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = 
+|largest loss       = 
+|pattern_la1        = _alaves2425h
+|pattern_b1         = _alaves2425h
+|pattern_ra1        = _alaves2425h
+|pattern_sh1        = 
+|pattern_so1        = 
+|leftarm1           = 0044DD
+|body1              = 0044DD
+|rightarm1          = 0044DD
+|shorts1            = 0044DD
+|socks1             = 0044DD
+|pattern_la2        = _alaves2425a
+|pattern_b2         = _alaves2425a
+|pattern_ra2        = _alaves2425a
+|pattern_sh2        = 
+|pattern_so2        = 
+|leftarm2           = C3C3C3
+|body2              = C3C3C3
+|rightarm2          = C3C3C3
+|shorts2            = C3C3C3
+|socks2             = C3C3C3
+|pattern_la3        = _alaves2425t
+|pattern_b3         = _alaves2425t
+|pattern_ra3        = _alaves2425t
+|pattern_sh3        = 
+|pattern_so3        = 
+|leftarm3           = 002244
+|body3              = 002244
+|rightarm3          = 002244
+|shorts3            = 002244
+|socks3             = 002244
+|prevseason         = [[2023–24 Deportivo Alavés season|2023–24]]
+|nextseason         = [[2025–26 Deportivo Alavés season|2025–26]]
+}}
+The '''2024–25 season''' was the 104th season in the history of '''[[Deportivo Alavés]]''', and the club's second consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]].
+
+==Players==
+===First-team squad===
+{{updated|4 February 2025}}<ref>{{cite web|url=https://www.deportivoalaves.com/es/equipos/equipo-masculino|title=Equipo Masculino|publisher=Deportivo Alavés|access-date=4 December 2024}}</ref>
+{{Fs start}}
+{{Fs player|no=1|pos=GK|nat=ESP|name=[[Antonio Sivera]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=2|pos=DF|nat=ARG|name=[[Facundo Garcés]]}}
+{{Fs player|no=3|pos=DF|nat=ESP|name=[[Manu Sánchez (footballer, born 2000)|Manu Sánchez]]|other={{small|on loan from [[RC Celta de Vigo|Celta Vigo]]}}}}
+{{Fs player|no=4|pos=DF|nat=SRB|name=[[Aleksandar Sedlar]]}}
+{{Fs player|no=5|pos=DF|nat=MAR|name=[[Abdel Abqar]]}}
+{{Fs player|no=6|pos=MF|nat=ESP|name=[[Ander Guevara]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{Fs player|no=7|pos=MF|nat=ESP|name=[[Carlos Vicente (footballer)|Carlos Vicente]]}}
+{{Fs player|no=8|pos=MF|nat=ESP|name=[[Antonio Blanco (footballer)|Antonio Blanco]]}}
+{{Fs player|no=9|pos=FW|nat=ESP|name=[[Asier Villalibre]]}}
+{{Fs player|no=10|pos=MF|nat=ARG|name=[[Tomás Conechny]]}}
+{{Fs player|no=11|pos=FW|nat=ESP|name=[[Toni Martínez]]}}
+{{Fs player|no=12|pos=DF|nat=URU|name=[[Santiago Mouriño]]}}
+{{Fs mid}}
+{{Fs player|no=13|pos=GK|nat=EQG|name=[[Jesús Owono]]}}
+{{Fs player|no=14|pos=DF|nat=ARG|name=[[Nahuel Tenaglia]]|other=[[Captain (association football)#3rd captain|3rd captain]]}}
+{{Fs player|no=15|pos=FW|nat=ESP|name=[[Carlos Martín (footballer)|Carlos Martín]]|other={{small|on loan from [[Atlético Madrid]]}}}}
+{{Fs player|no=16|pos=DF|nat=ESP|name=[[Hugo Novoa]]}}
+{{Fs player|no=17|pos=FW|nat=ESP|name=[[Kike García (Spanish footballer)|Kike García]]}}
+{{Fs player|no=18|pos=MF|nat=ESP|name=[[Jon Guridi]]}}
+{{Fs player|no=19|pos=FW|nat=ESP|name=[[Pau Cabanes]]|other={{small|on loan from [[Villarreal CF|Villarreal]]}}}}
+{{Fs player|no=21|pos=MF|nat=ESP|name=[[Carles Aleñá]]|other={{small|on loan from [[Getafe CF|Getafe]]}}}}
+{{Fs player|no=22|pos=DF|nat=MLI|name=[[Moussa Diarra (footballer, born 2000)|Moussa Diarra]]}}
+{{Fs player|no=23|pos=MF|nat=URU|name=[[Carlos Protesoni]]}}
+{{Fs player|no=24|pos=MF|nat=ESP|name=[[Joan Jordán]]|other={{small|on loan from [[Sevilla FC|Sevilla]]}}}}
+{{Fs player|no=31|pos=GK|nat=ARG|name=[[Adrián Rodríguez (footballer, born 2000)|Adrián Rodríguez]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|pos=DF|nat=ESP|name=[[José David Álvarez Adsuar|Joseda Álvarez]]|other=at [[Sestao River Club|Sestao River]] until 30 June 2025}}
+{{Fs player|no=|pos=DF|nat=SRB|name=[[Nikola Maraš]]|other=at [[Sporting de Gijón|Sporting Gijón]] until 30 June 2025}}
+{{Fs player|no=|pos=DF|nat=CMR|name=[[Stephane Keller]]|other=at [[NK Istra 1961|Istra 1961]] until 30 June 2025}}
+{{Fs player|no=|pos=DF|nat=ESP|name=[[Víctor Parada]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|pos=MF|nat=GUI|name=[[Selu Diallo]]|other=at [[Atlético Madrid B]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Unai Ropero]]|other=at [[CD Eldense|Eldense]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ARG|name=[[Joaquín Panichelli]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ALG|name=[[Abde Rebbach]]|other=at [[Granada CF|Granada]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Mahmoud, Abdallahi|{{flagicon|MTN}} [[Abdallahi Mahmoud]]}}
+|{{fbaicon|SUI}} [[AC Bellinzona]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Balboa, Álex|{{flagicon|EQG}} [[Álex Balboa]]}}
+|{{fbaicon|ESP}} [[SD Huesca|Huesca]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Conechny, Tomás|{{flagicon|ARG}} [[Tomás Conechny]]}}
+|{{fbaicon|ARG}} [[Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|
+|{{dts|5 July 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Villalibre, Asier|{{flagicon|ESP}} [[Asier Villalibre]]}}
+|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|€1,000,000
+|{{dts|15 July 2024}}
+|<ref>{{Cite web|url=https://www.athletic-club.eus/noticias/2024/07/15/traspaso-de-asier-villalibre-al-deportivo-alaves/|title=Traspaso de Asier Villalibre al Deportivo Alavés &#124; Athletic Club Website Oficial|website=www.athletic-club.eus}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Stoichkov (Spanish footballer)|Stoichkov]]
+|{{fbaicon|ESP}} [[SD Eibar|Eibar]]
+|€1,000,000
+|{{dts|17 July 2024}}
+|<ref>{{Cite web|url=https://www.deportivoalaves.com/es/noticias/stoichkov-reforzara-el-ataque-albiazul|title=Stoichkov reforzará el ataque albiazul|website=www.deportivoalaves.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|MLI}} [[Moussa Diarra (footballer, born 2000)|Moussa Diarra]]
+|{{fbaicon|FRA}} [[Toulouse FC|Toulouse]]
+|Free
+|{{dts|18 July 2024}}
+|<ref>{{Cite web|url=https://www.afrik-foot.com/mercato-moussa-diarra-loin-de-lom-officiel|title=Mercato : Moussa Diarra loin de l'OM ! (officiel)|date=18 July 2024|website=www.afrik-foot.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Hugo Novoa]]
+|{{fbaicon|GER}} [[RB Leipzig]]
+|€1,500,000
+|{{dts|22 July 2024}}
+|<ref>{{Cite web|url=https://www.90min.de/posts/offiziell-rb-leipzig-verkauft-hugo-novoa|title=Offiziell: RB Leipzig verkauft Hugo Novoa|date=22 July 2024|website=90min.de}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|ESP}} [[Manu Sánchez (footballer, born 2000)|Manu Sánchez]]
+|{{fbaicon|ESP}} [[RC Celta de Vigo|Celta Vigo]]
+|Loan
+|{{dts|23 July 2024}}
+|<ref>{{Cite web|url=https://as.com/futbol/el-alaves-anuncia-la-llegada-de-manu-sanchez-cedido-n/|title=El Alavés anuncia la llegada de Manu Sánchez cedido|first=Javier|last=Lekuona|date=23 July 2024|website=Diario AS|access-date=23 July 2024|archive-url=https://web.archive.org/web/20241202051040/https://as.com/futbol/el-alaves-anuncia-la-llegada-de-manu-sanchez-cedido-n/|archive-date=2 December 2024|url-status=dead}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ARG}} [[Luka Romero]]
+|{{fbaicon|ITA}} [[AC Milan]]
+|Loan
+|{{dts|23 July 2024}}
+|<ref>{{Cite web|url=https://www.deportivoalaves.com/es/noticias/luka-romero-talento-joven-para-el-ataque-del-deportivo-alaves|title=Alaves|website=www.deportivoalaves.com}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Jordán, Joan|{{flagicon|ESP}} [[Joan Jordán]]}}
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|Loan
+|{{dts|29 August 2024}}
+|<ref>{{Cite web|url=https://www.deportivoalaves.com/es/noticias/joan-jordan-talento-y-experiencia-para-la-medular-albiazul|title=Joan Jordán, talento y experiencia para la medular albiazul|date=29 August 2024|website=www.deportivoalaves.com}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Gorosabel, Andoni|{{flagicon|ESP}} [[Andoni Gorosabel]]}}
+|{{fbaicon|ESP}} [[Athletic Bilbao]]
+|End of contract
+|{{dts|1 July 2024}}
+|<ref>{{cite web | url=https://as.com/futbol/gorosabel-para-mi-ha-sido-un-orgullo-pertenecer-a-este-club-y-creo-que-lo-he-dado-todo-por-el-n/ | title=Gorosabel: "Para mí ha sido un orgullo pertenecer a este club y creo que lo he dado todo por él" | date=21 May 2024 | access-date=17 June 2024 | archive-url=https://web.archive.org/web/20240617132309/https://as.com/futbol/gorosabel-para-mi-ha-sido-un-orgullo-pertenecer-a-este-club-y-creo-que-lo-he-dado-todo-por-el-n/ | archive-date=17 June 2024 | url-status=dead }}</ref>
+|-
+| align="center" |{{sort|4|[[Forward (association football)|FW]]}}
+|{{sort|De la Fuente, Miguel|{{flagicon|ESP}} [[Miguel de la Fuente]]}}
+|{{fbaicon|ESP}} [[CD Leganés]]
+|€2,000,000
+|{{dts|1 July 2024}}
+|<ref>{{cite web | url=https://as.com/futbol/el-alaves-se-despide-de-miguel-de-la-fuente-para-la-proxima-temporada-n/ | title=El Alavés se despide de Miguel de la Fuente para la próxima temporada | date=3 June 2024 | access-date=14 June 2024 | archive-url=https://web.archive.org/web/20240614133101/https://as.com/futbol/el-alaves-se-despide-de-miguel-de-la-fuente-para-la-proxima-temporada-n/ | archive-date=14 June 2024 | url-status=dead }}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Balboa, Álex|{{flagicon|EQG}} [[Álex Balboa]]}}
+|{{fbaicon|NED}} [[Almere City FC]]
+|
+|{{dts|4 July 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Duarte, Rubén|{{flagicon|ESP}} [[Rubén Duarte]]}}
+|{{fbaicon|MEX}} [[Pumas UNAM]]
+|€4,000,000
+|{{dts|9 July 2024}}
+|<ref>{{Cite web|url=https://www.deportivoalaves.com/es/noticias/ruben-duarte-finaliza-su-etapa-en-el-deportivo-alaves|title=Rubén Duarte finaliza su etapa en el Deportivo Alavés|website=www.deportivoalaves.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Godoy, Alan|{{flagicon|ESP}} [[Alan Godoy]]}}
+|{{fbaicon|ESP}} [[CD Eldense|Eldense]]
+|Undisclosed
+|{{dts|14 July 2024}}
+|<ref>{{Cite web|url=https://www.deportivoalaves.com/noticias/acuerdo-con-el-eldense-para-el-traspaso-de-alan-godoy|title=Acuerdo con el Eldense para el traspaso de Alan Godoy|website=www.deportivoalaves.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|López, Javi|{{flagicon|ESP}} [[Javi López (footballer, born 2002)|Javi López]]}}
+|{{fbaicon|ESP}} [[Real Sociedad]]
+|€6,500,000<ref>{{Cite web|url=https://as.com/futbol/despedida-de-javi-lopez-siempre-os-llevare-en-mi-corazon-n/|title=Despedida de Javi López: “Siempre os llevaré en mi corazón”|first=Javier|last=Lekuona|date=21 July 2024|website=Diario AS|access-date=22 July 2024|archive-url=https://web.archive.org/web/20240722100808/https://as.com/futbol/despedida-de-javi-lopez-siempre-os-llevare-en-mi-corazon-n/|archive-date=22 July 2024|url-status=dead}}</ref>
+|{{dts|21 July 2024}}
+|<ref>{{Cite web|url=https://www.deportivoalaves.com/noticias/acuerdo-con-la-real-sociedad-para-el-traspaso-de-javi-lopez|title=Acuerdo con la Real Sociedad para el traspaso de Javi López|website=www.deportivoalaves.com}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Luis Rioja]]
+|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|€1,500,000<ref>{{Cite web|url=https://www.marca.com/futbol/valencia/2024/08/22/66c70cf3268e3ede288b457c.html|title=El Valencia ficha a Luis Rioja: andquot;Se ha hecho un poco largo, estoy listoandquot;|first=DIEGO PICÓ / KOLDO|last=MORA|date=22 August 2024|website=MARCA}}</ref>
+|{{dts|22 August 2024}}
+|<ref>{{Cite web|url=https://www.deportivoalaves.com/es/noticias/acuerdo-con-el-valencia-cf-para-el-traspaso-de-luis-rioja|title=Acuerdo con el Valencia CF para el traspaso de Luis Rioja|website=www.deportivoalaves.com}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Mahmoud, Abdallahi|{{flagicon|MTN}} [[Abdallahi Mahmoud]]}}
+|{{fbaicon|KUW}} [[Al-Arabi SC (Kuwait)|Al-Arabi]]
+|Undisclosed
+|{{dts|4 September 2024}}
+|<ref>[https://www.deportivoalaves.com/es/noticias/news-item-10]</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = Friendly
+|date = 17 July 2024
+|time = 19:00
+|team1 = [[Racing de Santander|Racing Santander]]
+|score = 0–0
+|report = 
+|team2 = Alavés
+|goals1 =
+|goals2 =
+|stadium = [[Campos de Sport de El Sardinero]]
+|location = [[Santander, Spain|Santander]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = XXII {{ill|Trofeo Villa de Laguardia|es}}
+|date = 20 July 2024
+|time = 18:00
+|team1 = [[Real Sociedad]]
+|score = 1–1
+|report = 
+|team2 = Alavés
+|goals1 =
+*[[Brais Méndez|Méndez]] {{goal|30}}
+|goals2 =
+*[[Kike García (Spanish footballer)|García]] {{goal|12}}
+|penalties1 =
+*[[Umar Sadiq|Sadiq]] {{penmiss}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{pengoal}}
+*[[Mikel Goti|Goti]] {{pengoal}}
+*[[Iñaki Rupérez Urtasun|Rupérez]] {{penmiss}}
+*[[Alberto Dadie|Dadie]] {{pengoal}}
+*[[Álvaro Odriozola|Odriozola]] {{penmiss}}
+*[[Jon Gorrotxategi|Gorrotxategi]] {{pengoal}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{pengoal}}
+*[[Job Ochieng|Ochieng]] {{penmiss}}
+|penaltyscore = 5–6
+|penalties2 =
+*{{pengoal}} [[Joaquín Panichelli|Panichelli]]
+*{{pengoal}} [[Abde Rebbach|Rebbach]]
+*{{penmiss}} [[Carlos Benavídez|Benavídez]]
+*{{penmiss}} [[Nikola Maraš|Maraš]]
+*{{pengoal}} [[Luis Rioja|Rioja]]
+*{{penmiss}} [[Jesús Owono|Owono]]
+*{{pengoal}} [[Daouda Doumbia|Doumbia]]
+*{{pengoal}} [[Victor Parada|Parada]]
+*{{pengoal}} [[Abdallahi Mahmoud|Mahmoud]]
+|stadium = Campo de Futbol El Prao
+|location = [[Laguardia, Álava|Laguardia]]
+|attendance = 
+|referee = Aimar Velasco Arbaiza
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 27 July 2024
+|time = 19:30
+|team1 = [[Levante UD|Levante]]
+|score = 1–1
+|report = 
+|team2 = Alavés
+|goals1 =
+*[[Mohamed Bouldini|Bouldini]] {{goal|36}}
+|goals2 =
+*[[Stoichkov (Spanish footballer)|Stoichkov]] {{goal|19}}
+|stadium = [[Estadi Olímpic Camilo Cano]]
+|location = [[La Nucia]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 30 July 2024
+|time = 19:00
+|team1 = Alavés
+|score = 2–1
+|report = 
+|team2 = [[CD Tenerife|Tenerife]]
+|goals1 =
+*[[Tomás Conechny|Conechny]] {{goal|51}}
+*[[Asier Villalibre|Villalibre]] {{goal|82}}
+|goals2 =
+*[[Juande (footballer, born 1999)|Juande]] {{goal|48}}
+|stadium = El Albir
+|location = [[Alicante]]
+|attendance = 
+|referee = Muresan Muresan
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 2 August 2024
+|time = 19:30
+|team1 = [[Hércules CF|Hércules]]
+|score = 1–0
+|report = https://www.deportivoalaves.com/noticias/el-ultimo-en-tierras-levantinas-1-0
+|team2 = Alavés
+|goals1 =
+*Alvarito {{goal|14}}
+|goals2 =
+|stadium = Estadio José Rico Pérez
+|location = [[Alicante]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 7 August 2024
+|time = 18:30
+|team1 = Alavés
+|score = 1–1
+|report = 
+|team2 = [[SD Huesca|Huesca]]
+|goals1 =
+|goals2 =
+|stadium = Ciudad Deportiva José Luis Compañón
+|location = [[Vitoria-Gasteiz]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 10 August 2024
+|time = 19:00
+|team1 = [[CA Osasuna|Osasuna]]	
+|score = 1–2
+|report = 
+|team2 = Alavés
+|goals1 =
+|goals2 =
+|stadium = Instalaciones Deportivas de Tajonar
+|location = [[Tajonar]]
+|attendance = 
+|referee = 
+|result = W
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=16 August 2024 |lm1=24 May 2025 |sr1=Matchday 1 |fp1=15th |w1=10 |d1=12 |l1=16 |f1=38 |a1=48
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=29 October 2024 |lm2=5 December 2024 |sr2=First round |fp2=Second round |w2=1 |d2=1 |l2=0 |f2=3 |a2=2
+|s=[https://int.soccerway.com/teams/spain/deportivo-alaves/2037/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=ALA}}
+
+==== Results summary ====
+{{Fb rs |hw=6 |hd=6 |hl=7 |hgf=14 |hga=17 |aw=4 |ad=6 |al=9 |agf=24 |aga=31 }}
+{{Fb rs footer|s= |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=24 April 2025
+| header=Round
+| label1=Ground
+| res1=A/H/A/H/A/H/A/A/H/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/
+| label2=Result
+| res2=L/D/W/W/L/W/L/L/L/L/L/W/L/L/D/D/D/D/L/W/D/L/L/D/L/D/W/D/L/W/L/D/W/
+| label3=Position
+| pos3=17/17/10/6/8/6/8/11/13/14/16/14/15/16/16/16/17/16/17/17/17/18/19/19/19/19/18/17/17/17/17/18/17/
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{Cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 16 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-deportivo-alaves-1
+|team2 = Alavés
+|goals1 =
+*[[Iago Aspas|Aspas]] {{yel|9}}, {{goal|84}}
+*[[Williot Swedberg|Swedberg]] {{goal|66}}
+|goals2 =
+*[[Kike García (Spanish footballer)|Kike]] {{goal|17}}
+*[[Tomás Conechny|Conechny]] {{yel|45+2}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,477
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 2
+|date = 25 August 2024
+|time = 19:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Alavés
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-real-betis-2
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Aleksandar Sedlar|Sedlar]] {{yel|4}}, {{sent off|0|86}}
+|goals2 =
+*[[Juanmi (footballer, born 1993)|Juanmi]] {{yel|27}}
+*[[Romain Perraud|Perraud]] {{yel|64}}
+*[[Marc Roca|Roca]] {{yel|77}}
+*[[Chimy Ávila|Ávila]] {{yel|89}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,623
+|referee = Mateo Busquets Ferrer
+|result = D
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Sociedad]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-deportivo-alaves-3
+|team2 = Alavés
+|goals1 =
+*[[Jon Pacheco|Pacheco]] {{yel|16}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{sentoff|0|29}}
+*[[Brais Méndez|Méndez]] {{goal|32}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|36}}
+*[[Takefusa Kubo|Kubo]] {{yel|90+7}}
+*[[Jon Martín|Martín]] {{yel|90+7}}
+|goals2 =
+*[[Asier Villalibre|Villalibre]] {{goal|45+5|pen.}}
+*[[Stoichkov (Spanish footballer)|Stoichkov]] {{yel|48}}
+*[[Abde Rebbach|Abde]] {{yel|51}}
+*[[Toni Martínez|Martínez]] {{goal|77}}
+*[[Antonio Sivera|Sivera]] {{yel|90}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|90+7}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 32,220
+|referee = [[José María Sánchez Martínez]]
+|result = W
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 17:00
+|team1 = Alavés
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-ud-las-palmas-4
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Carlos Vicente (footballer)|Vicente]] {{goal|7}}
+*[[Jon Guridi|Guridi]] {{yel|32}}
+*[[Tomás Conechny|Conechny]] {{yel|45}}
+*[[Toni Martínez|Martínez]] {{goal|78}}
+*[[Abdel Abqar|Abqar]] {{yel|83}}
+|goals2 =
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,386
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 14 September 2024
+|time = 16:15 
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-deportivo-alaves-5
+|team2 = Alavés
+|goals1 =
+*[[Javi Puado|Puado]] {{goal|21||56||63|pen.}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|48}}
+*[[Omar El Hilali|El Hilali]] {{yel|54}}
+|goals2 =
+*[[Abdel Abqar|Abqar]] {{yel|29}}
+*[[Tomás Conechny|Conechny]] {{goal|35}}
+*[[Antonio Sivera|Sivera]] {{yel|61}}
+*[[Nahuel Tenaglia|Tenaglia]] {{goal|68}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|76}}
+*[[Luis García (footballer, born 1972)|García]] {{yel|90+2}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 24,238
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 20 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Alavés
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-sevilla-fc-6
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Carlos Vicente (footballer)|Vicente]] {{goal|17}}
+*[[Carlos Martín (footballer)|Martín]] {{goal|60}}
+*[[Jon Guridi|Guridi]] {{yel|87}}
+|goals2 =
+*[[Saúl (footballer, born 1994)|Saúl]] {{yel|33}}
+*[[Adrià Pedrosa|Pedrosa]] {{yel|45+1}}
+*[[Loïc Badé|Badé]] {{yel|75}}
+*[[Dodi Lukebakio|Lukebakio]] {{goal|83}}
+*[[Kike Salas|Salas]] {{yel|90+5}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,538
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 7
+|date = 24 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-deportivo-alaves-7
+|team2 = Alavés
+|goals1 =
+*[[Lucas Vázquez|Vázquez]] {{goal|1}}
+*[[Federico Valverde|Valverde]] {{yel|4}}
+*[[Vinícius Júnior|Vinícius]] {{yel|30}}
+*[[Kylian Mbappé|Mbappé]] {{goal|40}}
+*[[Rodrygo]] {{goal|48}}
+*[[Endrick (footballer, born 2006)|Endrick]] {{yel|83}}
+*[[Luka Modrić|Modrić]] {{yel|90+6}}
+|goals2 =
+*[[Carlos Benavídez|Benavídez]] {{goal|85}}
+*[[Kike García (Spanish footballer)|Kike]] {{goal|86}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 67,480
+|referee    = Alejandro Muñiz Ruiz
+|result = L
+}}
+{{Football box collapsible
+|round = 8
+|date = 28 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-deportivo-alaves-8
+|team2 = Alavés
+|goals1 =
+*[[Mauro Arambarri|Arambarri]] {{goal|42}}, {{yel|78}}
+*[[Luis Milla (footballer, born 1994)|Milla]] {{goal|58|pen.}}
+*[[Álex Sola|Sola]] {{yel|67}}
+*[[Álvaro Rodríguez (footballer, born 2004)|Álvaro]] {{yel|90+3}}
+|goals2 =
+*[[Abdel Abqar|Abqar]] {{yel|31}}
+*[[Carlos Benavídez|Benavídez]] {{yel|45}}
+*[[Luis García Plaza|Luis García]] {{yel|45+2}}
+*[[Antonio Sivera|Sivera]] {{yel|62}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|70}}
+*[[Kike García (Spanish footballer)|Kike]] {{yel|81}}
+*[[Carlos Vicente (footballer)|Carlos]] {{yel|90+4}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 10,006
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 9
+|date = 6 October 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Alavés
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-fc-barcelona-9
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|31}}
+*[[Santiago Mouriño|Mouriño]] {{yel|54}}
+|goals2 =
+*[[Robert Lewandowski|Lewandowski]] {{goal|7||22||32}}
+*[[Iñigo Martínez|Martínez]] {{yel|53}}
+*[[Gerard Martín (footballer)|Martín]] {{yel|86}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 19,468
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 20:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Alavés
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-real-valladolid-cf-10
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Toni Martínez|Martínez]] {{goal|6}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|68}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|78}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|80}}
+*[[Kike García (Spanish footballer)|Kike]] {{goal|90+7}}, {{sentoff|2|90+9|90+9}}
+|goals2 =
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|17|pen.}}
+*[[Raúl Moro|Moro]] {{yel|57}}
+*[[Selim Amallah|Amallah]] {{goal|72|pen.}}
+*[[Anuar Tuhami|Anuar]] {{goal|76}}
+*[[Paulo Pezzolano|Pezzolano]] {{yel|81}}
+*[[Juanmi Latasa|Latasa]] {{yel|90+4}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,904
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 26 October 2024
+|time = 15:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Rayo Vallecano]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-deportivo-alaves-11
+|team2 = Alavés
+|goals1 =
+*[[Abdul Mumin|Mumin]] {{sentoff|0|22}}
+*[[Unai López]] {{yel|49}}
+*[[Antonio Sivera|Sivera]] {{goal|80|o.g.}}
+*[[Pep Chavarría|Chavarría]] {{yel|90+3}}
+|goals2 =
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|50}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|67}}
+*[[Jon Guridi|Guridi]] {{yel|77}}
+*[[Joan Jordán|Jordán]] {{yel|88}}
+|stadium = [[Estadio de Vallecas]]
+|location = [[Vallecas]]
+|attendance = 13,010
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Alavés
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rcd-mallorca-12
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Kike García (Spanish footballer)|Kike]] {{yel|10}}
+*[[Luis García Plaza|Luis García]] {{sentoff|2|35|36}}
+*[[Adrián Pica|Pica]] {{yel|35}}
+*[[Abdel Abqar|Abqar]] {{yel|44}}
+*[[Jon Guridi|Guridi]] {{goal|76}}
+|goals2 =
+*[[Chiquinho (footballer, born 2000)|Chiquinho]] {{yel|53}}
+*[[Josè Manuel Copete|Copete]] {{yel|90+3}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 17,212
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 9 November 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-deportivo-alaves-13
+|team2 = Alavés
+|goals1 =
+*[[Ilias Akhomach|Akhomach]] {{goal|38}}
+*[[Sergi Cardona|Cardona]] {{yel|45+2}}
+*[[Dani Parejo|Parejo]] {{goal|81}}
+*[[Santi Comesaña|Comesanña]] {{goal|90}}
+|goals2 =
+*[[Ander Guevara|Guevara]] {{yel|62}}
+*[[Carlos Martín (footballer)|Martín]] {{yel|74}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|83}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,659
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 14
+|date = 23 November 2024
+|time = 16:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-deportivo-alaves-14
+|team2 = Alavés
+|goals1 =
+*[[Ángel Correa|Correa]] {{yel|45+3}}
+*[[Antoine Griezmann|Griezmann]] {{goal|76|pen.}}
+*[[Alexander Sørloth|Sørloth]] {{goal|86}}
+*[[Julián Alvarez|Alvarez]] {{yel|90}}
+*[[Rodrigo De Paul|De Paul]] {{yel|90+6}}
+|goals2 =
+*[[Jon Guridi|Guridi]] {{goal|7|pen.}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|58}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|70}}
+*[[Tomás Conechny|Conechny]] {{yel|88}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 58,910
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 22:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Alavés
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-cd-leganes-15
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Abdel Abqar|Abqar]] {{yel|80}}
+*[[Carlos Vicente (footballer)|Carlos]] {{goal|87}}
+|goals2 =
+*[[Javi Hernández (footballer, born 1998)|Javi]] {{yel|27}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{goal|67}}
+*[[Yvan Neyou|Neyou]] {{yel|90+3}}
+*[[Jorge Sáenz]] {{yel|90+4}}
+*[[Renato Tapia|Tapia]] {{yel|90+6}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,881
+|referee = [[Isidro Díaz de Mera Escuderos]]
+|result = D
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-deportivo-alaves-16
+|team2 = Alavés
+|goals1 =
+*[[Ante Budimir|Budimir]] {{yel|3}}, {{goal|54}}
+*[[Lucas Torró|Torró]] {{yel|37}}
+*[[Kike Barja|Barja]] {{yel|45+4}}
+*[[Rubén García (footballer, born 1993)|R. García]] {{goal|61}}
+*[[Aimar Oroz|Oroz]] {{yel|90+6}}
+*[[Jon Moncayola|Moncayola]] {{yel|90+7}}
+|goals2 =
+*[[Kike García (Spanish footballer)|Kike]] {{goal|1||68}}
+*[[Abdel Abqar|Abqar]] {{yel|23}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|37}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|60}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 18,220 
+|referee = [[César Soto Grado]]
+|result = D
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Alavés
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-athletic-club-17
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|54}}
+*[[Joan Jordán|Jordán]] {{goal|67}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|69}}
+|goals2 =
+*[[Unai Gómez|Gómez]] {{goal|10}}
+*[[Adama Boiro|Boiro]] {{yel|20}}
+*[[Yuri Berchiche|Berchiche]] {{yel|75}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 19,239
+|referee = [[José María Sánchez Martínez]]
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-deportivo-alaves-18
+|team2 = Alavés
+|goals1 =
+*[[Luis Rioja|Rioja]] {{goal|70|pen.}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|86}}
+*[[Dani Gómez (footballer, born 1998)|Gómez]] {{goal|90+8}}
+*[[Pepelu]] {{yel|90+12}}
+|goals2 =
+*[[Carlos Martín (footballer)|Martín]] {{goal|7}}, {{yel|22}}
+*[[Joan Jordán|Jordán]] {{goal|88|pen.}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 37,586
+|referee = Javier Alberola Rojas
+|result = D
+}}
+{{Football box collapsible
+|round = 19
+|date = 11 January 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Alavés
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-girona-fc-19
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Jon Guridi|Guridi]] {{yel|55}}
+|goals2 =
+*[[Arnaut Danjuma|Danjuma]] {{yel|35}}
+*[[Yangel Herrera|Herrera]] {{yel|45+2}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{yel|49}}
+*[[Cristhian Stuani|Stuani]] {{yel|81}}
+*[[Jhon Solís (footballer, born 2004)|Solís]] {{goal|90+1}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,454
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 20
+|date = 18 January 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Betis]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-deportivo-alaves-20
+|team2 = Alavés
+|goals1 =
+*[[Jesús Rodríguez (footballer, born 2005)|Rodríguez]] {{goal|28}}
+*[[Vitor Roque]] {{yel|34}}
+*[[Diego Llorente|Llorente]] {{yel|37}}
+*[[Romain Perraud|Perraud]] {{sentoff|0|55}}
+*[[Isco]] {{yel|90+2}}
+*[[Johnny Cardoso|Cardoso]] {{yel|90+4}}
+|goals2 =
+*[[Kike García (Spanish footballer)|Kike]] {{goal|11|pen.|80||84}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|34}}
+*[[Abdel Abqar|Abqar]] {{yel|54}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|63}}
+*[[Tomás Conechny|Conechny]] {{yel|76}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|82}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 50,021
+|referee = [[Alejandro Hernández Hernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 27 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Alavés
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rc-celta-21
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Kike García (Spanish footballer)|Kike]] {{goal|6|pen.}}, {{yel|82}}
+*[[Abdel Abqar|Abqar]] {{yel|78}}
+|goals2 =
+*[[Marcos Alonso (footballer, born 1990)|Alonso]] {{yel|34}}
+*[[Mihailo Ristić (footballer)|Ristić]] {{yel|64}}
+*[[Pablo Durán|Durán]] {{goal|66}}
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{yel|81}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 13,612
+|referee = Francisco José Hernández Maeso
+|result = D
+}}
+{{Football box collapsible
+|round      = 22
+|date       = 2 February 2025
+|time       = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = Barcelona
+|score      = 1–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-deportivo-alaves-22
+|team2      = [[Deportivo Alavés|Alavés]]
+|goals1     =
+*[[Gavi (footballer)|Gavi]] {{yel|7}}
+*[[Ronald Araújo|Araújo]] {{yel|34}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|61}}
+*[[Raphinha]] {{yel|67}}
+*[[Fermín López|López]] {{yel|89}}
+*[[Lamine Yamal|Yamal]] {{yel|89}}
+|goals2     =
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|55}}
+*[[Carlos Protesoni|Protesoni]] {{yel|65}}
+|stadium    = [[Estadi Olímpic Lluís Companys]]
+|location   = [[Barcelona]]
+|attendance = 42,900
+|referee    = [[José Luis Munuera Montero]]
+|result     = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Alavés
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-getafe-cf-23
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Abdelkabir Abqar|Abqar]] {{yel|42}}
+*[[Asier Villalibre|Villalibre]] {{yel|90+3}}
+|goals2 =
+*[[Chrisantus Ugonna Uche|Chrisantus]] {{yel|40}}
+*[[Mauro Arambarri|Arambarri]] {{goal|44|pen.}}, {{yel|66}}
+*[[Allan-Roméo Nyom|Nyom]] {{yel|67}}
+*[[Juan Miguel Jiménez López|Juanmi]] {{yel|70}}
+*[[Ramón Terrats Espacio|Terrats]] {{yel|81}}
+*[[David Soria Solís|Soria]] {{yel|85}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,236
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 24
+|date = 15 February 2025
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 3–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-deportivo-alaves-24
+|team2 = Alavés
+|goals1 =
+*[[Dani Raba|Raba]] {{goal|10|pen.|37|pen.}}, {{yel|65}}
+*[[Darko Brašanac|Brašanac]] {{yel|57}}
+*[[Juan Cruz Díaz Espósito|Juan Cruz]] {{yel|67}}
+*[[Luis Henrique Barros Lopes|Duk]] {{yel|83}}
+*[[Munir El Haddadi|Munir]] {{goal|88}}, {{sentoff|0|90+6}}
+|goals2 =
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|9}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|18}}
+*[[Kike García (Spanish footballer)|Kike]] {{goal|25}}
+*[[Antonio Sivera Salvá|Sivera]] {{yel|36}}
+*[[Joan Jordán|Jordán]] {{goal|50|pen.|68}}
+*[[Santiago Mouriño|Mouriño]] {{yel|59}}
+*[[Abdelkabir Abqar|Abqar]] {{yel|90+10}}
+|stadium = [[Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10,681
+|referee = Pablo González Fuertes
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 22 February 2025
+|time = 13:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Alavés
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rcd-espanyol-25
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Facundo Tenaglia|Tenaglia]] {{yel|7}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|65}}
+|goals2 =
+*[[Pol Lozano|Lozano]] {{yel|17}}
+*[[Omar El Hilali|El Hilali]] {{yel|84}}
+*[[Fernando Calero|Calero]] {{goal|86}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 17,068
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 2 March 2025
+|time = 17:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-deportivo-alaves-26
+|team2 = Alavés
+|goals1 = 
+*[[Takuma Asano|Asano]] {{goal|9}}
+|goals2 = 
+*[[Carles Aleñá|Aleñá]] {{yel|64}}
+*[[Kike García (Spanish footballer)|Kike]] {{goal|68}}
+*[[Santiago Mouriño|Mouriño]] {{yel|78}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca]]
+|attendance = 17,702
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 8 March 2025
+|time = 16:15
+|team1 = Alavés
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-villarreal-cf-27
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 = 
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{goal|11}}
+*[[Antonio Sivera|Sivera]] {{sentoff|0|58}}
+*[[Antonio Blanco (footballer)|Blanco]] {{sentoff|2|77|90+4}}
+*[[Adrián Rodríguez (footballer, born 2000)|Adrián]] {{yel|90+1}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|90+2}}
+|goals2 = 
+*[[Yéremy Pino|Pino]] {{yel|70}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 16,582
+|referee = Miguel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 28
+|date = 14 March 2025
+|time = 21:00
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-deportivo-alaves-28
+|team2 = Alavés
+|goals1 =
+*[[Álex Muñoz|Muñoz]] {{yel|5}}
+*[[Sandro Ramírez|Sandro]] {{yel|49}}
+*[[Fábio Silva (footballer, born 2002)|Silva]] {{goal|90|pen.}}
+*[[Diego Martínez (Spanish footballer, born 1980)|D. Martínez]] {{yel|90}}
+*[[Adnan Januzaj|Januzaj]] {{yel|90+3}}
+*[[Alberto Moleiro|Moleiro]] {{goal|90+5}}
+*[[Álex Suárez (footballer, born 1993)|Suarez]] {{yel|90+7}}
+*[[Manu Fuster|Fuster]] {{yel|90+10}}
+|goals2 = 
+*[[Joan Jordán|Jordán]] {{yel|4}}
+*[[Toni Martínez|Martínez]] {{yel|7}}, {{goal|45+1}}
+*[[Jon Guridi|Guridi]] {{goal|63}}
+*[[Facundo Tenaglia|Tenaglia]] {{yel|80}}
+*[[Eduardo Coudet|Coudet]] {{yel|90}}
+*[[Villalibre]] {{yel|90+9}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 17,566
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 29
+|date = 29 March 2025
+|time = 18:30
+|team1 = Alavés
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rayo-vallecano-29
+|team2 = [[Rayo Vallecano]]
+|goals1 = 
+*[[Joan Jordán|Jordán]] {{penmiss}} 14'
+*[[Pau Cabanes|Cabanes]] {{yel|16}}
+*[[Santiago Mouriño|Mouriño]] {{yel|77}}
+*[[Facundo Tenaglia|Tenaglia]] {{yel|80}}
+|goals2 = 
+*[[Pathé Ciss]] {{goal|2}}
+*[[Pelayo Fernández|Pelayo]] {{yel|8}}
+*[[Randy Nteka|Nteka]] {{yel|36}}
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{goal|58}}
+*[[Augusto Batalla|Batalla]] {{yel|62}}
+*[[Aridane]] {{yel|78}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 18,336
+|referee = José Munuera Montero
+|result = L
+}}
+{{Football box collapsible
+|round = 30
+|date = 5 April 2025
+|time = 14:00
+|team1 = [[Girona FC|Girona]]
+|score = 0-1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-deportivo-alaves-30
+|team2 = Alavés
+|goals1 = 
+*[[Paulo Gazzaniga|Gazzaniga]] {{yel|90+5}}
+|goals2 = 
+*[[Jon Guridi|Guridi]] {{yel|58}}
+*[[Carlos Vicente (footballer)|Vicente]] {{goal|61}}
+*[[Abdelkabir Abqar|Abqar]] {{yel|65}}
+*[[Sivera]] {{yel|87}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|89}}
+|stadium = [[Estadio Municipal de Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 11,384
+|referee = Alejandro Muñiz Ruiz
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 13 April 2025
+|time = 16:15
+|team1 = Alavés
+|score = 0-1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-real-madrid-31
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 = 
+*[[Joan Jordán|Jordán]] {{yel|42}}
+*[[Carlos Martín (footballer)|Martín]] {{yel|55}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{sentoff|0|70}}
+*[[Facundo Tenaglia|Tenaglia]] {{yel|77}}
+*[[Santiago Mouriño|Mouriño]] {{yel|90+8}}
+|goals2 = 
+*[[Eduardo Camavinga|Camavinga]] {{goal|34}}, {{yel|80}}
+*[[Kylian Mbappé|Mbappé]] {{sentoff|0|38}}
+*[[Lucas Vázquez|Vázquez]] {{yel|88}}
+*[[Vinícius Junior|Vinícius]] {{yel|90+5}}
+*[[Thibaut Courtois|Courtois]] {{yel|90+7}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 19,438
+|referee = César Soto Grado
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 20 April 2025
+|time = 16:30
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1-1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-deportivo-alaves-32
+|team2 = Alavés
+|goals1 = 
+*[[Nemanja Gudelj|Gudelj]] {{yel|10}}
+*[[Gerard Fernández|Peque]] {{goal|12}}
+*[[Suso (footballer)|Suso]] {{yel|90+4}}
+|goals2 = 
+*[[Jon Guridi|Guridi]] {{yel|42}}
+*[[Kike García (Spanish footballer)|Kike]] {{goal|45+2}}
+*[[Moussa Diarra (footballer, born 2000)|Diarra]] {{yel|86}}
+|stadium = [[Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 36,436
+|referee = Miguel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = 20:30
+|team1 = Alavés
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-real-sociedad-33
+|team2 = [[Real Sociedad]]
+|goals1 = 
+*[[Carlos Vicente (footballer)|Vicente]] {{yel|36}}
+*[[Tomás Conechny|Conechny]] {{yel|47}}
+*[[Facundo Tenaglia|Tenaglia]] {{goal|65}}
+*[[Sivera]] {{yel|90+1}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|90+2}}
+|goals2 = 
+*[[Jon Aramburu|Aramburu]] {{yel|30}}
+*[[Arkaitz Mariezkurrena|Mariezkurrena]] {{yel|80}}
+*[[Orri Óskarsson|Óskarsson]] {{yel|90+1}}
+*[[Luka Sučić|Sučić]] {{yel|90+2}}
+*[[Aritz Elustondo|Elustondo]] {{yel|90+5}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 17,049
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round = 34
+|date = 3 May 2025
+|time = 
+|team1 = Alavés
+|score = 0–0
+|report = 
+|team2 = [[Atlético Madrid]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Vitoria-Gasteiz]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = 35
+|date = 11 May 2025
+|time = 
+|team1 = [[Athletic Bilbao]]
+|score = 1–0
+|report = 
+|team2 = Alavés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Bilbao]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 14 May 2025
+|time = 
+|team1 = Alavés
+|score = 1–0
+|report = 
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Vitoria-Gasteiz]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 0–1
+|report = 
+|team2 = Alavés
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Valladolid]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Alavés
+|score = 1–1
+|report = 
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Vitoria-Gasteiz]]
+|attendance = 
+|referee = 
+|result = D
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 29 October 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[SD Compostela|Compostela]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-sd-compostela-deportivo-alaves-2
+|team2 = Alavés
+|goals1 = 
+*[[Gonzalo Landeira|Landeira]] {{yel|61}}
+|goals2 =
+*[[Enrique Vidal Blanco|Vidal Blanco]] {{goal|12|o.g.}}
+*[[Ander Guevara|Guevara]] {{yel|45}}
+*[[Santiago Mouriño|Mouriño]] {{yel|47}}
+*[[Luka Romero|Romero]] {{yel|69}}
+|stadium = [[Estadio Verónica Boquete de San Lázaro]]
+|location = [[Santiago de Compostela]]
+|attendance = 7.400
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round= [[2024–25 Copa del Rey#Second round|Second round]]
+|date= 5 December 2024
+|time= 21:00
+|team1= [[CD Minera|Minera]]
+|score=2–2
+|aet=yes
+|report=https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-deportiva-minera-deportivo-alaves-3
+|team2= Alavés
+|goals1= 
+*[[José Mas|Mas]] {{goal|33}}
+*[[Monty]] {{yel|73}}
+*[[Javi Vera]] {{yel|90+2}}
+*[[Sandji Baradji|Baradji]] {{goal|105+2}}
+|goals2= 
+*[[Kike García (Spanish footballer)|Kike]] {{goal|60||108|pen.}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|79}}
+|penaltyscore=4–2
+|penalties1=
+*[[Cristhian Britos|Britos]] {{pengoal}}
+*[[Raúl Sanchís|Sanchís]] {{pengoal}}
+*[[Javier Vera|Vera]] {{pengoal}}
+*[[José Mas|Mas]] {{pengoal}}
+|penalties2=
+*{{pengoal}} [[Joan Jordán|Jordán]]
+*{{penmiss}} [[Abde Rebbach|Abde]]
+*{{penmiss}} [[Carlos Protesoni|Protesoni]]
+*{{pengoal}} [[Tomás Conechny|Conechny]]
+|stadium=[[Estadio Cartagonova|Cartagonova]]
+|location=[[Cartagena, Spain|Cartagena]]{{efn|Minera did not play the match in their main stadium Municipal Ángel Celdrán, [[Llano del Beal]], as it did not meet the broadcasting requirements.<ref>[https://www.laopiniondemurcia.es/deportes/2024/11/28/deportiva-minera-cambiara-campo-cartagonova-112116786.html] La Opinión de Murcia . 28 November 2024. (in Spanish)</ref>}} 
+|attendance= 6.400
+|referee=[[Juan Martínez Munuera]]
+|result = D
+}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+{{Deportivo Alavés}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Deportivo Alaves season}}
+[[Category:Deportivo Alavés seasons]]
+[[Category:Spanish football clubs 2024–25 season|Alavés]]
+[[Category:2024 in the Basque Country (autonomous community)]]
+[[Category:2025 in the Basque Country (autonomous community)]]

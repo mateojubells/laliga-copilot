@@ -1,0 +1,1869 @@
+{{Use dmy dates|date=August 2024}}
+{{Infobox football club season
+|club               = [[Real Sociedad]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Jokin Aperribay]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Imanol Alguacil]]
+|stdtitle           = 
+|stadium            = [[Anoeta Stadium|Reale Arena]]
+|league             = [[La Liga]]
+|league result      = [[2024–25 La Liga|11th]]
+|cup1               = [[Copa del Rey]]
+|cup1 result        = [[2024–25 Copa del Rey|Semi-finals]]
+|cup2               = [[UEFA Europa League]]
+|cup2 result        = [[2024–25 UEFA Europa League|Round of 16]]
+|league topscorer   = <br>[[Mikel Oyarzabal]] (9)
+|season topscorer   = <br>Mikel Oyarzabal (18)
+|highest attendance = 37,370 vs [[Real Madrid CF|Real Madrid]]
+|lowest attendance  = 20,855 vs [[Villarreal CF|Villarreal]]
+|average attendance = 29,877<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = [[FC Jove Español San Vicente|Jove Español]] 0–5 Real Sociedad
+|largest loss       = [[FC Barcelona|Barcelona]] 4–0 Real Sociedad<br>[[Atlético Madrid]] 4–0 Real Sociedad
+|pattern_la1        = _rsociedad2425h
+|pattern_b1         = _rsociedad2425h
+|pattern_ra1        = _rsociedad2425h
+|pattern_sh1        = _rsociedad2425h
+|pattern_so1        = _rsociedad2425h
+|leftarm1           = FFFFFF
+|body1              = FFFFFF
+|rightarm1          = FFFFFF
+|shorts1            = FFFFFF
+|socks1             = FFFFFF
+|pattern_la2        = _realsociedad2425a
+|pattern_b2         = _realsociedad2425a
+|pattern_ra2        = _realsociedad2425a
+|pattern_sh2        = _rsociedad2425a
+|pattern_so2        = _rsociedad2425al
+|leftarm2           = e5c66e
+|body2              = e5c66e
+|rightarm2          = e5c66e
+|shorts2            = 000000
+|socks2             = e5c66e
+|pattern_la3        = _realsociedad2425c
+|pattern_b3         = _realsociedad2425c
+|pattern_ra3        = _realsociedad2425c
+|pattern_sh3        = _rsociedad2425h
+|pattern_so3        = _rsociedad2425hl
+|leftarm3           = ffffff
+|body3              = ffffff
+|rightarm3          = ffffff
+|shorts3            = ffffff
+|socks3             = ffffff
+|prevseason         = [[2023–24 Real Sociedad season|2023–24]]
+|nextseason         = [[2025–26 Real Sociedad season|2025–26]]
+}}
+The '''2024–25 season''' was the 115th season in the history of '''[[Real Sociedad]]''', and the club's 15th consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]] and the [[2024–25 UEFA Europa League|UEFA Europa League]].
+
+On 24 April 2025, head coach [[Imanol Alguacil]] confirmed that he would step down at the end of the season, concluding a spell of over six years in charge of the club.<ref>{{cite news|url=https://www.realsociedad.eus/en/news/details/Imanol-will-not-continue-as-head-coach-next-season|title=Imanol will not continue as head coach next season|publisher=Real Sociedad|date=24 April 2025|access-date=24 April 2025}}</ref>
+
+== Players ==
+===First-team squad===
+{{updated|23 January 2025}}<ref>{{cite web|url=https://www.realsociedad.eus/en/team/squad/Real-Sociedad|title=First team|publisher=Real Sociedad|access-date=27 July 2022}}</ref>
+{{Fs start}}
+{{Fs player|no=1|pos=GK|nat=ESP|name=[[Álex Remiro]]}}
+{{Fs player|no=2|pos=DF|nat=ESP|name=[[Álvaro Odriozola]]}}
+{{Fs player|no=3|pos=DF|nat=ESP|name=[[Aihen Muñoz]]}}
+{{Fs player|no=4|pos=MF|nat=ESP|name=[[Martín Zubimendi]]}}
+{{Fs player|no=5|pos=DF|nat=ESP|name=[[Igor Zubeldia]]|other=[[Captain (association football)|3rd captain]]}}
+{{Fs player|no=6|pos=DF|nat=ESP|name=[[Aritz Elustondo]]|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{Fs player|no=7|pos=FW|nat=ESP|name=[[Ander Barrenetxea (footballer)|Ander Barrenetxea]]}}
+{{Fs player|no=8|pos=MF|nat=RUS|name=[[Arsen Zakharyan]]}}
+{{Fs player|no=9|pos=FW|nat=ISL|name=[[Orri Óskarsson]]}}
+{{Fs player|no=10|pos=FW|nat=ESP|name=[[Mikel Oyarzabal]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=11|pos=FW|nat=SUR|name=[[Sheraldo Becker]]}}
+{{Fs player|no=12|pos=DF|nat=ESP|name=[[Javi López (footballer, born 2002)|Javi López]]}}
+{{Fs mid}}
+{{Fs player|no=13|pos=GK|nat=ESP|name=[[Unai Marrero]]}}
+{{Fs player|no=14|pos=FW|nat=JPN|name=[[Takefusa Kubo]]}}
+{{Fs player|no=16|pos=MF|nat=ESP|name=[[Jon Ander Olasagasti]]}}
+{{Fs player|no=17|pos=FW|nat=ESP|name=[[Sergio Gómez (footballer, born 2000)|Sergio Gómez]]}}
+{{Fs player|no=18|pos=DF|nat=MLI|name=[[Hamari Traoré]]}}
+{{Fs player|no=20|pos=DF|nat=ESP|name=[[Jon Pacheco]]}}
+{{Fs player|no=21|pos=DF|nat=MAR|name=[[Nayef Aguerd]]|other=<small>on loan from [[West Ham United F.C.|West Ham United]]</small>}}
+{{Fs player|no=22|pos=MF|nat=ESP|name=[[Beñat Turrientes]]}}
+{{Fs player|no=23|pos=MF|nat=ESP|name=[[Brais Méndez]]}}
+{{Fs player|no=24|pos=MF|nat=CRO|name=[[Luka Sučić]]}}
+{{Fs player|no=27|pos=DF|nat=VEN|name=[[Jon Aramburu]]}}
+{{Fs player|no=28|pos=MF|nat=ESP|name=[[Pablo Marín (footballer, born 2003)|Pablo Marín]]}}
+{{Fs end}}
+
+=== Reserve team ===
+{{main|Real Sociedad B}}
+{{Fs start}}
+{{Fs player|no=30|pos=FW|nat=ESP|name=[[Mikel Goti]]}}
+{{Fs player|no=31|pos=DF|nat=ESP|name=[[Jon Martín]]}}
+{{Fs player|no=32|pos=GK|nat=ESP|name=[[Aitor Fraga Torres|Aitor Fraga]]}}
+{{Fs player|no=33|pos=MF|nat=ESP|name=[[Jon Balda Zubiri|Jon Balda]]}}
+{{Fs player|no=34|pos=DF|nat=ESP|name=[[Iñaki Rupérez Urtasun|Iñaki Rupérez]]}}
+{{Fs player|no=35|pos=GK|nat=ESP|name=[[Egoitz Arana Aizpuru|Egoitz Arana]]}}
+{{Fs mid}}
+{{Fs player|no=37|pos=DF|nat=ESP|name=[[Luken Beitia]]}}
+{{Fs player|no=40|pos=FW|nat=ESP|name=[[Arkaitz Mariezkurrena Etxezarreta|Arkaitz Mariezkurrena]]}}
+{{Fs player|no=41|pos=FW|nat=ESP|name=[[Alex Marchal García|Alex Marchal]]}}
+{{Fs player|no=44|pos=MF|nat=ESP|name=[[Mikel Rodríguez Ulacia|Mikel Rodríguez]]}}
+{{Fs player|no=45|pos=FW|nat=ESP|name=[[Ekain Orobengoa Arbelaiz|Ekain Orobengoa]]}}
+{{Fs end}}
+
+=== Out on loan ===
+{{Fs start}}
+{{Fs player|no=|pos=MF|nat=ESP|name=[[Alberto Dadie]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2025}}
+{{Fs player|no=|pos=MF|nat=ESP|name=[[Jon Gorrotxategi]]|other=at [[CD Mirandés|Mirandés]] until 30 June 2025}}
+{{Fs player|no=|pos=MF|nat=ESP|name=[[Urko González de Zárate]]|other=at [[RCD Espanyol|Espanyol]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Carlos Fernández (footballer, born 1996)|Carlos Fernández]]|other=at [[Cádiz CF|Cádiz]] until 30 June 2025}}
+{{Fs mid}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Jon Karrikaburu]]|other=at [[Racing de Santander|Racing Santander]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=ESP|name=[[Jon Magunazelaia]]|other=at [[Córdoba CF|Córdoba]] until 30 June 2025}}
+{{Fs player|no=|pos=FW|nat=NGA|name=[[Umar Sadiq]]|other=at [[Valencia CF|Valencia]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 65px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Navarro, Robert|{{flagicon|ESP}} [[Robert Navarro (footballer)|Robert Navarro]]}}
+|{{fbaicon|ESP}} [[Cádiz CF|Cádiz]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref name="auto">{{cite news|url=https://www.marca.com/futbol/real-sociedad/2024/06/01/665ac5e0e2704e48968b45b1.html|title=Los cedidos y el difícil camino de retorno|date=1 June 2024|website=Marca|language=es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Rico, Diego|{{flagicon|ESP}} [[Diego Rico]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Sola, Alex|{{flagicon|ESP}} [[Álex Sola]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref name="auto"/>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Lopez, Roberto|{{flagicon|ESP}} [[Roberto López (footballer, born 2000)|Roberto López]]}}
+|{{fbaicon|ESP}} [[CD Tenerife|Tenerife]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref name="auto"/>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Karrikaburu, Jon|{{flagicon|ESP}} [[Jon Karrikaburu]]}}
+|{{fbaicon|AND}} [[FC Andorra]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref name="auto"/>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Gomez, Sergio|{{flagicon|ESP}} [[Sergio Gómez (footballer, born 2000)|Sergio Gómez]]}}
+|{{fbaicon|ENG}} [[Manchester City]]
+|€10,000,000<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/c3g9dn1dz03o|title=Man City transfer news: Sergio Gomez signs for Real Sociedad|date=12 July 2024|website=BBC Sport}}</ref>
+|{{dts|12 July 2024}}
+|<ref>{{cite news|url=https://www.realsociedad.eus/en/news/details/sergio-gomez-new-txuri-urdin-player|title=Sergio Gómez, new txuri urdin player|publisher=Real Sociedad|date=12 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Lopez, Javi|{{flagicon|ESP}} [[Javi López (footballer, born 2002)|Javi López]]}}
+|{{fbaicon|ESP}} [[Deportivo Alavés|Alavés]]
+|€6,500,000<ref>{{cite news|url=https://as.com/futbol/despedida-de-javi-lopez-siempre-os-llevare-en-mi-corazon-n/|title=Despedida de Javi López: “Siempre os llevaré en mi corazón”|first=Javier|last=Lekuona|date=21 July 2024|website=Diario AS|language=es|archive-url=https://web.archive.org/web/20240722100808/https://as.com/futbol/despedida-de-javi-lopez-siempre-os-llevare-en-mi-corazon-n/|archive-date=22 July 2024|access-date=22 July 2024|url-status=dead}}</ref>
+|{{dts|21 July 2024}}
+|<ref>{{cite news|url=https://www.realsociedad.eus/en/news/details/javi-lopez-signs-for-real-sociedad|title=Javi López signs for Real Sociedad|publisher=Real Sociedad|date=21 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Sucic, Luka|{{flagicon|CRO}} [[Luka Sučić]]}}
+|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|€10,000,000<ref>{{cite news|url=https://www.besport.news/general-football-news/luka-sucic-joins-real-sociedad-from-rb-salzburg|title=Luka Sučić Joins Real Sociedad from RB Salzburg|website=BeSport|date=1 August 2024}}</ref>
+|{{dts|2 August 2024}}
+|<ref>{{cite news|url=https://www.realsociedad.eus/en/news/details/sucic-new-txuri-urdin-player|title=Sucic, new txuri urdin player|publisher=Real Sociedad|date=2 August 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Aguerd, Nayef|{{flagicon|MAR}} [[Nayef Aguerd]]}}
+|{{fbaicon|ENG}} [[West Ham United F.C.|West Ham United]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.realsociedad.eus/en/news/details/agreement-for-the-loan-of-nayef-aguerd|title=Agreement for the loan of Nayef Aguerd|publisher=Real Sociedad|date=30 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Oskarsson, Orri|{{flagicon|ISL}} [[Orri Óskarsson]]}}
+|{{fbaicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+|€20,000,000
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://www.realsociedad.eus/en/news/details/real-sociedad-signs-orri-oskarsson|title=Real Sociedad signs Orri Óskarsson|publisher=Real Sociedad|date=30 August 2024}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 65px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Silva, Andre|{{flagicon|POR}} [[André Silva (footballer, born 1995)|André Silva]]}}
+|{{fbaicon|GER}} [[RB Leipzig]]
+|End of loan
+|{{dts|30 June 2024}}
+|<ref>{{cite news|url=https://www.tribalfootball.com/article/soccer-laliga-andre-silva-announces-he-s-leaving-real-sociedad-0ff88e01-14e1-4c68-a873-bc40dd5034f5|title=Andre Silva announces he's leaving Real Sociedad|website=TribalFootball|date=30 May 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Galan, Javi|{{flagicon|ESP}} [[Javi Galán]]}}
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Tierney, Kieran|{{flagicon|SCO}} [[Kieran Tierney]]}}
+|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|End of loan
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Lopez, Roberto|{{flagicon|ESP}} [[Roberto López (footballer, born 2000)|Roberto López]]}}
+|{{fbaicon|ESP}} [[CD Leganés|Leganés]]
+|Undisclosed
+|{{dts|10 July 2024}}
+|<ref>{{cite news|url=https://www.marca.com/futbol/leganes/2024/07/10/668ec7f1e2704e88a28b458b.html|title=El Lega hace oficial su tercer fichaje: Roberto López|date=10 July 2024|website=Marca|language=es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Sola, Alex|{{flagicon|ESP}} [[Álex Sola]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|Undisclosed
+|{{dts|15 July 2024}}
+|<ref>{{cite news|url=https://www.getafecf.com/noticias/alex-sola-azulon-hasta-2027|title=Álex Sola, azulón hasta 2027|publisher=Getafe CF|language=es|date=15 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Rico, Diego|{{flagicon|ESP}} [[Diego Rico]]}}
+|{{fbaicon|ESP}} [[Getafe CF|Getafe]]
+|€1,500,000
+|{{dts|16 July 2024}}
+|<ref>{{cite news|url=https://www.marca.com/futbol/getafe/2024/07/16/66963a5fe2704e221d8b45db.html|title=El Getafe ejecuta la opción de compra sobre Diego Rico|date=16 July 2024|website=Marca|language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Karrikaburu, Jon|{{flagicon|ESP}} [[Jon Karrikaburu]]}}
+|{{fbaicon|ESP}} [[Racing de Santander|Racing Santander]]
+|Loan
+|{{dts|20 July 2024}}
+|<ref>{{cite news|url=https://www.besoccer.com/new/real-sociedad-s-karrikaburu-joins-racing-santander-on-loan-1324061|title=Real Sociedad's Karrikaburu joins Racing Santander on loan|website=BeSoccer|date=20 July 2024}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Le Normand, Robin|{{flagicon|ESP}} [[Robin Le Normand]]}}
+|{{fbaicon|ESP}} [[Atlético Madrid]]
+|€34,500,000
+|{{dts|27 July 2024}}
+|<ref>{{cite news|url=https://www.nytimes.com/athletic/5661067/2024/07/27/atletico-madrid-transfer-le-normand/|title=Atletico reach agreement to sign Le Normand from Real Sociedad|first=Mario|last=Cortegana|publisher=The New York Times|date=27 July 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Merino, Mikel|{{flagicon|ESP}} [[Mikel Merino]]}}
+|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|€32,500,000
+|{{dts|27 August 2024}}
+|<ref>{{cite news|url=https://www.nytimes.com/athletic/5717065/2024/08/27/mikel-merino-arsenal-transfer-news/|title=Mikel Merino completes Arsenal transfer from Real Sociedad|first=Colin|last=Millar|publisher=The New York Times|date=27 August 2024}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Navarro, Robert|{{flagicon|ESP}} [[Robert Navarro (footballer)|Robert Navarro]]}}
+|{{fbaicon|ESP}} [[RCD Mallorca|Mallorca]]
+|Loan
+|{{dts|29 August 2024}}
+|<ref>{{cite news|url=https://www.realsociedad.eus/en/news/details/agreement-over-his-transfer-to-rcd-mallorca|title=Agreement over his transfer to RCD Mallorca|publisher=Real Sociedad|date=29 August 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Fernandez, Carlos|{{flagicon|ESP}} [[Carlos Fernández (footballer, born 1996)|Carlos Fernández]]}}
+|{{fbaicon|ESP}} [[Cádiz CF|Cádiz]]
+|Loan
+|{{dts|30 August 2024}}
+|<ref>{{cite news|url=https://onefootball.com/en/news/oficial-carlos-fernandez-llega-cedido-al-cadiz-cf-39967554|title=OFICIAL &#124; Carlos Fernández llega cedido al Cádiz CF|date=30 August 2024|website=OneFootball|language=es}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Magunazelaia, Jon|{{flagicon|ESP}} [[Jon Magunazelaia]]}}
+|{{fbaicon|ESP}} [[Córdoba CF|Córdoba]]
+|Loan
+|{{dts|1 January 2025}}
+|<ref>{{cite news|url=https://cordobacf.com/2024/12/30/jon-magunazelaia-nuevo-jugador-del-cordoba-cf/|title=Jon Magunazelaia, new player of Córdoba CF|publisher=Córdoba CF|date=30 December 2024}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Sadiq, Umar|{{flagicon|NGA}} [[Umar Sadiq]]}}
+|{{fbaicon|ESP}} [[Valencia CF|Valencia]]
+|Loan
+|{{dts|4 January 2025}}
+|<ref>{{cite news|url=https://www.realsociedad.eus/es/noticias/detalle/acuerdo-para-la-cesion-de-sadiq-umar-al-valencia-cf|title=Acuerdo para la cesión de Sadiq Umar al Valencia CF|publisher=Real Sociedad|language=es|date=4 January 2025}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Gonzalez de Zarate, Urko|{{flagicon|ESP}} [[Urko González de Zárate]]}}
+|{{fbaicon|ESP}} [[RCD Espanyol|Espanyol]]
+|Loan
+|{{dts|23 January 2025}}
+|<ref>{{cite news|url=https://www.rcdespanyol.com/en/new/urko-gonzalez-de-zarate-joins-rcd-espanyol-on-loan/18166|title=Urko González de Zárate joins RCD Espanyol on loan|publisher=RCD Espanyol|date=23 January 2025}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = XXII {{ill|Trofeo Villa de Laguardia|es}}
+|date = 20 July 2024
+|time = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 1–1
+|report = https://www.realsociedad.eus/en/news/details/intensity-in-the-first-test
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Brais Méndez|Méndez]] {{goal|30}}
+|goals2 =
+*[[Kike García (Spanish footballer)|Kike]] {{goal|12}}
+*[[Daouda Doumbia|Doumbia]] {{yel|69}}
+|penaltyscore = 5–6
+|penalties1 =
+*[[Umar Sadiq|Sadiq]] {{penmiss}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{pengoal}}
+*[[Mikel Goti|Goti]] {{pengoal}}
+*[[Iñaki Rupérez Urtasun|Rupérez]] {{penmiss}}
+*[[Alberto Dadie|Dadie]] {{pengoal}}
+*[[Álvaro Odriozola|Odriozola]] {{penmiss}}
+*[[Jon Gorrotxategi|Gorrotxategi]] {{pengoal}}
+*[[Sergio Gómez (footballer, born 2000)|S. Gómez]] {{pengoal}}
+*[[Job Ochieng|Ochieng]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Joaquín Panichelli|Panichelli]]
+*{{pengoal}} [[Abde Rebbach|Rebbach]]
+*{{penmiss}} [[Carlos Benavídez|Benavídez]]
+*{{penmiss}} [[Nikola Maraš|Maraš]]
+*{{pengoal}} [[Luis Rioja|Rioja]]
+*{{penmiss}} [[Jesús Owono|Owono]]
+*{{pengoal}} [[Daouda Doumbia|Doumbia]]
+*{{pengoal}} [[Victor Parada|Parada]]
+*{{pengoal}} [[Abdallahi Mahmoud|Mahmoud]]
+|stadium = Campo de Futbol El Prao
+|location = [[Laguardia, Álava|Laguardia]]
+|attendance = 
+|referee = Aimar Velasco Arbaiza
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 25 July 2024
+|time = 19:00 [[Japan Standard Time|JST]] ([[UTC+09:00|UTC+9]])
+|team1 = [[Gamba Osaka]]
+|score = 0–1
+|report = https://www.realsociedad.eus/en/news/details/superior-3
+|team2 = Real Sociedad
+|goals1 =
+|goals2 =
+*[[Aritz Elustondo|Elustondo]] {{goal|64}}
+*[[Jonathan Gómez (soccer, born 2003)|J. Gómez]] {{yel|71}}
+|stadium = [[Suita City Football Stadium]]
+|location = [[Suita]], Japan
+|attendance = 20,861
+|referee = [[Takafumi Mikuriya]] ([[Japan Football Association|Japan]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 31 July 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 1–2
+|report = https://www.realsociedad.eus/es/noticias/detalle/aumenta-la-exigencia-3
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Urko González de Zárate|González de Zárate]] {{yel|38}}
+*[[Mikel Goti|Goti]] {{goal|54}}
+|goals2 =
+*[[Ante Budimir|Budimir]] {{goal|49||64}}
+|stadium = Instalaciones de Zubieta
+|location = [[San Sebastián]]
+|attendance = 
+|referee = Gorka Etayo Herrera
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Stade Rennais F.C.|Rennes]]
+|score = 2–0
+|report = https://www.realsociedad.eus/en/news/details/gaining-valuable-playing-time
+|team2 = Real Sociedad
+|goals1 =
+*[[Albert Grønbæk|Grønbæk]] {{goal|22}}
+*[[Alidu Seidu|Seidu]] {{yel|45}}
+*[[Amine Gouiri|Gouiri]] {{goal|67}}
+*[[Christopher Wooh|Wooh]] {{yel|90+1}}
+|goals2 =
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|34}}
+|stadium = [[Roazhon Park]]
+|location = [[Rennes]], France
+|attendance = 14,643
+|referee = Maxime Jamet ([[French Football Federation|France]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 9 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[1. FC Union Berlin|Union Berlin]]
+|score = 1–1
+|report = https://www.realsociedad.eus/es/noticias/detalle/listos-para-el-estreno-liguero
+|team2 = Real Sociedad
+|goals1 =
+*[[Lucas Tousart|Tousart]] {{yel|39}}
+*[[Robin Gosens|Gosens]] {{goal|42}}
+|goals2 =
+*[[Urko González de Zárate|González de Zárate]] {{yel|35}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|82}}
+|stadium = [[Stadion An der Alten Försterei]]
+|location = [[Berlin]], Germany
+|attendance = 19,265
+|referee = Max Burda ([[German Football Association|Germany]])
+|result = D
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=3
+|c1=[[2024–25 La Liga|La Liga]] |fm1=18 August 2024 |lm1=24 May 2025 |sr1=Matchday 1 |fp1=11th |w1=13 |d1=7 |l1=18 |f1=35 |a1=46
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=21 November 2024 |lm2=1 April 2025 |sr2=First round |fp2=Semi-finals |w2=5 |d2=1 |l2=1 |f2=17 |a2=6
+|c3=[[2024–25 UEFA Europa League|UEFA Europa League]] |fm3=25 September 2024 |lm3=13 March 2025 |sr3=League phase |fp3=Round of 16 |w3=6 |d3=2 |l3=4 |f3=22 |a3=17
+|s=[https://int.soccerway.com/teams/spain/real-sociedad-de-futbol/2028/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=RSO}}
+
+==== Results summary ====
+{{Fb rs |hw=8 |hd=3 |hl=8 |hgf=20 |hga=20 |aw=5 |ad=4 |al=10 |agf=15 |aga=26}}
+{{Fb rs footer |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| res1=H/A/H/A/H/A/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/H/A
+| label2=Result
+| res2=L/W/L/D/L/D/L/W/D/W/L/W/W/L/W/W/D/L/W/L/L/L/W/L/W/L/L/D/W/W/L/D/L/D/L/L/W/L
+| label3=Position
+| pos3=17/9/13/13/16/16/16/14/15/11/12/11/8/10/9/6/7/7/7/7/9/11/7/11/9/9/11/12/10/9/9/9/10/11/12/12/11/11
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 18 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rayo-vallecano-1
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Urko González de Zárate|González de Zárate]] {{yel|27}}
+*[[Jon Aramburu|Aramburu]] {{yel|90+4}}
+*[[Martín Zubimendi|Zubimendi]] {{goal|90+8}}
+|goals2 =
+*[[Unai López|López]] {{yel|32}}
+*[[Florian Lejeune|Lejeune]] {{yel|53}}
+*[[Randy Nteka|Nteka]] {{yel|56}}
+*[[Adri Embarba|Embarba]] {{yel|57}}
+*[[Jorge de Frutos|De Frutos]] {{goal|67}}
+*[[Sergio Camello|Camello]] {{goal|84}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 31,763
+|referee = [[Alejandro Hernández Hernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 2
+|date = 24 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-real-sociedad-2
+|team2 = Real Sociedad
+|goals1 =
+*[[Alejo Véliz (footballer)|Véliz]] {{yel|52}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|90+7}}
+|goals2 =
+*[[Beñat Turrientes|Turrientes]] {{yel|51}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|57}}
+*[[Takefusa Kubo|Kubo]] {{goal|80}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 20,900
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 28 August 2024
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-deportivo-alaves-3
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Jon Pacheco|Pacheco]] {{yel|16}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{sentoff|0|29}}
+*[[Brais Méndez|Méndez]] {{goal|32}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|36}}
+*[[Takefusa Kubo|Kubo]] {{yel|90+7}}
+*[[Jon Martín|Martín]] {{yel|90+7}}
+|goals2 =
+*[[Asier Villalibre|Villalibre]] {{goal|45+5|pen.}}
+*[[Stoichkov (Spanish footballer)|Stoichkov]] {{yel|48}}
+*[[Abde Rebbach|Abde]] {{yel|51}}
+*[[Toni Martínez|Martínez]] {{goal|77}}
+*[[Antonio Sivera|Sivera]] {{yel|90}}
+*[[Manu Sánchez (footballer, born 2000)|Sánchez]] {{yel|90+7}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 32,220
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 19:15 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Getafe CF|Getafe]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-real-sociedad-4
+|team2 = Real Sociedad
+|goals1 =
+*[[Juan Iglesias|Iglesias]] {{yel|22}}
+|goals2 =
+*[[Aihen Muñoz|Muñoz]] {{yel|90+4}}
+|stadium = [[Estadio Coliseum|Coliseum]]
+|location = [[Getafe]]
+|attendance = 10,929
+|referee = [[José Luis Munuera Montero]]
+|result = D
+}} 
+{{Football box collapsible
+|round = 5
+|date = 14 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-real-madrid-5
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Umar Sadiq|Sadiq]] {{yel|17}}
+*[[Jon Aramburu|Aramburu]] {{yel|28}}
+*[[Jon Pacheco|Pacheco]] {{yel|82}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|84}}
+|goals2 =
+*[[Vinícius Júnior|Vinícius]] {{goal|58|pen.}}
+*[[Kylian Mbappé|Mbappé]] {{goal|75|pen.}}
+*[[Luka Modrić|Modrić]] {{yel|79}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 37,370
+|referee = [[Juan Martínez Munuera]]
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 17 September 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-real-sociedad-7
+|team2 = Real Sociedad
+|goals1 =
+*[[Abdón Prats|Abdón]] {{goal|36|pen.}}, {{yel|60}}
+|goals2 =
+*[[Beñat Turrientes|Turrientes]] {{yel|54}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 17,132
+|referee = Adrián Cordero Vega
+|result = L
+|note = The match was brought forward due to Real Sociedad's participation in the [[2024–25 UEFA Europa League league phase|UEFA Europa League league phase]].
+}}
+{{Football box collapsible
+|round = 6
+|date = 21 September 2024
+|time = 14:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-real-sociedad-6
+|team2 = Real Sociedad
+|goals1 =
+*[[Stanko Jurić|Jurić]] {{yel|35}}
+*[[Luis Pérez (footballer, born 1995)|Pérez]] {{yel|55}}
+*[[Lucas Rosa|Rosa]] {{yel|58}}
+*[[Juanmi Latasa|Latasa]] {{yel|72}}
+|goals2 =
+*[[Nayef Aguerd|Aguerd]] {{yel|1}}
+*[[Jon Aramburu|Aramburu]] {{yel|53}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|90+2}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90+4}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 21,171
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 28 September 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-valencia-cf-8
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Takefusa Kubo|Kubo]] {{goal|8}}
+*[[Orri Óskarsson|Óskarsson]] {{goal|80||90+2}}
+|goals2 =
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 32,332
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 9
+|date = 6 October 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-atletico-de-madrid-9
+|team2 = [[Atlético Madrid]]
+|goals1 =
+*[[Luka Sučić|Sučić]] {{goal|84}}
+|goals2 =
+*[[Julián Alvarez|Alvarez]] {{goal|1}}
+*[[Clément Lenglet|Lenglet]] {{yel|55}}
+*[[Javi Galán|Galán]] {{yel|80}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 31,983
+|referee = Isidro Díaz de Mera Escuderos
+|result = D
+}}
+{{Football box collapsible
+|round = 10
+|date = 19 October 2024
+|time = 18:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Girona FC|Girona]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-real-sociedad-10
+|team2 = Real Sociedad
+|goals1 =
+*[[Arnau Martínez|Martínez]] {{yel|30}}
+*[[Yangel Herrera|Herrera]] {{yel|74}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|44}}
+*[[Brais Méndez|Méndez]] {{yel|55}}
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 12,602
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 October 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-ca-osasuna-11
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Martín Zubimendi|Zubimendi]] {{yel|73}}
+*[[Álvaro Odriozola|Odriozola]] {{yel|84}}
+*[[Brais Méndez|Méndez]] {{yel|90+3}}
+|goals2 =
+*[[Aimar Oroz|Oroz]] {{yel|16}}
+*[[Lucas Torró|Torró]] {{goal|23}}
+*[[Ante Budimir|Budimir]] {{goal|34}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|45+3}}
+*[[Bryan Zaragoza|Zaragoza]] {{yel|76}}
+*[[Abel Bretones|Bretones]] {{yel|90+5}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 31,279
+|referee = Juan Luis Pulido Santana
+|result = L
+}}
+{{Football box collapsible
+|round = 12
+|date = 3 November 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-real-sociedad-12
+|team2 = Real Sociedad
+|goals1 =
+*[[Isaac Romero|Romero]] {{yel|11}}
+*[[Marcão (footballer, born 1996)|Marcão]] {{yel|66}}
+|goals2 =
+*[[Takefusa Kubo|Kubo]] {{goal|34}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|68|pen.}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{yel|75}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 37,619
+|referee = Alejandro Muñiz Ruiz
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-fc-barcelona-13
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Jon Aramburu|Aramburu]] {{yel|20}}
+*[[Sheraldo Becker|Becker]] {{goal|33}}
+*[[Brais Méndez|Méndez]] {{yel|82}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|87}}
+|goals2 =
+*[[Iñigo Martínez|Martínez]] {{yel|53}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 36,194
+|referee = [[Guillermo Cuadra Fernández]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[Basque derby|14]]
+|date = 24 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Athletic Bilbao]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-real-sociedad-14
+|team2 = Real Sociedad
+|goals1 =
+*[[Oihan Sancet|Sancet]] {{goal|26}}
+*[[Beñat Prados|Prados]] {{yel|41}}
+*[[Iñigo Ruiz de Galarreta|Ruiz de Galarreta]] {{yel|76}}
+*[[Yuri Berchiche|Berchiche]] {{yel|90+2}}
+|goals2 =
+*[[Igor Zubeldia|Zubeldia]] {{yel|21}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|53}}
+*[[Nayef Aguerd|Aguerd]] {{yel|90+1}}
+*[[Luka Sučić|Sučić]] {{yel|90+5}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 50,719
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-real-betis-15
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Diego Llorente|Llorente]] {{goal|14|o.g.}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|31|pen.}}, {{yel|45+2}}
+*[[Nayef Aguerd|Aguerd]] {{yel|45+6}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|47}}
+|goals2 =
+*[[Marc Bartra|Bartra]] {{yel|45+2}}
+*[[Chimy Ávila|Ávila]] {{yel|79}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 28,119
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CD Leganés|Leganés]]
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-real-sociedad-16
+|team2 = Real Sociedad
+|goals1 =
+*[[Valentin Rosier|Rosier]] {{yel|70}}
+*[[Yvan Neyou|Neyou]] {{yel|75}}
+|goals2 =
+*[[Brais Méndez|Méndez]] {{goal|14}}, {{yel|70}}
+*[[Aihen Muñoz|Muñoz]] {{yel|27}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|78}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|90+2}}
+|stadium = [[Estadio Municipal de Butarque|Butarque]]
+|location = [[Leganés]]
+|attendance = 11,312
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-ud-las-palmas-17
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Takefusa Kubo|Kubo]] {{yel|39}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|73}}
+|goals2 =
+*[[Jaime Mata|Mata]] {{yel|57}}
+*[[Sandro Ramírez|Sandro]] {{yel|74}}
+*[[Benito Ramírez|Benito]] {{yel|90+1}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 30,775
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 21 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-real-sociedad-18
+|team2 = Real Sociedad
+|goals1 =
+*[[Pablo Durán|Durán]] {{goal|40||45+1}}, {{yel|70}}
+*[[Javi Rodríguez (footballer)|Rodríguez]] {{yel|61}}
+*[[Carl Starfelt|Starfelt]] {{yel|69}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|20}}
+*[[Beñat Turrientes|Turrientes]] {{yel|28}}
+*[[Sheraldo Becker|Becker]] {{yel|56}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|71}}
+*[[Takefusa Kubo|Kubo]] {{yel|83}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,956
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 13 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-villarreal-cf-19
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Takefusa Kubo|Kubo]] {{goal|51}}
+*[[Jon Aramburu|Aramburu]] {{yel|70}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|90}}
+*[[Aihen Muñoz|Muñoz]] {{yel|90+1}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90+5}}
+|goals2 =
+*[[Álex Baena|Baena]] {{yel|65}}
+*[[Juan Foyth|Foyth]] {{yel|78}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 20,855
+|referee = César Soto Grado
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-real-sociedad-20
+|team2 = Real Sociedad
+|goals1 =
+*[[Hugo Duro|Duro]] {{goal|26}}, {{yel|87}}
+*[[Cristhian Mosquera|Mosquera]] {{yel|90+4}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|90+6}}
+|goals2 =
+*[[Jon Pacheco|Pacheco]] {{yel|42}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|49}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{yel|89}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90+4}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 40,791
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 0–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-getafe-cf-21
+|team2 = [[Getafe CF|Getafe]]
+|goals1 =
+*[[Beñat Turrientes|Turrientes]] {{yel|15}}
+*[[Takefusa Kubo|Kubo]] {{yel|90+5}}
+*[[Jon Aramburu|Aramburu]] {{yel|90+6}}
+|goals2 =
+*[[Luis Milla (footballer, born 1994)|Milla]] {{yel|25}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|45+1}}
+*[[Omar Alderete|Alderete]] {{yel|54}}
+*[[Christantus Uche|Uche]] {{goal|72}}
+*[[Carles Pérez|Pérez]] {{goal|74||85}}
+*[[Jesús Santiago|Santiago]] {{yel|90}}
+*[[Juan Berrocal|Berrocal]] {{yel|90+2}}
+*[[Coba da Costa|Coba]] {{yel|90+6}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 30,004
+|referee = [[Guillermo Cuadra Fernández]]
+|result = L
+}}
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-real-sociedad-22
+|team2 = Real Sociedad
+|goals1 =
+*[[Lucas Torró|Torró]] {{yel|16}}
+*[[Ante Budimir|Budimir]] {{goal|34||74}}, {{yel|63}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|70}}
+|goals2 =
+*[[Igor Zubeldia|Zubeldia]] {{yel|39}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|59}}
+*[[Orri Óskarsson|Óskarsson]] {{goal|90+4}}
+*[[Luka Sučić|Sučić]] {{yel|90+6}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 21,678 
+|referee = Miguel Ángel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rcd-espanyol-23
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 =
+*[[Sheraldo Becker|Becker]] {{goal|1}}
+*[[Nayef Aguerd|Aguerd]] {{yel|51}}
+*[[Brais Méndez|Méndez]] {{goal|84}}
+|goals2 =
+*[[Álvaro Aguado|Aguado]] {{yel|40}}
+*[[Javi Puado|Puado]] {{goal|53|pen.}}
+*[[Leandro Cabrera|Cabrera]] {{yel|90+2}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 29,478
+|referee = Javier Alberola Rojas
+|result = W
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Real Betis]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-real-sociedad-24
+|team2 = Real Sociedad
+|goals1 =
+*[[Giovani Lo Celso|Lo Celso]] {{penmiss}} {{small|33'}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|51}}
+*[[Marc Roca|Roca]] {{goal|64||69}}
+|goals2 =
+*[[Jon Aramburu|Aramburu]] {{yel|6}}
+*[[Igor Zubeldia|Zubeldia]] {{sentoff|0|20}}
+*[[Aihen Muñoz|Muñoz]] {{yel|31}}
+*[[Sheraldo Becker|Becker]] {{sentoff|0|75}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 48,758
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-cd-leganes-25
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Arsen Zakharyan|Zakharyan]] {{goal|12}}
+*[[Takefusa Kubo|Kubo]] {{goal|48}}, {{yel|61}}
+*[[Nayef Aguerd|Aguerd]] {{yel|58}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|74}}, {{goal|80}}
+|goals2 =
+*[[Valentin Rosier|Rosier]] {{yel|41}}
+*[[Renato Tapia|Tapia]] {{yel|61}}
+*[[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{yel|63}} 
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 22,533
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 26
+|date = 2 March 2025
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-real-sociedad-26
+|team2 = Real Sociedad
+|goals1 =
+*[[Gerard Martín (footballer)|Martín]] {{goal|25}}
+*[[Marc Casadó|Casadó]] {{goal|29}}
+*[[Ronald Araújo|Araújo]] {{goal|56}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|60}}
+|goals2 =
+*[[Aritz Elustondo|Elustondo]] {{sentoff|0|17}}
+|stadium = [[Estadi Olímpic Lluís Companys]]
+|location = [[Barcelona]]
+|attendance = 46,234
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 20:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-sevilla-fc-27
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{yel|80}}
+*[[Hamari Traoré|Traoré]] {{yel|90+5}}
+|goals2 =
+*[[Chidera Ejuke|Ejuke]] {{goal|46}}
+*[[Albert Sambi Lokonga|Sambi Lokonga]] {{yel|90+1}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 25,478
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Rayo Vallecano]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-real-sociedad-28
+|team2 = Real Sociedad
+|goals1 =
+*[[Sergi Guardiola|Guardiola]] {{yel|40}}
+*[[Óscar Trejo|Trejo]] {{goal|58}}
+*[[Pedro Díaz (footballer, born 1998)|Díaz]] {{goal|72}}
+*[[Florian Lejeune|Lejeune]] {{yel|74}}
+*[[Alfonso Espino|Espino]] {{yel|90+2}}
+|goals2 =
+*[[Javi López (footballer, born 2002)|López]] {{yel|11}}
+*[[Martín Zubimendi|Zubimendi]] {{goal|20}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|60}}
+*[[Arkaitz Mariezkurrena|Mariezkurrena]] {{goal|80}}
+|stadium = [[Vallecas Stadium|Vallecas]]
+|location = [[Madrid]]
+|attendance = 12,364
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 29
+|date = 29 March 2025
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-real-valladolid-cf-29
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|23}}
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{yel|58}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{goal|68}}, {{yel|90+7}}
+|goals2 =
+*[[Javi Sánchez (footballer)|Sánchez]] {{yel|48}}
+*[[Selim Amallah|Amallah]] {{yel|51}}
+*[[David Torres (footballer, born 2003)|Torres]] {{yel|68}}
+*[[Juanmi Latasa|Latasa]] {{goal|90+3}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 28,151 
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 13:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-real-sociedad-30
+|team2 = Real Sociedad
+|goals1 =
+*[[Oli McBurnie|McBurnie]] {{goal|60}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|5}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|45+2}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{goal|56}}
+*[[Jon Aramburu|Aramburu]] {{goal|68}}
+*[[Jon Martín|Martín]] {{yel|76}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 22,616
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 12 April 2025
+|time = 14:00 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rcd-mallorca-31
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|71}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90}}
+*[[Aritz Elustondo|Elustondo]] {{yel|90+2}}
+|goals2 =
+*[[Cyle Larin|Larin]] {{goal|20}}
+*[[Sergi Darder|Darder]] {{goal|47}}
+*[[Pablo Maffeo|Maffeo]] {{yel|90+5}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 29,181
+|referee = José Luis Montero
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 20 April 2025
+|time = 16:15 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-real-sociedad-32
+|team2 = Real Sociedad
+|goals1 =
+*[[Yeremy Pino|Pino]] {{goal|7}}, {{yel|41}}
+*[[Ayoze Pérez|Pérez]] {{goal|60}}
+*[[Sergi Cardona|Cardona]] {{yel|66}}
+*[[Kiko Femenía|Femenía]] {{yel|90+8}}
+*[[Nicolas Pépé|Pépé]] {{yel|90+8}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|19|pen.|49}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{yel|77}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 17,620
+|referee = [[Guillermo Cuadra Fernández]]
+|result = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = 21:30 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-real-sociedad-33
+|team2 = Real Sociedad
+|goals1 =
+*[[Carlos Vicente (footballer)|Vicente]] {{yel|36}}
+*[[Tomás Conechny|Conechny]] {{yel|47}}
+*[[Nahuel Tenaglia|Tenaglia]] {{goal|65}}
+*[[Antonio Sivera|Sivera]] {{yel|90+1}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|90+2}}
+|goals2 =
+*[[Jon Aramburu|Aramburu]] {{yel|30}}
+*[[Arkaitz Mariezkurrena|Mariezkurrena]] {{yel|80}}
+*[[Orri Óskarsson|Óskarsson]] {{yel|90+1}}
+*[[Luka Sučić|Sučić]] {{yel|90+2}}
+*[[Aritz Elustondo|Elustondo]] {{yel|90+5}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 17,049
+|referee = Mateo Busquets Ferrer
+|result = L
+}}
+{{Football box collapsible
+|round = [[Basque derby|34]]
+|date = 4 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-athletic-club-34
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{yel|58}}
+|goals2 =
+*[[Álex Berenguer|Berenguer]] {{yel|44}}
+*[[Andoni Gorosabel|Gorosabel]] {{yel|78}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 36,058
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 21:00 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = [[Atlético Madrid]]
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-real-sociedad-35
+|team2 = Real Sociedad
+|goals1 =
+*[[Alexander Sørloth|Sørloth]] {{goal|7||10||11||30}}
+|goals2 =
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|54}}
+|stadium = [[Metropolitano Stadium|Riyadh Air Metropolitano]]
+|location = [[Madrid]]
+|attendance = 59,612
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 13 May 2025
+|time = 20:00 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rc-celta-36
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Aihen Muñoz|Muñoz]] {{yel|63}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|87}}
+*[[Luka Sučić|Sučić]] {{yel|90+6}}
+|goals2 =
+*[[Alfon (footballer)|Alfon]] {{goal|44}}
+*[[Ilaix Moriba|Moriba]] {{yel|71}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 25,124
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 19:00 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-girona-fc-37
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{goal|5}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|20|pen.}}
+*[[Hamari Traoré|Traoré]] {{yel|62}}
+*[[Arkaitz Mariezkurrena|Mariezkurrena]] {{goal|90+1}}
+|goals2 =
+*[[Cristhian Stuani|Stuani]] {{goal|10}}, {{yel|62}}
+*[[Jhon Solís (footballer, born 2004)|Solís]] {{yel|49}}
+*[[Portu]] {{goal|77}}
+*[[Arnau Martínez|Martínez]] {{yel|90+6}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 28,315
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 16:15 [[Central European Summer Time|CEST]]
+([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-real-sociedad-38
+|team2 = Real Sociedad
+|goals1 =
+*[[Kylian Mbappé|Mbappé]] {{penmiss}} {{small|38'}}, {{goal|38||83}}
+|goals2 =
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 73,186
+|referee = Mario Melero López
+|result = L
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 21 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Jove Español San Vicente|Jove Español]]
+|score = 0–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-fc-jove-espanol-real-sociedad-2
+|team2 = Real Sociedad
+|goals1 =
+|goals2 =
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|12||15}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{goal|38}}
+*[[Jon Magunazelaia|Magunazelaia]] {{goal|44}}
+*[[Mikel Goti|Goti]] {{goal|78}}
+|stadium = [[Estadio José Rico Pérez|José Rico Pérez]]
+|location = [[Alicante]]
+|attendance = 6,000
+|referee = Alejandro Quintero González
+|result = W
+|note = The match was played at the José Rico Pérez in Alicante, instead of Jove Español's regular stadium, Ciudad Deportiva in [[San Vicente del Raspeig / Sant Vicent del Raspeig|San Vicente del Raspeig]], as it did not meet the broadcasting requirements.<br>The match was originally scheduled for 31 October 2024, but was postponed due to the [[2024 Spanish floods]].<ref>{{cite news|url=https://www.realsociedad.eus/es/noticias/detalle/partido-aplazado-2|title=Partido aplazado|publisher=Real Sociedad|language=es|date=30 October 2024|access-date=30 October 2024}}</ref>
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 5 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[UB Conquense|Conquense]]
+|score = 0–1
+|aet = yes
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ub-conquense-real-sociedad-3
+|team2 = Real Sociedad
+|goals1 =
+*[[Joan Monterde|Monterde]] {{yel|76}}
+*[[Bema Sina|Sina]] {{yel|82}}
+*[[José Álvarez Martí|Álvarez]] {{yel|99}}
+*[[Pedro Inglés|Inglés]] {{yel|101}}
+*[[Raúl Caballero (footballer, born 2001)|Caballero]] {{yel|112}}
+*[[Yuya Yoshimura|Yoshimura]] {{yel|118}}
+|goals2 =
+*[[Brais Méndez|Méndez]] {{goal|92}}
+|stadium = [[Estadio La Fuensanta|La Fuensanta]]
+|location = [[Cuenca, Spain|Cuenca]]
+|attendance = 6,000
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 5 January 2025
+|time = 15:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[SD Ponferradina|Ponferradina]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-sd-ponferradina-real-sociedad-4
+|team2 = Real Sociedad
+|goals1 =
+*[[Javi Lancho|Lancho]] {{yel|45}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|54}}
+*[[Brais Méndez|Méndez]] {{goal|69}}
+|stadium = [[Estadio El Toralín|El Toralín]]
+|location = [[Ponferrada]]
+|attendance = 8,064
+|referee = [[Jesús Gil Manzano]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 16 January 2025
+|time = 19:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-real-sociedad-rayo-vallecano-5
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|23}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|43}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{goal|45+1}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{goal|79}}
+|goals2 =
+*[[Alfonso Espino|Espino]] {{sentoff|2|17|77}}
+*[[Óscar Trejo|Trejo]] {{goal|45+7|pen.}}
+*[[Florian Lejeune|Lejeune]] {{yel|59}}
+*[[Isi Palazón|Palazón]] {{yel|81}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 27,816
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Quarter-finals|Quarter-finals]]
+|date = 6 February 2025
+|time = 19:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-real-sociedad-ca-osasuna-6
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|21}}
+*[[Brais Méndez|Méndez]] {{goal|31}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|45+1}}
+*[[Aihen Muñoz|Muñoz]] {{yel|87}}
+*[[Nayef Aguerd|Aguerd]] {{yel|90+3}}
+|goals2 =
+*[[Alejandro Catena|Catena]] {{sentoff|0|35}}
+*[[Jon Moncayola|Moncayola]] {{yel|45+5}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|45+6}}
+*[[Pablo Ibáñez (footballer, born 1998)|Ibáñez]] {{yel|77}}
+*[[Jesús Areso|Areso]] {{yel|80}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 34,658
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Semi-finals|Semi-finals<br>First leg]]
+|date = 26 February 2025
+|time = 21:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-real-sociedad-real-madrid-7
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+|goals2 =
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|19}}
+*[[Raúl Asencio (footballer, born 2003)|Asencio]] {{yel|45+1}}
+*[[Lucas Vázquez|Vázquez]] {{yel|86}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 37,373
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Semi-finals|Semi-finals<br>Second leg]]
+|date = 1 April 2025
+|time = 21:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 4–4
+|aggregatescore = 5–4
+|aet = yes
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-real-madrid-real-sociedad-8
+|team2 = Real Sociedad
+|goals1 =
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|30}}
+*[[Jude Bellingham|Bellingham]] {{goal|82}}
+*[[Aurélien Tchouaméni|Tchouaméni]] {{goal|86}}
+*[[Eduardo Camavinga|Camavinga]] {{yel|90+2}}
+*[[Antonio Rüdiger|Rüdiger]] {{goal|115}}
+|goals2 =
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|16}}
+*[[David Alaba|Alaba]] {{goal|72|o.g.}}
+*[[Jon Aramburu|Aramburu]] {{yel|74}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|80||90+3}}, {{yel|87}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|87}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|106}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 81,044
+|referee = Javier Alberola Rojas
+|result = D
+}}
+
+=== UEFA Europa League ===
+{{main|2024–25 UEFA Europa League}}
+
+==== League phase ====
+{{main|2024–25 UEFA Europa League league phase}}
+
+The draw for the league phase was held on 30 August 2024.
+
+{{:2024–25 UEFA Europa League league phase|transcludesection=Table|showteam=RSO}}
+
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| res1=A/H/A/A/H/H/A/H
+| label2=Result
+| res2=D/L/W/L/W/W/L/W
+| label3=Position
+| pos3=16/25/17/25/16/12/18/13
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1-8=green1|color_9-16=blue1|color_17-24=blue2
+| source=[https://www.uefa.com/uefaeuropaleague/fixtures-results/ UEFA]
+}}
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Nice v Real Sociedad|1]]
+|date = 25 September 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[OGC Nice|Nice]] {{fbaicon|FRA}}
+|score = 1–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2042086/
+|team2 = {{fbaicon|ESP}} Real Sociedad
+|goals1 =
+*[[Pablo Rosario|Rosario]] {{yel|26}}, {{goal|45}}
+*[[Evann Guessand|Guessand]] {{yel|26}}, {{penmiss}} {{small|54'}}
+|goals2 =
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|18}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|20}}
+*[[Álvaro Odriozola|Odriozola]] {{yel|43}}
+*[[Jon Pacheco|Pacheco]] {{yel|53}}
+|stadium = [[Allianz Riviera]]
+|location = [[Nice]], France
+|attendance = 20,545
+|referee = Morten Krogh ([[Danish Football Association|Denmark]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Real Sociedad v Anderlecht|2]]
+|date = 3 October 2024
+|time = 18:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Real Sociedad {{fbaicon|ESP}}
+|score = 1–2
+|report = https://www.uefa.com/uefaeuropaleague/match/2042101/
+|team2 = {{fbaicon|BEL}} [[R.S.C. Anderlecht|Anderlecht]]
+|goals1 =
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{goal|5}}
+*[[Orri Óskarsson|Óskarsson]] {{yel|52}}
+|goals2 =
+*[[Luis Vázquez (footballer)|Vázquez]] {{goal|28}}
+*[[Théo Leoni|Leoni]] {{goal|39}}
+*[[Mats Rits|Rits]] {{yel|45+1}}
+*[[Thomas Foket|Foket]] {{yel|61}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 30,985
+|referee = Marian Barbu ([[Romanian Football Federation|Romania]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Maccabi Tel Aviv v Real Sociedad|3]]
+|date = 24 October 2024
+|time = 18:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] {{fbaicon|ISR}}
+|score = 1–2
+|report = https://www.uefa.com/uefaeuropaleague/match/2042125/
+|team2 = {{fbaicon|ESP}} Real Sociedad
+|goals1 =
+*[[Weslley Patati|Patati]] {{yel|37}}
+*[[Osher Davida|Davida]] {{sentoff|2|74|88}}
+*[[Joris van Overeem|Van Overeem]] {{yel|80}}
+*[[Dor Turgeman|Turgeman]] {{goal|81}}
+*[[Sagiv Yehezkel|Yehezkel]] {{yel|88}}
+|goals2 =
+*[[Takefusa Kubo|Kubo]] {{yel|13}}
+*[[Jon Pacheco|Pacheco]] {{goal|19}}
+*[[Javi López (footballer, born 2002)|López]] {{yel|73}}
+*[[Sergio Gómez (footballer, born 2000)|Gómez]] {{goal|64}}
+|stadium = [[Partizan Stadium]]
+|location = [[Belgrade]], Serbia
+|attendance = 429
+|referee = Rohit Saggi ([[Norwegian Football Federation|Norway]])
+|result = W
+|note = Due to the [[Gaza war]], Israeli teams were required to play their home matches at neutral venues until further notice.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0286-194079070fc0-ee97b2cd5400-1000/ |title=European Qualifier match between Belgium and Sweden declared abandoned with half-time result confirmed as final |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 October 2023 |access-date=23 November 2023}}</ref>
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Viktoria Plzeň v Real Sociedad|4]]
+|date = 7 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Viktoria Plzeň|Viktoria Plzeň]] {{fbaicon|CZE}}
+|score = 2–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2042141/
+|team2 = {{fbaicon|ESP}} Real Sociedad
+|goals1 =
+*[[Prince Kwabena Adu|Adu]] {{goal|13}}
+*[[Jan Paluska|Paluska]] {{yel|37}}
+*[[Lukáš Červ|Červ]] {{yel|56}}
+*[[Lukáš Kalvach|Kalvach]] {{goal|90}}
+*[[Milan Havel|Havel]] {{yel|90+6}}
+|goals2 =
+*[[Orri Óskarsson|Óskarsson]] {{goal|35}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|42}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|72}}
+*[[Jon Aramburu|Aramburu]] {{yel|90+6}}
+*[[Luka Sučić|Sučić]] {{yel|90+7}}
+*[[Nayef Aguerd|Aguerd]] {{yel|90+8}}
+|stadium = [[Doosan Arena]]
+|location = [[Plzeň]], Czech Republic
+|attendance = 11,130
+|referee = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Real Sociedad v Ajax|5]]
+|date = 28 November 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad {{fbaicon|ESP}}
+|score = 2–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2042155/
+|team2 = {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|goals1 =
+*[[Brais Méndez|Méndez]] {{yel|21}}
+*[[Ander Barrenetxea (footballer)|Barrentexea]] {{goal|67}}
+*[[Takefusa Kubo|Kubo]] {{goal|85}}
+*[[Jon Aramburu|Aramburu]] {{yel|90}}
+*[[Aihen Muñoz|Muñoz]] {{yel|90+2}}
+|goals2 =
+*[[Owen Wijndal|Wijndal]] {{yel|81}}
+*[[Branco van den Boomen|Van den Boomen]] {{yel|89}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 32,786
+|referee = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Real Sociedad v Dynamo Kyiv|6]]
+|date = 12 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad {{fbaicon|ESP}}
+|score = 3–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2042175/
+|team2 = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{penmiss}} {{small|19'}}, {{goal|19||33}}
+*[[Sheraldo Becker|Becker]] {{goal|24}}
+*[[Álvaro Odriozola|Odriozola]] {{yel|75}}
+*[[Jon Magunazelaia|Magunazelaia]] {{yel|83}}
+|goals2 =
+*[[Vladyslav Dubinchak|Dubinchak]] {{yel|30}}
+*[[Maksym Braharu|Braharu]] {{yel|89}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 26,457
+|referee = [[Harm Osmers]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Lazio v Real Sociedad|7]]
+|date = 23 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[SS Lazio|Lazio]] {{fbaicon|ITA}}
+|score = 3–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2042192/
+|team2 = {{fbaicon|ESP}} Real Sociedad
+|goals1 =
+*[[Mario Gila|Gila]] {{goal|5}}
+*[[Nicolò Rovella|Rovella]] {{yel|7}}
+*[[Mattia Zaccagni|Zaccagni]] {{goal|32}}, {{yel|53}}
+*[[Taty Castellanos|Castellanos]] {{goal|34}}
+|goals2 =
+*[[Aihen Muñoz|Muñoz]] {{sentoff|2|12|30}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|39}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|82}}
+|stadium = [[Stadio Olimpico]]
+|location = [[Rome]], Italy
+|attendance = 32,635
+|referee = [[Lawrence Visser]] ([[Royal Belgian Football Association|Belgium]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League league phase#Real Sociedad v PAOK|8]]
+|date = 30 January 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad {{fbaicon|ESP}}
+|score = 2–0
+|report = https://www.uefa.com/uefaeuropaleague/match/2042210/
+|team2 = {{fbaicon|GRE}} [[PAOK FC|PAOK]]
+|goals1 =
+*[[Álvaro Odriozola|Odriozola]] {{yel|39}}
+*[[Orri Óskarsson|Óskarsson]] {{goal|43||48}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|75}}
+|goals2 =
+*[[Magomed Ozdoyev|Ozdoyev]] {{yel|6}}
+*[[Brandon Thomas (footballer)|Brandon]] {{yel|49}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 23,872
+|referee = [[John Beaton]] ([[Scottish Football Association|Scotland]])
+|result = W
+}}
+
+==== Knockout phase ====
+{{main|2024–25 UEFA Europa League knockout phase}}
+
+===== Knockout phase play-offs =====
+The draw for the knockout phase play-offs was held on 31 January 2025.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Midtjylland v Real Sociedad|First leg]]
+|date = 13 February 2025
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Midtjylland|Midtjylland]] {{fbaicon|DEN}}
+|score = 1–2
+|report = https://www.uefa.com/uefaeuropaleague/match/2044492/
+|team2 = {{fbaicon|ESP}} Real Sociedad
+|goals1 =
+*[[Adam Buksa|Buksa]] {{yel|25}}, {{goal|38}}
+*[[Aral Şimşir|Şimşir]] {{yel|51}}
+*[[Denil Castillo|Castillo]] {{yel|58}}
+|goals2 =
+*[[Jon Balda|Balda]] {{yel|2}}
+*[[Brais Méndez|Méndez]] {{goal|11|pen.}}, {{yel|61}}
+*[[Takefusa Kubo|Kubo]] {{goal|31}}
+*[[Jon Aramburu|Aramburu]] {{yel|90+4}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90+5}}
+|stadium = [[MCH Arena]]
+|location = [[Herning]], Denmark
+|attendance = 9,401
+|referee = [[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Real Sociedad v Midtjylland|Second leg]]
+|date = 20 February 2025
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad {{fbaicon|ESP}}
+|score = 5–2	
+|aggregatescore = 7–3
+|report = https://www.uefa.com/uefaeuropaleague/match/2044500/
+|team2 = {{fbaicon|DEN}} [[FC Midtjylland|Midtjylland]]
+|goals1 =
+*[[Brais Méndez|Méndez]] {{goal|5}}
+*[[Luka Sučić|Sučić]] {{goal|18||45+2}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|66}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|73|pen.}}
+*[[Orri Óskarsson|Óskarsson]] {{goal|90}}
+|goals2 =
+*[[Adam Buksa|Buksa]] {{goal|24|pen.}}, {{yel|31}}
+*[[Darío Osorio|Osorio]] {{goal|38}}
+*[[Paulinho (footballer, born 1995)|Paulinho]] {{yel|42}}
+*[[Dani Silva|Silva]] {{sentoff|0|70}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 27,728
+|referee = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+
+===== Round of 16 =====
+The draw for the round of 16 was held on 21 February 2025.
+
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Real Sociedad v Manchester United|First leg]]
+|date = 6 March 2025
+|time = 18:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Real Sociedad {{fbaicon|ESP}}
+|score = 1–1
+|report = https://www.uefa.com/uefaeuropaleague/match/2044788/
+|team2 = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]] 
+|goals1 =
+*[[Igor Zubeldia|Zubeldia]] {{yel|49}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|70|pen.}}
+|goals2 =
+*[[Bruno Fernandes|Fernandes]] {{yel|56}}
+*[[Joshua Zirkzee|Zirkzee]] {{goal|57}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 34,391
+|referee = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Europa League knockout phase#Manchester United v Real Sociedad|Second leg]]
+|date = 13 March 2025
+|time = 20:00 [[Greenwich Mean Time|GMT]] ([[UTC+00:00|UTC+0]])
+|team1 = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}} 
+|score = 4–1
+|aggregatescore = 5–2
+|report = https://www.uefa.com/uefaeuropaleague/match/2044796/
+|team2 = {{fbaicon|ESP}} Real Sociedad
+|goals1 =
+*[[Matthijs de Ligt|De Ligt]] {{yel|9}}
+*[[Bruno Fernandes|Fernandes]] {{goal|16|pen.|50|pen.|87}}
+*[[Diogo Dalot|Dalot]] {{goal|90+1}}
+*[[Toby Collyer|Collyer]] {{yel|90+4}}
+|goals2 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|10|pen.}}, {{yel|64}}
+*[[Igor Zubeldia|Zubeldia]] {{yel|13}}
+*[[Pablo Marín (footballer, born 2003)|Marín]] {{yel|39}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|51}}
+*[[Jon Aramburu|Aramburu]] {{sentoff|0|63}}
+*[[Aritz Elustondo|Elustondo]] {{yel|69}}
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{yel|74}}
+*[[Nayef Aguerd|Aguerd]] {{yel|90}}
+|stadium = [[Old Trafford]] 
+|location = [[Manchester]], England
+|attendance = 73,189
+|referee = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result = L
+}}
+
+== Statistics ==
+=== Squad statistics ===
+{{Extended football squad start|[[2024–25 La Liga|La Liga]]|[[2024–25 Copa del Rey|Copa del Rey]]|[[2024–25 UEFA Europa League|UEFA Europa League]]}}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Goalkeepers
+{{Extended football squad player|no=1 |name=[[Álex Remiro]]|pos=GK|nat=ESP                                                             |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=13 |name=[[Unai Marrero]]|pos=GK|nat=ESP                                                           |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Defenders
+{{Extended football squad player|no=2 |name=[[Álvaro Odriozola]]|pos=DF|nat=ESP                                                        |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=3 |name=[[Aihen Muñoz]]|pos=DF|nat=ESP                                                             |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=5 |name=[[Igor Zubeldia]]|pos=DF|nat=ESP                                                           |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=6 |name=[[Aritz Elustondo]]|pos=DF|nat=ESP                                                         |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=12|name=[[Javi López (footballer, born 2002)|Javi López]]|pos=DF|nat=ESP                           |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=18|name=[[Hamari Traoré]]|pos=DF|nat=MLI                                                           |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=20|name=[[Jon Pacheco]]|pos=DF|nat=ESP                                                             |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=21|name=[[Nayef Aguerd]]|pos=DF|nat=MAR                                                            |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=27|name=[[Jon Aramburu]]|pos=DF|nat=VEN                                                            |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Midfielders
+{{Extended football squad player|no=4 |name=[[Martín Zubimendi]]|pos=MF|nat=ESP                                                        |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=8 |name=[[Arsen Zakharyan]]|pos=MF|nat=RUS                                                         |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=15|name=[[Urko González de Zárate]]|pos=MF|nat=ESP                                                 |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=16|name=[[Jon Ander Olasagasti]]|pos=MF|nat=ESP                                                    |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=22|name=[[Beñat Turrientes]]|pos=MF|nat=ESP                                                        |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=23|name=[[Brais Méndez]]|pos=MF|nat=ESP                                                            |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=24|name=[[Luka Sučić]]|pos=MF|nat=CRO                                                               |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=28|name=[[Pablo Marín (footballer, born 2003)|Pablo Marín]]|pos=MF|nat=ESP                          |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan="14" style="background:#dcdcdc; text-align:center"|Forwards
+{{Extended football squad player|no=7 |name=[[Ander Barrenetxea (footballer)|Ander Barrenetxea]]|pos=FW|nat=ESP                        |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=9 |name=[[Orri Óskarsson]]|pos=FW|nat=ISL                                                          |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=10|name=[[Mikel Oyarzabal]]|pos=FW|nat=ESP                                                         |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=11|name=[[Sheraldo Becker]]|pos=FW|nat=SUR                                                         |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=14|name=[[Takefusa Kubo]]|pos=FW|nat=JPN                                                           |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=17|name=[[Sergio Gómez (footballer, born 2000)|Sergio Gómez]]|pos=FW|nat=ESP                       |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=19|name=[[Umar Sadiq]]|pos=FW|nat=NGA                                                              |0    |0 |0    |0 |0    |0 }}
+{{Extended football squad player|no=25|name=[[Jon Magunazelaia]]|pos=FW|nat=ESP                                                        |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center|Players who transferred out during the season
+|}
+
+== References ==
+{{Reflist}}
+
+{{Real Sociedad}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 Real Sociedad season}}
+[[Category:Real Sociedad seasons]]
+[[Category:Spanish football clubs 2024–25 season|Real Sociedad]]
+[[Category:2024–25 UEFA Europa League participants seasons|Real Sociedad]]
+[[Category:2024 in the Basque Country (autonomous community)]]
+[[Category:2025 in the Basque Country (autonomous community)]]

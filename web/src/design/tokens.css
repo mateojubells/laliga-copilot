@@ -1,0 +1,97 @@
+/* ==========================================================================
+   LaLiga Copilot · design tokens
+   Los grafismos se diseñan en un lienzo lógico de 1920×1080 px (ver Stage.tsx) y se escalan con
+   transform: scale. Por eso TODAS las medidas de grafismo están en px lógicos, sobre rejilla de 8 px.
+   Regla de legibilidad (3 m de distancia): texto >= 24 px (22 px solo en pie y distintivo), cifras principales >= 56 px.
+   El texto secundario nunca va en --c-text-3 por debajo de 26 px: usar --c-text-2.
+   ========================================================================== */
+:root {
+  /* ---- tipografía ---- */
+  --font-display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif; /* cifras y titulares */
+  --font-text: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif; /* texto corrido */
+
+  --fs-min: 22px; /* mínimo absoluto: solo pie de panel y distintivo de demostración */
+  --fs-sm: 24px; /* mínimo real de antena */
+  --fs-md: 26px;
+  --fs-lg: 32px;
+  --fs-xl: 44px;
+  --fs-title: 64px; /* nombre de jugador / titular */
+  --fs-stat: 72px; /* cifra principal de StatTile (>= 56) */
+  --fs-hero: 96px; /* marcador, cifras gigantes */
+
+  --fw-text: 500;
+  --fw-strong: 600;
+  --fw-display: 700;
+  --lh-tight: 1;
+  --lh-text: 1.25;
+  --ls-caps: 0.08em; /* versalitas con espaciado */
+
+  /* ---- colores: base oscura, translúcida ---- */
+  --c-ink: #05080e;
+  --c-glass: rgba(9, 13, 22, 0.84); /* fondo de panel sobre vídeo */
+  --c-glass-strong: rgba(9, 13, 22, 0.94);
+  --c-glass-soft: rgba(255, 255, 255, 0.06); /* tiles, filas alternas */
+  --c-glass-hover: rgba(255, 255, 255, 0.1);
+  --c-line: rgba(255, 255, 255, 0.14); /* bordes y separadores */
+  --c-line-strong: rgba(255, 255, 255, 0.28);
+
+  --c-text: #f4f7fb; /* contraste 17:1 sobre --c-glass */
+  --c-text-2: rgba(244, 247, 251, 0.78); /* >= 9:1 */
+  --c-text-3: rgba(244, 247, 251, 0.62); /* >= 6:1 sobre glass (AA con margen sobre vídeo) */
+
+  --c-accent: #7cc4ff; /* acento por defecto; Panel lo sobrescribe con --accent (color del club aclarado solo hasta 3:1: trazos y barras; las cifras grandes van en blanco) */
+  --club-fill: #4a515e; /* color OFICIAL del club, sin aclarar: relleno de tiles, bandas y cabeceras. Panel lo define por equipo */
+  --club-ink: #ffffff; /* texto legible sobre --club-fill */
+  --c-kicker: rgba(255, 255, 255, 0.85); /* rótulo superior: siempre blanco al 85 %, nunca en un acento */
+  --c-demo: #ffc247; /* distintivo de datos de demostración */
+  --c-good: #3ddc97;
+  --c-neutral: #a3adbd;
+  --c-bad: #ff6b7a;
+  --c-gold: #ffd23f;
+
+  /* zonas de la clasificación */
+  --c-zone-champions: #3b8bff;
+  --c-zone-europa: #ff9438;
+  --c-zone-conference: #35d6a8;
+  --c-zone-relegation: #ff4d5e;
+
+  /* campo */
+  --c-pitch-base: #0d2a24;
+  --c-pitch-stripe: rgba(255, 255, 255, 0.028);
+  --c-pitch-line: rgba(236, 244, 240, 0.62);
+
+  /* ---- espaciado (rejilla de 8 px) ---- */
+  --sp-1: 8px;
+  --sp-2: 16px;
+  --sp-3: 24px;
+  --sp-4: 32px;
+  --sp-5: 40px;
+  --sp-6: 48px;
+  --sp-8: 64px;
+
+  /* ---- radios y sombras ---- */
+  --r-sm: 8px;
+  --r-md: 16px;
+  --r-lg: 24px;
+  --r-pill: 999px;
+  --shadow-panel: 0 24px 64px rgba(0, 0, 0, 0.45), 0 2px 0 rgba(255, 255, 255, 0.06) inset;
+  /* sin brillo difuso (en emisión comprimida se convierte en bloom); solo aro nítido y con el acento del CLUB, no el azul por defecto */
+  --shadow-glow: 0 0 0 2px var(--accent, var(--c-accent));
+  --blur-glass: blur(18px) saturate(1.25);
+
+  /* ---- movimiento: entrada ~400 ms ease-out, salida ~250 ms ---- */
+  --dur-in: 400ms;
+  --dur-out: 250ms;
+  --dur-fast: 160ms;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.5, 0, 0.75, 0);
+  --ease-std: cubic-bezier(0.4, 0, 0.2, 1);
+  --slide-distance: 48px;
+
+  /* ---- lienzo de programa ---- */
+  --canvas-w: 1920px;
+  --canvas-h: 1080px;
+  --safe-margin: 64px; /* zona segura de título (aprox. 3,3 %) */
+  --scorebug-top: 64px; /* el marcador va en top 64 y ocupa hasta y 180 (con la banda de demostración) */
+  --below-scorebug: 200px; /* los grafismos de arriba empiezan aquí: nunca pisan el marcador */
+}

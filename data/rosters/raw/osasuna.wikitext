@@ -1,0 +1,1235 @@
+{{Infobox football club season
+|club               = CA Osasuna
+|season             = 2024–25
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = 
+|chairman           = 
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Vicente Moreno]]
+|stdtitle           = 
+|stadium            = [[El Sadar Stadium]]
+|league             = [[2024–25 La Liga|La Liga]]
+|league result      = 9th
+|cup1               = [[2024–25 Copa del Rey|Copa del Rey]]
+|cup1 result        = Quarter-finals
+|league topscorer   = <br>[[Ante Budimir]] (21)
+|season topscorer   = <br>Ante Budimir (24)
+|highest attendance = 
+|lowest attendance  = 
+|average attendance = 20,476<ref>https://www.worldfootball.net/competition/co97/spain-primera-division/se74771/2024-2025/attendance/</ref>
+|largest win        = 
+|largest loss       = 
+| pattern_la1 = _osasuna2425h
+| pattern_b1 = _osasuna2425h
+| pattern_ra1 = _osasuna2425h
+| pattern_sh1 = _osasuna2425h
+| pattern_so1 = _redtop
+| socks1 = 001355
+| pattern_la2 = _osasuna2425a
+| pattern_b2 = _osasuna2425a
+| pattern_ra2 = _osasuna2425a
+| pattern_sh2 = _osasuna2425a
+| pattern_so2 = _navytop
+| socks2 = dbd7d1
+| pattern_la3 = _osasuna2425t
+| pattern_b3 = _osasuna2425t
+| pattern_ra3 = _osasuna2425t
+| pattern_sh3 = _osasuna2425t
+| pattern_so3 = 
+| socks3 = 000000
+|updated            = 
+|prevseason         = [[2023–24 CA Osasuna season|2023–24]]
+|nextseason         = 2025–26
+}}
+The 2024–25 season was the 105th season in the history of the [[CA Osasuna]] and the club's sixth consecutive season in [[2024–25 La Liga|La Liga]]. In addition to the domestic league, the team participated in the [[Copa del Rey]].
+
+On 27 May 2024, Osasuna announced [[Vicente Moreno]] as the new coach.<ref>{{Cite web|url=https://www.marca.com/futbol/osasuna/2024/05/27/66544997e2704e76ba8b45c4.html|title=Vicente Moreno, nuevo entrenador de Osasuna|date=May 27, 2024|website=MARCA}}</ref>
+
+==Current squad==
+===First team squad===
+{{updated|29 August 2024}}<ref>{{cite web|url=https://www.osasuna.es/equipo/primer-equipo/plantilla/c-a-osasuna|title=Plantilla Club Atlético Osasuna|website=C.A. Osasuna Oficial|access-date=24 December 2020|archive-date=29 March 2023|archive-url=https://web.archive.org/web/20230329170719/https://www.osasuna.es/equipo/primer-equipo/plantilla/c-a-osasuna|url-status=dead}}</ref>
+{{Fs start}}
+{{Fs player|no=1|nat=ESP|pos=GK|name=[[Sergio Herrera (footballer, born 1993)|Sergio Herrera]]|other=[[vice-captain (association football)|vice-captain]]}}
+{{Fs player|no=2|nat=ESP|pos=DF|name=[[Nacho Vidal (footballer)|Nacho Vidal]]}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=[[Juan Cruz (footballer, born 1992)|Juan Cruz]]}}
+{{Fs player|no=4|nat=ESP|pos=DF|name=[[Unai García]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=5|nat=ESP|pos=DF|name=[[Jorge Herrando]]}}
+{{Fs player|no=6|nat=ESP|pos=MF|name=[[Lucas Torró]]}}
+{{Fs player|no=7|nat=ESP|pos=MF|name=[[Jon Moncayola]]}}
+{{Fs player|no=8|nat=ESP|pos=MF|name=[[Pablo Ibáñez (footballer, born 1998)|Pablo Ibáñez]]}}
+{{Fs player|no=9|nat=ESP|pos=FW|name=[[Raúl García (footballer, born 2000)|Raúl García]]}}
+{{Fs player|no=10|nat=ESP|pos=MF|name=[[Aimar Oroz]]}}
+{{Fs player|no=11|nat=ESP|pos=MF|name=[[Kike Barja]]}}
+{{Fs player|no=12|nat=ESP|pos=DF|name=[[Jesús Areso]]}}
+{{Fs player|no=13|nat=ESP|pos=GK|name=[[Aitor Fernández (footballer, born 1991)|Aitor Fernández]]}}
+{{Fs mid}}
+{{Fs player|no=14|nat=ESP|pos=MF|name=[[Rubén García (footballer, born 1993)|Rubén García]]}}
+{{Fs player|no=15|nat=ESP|pos=DF|name=[[Rubén Peña]]}}
+{{Fs player|no=16|nat=ESP|pos=MF|name=[[Moi Gómez]]}}
+{{Fs player|no=17|nat=CRO|pos=FW|name=[[Ante Budimir]]}}
+{{Fs player|no=18|nat=ESP|pos=MF|name=[[Iker Muñoz]]}}
+{{Fs player|no=19|nat=ESP|pos=FW|name=[[Bryan Zaragoza]]|other=<small>on loan from [[FC Bayern Munich|Bayern Munich]]</small>}}
+{{Fs player|no=20|nat=ESP|pos=FW|name=[[José Arnaiz|José Manuel Arnáiz]]}}
+{{Fs player|no=21|nat=ESP|pos=MF|name=[[Javi Martínez (footballer, born 1999)|Javi Martínez]]}}
+{{Fs player|no=22|nat=CMR|pos=DF|name=[[Flavien Enzo Boyomo|Enzo Boyomo]]}}
+{{Fs player|no=23|nat=ESP|pos=DF|name=[[Abel Bretones]]}}
+{{Fs player|no=24|nat=ESP|pos=DF|name=[[Alejandro Catena]]}}
+{{Fs player|no=27|nat=ESP|pos=FW|name=[[Iker Benito]]}}
+{{Fs end}}
+
+===Reserve team===
+{{main|CA Osasuna B}}
+{{Fs start}}
+{{Fs player|no=32|nat=GRE|pos=GK|name=[[Dimitrios Stamatakis Vailakakis|Dimitrios Stamatakis]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|nat=ESP|pos=DF|name=[[Jorge Moreno (footballer)|Jorge Moreno]]|other=at [[FC Cartagena|Cartagena]] until 30 June 2025}}
+{{Fs player|no=|nat=ESP|pos=FW|name=[[Ander Yoldi]]|other=at [[Córdoba CF|Córdoba]] until 30 June 2025}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 120px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Bretones, Abel|{{flagicon|ESP}} [[Abel Bretones]]}}
+|{{fbaicon|ESP}} [[Real Oviedo|Oviedo]]
+|€2,800,000
+|{{dts|5 July 2024}}
+|<ref>{{Cite web|url=https://www.osasuna.es/news/read/35766/osasuna-se-refuerza-con-abel-bretones|title=Osasuna se refuerza con Abel Bretones|website=Osasuna oficial}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|CMR}} [[Flavien Enzo Boyomo]]
+|{{fbaicon|ESP}} [[Real Valladolid]]
+|€5,000,000
+|{{dts|29 August 2024}}
+|
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 120px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Mojica, Johan|{{flagicon|COL}} [[Johan Mojica]]}}
+|{{fbaicon|ESP}} [[Villarreal CF]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{Cite web|url=https://navarra.okdiario.com/articulo/osasuna/colombiano-mojica-despide-osasuna-fuimos-gran-familia-siempre/20240527201136538545.html|title=El colombiano Mojica se despide de Osasuna: "Fuimos una gran familia siempre"|date=May 27, 2024|website=Navarra.com}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|ESP}} [[Iker Benito]]
+|{{fbaicon|ESP}} [[CD Mirandés]]
+|Loan
+|{{dts|2 January 2025}}
+|<ref>{{Cite web|url=https://www.osasuna.es/news/read/36220/iker-benito-cedido-al-c-d-mirandes|title=Iker Benito, cedido al C. D. Mirandés|website=Osasuna oficial}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|ESP}} [[Javi Martínez (footballer, born 1999)|Javi Martínez]]
+|
+|Contract terminated
+|{{dts|8 January 2025}}
+|<ref>{{Cite web|url=https://www.osasuna.es/news/read/36237/osasuna-y-javi-martinez-finalizan-su-vinculacion|title=Osasuna y Javi Martínez finalizan su vinculación|website=Osasuna oficial}}</ref>
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = Friendly
+|date = 24 July 2024
+|time = 19:30
+|team1 = Osasuna
+|score = 0–0
+|report = 
+|team2 = [[SD Huesca|Huesca]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 25 July 2024
+|time = 
+|team1 = Osasuna
+|score = 1–1
+|report = 
+|team2 = [[CD Mirandés|Mirandés]]
+|goals1 =
+*[[Iker Benito]] {{goal|57}}
+|goals2 =
+*[[Yidne]] {{goal|86}}
+|stadium = Estadio San Francisco
+|location = [[Tafalla]]
+|attendance = 
+|referee = Morilla Turrión
+|result = D
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 31 July 2024
+|time = 19:00
+|team1 = [[Real Sociedad]]
+|score = 1–2
+|report = 
+|team2 = Osasuna
+|goals1 =
+|goals2 =
+|stadium = Instalaciones de Zubieta
+|location = [[San Sebastián]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = [[Euskal Herriko Futbol Txapelketa|Euskal Txapela]]
+|date = 3 August 2024<ref>[https://www.eitb.eus/es/deportes/futbol/videos/detalle/9541214/athletic-y-osasuna-disputaran-final-de-euskal-herria-txapela-3-de-agosto-en-barakaldo/ Athletic y Osasuna disputarán la final de la Euskal Herria Txapela el 3 de agosto en Barakaldo] [Athletic and Osasuna will contest the final of the Basque Championship on 3 August in Barakaldo], [[EITB]], 12 July 2024 (in Spanish)</ref>
+|time = 20:30
+|team1 = [[Athletic Bilbao]]
+|score = 2–1
+|report = 
+|team2 = Osasuna
+|goals1 =
+|goals2 =
+|stadium = [[Estadio de Lasesarre]]
+|location = [[Barakaldo]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 10 August 2024
+|time = 
+|team1 = Osasuna
+|score = 1–2
+|report = 
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = L
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=2
+|c1=[[2024–25 La Liga|La Liga]] |fm1=17 August 2024 |lm1=25 May 2025 |sr1=Matchday 1 |fp1=9th |w1=12 |d1=16 |l1=10 |f1=48 |a1=52
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |fm2=5 November 2024 |lm2=8 April 2025 |sr2=First round |fp2=Quarter-finals |w2=4 |d2=0 |l2=1 |f2=13 |a2=7
+|s=[https://int.soccerway.com/teams/spain/club-atletico-osasuna/2022/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=OSA}}
+
+==== Results summary ====
+{{Fb rs |hw=8 |hd=6 |hl=2 |hgf=28 |hga=20 |aw=2 |ad=8 |al=7 |agf=12 |aga=25 }}
+{{Fb rs footer|u=26 April 2025 |s= |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=26 April 2025
+| header=Round
+| label1=Ground
+| res1=H/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/
+| label2=Result
+| res2=D/W/L/W/L/W/D/W/D/L/W/W/L/D/D/D/D/L/L/D/D/W/D/D/L/D/L/L/D/D/W/W/W/
+| label3=Position
+| pos3=14/7/13/7/12/7/7/7/5/8/8/4/5/6/7/8/8/10/11/10/11/8/9/9/12/11/14/14/14/14/12/11/8/
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing LaLiga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{Cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=June 14, 2024|language=es|website=MARCA}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 17 August 2024
+|time = 19:00
+|team1 = Osasuna
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-cd-leganes-1
+|team2 = [[CD Leganés|Leganés]]
+|goals1 =
+*[[Juan Cruz (footballer, born 1992)|Juan Cruz]] {{yel|74}}
+*[[Juan Soriano (footballer)|Soriano]] {{goal|79|o.g.}}
+*[[Jorge Herrando|Herrando]] {{yel|82}}
+*[[Jon Moncayola|Moncayola]] {{yel|89}}
+|goals2 =
+*[[Juan Cruz (footballer, born 2000)|Cruz]] {{goal|22}}
+*[[Valentin Rosier|Rosier]] {{yel|30}}
+*[[Juan Soriano (footballer)|Soriano]] {{yel|61}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,561
+|referee = Juan Luis Pulido Santana
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 24 August 2024
+|time = 17:00
+|team1 = Osasuna
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-rcd-mallorca-2
+|team2 = [[RCD Mallorca|Mallorca]]
+|goals1 =
+*[[Rubén García (footballer, born 1993)|Rubén García]] {{goal|55}}
+*[[Jesús Areso|Areso]] {{yel|75}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|77}}
+|goals2 =
+*[[Cyle Larin|Larin]] {{yel|88}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,900
+|referee = Adrián Cordero Vega
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 29 August 2024
+|time = 19:00
+|team1 = [[Girona FC|Girona]]
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-girona-fc-ca-osasuna-3
+|team2 = Osasuna
+|goals1 =
+*[[Bryan Gil|Gil]] {{goal|34}}
+*[[Viktor Tsyhankov|Tsyhankov]] {{goal|53}}
+*[[Abel Ruiz|Ruiz]] {{goal|56}}
+*[[Cristhian Stuani|Stuani]] {{goal|90}}
+|goals2 =
+|stadium = [[Estadi Montilivi|Montilivi]]
+|location = [[Girona]]
+|attendance = 13,275
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 4
+|date = 1 September 2024
+|time = 17:00
+|team1 = Osasuna
+|score = 3–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-rc-celta-4
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =
+*[[Flavien Enzo Boyomo|Boyomo]] {{goal|21}}
+*[[Carlos Domínguez (Spanish footballer)|Domínguez]] {{goal|45|o.g.}}
+*[[Abel Bretones|Bretones]] {{goal|62}}
+*[[Lucas Torró|Torró]] {{yel|66}}
+*[[Rubén García (footballer, born 1993)|Rubén García]] {{yel|74}}
+|goals2 =
+*[[Borja Iglesias|Iglesias]] {{goal|29}}
+*[[Alfon González|Alfon]] {{sentoff|0|86}}
+*[[Moi Gómez|Gómez]] {{goal|90+1|o.g.}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19.908
+|referee = [[Juan Martínez Munuera]]
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 16 September 2024
+|time = 21:00
+|team1 = [[Rayo Vallecano]]
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rayo-vallecano-ca-osasuna-5
+|team2 = Osasuna
+|goals1 =
+*[[Abdul Mumin]] {{goal|50}}, {{yel|78}}
+*[[Sergio Camello|Camello]] {{yel|59}}
+*[[Andrei Rațiu|Rațiu]] {{goal|66}}
+*[[Unai López|López]] {{yel|88}}, {{goal|90+5}}
+|goals2 =
+*[[Bryan Zaragoza|Zaragoza]] {{yel|19}}
+*[[Vicente Moreno]] {{yel|19}}
+*[[Raúl García (footballer, born 2000)|Raúl García]] {{goal|27}}
+*[[Jon Moncayola|Moncayola]] {{yel|42}}
+|stadium = [[Vallecas Stadium]]
+|location = [[Madrid]]
+|attendance = 13.073
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 21 September 2024
+|time = 16:15
+|team1 = Osasuna
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-ud-las-palmas-6
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Ante Budimir|Budimir]] {{goal|39|pen.}}
+*[[Abel Bretones|Bretones]] {{yel|54}}
+*[[Aimar Oroz|Oroz]] {{goal|60}}
+*[[Rubén Peña|Peña]] {{yel|85}}
+|goals2 =
+*[[Sandro Ramírez|Sandro]] {{yel|15}}
+*[[Mika Mármol|Mármol]] {{yel|35}}
+*[[Alberto Moleiro|Moleiro]] {{goal|41}}
+*[[Marvin Park|Park]] {{yel|45+3}}
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{yel|78}}
+*[[Adnan Januzaj|Januzaj]] {{yel|90+3}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,043
+|referee = Isidro Díaz de Mera Escuderos
+|result = W
+}}
+{{Football box collapsible
+|round = 7
+|date = 24 September 2024
+|time = 19:00
+|team1 = [[Valencia CF|Valencia]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-ca-osasuna-7
+|team2 = Osasuna
+|goals1 =
+*[[Cristhian Mosquera|Mosquera]] {{yel|45+2}}
+*[[Jesús Vázquez (footballer, born 2003)|Vázquez]] {{yel|68}}
+|goals2 =
+*[[Lucas Torró|Torró]] {{yel|54}}
+*[[Jorge Herrando|Herrando]] {{yel|70}}
+*[[Ante Budimir|Budimir]] {{yel|90}}
+*[[Vicente Moreno|V.Moreno]] {{yel|}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 40,425
+|referee = Miguel Ángel Ortiz Arias
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 28 September 2024
+|time = 21:00
+|team1 = Osasuna
+|score = 4–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-fc-barcelona-8
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Ante Budimir|Budimir]] {{goal|18||72|pen.}}
+*[[Bryan Zaragoza|Zaragoza]] {{goal|28}}, {{yel|69}}
+*[[Pablo Ibáñez|Ibáñez]] {{yel|61}}
+*[[Abel Bretones|Bretones]] {{goal|85}}
+|goals2 =
+*[[Pau Víctor|Víctor]] {{goal|53}}
+*[[Sergi Domínguez|Domínguez]] {{yel|71}}
+*[[Lamine Yamal|Yamal]] {{goal|89}}
+*[[Pedri]] {{yel|90+6}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 
+|referee = Guillermo Cuadra Fernández
+|result = W
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 16:15
+|team1 = [[Getafe CF|Getafe]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-ca-osasuna-9
+|team2 = Osasuna
+|goals1 =
+*[[Bertuğ Yıldırım|Yıldırım]] {{goal|21}}, {{yel|43}}
+*[[Djené]] {{yel|42}}
+|goals2 =
+*[[Lucas Torró|Torró]] {{yel|34}}
+*[[Enzo Boyomo|Boyomo]] {{yel|53}}
+*[[Ante Budimir|Budimir]] {{goal|60}}
+*[[Jon Moncayola|Moncayola]] {{yel|75}}
+*[[Alejandro Catena|Catena]] {{yel|87}}
+|stadium = [[Estadio Coliseum]]
+|location = [[Getafe]]
+|attendance = 10.670
+|referee = [[José María Sánchez Martínez]]
+|result = D
+}}
+{{Football box collapsible
+|round = 10
+|date = 19 October 2024
+|time = 16:15
+|team1 = Osasuna
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-real-betis-10
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Lucas Torró|Torró]] {{goal|59}}
+*[[Flavien Enzo Boyomo|Boyomo]] {{yel|72}}
+*[[Moi Gómez|Gómez]] {{yel|90+8}}
+|goals2 =
+*[[Vitor Roque]] {{goal|7}}
+*[[Chimy Ávila|Ávila]] {{goal|73}}
+*[[Pablo Fornals|Fornals]] {{yel|80}}
+*[[Natan (footballer, born 2001)|Natan]] {{sentoff|0|90+5}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 21,045
+|referee = Alejandro Muñiz Ruiz
+|result = L
+}}
+{{Football box collapsible
+|round = 11
+|date = 27 October 2024
+|time = 21:00
+|team1 = [[Real Sociedad]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-ca-osasuna-11
+|team2 = Osasuna
+|goals1 =
+*[[Martín Zubimendi|Zubimendi]] {{yel|73}}
+*[[Álvaro Odriozola|Odriozola]] {{yel|84}}
+*[[Brais Méndez|Méndez]] {{yel|90+3}}
+|goals2 =
+*[[Aimar Oroz|Oroz]] {{yel|16}}
+*[[Lucas Torró|Torró]] {{goal|23}}
+*[[Ante Budimir|Budimir]] {{goal|34}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|45+3}}
+*[[Bryan Zaragoza|Zaragoza]] {{yel|76}}
+*[[Abel Bretones|Bretones]] {{yel|90+5}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 31,279
+|referee = Juan Luis Pulido Santana
+|result = W
+}}
+{{Football box collapsible
+|round = 12
+|date = 2 November 2024
+|time = 14:00
+|team1 = Osasuna
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-real-valladolid-cf-12
+|team2 = [[Real Valladolid|Valladolid]]
+|goals1 =
+*[[Ante Budimir|Budimir]] {{goal|19}}
+*[[Jon Moncayola|Moncayola]] {{yel|77}}
+|goals2 =
+*[[Anuar Tuhami|Anuar]] {{yel|16}}
+*[[Luis Pérez (footballer, born 1995)|L. Pérez]] {{yel|18}}
+*[[Kike Pérez|K. Pérez]] {{yel|69}}
+*[[Mario Martín|Martín]] {{yel|71}}
+*[[Iván Sánchez|Sánchez]] {{yel|84}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 20,430
+|referee = Víctor García Verdura
+|result = W
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 14:00
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-madrid-ca-osasuna-13
+|team2 = Osasuna
+|goals1 =
+*[[Vinícius Júnior|Vinícius]] {{goal|34||61||69}}
+*[[Jude Bellingham|Bellingham]] {{goal|42}}
+|goals2 =
+*[[Alejandro Catena|Catena]] {{yel|55}}
+*[[Lucas Torró|Torró]] {{yel|88}}
+|stadium = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location = [[Madrid]]
+|attendance = 72,462
+|referee = Mario Melero López
+|result = L
+}}
+{{Football box collapsible
+|round = 14
+|date = 24 November 2024
+|time = 14:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Osasuna
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-villarreal-cf-14
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Ante Budimir|Budimir]] {{goal|8||20|pen.}}
+*[[Flavien Enzo Boyomo|Boyomo]] {{yel|31}}
+*[[Alejandro Catena|Catena]] {{yel|52}}
+*[[Aimar Oroz|Oroz]] {{yel|75}}
+*[[Jesús Areso|Areso]] {{yel|84}}
+*[[Lucas Torró|Torró]] {{yel|90+1}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|90+2}}
+|goals2 =
+*[[Raúl Albiol|Albiol]] {{yel|19}}
+*[[Santi Comesaña|Comesaña]] {{yel|39}}
+*[[Álex Baena|Baena]] {{yel|45}}, {{goal|67}}
+*[[Sergi Cardona|Cardona]] {{yel|45+1}}
+*[[Dani Parejo|Parejo]] {{yel|84}}
+*[[Gerard Moreno|Gerard]] {{goal|90+3|pen.}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,795
+|referee = [[José Luis Munuera Montero]]
+|result = D
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-ca-osasuna-15
+|team2 = Osasuna
+|goals1 =
+*[[Djibril Sow|Sow]] {{yel|50}}
+*[[Dodi Lukebakio|Lukebakio]] {{goal|72}}
+|goals2 =
+*[[Ante Budimir|Budimir]] {{goal|69}}
+*[[Alejandro Catena|Catena]] {{yel|80}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 31,536
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Osasuna
+|score = 2–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-deportivo-alaves-16
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 =
+*[[Ante Budimir|Budimir]] {{yel|3}}, {{goal|54}}
+*[[Lucas Torró|Torró]] {{yel|37}}
+*[[Kike Barja|Barja]] {{yel|45+4}}
+*[[Rubén García (footballer, born 1993)|Rubén García]] {{goal|61}}
+*[[Aimar Oroz|Oroz]] {{yel|90+6}}
+*[[Jon Moncayola|Moncayola]] {{yel|90+7}}
+|goals2 =
+*[[Kike García (Spanish footballer)|K. García]] {{goal|1||68}}
+*[[Abdel Abqar|Abqar]] {{yel|23}}
+*[[Nahuel Tenaglia|Tenaglia]] {{yel|37}}
+*[[Antonio Blanco (footballer)|Blanco]] {{yel|60}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 18,220 
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 17
+|date = 15 December 2024
+|time = 14:00
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-espanyol-ca-osasuna-17
+|team2 = Osasuna
+|goals1 =
+*[[Pol Lozano|Lozano]] {{yel|31}}
+*[[Álvaro Tejero|Tejero]] {{yel|58}}
+*[[Marash Kumbulla|Kumbulla]] {{yel|65}}
+|goals2 =
+*[[Alejandro Catena|Catena]] {{yel|36}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 20,513
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 18:30
+|team1 = Osasuna
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-athletic-club-18
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Lucas Torró|Torró]] {{goal|25}}
+|goals2 =
+*[[Gorka Guruzeta|Guruzeta]] {{goal|31}}, {{yel|87}}
+*[[Álex Berenguer|Berenguer]] {{goal|74}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 22.030
+|referee = Alejandro Quintero González
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 12 January 2025
+|time = 16:15
+|team1 = [[Atlético Madrid]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-ca-osasuna-19
+|team2 = Osasuna
+|goals1 =
+*[[Giuliano Simeone|G.Simeone]] {{yel|34}}
+*[[Samuel Lino|Lino]] {{yel|53}}
+*[[Julián Alvarez|Alvarez]] {{goal|55}}
+*[[Diego Simeone|D.Simeone]] {{yel|90+2}}
+|goals2 =
+*[[Vicente Moreno]] {{yel|88}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 64.801
+|referee = Isidro Díaz de Mera Escuderos
+|result = L
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 18:30
+|team1 = Osasuna
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-rayo-vallecano-20
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Pablo Ibáñez|Ibáñez]] {{yel|40}}
+*[[Raúl García (footballer, born 2000)|Raúl García]] {{goal|59}}
+*[[Jon Moncayola|Moncayola]] {{yel|72}}
+*[[Jesús Areso|Areso]] {{yel|81}}
+|goals2 =
+*[[Sergio Camello|Camello]] {{goal|19}}
+*[[Óscar Valentín|Valentín]] {{yel|38}}
+*[[Augusto Batalla|Batalla]] {{yel|84}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 20.770
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 21
+|date = 24 January 2025
+|time = 21:00
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-ca-osasuna-21
+|team2 = Osasuna
+|goals1 =
+*[[Manu Fuster|Fuster]] {{yel|11}}
+*[[Dário Essugo|Essugo]] {{sentoff|2|30|72}}
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{yel|69}}
+*[[Álex Suárez (footballer, born 1993)|Alex Suárez]] {{yel|72}}
+*[[Andy Pelmard|Pelmard]] {{yel|88}}
+*[[Adnan Januzaj|Januzaj]] {{goal|90+8}}, {{yel|90+10}}
+|goals2 =
+*[[Kike Barja|Barja]] {{yel|19}}
+*[[Jesús Areso|Areso]] {{yel|23}}
+*[[Alejandro Catena|Catena]] {{yel|24}}
+*[[Aimar Oroz|Oroz]] {{goal|53}}
+*[[Jon Moncayola|Moncayola]] {{yel|58}}
+*[[Rubén García (footballer, born 1993)|Rubén García]] {{yel|82}}
+*[[Jorge Herrando|Herrando]] {{yel|90+1}}
+*[[Iker Muñoz|Muñoz]] {{yel|90+12}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 19.762
+|referee = Jesús Gil Manzano
+|result = D
+}}
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 18:30
+|team1 = Osasuna
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-real-sociedad-22
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Lucas Torró|Torró]] {{yel|16}}
+*[[Ante Budimir|Budimir]] {{goal|34||74}}, {{yel|64}}
+*[[Vicente Moreno|V.Moreno]] {{yel|45+1}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|70}}
+|goals2 =
+*[[Igor Zubeldia|Zubeldia]] {{yel|39}}
+*[[Jon Ander Olasagasti|Olasagasti]] {{yel|59}}
+*[[Orri Óskarsson|Óskarsson]] {{goal|90+4}}
+*[[Luka Sucic|Sucic]] {{yel|90+6}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 21.678
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 23
+|date = 10 February 2025
+|time = 21 February 2025
+|team1 = [[RCD Mallorca|Mallorca]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-ca-osasuna-23
+|team2 = Osasuna
+|goals1 =
+*[[Vedat Muriqi|Muriqi]]{{goal|81|pen.}}
+*[[Pablo Maffeo|Maffeo]]{{yel|90}}
+|goals2 =
+*[[Lucas Torró|Torró]]{{yel|35}}
+*[[Alejandro Catena|Catena]]{{yel|79}}
+*[[Enzo Boyomo|Boyomo]]{{yel|86}}, {{goal|90+4}}
+*[[Aimar Oroz|Oroz]]{{yel|86}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 15.378
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 24
+|date = 15 February 2025
+|time = 16:15
+|team1 = Osasuna
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-real-madrid-24
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Jesús Areso|Areso]] {{yel|48}}
+*[[Juan Cruz (footballer, born 1992)|Juan Cruz]] {{yel|52}}
+*[[Ante Budimir|Budimir]] {{goal|58|pen.}}
+*[[Aimar Oroz|Oroz]] {{yel|73}}
+|goals2 =
+*[[Kylian Mbappé|Mbappé]] {{goal|15}}
+*[[Carlo Ancelotti|C.Ancelotti]] {{yel|21}}
+*[[Jude Bellingham|Bellingham]] {{sentoff|0|39}}
+*[[Eduardo Camavinga|Camavinga]] {{yel|57}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 22.390
+|referee = José Luis Munuera Montero
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 21 February 2025
+|time = 21:00
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rc-celta-ca-osasuna-25
+|team2 = Osasuna
+|goals1 =
+*[[Fer López]] {{yel|38}}
+*[[Iago Aspas|Aspas]] {{goal|69|pen.}}
+|goals2 =
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22.005
+|referee = José María Sánchez Martínez
+|result = L
+}}
+{{Football box collapsible
+|round = 26
+|date = 2 March 2025
+|time = 21:00
+|team1 = Osasuna
+|score = 3–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-valencia-cf-26
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Aimar Oroz|Oroz]] {{goal|26||39}}
+*[[Ante Budimir|Budimir]] {{goal|45|pen.}}
+*[[Lucas Torró|Torró]] {{yel|77}}
+*[[Iker Muñoz|Muñoz]] {{yel|80}}
+|goals2 =
+*[[Diego López (footballer, born May 2002)|López]] {{goal|14}}
+*[[Umar Sadiq|Sadiq]] {{goal|32||87}}
+*[[Luis Rioja|Rioja]] {{yel|68}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19.230
+|referee = Mario Melero López
+|result = D
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 18:30
+|team1 = Osasuna
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-getafe-cf-28
+|team2 = [[Getafe CF|Getafe]]
+|goals1 = 
+*[[Jesús Areso|Areso]] {{yel|15}}
+*[[Lucas Torró|Torró]] {{yel|34}}
+*[[Ante Budimir|Budimir]] {{goal|45|pen.}}
+|goals2 = 
+*[[Dakonam Djené|Djené]] {{yel|29}}
+*[[Domingos Duarte|Duarte]] {{yel|43}}
+*[[Ramón Terrats|Terrats]] {{goal|55||71}}
+*[[Chrisantus Ugonna Uche|Chrisantus]] {{sentoff|2|76|77}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19.611
+|referee = Alejandro Hernández Hernández
+|result = L
+}}
+{{Football box collapsible
+|round      = 27
+|date       = 27 March 2025
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 3–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-ca-osasuna-27
+|team2      = Osasuna
+|goals1     =
+|goals2     =
+|stadium    = [[Estadi Olímpic Lluís Companys]]
+|location   = [[Barcelona]]
+|attendance = 
+|referee    = Mateo Busquets Ferrer
+|result     = L
+|note       = This match was originally scheduled for 8 March 2025; however, it was rescheduled due to the death of Barcelona's doctor Carles Miñarro Garcia.
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2024
+|time = 18:30
+|team1 = [[Athletic Bilbao]]
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-ca-osasuna-29
+|team2 = Osasuna
+|goals1 = 
+*[[Unai Núñez|Núñez]] {{yel|38}}
+|goals2 = 
+*[[Alejandro Catena|Catena]] {{yel|45}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 49.671
+|referee = Guillermo Cuadra Fernández
+|result = D
+}}
+{{Football box collapsible
+|round = 30
+|date = 7 April 2025
+|time = {{UTZ|21:00|1}}
+|team1 = [[CD Leganés|Leganés]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-ca-osasuna-30
+|team2 = Osasuna
+|goals1     =
+*[[Yvan Neyou|Neyou]] {{yel|55}}
+*[[Valentin Rosier|Rosier]] {{yel|61}}
+*[[Dani Raba|Raba]] {{yel|62}}, {{goal|87|pen.}}
+|goals2     =
+*[[Aimar Oroz|Oroz]] {{yel|45+1}}
+*[[Herrando]] {{goal|49}}
+*[[Moncayola]] {{yel|72}}
+*[[Abel Bretones|Bretones]] {{yel|86}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10.755
+|referee    = Víctor García Verdura
+|result     = D
+}}
+{{Football box collapsible
+|round = 31
+|date = 13 April 2025
+|time = 14:00
+|team1 = Osasuna
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-girona-fc-31
+|team2 = [[Girona FC|Girona]]
+|goals1 = 
+*[[Ante Budimir|Budimir]] {{goal|38}}
+*[[Pablo Ibáñez|Ibáñez]] {{goal|79}}
+*[[Kike Barja|Barja]] {{yel|86}}
+*[[Juan Cruz (footballer, born 1992)|Cruz]] {{yel|89}}
+|goals2 = 
+*[[Cristhian Stuani|Stuani]] {{yel|73}}
+*[[Yáser Asprilla|Asprilla]] {{goal|90+6}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 20.260
+|referee = Pablo González Fuertes
+|result = W
+}}
+{{Football box collapsible
+|round = 32
+|date = 20 April 2025
+|time = 14:00
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-ca-osasuna-32
+|team2 = Osasuna
+|goals1 = 
+*[[Raúl Moro|Moro]] {{goal|49}}
+*[[Mamadou Sylla (footballer, born 1994)|Sylla]] {{goal|66|pen.}}
+*[[Javi Sánchez (footballer)|Javi]] {{yel|79}}
+*[[Adam Aznou|Aznou]] {{yel|90+1}}
+|goals2 = 
+*[[Ante Budimir|Budimir]] {{goal|9||60|pen.}}
+*[[Rubén García (footballer, born 1993)|Rubén García]] {{goal|34}}
+|stadium = [[Estadio José Zorrilla|José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 12.230
+|referee = Jesús Gil Manzano
+|result = W
+}}
+{{Football box collapsible
+|round = 33
+|date = 23 April 2025
+|time = --:--
+|team1 = Osasuna
+|score = 1–0
+|report = 
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+|goals2 =
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 34
+|date = 4 May 2025
+|time = --:--
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 4–2
+|report = 
+|team2 = Osasuna
+|goals1 =
+|goals2 =
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 35
+|date = 11 May 2025
+|time = 
+|team1 = Real Betis
+|score = 1–1
+|report = 
+|team2 = Osasuna
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Seville]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = 37
+|date = 15 May 2025
+|time = 
+|team1 = Osasuna
+|score = 2–0
+|report = 
+|team2 = Atlético Madrid
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Pamplona]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = Osasuna
+|score = 2–0
+|report = 
+|team2 = Espanyol
+|goals1 = [[Ante Budimir|Budimir]] {{goal|17}} 
+[[Jesús Areso|Areso]] {{yel|81}}
+|goals2 = [[Raúl García (footballer, born 2000)|Garcia]] {{goal|90+1}}
+[[Marash Kumbulla|Kumbulla]] {{yel|30}}
+|stadium = [[El Sadar]]
+|location = [[Pamplona]]
+|attendance = 21,131
+|referee = Francisco Jose Hernandez
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 25 May 2025
+|time = 20:00
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-ca-osasuna-38
+|team2 = Osasuna
+|goals1 = [[Carlos Vicente (footballer)|Vicente]] {{goal|56|pen}}
+|goals2 = [[Raúl García (footballer, born 2000)|Raúl García]] {{goal|88}}
+|stadium = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 19,274
+|referee = Guillermo Cuadra Fernández
+|result = D
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#First round|First round]]
+|date = 5 November 2024
+|time = {{UTZ|19:00|1}}
+|team1 = [[Chiclana CF]]
+|score = 0–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-chiclana-cf-ca-osasuna-2
+|team2 = Osasuna
+|goals1 =
+*[[Juanito]] {{yel|44}}
+|goals2 =
+*[[Raúl García (footballer, born 2000)|García]] {{goal|51||79}}
+*[[Iker Benito|Benito]] {{goal|53|pen.}}
+*[[José Manuel Arnáiz|Arnáiz]] {{goal|71}}
+*[[Moi Gómez]] {{goal|76}}
+|stadium = [[Municipal de Deportes de Chiclana]]
+|location = [[Chiclana de la Frontera|Chiclana]]
+|attendance = 5.000
+|referee = Francisco José Hernández Maeso
+|result = W
+|note = The match was originally scheduled to take place on 30 October 2024, but was postponed due to the poor condition of the pitch.
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Second round|Second round]]
+|date = 5 December 2024
+|time = 19:00
+|team1 = [[AD Ceuta FC]] 
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-ad-ceuta-fc-ca-osasuna-3
+|team2 = Osasuna
+|goals1 =
+*[[José Juan Romero|J.Romero]] {{yel|38}}
+*[[Carlos Redru|Redru]] {{goal|41}}
+*[[Carlos Hernández (footballer, born 1990)|C.Hernández]] {{yel|54}}
+*[[Rubén Díez|Díez]] {{goal|69}}
+|goals2 =
+*[[Ante Budimir|Budimir]] {{goal|84}}
+*[[Raúl García (footballer, born 2000)|García]] {{goal|87}}
+*[[Carlos Redru|Redru]] {{goal|90+3|o.g.}}
+*[[Kike Barja|Barja]] {{yel|90+8}}
+|stadium = [[Estadio Municipal Alfonso Murube]]
+|location = [[Ceuta]]
+|attendance = 
+|referee = Alejandro Hernández Hernández
+|result = W
+}}
+{{Football box collapsible
+|round = [[2024–25 Copa del Rey#Round of 32|Round of 32]]
+|date = 4 January 2025
+|time = 16:00
+|team1 = [[CD Tenerife]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-cd-tenerife-ca-osasuna-4
+|team2 = Osasuna
+|goals1 =
+*[[José León (footballer)|José León]] {{goal|45}}
+*[[Marlos Moreno|Moreno]] {{yel|55}}
+*[[Ángel Rodríguez (footballer, born 1987)|A.Rodríguez]] {{yel|80}}
+*[[Yann Bodiger|Bodiger]] {{yel|85}}
+*[[Alassan Manjam|Manjam]] {{yel|90+1}}
+|goals2 =
+*[[Jorge Herrando|Herrando]] {{goal|7}}
+*[[José León (footballer)|José León]] {{goal|25|o.g.}}
+*[[Jon Moncayola|Moncayola]] {{yel|43}}
+*[[Enzo Boyomo|Boyomo]] {{yel|48}}
+*[[Ante Budimir|Budimir]] {{yel|90+2}}
+|stadium = [[Heliodoro Rodríguez López]]
+|location = [[Santa Cruz de Tenerife]]
+|attendance = 16.602
+|referee = Juan Martínez Munuera
+|result = W
+}}
+{{Football box collapsible
+|round =  [[2024–25 Copa del Rey#Round of 16|Round of 16]]
+|date = 16 January 2025
+|time = 19:30
+|team1 = [[Athletic Bilbao]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-athletic-club-ca-osasuna-5
+|team2 = Osasuna
+|goals1 =
+*[[Nico Williams|Williams]] {{goal|45+3}}
+*[[Óscar de Marcos|Óscar]] {{goal|55}}
+*[[Mikel Jauregizar|Jauregizar]] {{yel|84}}
+|goals2 =
+*[[imar Oroz|Oroz]] {{goal|40}}
+*[[Ante Budimir|Budimir]] {{goal|44|pen.||70}}
+*[[Jon Moncayola|Moncayola]] {{yel|45+3}}
+*[[Alejandro Catena|Catena]] {{yel|49}}
+*[[Jesús Areso|Areso]] {{yel|90+4}}
+|stadium = [[San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48.230
+|referee = Mateo Busquets Ferrer
+|result = W
+}}
+{{Football box collapsible
+|round =  [[2024–25 Copa del Rey#Quarter-finals|Quarter-finals]]
+|date = 6 February 2025
+|time = 19:30
+|team1 =  [[Real Sociedad]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-real-sociedad-ca-osasuna-6
+|team2 = Osasuna
+|goals1 =
+*[[Ander Barrenetxea (footballer)|Barrenetxea]] {{goal|21}}
+*[[Brais Méndez|Méndez]] {{goal|31}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|45+1}}
+*[[Aihen Muñoz|Muñoz]] {{yel|87}}
+*[[Nayef Aguerd|Aguerd]] {{yel|90+3}}
+|goals2 =
+*[[Alejandro Catena|Catena]] {{sentoff|0|35}}
+*[[Aimar Oroz|Oroz]] {{yel|45+1}}
+*[[Jon Moncayola|Moncayola]] {{yel|45+5}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|45+6}}
+*[[Pablo Ibáñez|Ibáñez]] {{yel|77}}
+*[[Jesús Areso|Areso]] {{yel|80}}
+|stadium = [[Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 34.658
+|referee = Mario Melero López
+|result = L
+}}
+
+== References ==
+{{Reflist}}
+
+{{CA Osasuna}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 CA Osasuna season}}
+[[Category:CA Osasuna seasons]]
+[[Category:Spanish football clubs 2024–25 season|Osasuna]]
+[[Category:2024 in Navarre]]
+[[Category:2025 in Navarre]]

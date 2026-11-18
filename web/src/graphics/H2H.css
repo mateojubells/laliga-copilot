@@ -1,0 +1,33 @@
+/* una rejilla: [goles A] [cifras / barra] [goles B]; las cifras y la barra comparten columnas y cada cifra queda sobre su tramo */
+.h2h__grid { display: grid; grid-template-columns: 168px minmax(0, 1fr) 168px; column-gap: var(--sp-3); align-items: center; }
+.h2h__hero { grid-column: 2; grid-row: 1; display: grid; column-gap: 4px; align-items: end; padding: 0 0 var(--sp-1); }
+.h2h__fig { display: flex; align-items: flex-end; justify-content: center; gap: var(--sp-2); min-width: 0; }
+.h2h__col { display: flex; flex-direction: column; align-items: center; gap: 2px; text-align: center; }
+.h2h .h2h__num { font-size: 96px; line-height: 0.9; color: var(--c-text); }
+.h2h__col span { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); text-transform: uppercase; color: var(--c-text-2); line-height: 1.1; }
+.h2h__fig--d .h2h__num { color: var(--c-text-2); }
+.h2h__g { grid-row: 2; display: flex; align-items: baseline; gap: 10px; }
+.h2h__g--a { grid-column: 1; }
+.h2h__g--b { grid-column: 3; flex-direction: row-reverse; }
+.h2h .h2h__gn { font-size: 56px; line-height: 1; color: var(--c-text); }
+.h2h__g span { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); text-transform: uppercase; color: var(--c-text-2); }
+.h2h__bar { grid-column: 2; grid-row: 2; display: grid; column-gap: 4px; height: 28px; }
+.h2h__bar i { display: block; border-radius: 6px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.h2h__lh { margin-top: var(--sp-2); padding: var(--sp-1) 0 6px; border-bottom: 1px solid var(--c-line); }
+.h2h__list { list-style: none; margin: 0; padding: 0; }
+.h2h__m {
+  display: grid; grid-template-columns: 190px 1fr 150px 1fr 40px; align-items: center; column-gap: 14px;
+  height: 52px; border-bottom: 1px solid rgba(255, 255, 255, 0.07); line-height: 1;
+}
+.h2h__date { color: var(--c-text-2); font-size: var(--fs-md); }
+.h2h__team { font-family: var(--font-display); font-weight: 600; font-size: 44px; letter-spacing: 0.04em; color: var(--c-text-3); }
+.h2h__team--home { text-align: right; }
+.h2h__team.is-win { color: #fff; font-weight: 700; }
+.h2h__score { text-align: center; font-size: 48px; line-height: 1; letter-spacing: 0.15em; }
+.h2h__chip { display: block; width: 28px; height: 28px; border-radius: 50%; justify-self: end; }
+/* un resultado a 0 no pinta tramo: su cifra se queda al 60 % */
+.h2h__fig.is-zero { opacity: 0.6; }
+/* sin partidos previos no hay nada que repartir: pista neutra con el aviso */
+.h2h__bar--empty { display: flex; align-items: center; justify-content: center; border-radius: 6px; background: rgba(255, 255, 255, 0.12); }
+.h2h__none { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); text-transform: uppercase; color: var(--c-text-2); line-height: 1; }

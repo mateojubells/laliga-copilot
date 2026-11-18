@@ -1,0 +1,37 @@
+.g-page { min-height: 100%; padding: 24px 32px 64px; background: #0a0e16; font-size: 16px; }
+.g-top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px 32px; margin-bottom: 24px; }
+.g-top h1 { margin: 0; font-size: 40px; }
+.g-top nav { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 15px; color: var(--c-text-3); }
+.g-top a { color: var(--c-text-2); text-decoration: none; padding: 2px 8px; border-radius: 6px; }
+.g-top a.on { background: var(--c-accent); color: #05080e; font-weight: 600; }
+.g-top a:hover:not(.on) { background: var(--c-glass-hover); }
+.g-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 760px), 1fr)); gap: 32px 24px; }
+.g-grid--solo { grid-template-columns: minmax(0, 1760px); }
+.g-frame { margin: 0; }
+.g-frame figcaption { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; font-size: 24px; }
+.g-frame figcaption button { margin-left: auto; font: inherit; font-size: 14px; color: var(--c-text-2); background: transparent; border: 1px solid var(--c-line-strong); border-radius: 6px; padding: 4px 10px; cursor: pointer; }
+.g-tag { font-size: 13px; padding: 2px 10px; border-radius: 999px; border: 1px solid var(--c-line-strong); color: var(--c-text-2); font-family: var(--font-text); }
+.g-tag--done { color: var(--c-good); border-color: var(--c-good); }
+.g-grid--size { grid-template-columns: max-content; }
+.g-tag--draft { color: var(--c-demo); border-color: var(--c-demo); }
+.g-frame .g-bg { border-radius: 10px; box-shadow: 0 0 0 1px var(--c-line); }
+
+/* Fondos para juzgar legibilidad: "vídeo" simulado (césped, grada, focos y una mancha blanca) */
+.g-bg--video {
+  background:
+    radial-gradient(ellipse 18% 22% at 78% 22%, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0) 70%),
+    radial-gradient(ellipse 40% 30% at 15% 20%, rgba(255, 214, 140, 0.5), transparent 70%),
+    radial-gradient(ellipse 30% 25% at 55% 14%, rgba(140, 180, 255, 0.45), transparent 70%),
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.05) 0 120px, transparent 120px 240px),
+    linear-gradient(180deg, #1c2540 0%, #2c3552 24%, #46603f 36%, #4d9a49 40%, #3f8a40 70%, #2f6f33 100%);
+}
+.g-bg--green { background: #00b140; }
+.g-bg--transparent {
+  background: conic-gradient(#2a303c 25%, #3a4150 0 50%, #2a303c 0 75%, #3a4150 0) 0 0 / 32px 32px;
+}
+
+.g-page--bare { padding: 0; min-height: 0; }
+.g-page--bare .g-grid { gap: 0; }
+.g-page--bare .g-frame .g-bg { border-radius: 0; box-shadow: none; }
+.g-page--bare .g-frame { overflow: visible; }
+[hidden] { display: none !important; }

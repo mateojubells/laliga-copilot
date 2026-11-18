@@ -1,0 +1,1396 @@
+<!-- revid=1246758836 title=Rayo Vallecano -->
+{{short description|Association football club in Spain}}
+{{Redirect|Rayo}}
+{{Infobox football club
+| clubname = Rayo Vallecano
+| image = Rayo Vallecano logo.svg
+| image_size = 190px
+| fullname = Rayo Vallecano de Madrid, [[Sociedad Anónima Deportiva|SAD]]
+| nickname = ''Los Franjirrojos'' (The Red Sashes) <br />''Rayito'' (Little Thunderbolt) <br />''Orgullo de la clase obrera (The Pride of the Working class)
+| founded = {{Start date and age|df=yes|1924|05|29}} as ''Agrupación Deportiva El Rayo''
+| ground = [[Campo de Fútbol de Vallecas|El Campo de Fútbol de Vallecas]]
+| capacity = 14,708<ref>{{Cite web|url=http://www.rayovallecano.es/club/estadio|title=Estadio de Vallecas {{!}} Rayo - Web Oficial|website=Estadio de Vallecas {{!}} Rayo - Web Oficial|language=es|access-date=2020-01-18|archive-date=2017-07-08|archive-url=https://web.archive.org/web/20170708210040/http://www.rayovallecano.es/club/estadio|url-status=live}}</ref>
+| owner = [[Raúl Martín Presa]]
+| chairman = Raúl Martín Presa
+| chrtitle = President
+| mgrtitle = Head coach
+| manager = [[Iñigo Pérez]]
+| league = {{Spanish football updater|Rayo Vallecano}}
+| season = {{Spanish football updater|Rayo Vallecano2}}
+| position = {{Spanish football updater|Rayo Vallecano3}}
+| website = http://www.rayovallecano.es
+| current = 2024–25 Rayo Vallecano season
+| pattern_la1 = _rayo2425h
+| pattern_b1 = _rayo2425h
+| pattern_ra1 = _rayo2425h
+| pattern_sh1 = _rayo2425h
+| pattern_so1 = 
+| leftarm1 = FFFFFF
+| body1 = FFFFFF
+| rightarm1 = FFFFFF
+| shorts1 = FFFFFF
+| socks1 = FFFFFF
+| pattern_la2 = _rayo2425a
+| pattern_b2 = _rayo2425a
+| pattern_ra2 = _rayo2425a
+| pattern_sh2 = _rayo2425a
+| pattern_so2 = 
+| leftarm2 = FF0000
+| body2 = FF0000
+| rightarm2 = FF0000
+| shorts2 = FF0000
+| socks2 = FF0000
+| pattern_la3 = _rayo2425t
+| pattern_b3 = _rayo2425t
+| pattern_ra3 = _rayo2425t
+| pattern_sh3 = _rayo2425t
+| pattern_so3 = 
+| leftarm3 = 6A7183
+| body3 = 6A7183
+| rightarm3 = 6A7183
+| shorts3 = 6A7183
+| socks3 = 6A7183
+}}
+'''Rayo Vallecano de Madrid, S.A.D.''' ({{IPA|es|ˈraʝo βaʎeˈkano ðe maˈðɾið}}),{{efn|In isolation, ''Vallecano'' is pronounced {{IPA|es|baʎeˈkano|}}.}} often abbreviated to '''Rayo''' (Spanish for "thunderbolt"), is a Spanish professional football club based in [[Madrid]], in the neighbourhood of [[Vallecas]]. The club competes in [[La Liga]], the top flight of [[Spanish football league system|Spanish football]].
+
+Founded on 29 May 1924, the club is known for its sociocultural tradition, recognized for representing the [[barrio]]-local culture and its [[Working class|working-class]] status. Its home matches has been played at the 14,708-capacity [[Campo de Fútbol de Vallecas]] stadium since 1976.<ref>{{Cite web|url=http://www.rayovallecano.es/club/estadio|title=Estadio de Vallecas {{!}} Rayo - Web Oficial|website=Estadio de Vallecas {{!}} Rayo - Web Oficial|language=es|access-date=2020-01-18|archive-date=2017-07-08|archive-url=https://web.archive.org/web/20170708210040/http://www.rayovallecano.es/club/estadio|url-status=live}}</ref>
+
+During its history, Rayo has spent 19 seasons in the top-flight, and have played in one European competition, the [[UEFA Europa League|UEFA Cup]] in the [[2000–01 UEFA Cup|2000–01 season]]. The club won the [[2017–18 Segunda División]]. By historical performance, Rayo is the third best club in Community of Madrid, after [[Real Madrid CF|Real Madrid]] and [[Atlético Madrid]].
+
+==History==
+===Establishment and early years===
+Rayo Vallecano was founded on 29 May 1924 in the hometown of Prudencia Priego, wife of the club's first president Julián Huerta. Greatly inspired by [[Club Atlético River Plate|River Plate]] (a Football club from [[Argentina]]), in 1949, after an agreement with [[Atlético Madrid]], a red diagonal stripe was added to the team's kit, and the club reached [[Tercera División]] for the first time in its history.<ref>{{cite web|url=http://www.rayovallecano.es/historia/|title=Historia resumida del Rayo|trans-title=Brief history of Rayo|publisher=Rayo Vallecano|language=es|access-date=4 April 2014|url-status=live|archive-url=https://web.archive.org/web/20140407061142/http://www.rayovallecano.es/historia/|archive-date=7 April 2014}}</ref>
+
+===Yo-yo years===
+One of the perennial yo-yo clubs of Spanish football, and always in the shadow of the two biggest clubs in the city ([[Real Madrid C.F.|Real Madrid]] and [[Atlético Madrid]]), Rayo Vallecano spent many years during the 1980s and 1990s moving back and forth between [[La Liga]] and [[Segunda División]]. The 1983–84 season was the worst during the 1980s. The club finished in the last position in Segunda División and was relegated to Segunda División B.<ref>{{Cite web|url=https://www.bdfutbol.com/en/t/t1983-842a.html|title=Classification 2nd Division 1983-84|website=www.bdfutbol.com|access-date=2019-11-05|archive-date=2019-04-25|archive-url=https://web.archive.org/web/20190425053214/https://www.bdfutbol.com/en/t/t1983-842a.html|url-status=live}}</ref>
+
+Due to a tragedy Rayo Vallecano turned out to be [[Laurie Cunningham]]'s last club; he was killed in a car crash just outside Madrid in 1989, after a sole season. He had recently won an [[F.A. Cup]] winners medal with [[Wimbledon F.C.]] in England the previous year and had also represented neighbours Real Madrid for four years.
+
+They appeared to have consolidated their top flight status after [[1998–99 Segunda División|gaining promotion in 1999]], and the team's most successful season came in [[2000–01 La Liga|2000–01]] when they [[2000–01 UEFA Cup|reached the quarter-finals]] of the [[UEFA Europa League|UEFA Cup]], going out only to eventual runners-up [[Deportivo Alavés|Alavés]];<ref>{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/uefa_cup/1220513.stm|title=Alaves through as Rayo fall|publisher=[[BBC Sport]]|date=15 March 2001|access-date=4 April 2014|url-status=live|archive-url=https://web.archive.org/web/20140407101012/http://news.bbc.co.uk/sport2/hi/football/uefa_cup/1220513.stm|archive-date=7 April 2014}}</ref> Rayo finished ninth in [[1999–2000 La Liga|the previous campaign]], but entered the competition via the [[UEFA Fair Play ranking|fair play draw]].<ref>{{cite web|url=http://deportes.terra.es/valladolid/el-fair-play-una-puerta-abierta-para-jugar-en-europa,df54797edf78d310VgnVCM3000009acceb0aRCRD.html|title=El 'Fair Play', ¿una puerta abierta para jugar en Europa?|trans-title='Fair Play', open door to play in Europe?|publisher=Terra|language=es|date=20 March 2013|access-date=4 April 2014|url-status=live|archive-url=https://web.archive.org/web/20140407101328/http://deportes.terra.es/valladolid/el-fair-play-una-puerta-abierta-para-jugar-en-europa,df54797edf78d310VgnVCM3000009acceb0aRCRD.html|archive-date=7 April 2014}}</ref>
+
+===2003–11: Segunda División and below===
+
+[[File:Deportivorayo.JPG|thumb|320px|[[Deportivo de La Coruña]] vs. Rayo Vallecano]]
+
+However, the club shortly thereafter fell on hard times, enduring successive relegations in [[2002–03 La Liga|2003]] and [[2003–04 Segunda División|2004]]. For [[2005–06 Segunda División B|2005–06]] manager [[Míchel (footballer, born 1963)|Míchel]], a Real Madrid legend in the 1980s and '90s, was hired.<ref>{{cite web|url=http://www.abc.es/hemeroteca/historico-23-06-2005/abc/Ultima/michel-nuevo-entrenador-del-rayo_203335437757.html|title=Michel, nuevo entrenador del Rayo|trans-title=Michel, new Rayo manager|publisher=[[ABC (newspaper)|ABC]]|language=es|date=23 June 2005|access-date=4 April 2014|url-status=live|archive-url=https://web.archive.org/web/20140409135213/http://www.abc.es/hemeroteca/historico-23-06-2005/abc/Ultima/michel-nuevo-entrenador-del-rayo_203335437757.html|archive-date=9 April 2014}}</ref>
+
+Rayo finished the [[2006–07 Segunda División B|2006–07 season]] in second place in [[Segunda División B]], winning the [[2007 Segunda División B play-offs|promotion play-off]] semifinal but losing in the final to [[SD Eibar|Eibar]] (1–2 aggregate).<ref>{{cite web|url=http://futbol.as.com/futbol/2007/06/24/mas_futbol/1182636012_850215.html|title=El Eibar regresa a Segunda tras remontar ante el Rayo Vallecano|trans-title=Eibar returns to ''Segunda'' after coming back from behind against Rayo Vallecano|publisher=[[Diario AS]]|language=es|date=24 June 2007|access-date=4 April 2014|url-status=live|archive-url=https://web.archive.org/web/20140407093633/http://futbol.as.com/futbol/2007/06/24/mas_futbol/1182636012_850215.html|archive-date=7 April 2014}}</ref> [[2007–08 Segunda División B|The following campaign]], the team returned to division two after a four-year absence after a victorious run in [[2008 Segunda División B play-offs|the playoffs]], disposing of [[Benidorm CF|Benidorm]] in the semi-final and [[Zamora CF|Zamora]] in the last game 2–1 on aggregate.<ref>{{cite web|url=http://archivo.marca.com/edicion/marca/futbol/2a_division/rayo_vallecano/es/desarrollo/1135303.html|title=El Rayo vuelve a la División de Plata del fútbol español|trans-title=Rayo return to silver category of Spanish football|publisher=[[Marca (newspaper)|Marca]]|language=es|date=15 June 2008|access-date=4 April 2014|url-status=live|archive-url=http://archive.wikiwix.com/cache/20140514094300/http://archivo.marca.com/edicion/marca/futbol/2a_division/rayo_vallecano/es/desarrollo/1135303.html|archive-date=14 May 2014}}</ref>
+
+In its first seasons back in the second tier of Spanish football, Rayo finished comfortably, often either in or just outside the promotion places. In [[2010–11 Segunda División|2010–11]], the team ranked in second position and returned to the top flight after an eight-year absence, only trailing champions [[Real Betis]] in spite of very serious economic problems.<ref>[http://www.footballscouting.org/2011/03/dona-teresa-takes-off-mask.html Dona Teresa takes off mask] {{webarchive|url=https://web.archive.org/web/20110426202631/http://www.footballscouting.org/2011/03/dona-teresa-takes-off-mask.html |date=2011-04-26 }}; Football Scouting, 1 March 2011</ref><ref>[http://in.reuters.com/article/idINIndia-55977820110330 Unpaid Rayo have sights set on La Liga payday] {{webarchive|url=https://web.archive.org/web/20121004193132/http://in.reuters.com/article/2011/03/30/idINIndia-55977820110330 |date=2012-10-04 }}; [[Reuters]], 30 March 2011</ref><ref>[http://www.elcorreogallego.es/deportes/futbol/ecg/jugadores-rayo-vallecano-seguiran-cobrar/idEdicion-2011-02-26/idNoticia-643771/ Los jugadores del Rayo Vallecano seguirán sin cobrar (Rayo Vallecano players will still not be paid)] {{webarchive|url=https://web.archive.org/web/20110927155248/http://www.elcorreogallego.es/deportes/futbol/ecg/jugadores-rayo-vallecano-seguiran-cobrar/idEdicion-2011-02-26/idNoticia-643771/ |date=2011-09-27 }}; [[El Correo Gallego]], 26 February 2011 {{in lang|es}}</ref>
+
+===2011–: La Liga and Segunda División yo-yo===
+[[File:Diego Costa 2012 Rayo Vallecano.jpg|thumb|299x299px|[[Diego Costa]] with Rayo Vallecano in 2012]]
+[[File:Rayo Vallecano de Madrid league performance 1929-2023.svg|thumb|Chart of Rayo Vallecano league performance 1929–2023]]
+In March 2014, [[Huawei]] agreed to sponsor Rayo Vallecano for two league matches against Real Madrid and [[Athletic Bilbao]].<ref>{{cite web|url=http://gsminsider.com/2014/03/huawei-rayo-vallecano-shirt-sponsor-real-madrid-ath-bilbao/|title=Huawei sponsors Rayo Vallecano for two matches, against Real Madrid and Bilbao|publisher=GSM Insider|date=30 March 2014|access-date=30 March 2014|url-status=dead|archive-url=https://web.archive.org/web/20140330064350/http://gsminsider.com/2014/03/huawei-rayo-vallecano-shirt-sponsor-real-madrid-ath-bilbao/|archive-date=30 March 2014}}</ref>
+
+In August 2015, Rayo Vallecano purchased the majority of [[Oklahoma City FC (NASL)|Oklahoma City FC]], a [[North American Soccer League (2011–2017)|NASL]] expansion franchise which had yet to officially play a game renaming the club to [[Rayo OKC]], despite the stadium increasingly needing work. It was the first ever entry of a Spanish club into the American sports market and mirrored a 2013 sponsorship agreement with [[Qbao]] in terms of expanding the club's profile overseas.<ref>{{cite web|url=http://thesportsdaily.com/2015/08/22/rayo-vallecano-set-to-buy-oklahoma-city-fc/|title=Rayo Vallecano set to buy Oklahoma City FC|date=22 August 2015 |access-date=2018-06-02|archive-date=2021-03-05|archive-url=https://web.archive.org/web/20210305231501/https://thesportsdaily.com/2015/08/22/rayo-vallecano-set-to-buy-oklahoma-city-fc/|url-status=live}}</ref><ref>{{cite web|url=http://futbol.as.com/futbol/2015/08/19/primera/1439982748_769849.html|title=El Rayo compra la mayoría de acciones del Oklahoma City|language=es|trans-title=Rayo purchases majority of Oklahoma City shares|publisher=[[Diario AS|AS]]|date=19 August 2015|access-date=21 August 2015|url-status=live|archive-url=https://web.archive.org/web/20150820122343/http://futbol.as.com/futbol/2015/08/19/primera/1439982748_769849.html|archive-date=20 August 2015}}</ref> Rayo OKC folded after a year due to Rayo Vallecano's relegation from La Liga and a dispute between the co-owners led to less finance for the U.S. side.
+
+In May 2016, Rayo Vallecano were relegated to the Segunda División, finishing 18th in the [[2015–16 La Liga]] season. This ended their five-year streak in La Liga, their longest ever stay in the top-flight.<ref>{{cite news|url=http://www.skysports.com/football/news/11827/10283933/la-liga-getafe-and-rayo-vallecano-relegated-sporting-gijon-stay-up|title=La Liga: Getafe and Rayo Vallecano relegated, Sporting Gijon stay up|access-date=2018-06-02|archive-date=2018-06-16|archive-url=https://web.archive.org/web/20180616053425/http://www.skysports.com/football/news/11827/10283933/la-liga-getafe-and-rayo-vallecano-relegated-sporting-gijon-stay-up|url-status=live}}</ref> Their first season back in the second division was a poor one, with both problems on the field and off, and they finished in 12th position. Rayo went through three managers in the [[2016–17 Segunda División]] season before finally settling on club legend [[Míchel (footballer, born 1975)|Míchel]].<ref>{{cite news|url=http://www.laliga.es/en/news/michel-has-been-appointed-the-new-coach-of-rayo-vallecano|title=Míchel has been appointed the new coach of Rayo Vallecano|access-date=2018-06-02|archive-date=2017-09-21|archive-url=https://web.archive.org/web/20170921192801/http://www.laliga.es/en/news/michel-has-been-appointed-the-new-coach-of-rayo-vallecano|url-status=live}}</ref> He revived the club from the relegation places to 12th, almost making the playoffs.
+
+At the start of the [[2017–18 Segunda División]] season, the club appointed their recently retired goalkeeper [[David Cobeño]] as the sporting director of the club.<ref>{{cite news|url=http://www.elcomercio.es/deportes/futbol/201706/22/david-cobeno-nuevo-director-20170622003249-v.html|title=David Cobeño, new sports director|access-date=2018-06-02|archive-date=2018-07-26|archive-url=https://web.archive.org/web/20180726170059/https://www.elcomercio.es/deportes/futbol/201706/22/david-cobeno-nuevo-director-20170622003249-v.html|url-status=live}}</ref> They secured their promotion with a 1–0 over [[CD Lugo]] with one game remaining.<ref>{{cite web|url=https://www.fourfourtwo.com/news/rayo-vallecano-win-promotion-laliga|title=Rayo Vallecano win promotion to La Liga|date=27 May 2018 |access-date=2018-06-02|archive-date=2018-07-26|archive-url=https://web.archive.org/web/20180726134930/https://www.fourfourtwo.com/news/rayo-vallecano-win-promotion-laliga|url-status=live}}</ref> That season the club won Segunda División with 76 points in 42 games.<ref>{{Cite web|url=http://www.resultados-futbol.com/segunda2018/grupo1/jornada42|title=Jornada 42 de Segunda División, Temporada 2017/2018 - liga smartbank, segunda division, campeonato nacional de liga de segunda división, segunda division española, laliga 2 española|website=www.resultados-futbol.com|access-date=2019-12-26|archive-date=2019-12-26|archive-url=https://web.archive.org/web/20191226005638/http://www.resultados-futbol.com/segunda2018/grupo1/jornada42|url-status=live}}</ref>
+
+[[File:Real Valladolid - Rayo Vallecano 2019-01-05 20.jpg|thumb|Rayo players during an away La Liga fixture versus [[Real Valladolid]] in January 2019]]
+On 20 March 2019, the club appointed [[Paco Jémez]] as head coach,<ref>{{Cite web|title=Paco Jémez nuevo entrenador del Rayo Vallecano|url=http://www.rayovallecano.es/noticia/paco-jemez-nuevo-entrenador-del-rayo-vallecano|access-date=2021-10-28|website=Rayo Vallecano|language=es|archive-date=2020-09-28|archive-url=https://web.archive.org/web/20200928180504/http://www.rayovallecano.es/noticia/paco-jemez-nuevo-entrenador-del-rayo-vallecano|url-status=live}}</ref>  and on 4 May, Rayo was relegated back to the Segunda División after losing 4–1 to [[Levante UD]], eventually finishing last<ref>{{cite web|url=https://www.football-espana.net/78089/rayo-vallecano-relegated-segunda-division/|title=Rayo Vallecano relegated to the Segunda Division|website=Football Espana|access-date=2019-05-07|archive-date=2019-05-07|archive-url=https://web.archive.org/web/20190507143821/https://www.football-espana.net/78089/rayo-vallecano-relegated-segunda-division|url-status=dead}}</ref><ref>{{Cite web|url=https://www.resultados-futbol.com/primera2019/grupo1|title=Primera División, Temporada 2018/2019|website=www.resultados-futbol.com|access-date=2019-12-26|archive-date=2019-11-01|archive-url=https://web.archive.org/web/20191101020012/http://www.resultados-futbol.com/primera2019/grupo1|url-status=live}}</ref>
+
+In August 2020, the club appointed [[Andoni Iraola]] as head coach.<ref>{{Cite web|title=Andoni Iraola nuevo entrenador del Rayo Vallecano|url=http://www.rayovallecano.es/noticia/andoni-iraola-nuevo-entrenador-del-rayo-vallecano|access-date=2021-10-27|website=Rayo Vallecano {{!}} Rayo|language=es|archive-date=2021-10-27|archive-url=https://web.archive.org/web/20211027145249/http://www.rayovallecano.es/noticia/andoni-iraola-nuevo-entrenador-del-rayo-vallecano|url-status=live}}</ref> They finished sixth and won promotion in the playoffs against [[Girona FC]]; despite losing the first leg at home 1–2, the team came back to win the second leg 2–0 away to claim a place in La Liga for [[2021–22 La Liga|2021–22]].<ref>{{Cite web|last=Brennan|first=Feargal|date=2021-06-20|title=WATCH: 10-man Rayo Vallecano secure La Liga promotion with battling Girona win|url=https://www.football-espana.net/2021/06/20/watch-10-man-rayo-vallecano-secure-la-liga-promotion-with-battling-girona-win|access-date=2021-10-27|website=Football Espana|archive-date=2021-10-27|archive-url=https://web.archive.org/web/20211027145251/https://www.football-espana.net/2021/06/20/watch-10-man-rayo-vallecano-secure-la-liga-promotion-with-battling-girona-win|url-status=live}}</ref> In February 2022, Iraola's side defeated [[RCD Mallorca]] to make the semi-finals of the Copa del Rey; it was the second time in club history and first since 1982.<ref>{{cite news |title=El Rayo de Iraola hace historia en Copa Del Rey al volver 40 años después a semis |trans-title=Iraola's Rayo make history in the Copa del Rey by returning to the semis after 40 years |url=https://www.marca.com/radio/2022/02/02/61faf25a22601dcf3a8b45e6.html |access-date=2 February 2022 |work=Marca |date=2 February 2022 |language=Spanish |archive-date=2 February 2022 |archive-url=https://web.archive.org/web/20220202211829/https://www.marca.com/radio/2022/02/02/61faf25a22601dcf3a8b45e6.html |url-status=live }}</ref> The club finished 12th in La Liga. This was a big achievement as they were by far the leagues smallest team, and most had predicted that they would be relegated.<ref>{{Cite news |last=Lowe |first=Sid |date=2021-09-20 |title=The Tiger who came for free: Falcao is back and scoring in La Liga |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/blog/2021/sep/20/the-tiger-who-came-for-free-radamel-falcao-is-back-and-scoring-in-la-liga-rayo-vallecano |access-date=2023-02-11 |issn=0261-3077 |archive-date=2023-02-11 |archive-url=https://web.archive.org/web/20230211001223/https://www.theguardian.com/football/blog/2021/sep/20/the-tiger-who-came-for-free-radamel-falcao-is-back-and-scoring-in-la-liga-rayo-vallecano |url-status=live }}</ref>
+
+==Previous names==
+[[File:Bandera Rayo.jpg|thumb|218x218px|Flag with the club's crest at [[Ciudad Deportiva Rayo Vallecano]]]]
+*''Agrupación Deportiva El Rayo'' (29 May 1924 – 13 November 1947)
+*''Agrupación Deportiva Rayo Vallecano'' (13 November 1947 – 1995)
+*''Rayo Vallecano de Madrid'' (1995–present)
+
+<small>'''N.B.''' Affiliate of [[Atlético Madrid]] in 1949–50</small>
+
+==Honours==
+
+===League===
+* '''[[Segunda División]]'''
+**'''Winners''': [[2017–18 Segunda División|2017–18]]
+** ''Runners-up'': [[1988–89 Segunda División|1988–89]], [[1991–92 Segunda División|1991–92]], [[1994–95 Segunda División|1994–95]], [[2010–11 Segunda División|2010–11]]
+*'''[[Segunda División B]]'''
+**'''Winners''': 1955–56, 1964–65, [[1984–85 Segunda División B|1984–85]], [[2007–08 Segunda División B|2007–08]]
+
+'''Regional Titles'''
+
+* Workers Federation of Soccer: 1931–1932
+* First Regional Division: 1948–1949
+* Second Regional Division: 1940–1941
+* Copa de Castilla: 1952–1953, 1967–1968, 1970–1971, 1972–1973, 1981–1982
+* Madrid Cup: 1952–1953, 1966–1967
+* Copa Ramón Triana: 1971–1972, 1973–1974
+
+==Season to season==
+{| 
+|valign="top" width=0%|
+{|  class="wikitable" 
+|-
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#BBD7EC;"|1940–41
+|style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{Abbr|2ª Reg.|Segunda Regional Ordinaria}}
+|style="background:#BBD7EC;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1941–42
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional Ordinaria}}
+|style="background:#EFEF99;"|4th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1942–43
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional Ordinaria}}
+|style="background:#EFEF99;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1943–44
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional Ordinaria}}
+|style="background:#EFEF99;"|7th
+!style="background:#efefef;"|
+|-
+|style="background:#BBD7EC;"|1944–45
+|style="background:#BBD7EC;"|5
+|style="background:#BBD7EC;"|{{Abbr|2ª Reg.|Segunda Regional Ordinaria}}
+|style="background:#BBD7EC;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1945–46
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional Ordinaria}}
+|style="background:#EFEF99;"|5th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1946–47
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional Ordinaria}}
+|style="background:#EFEF99;"|10th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1947–48
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional Ordinaria}}
+|style="background:#EFEF99;"|6th
+!style="background:#efefef;"|
+|-
+|style="background:#EFEF99;"|1948–49
+|style="background:#EFEF99;"|4
+|style="background:#EFEF99;"|{{Abbr|1ª Reg.|Primera Regional Ordinaria}}
+|style="background:#EFEF99;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1949–50 Tercera División|1949–50]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|14th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1950–51 Tercera División|1950–51]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|13th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1951–52 Tercera División|1951–52]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|9th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1952–53 Tercera División|1952–53]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|7th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1953–54 Tercera División|1953–54]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|17th
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1954–55 Tercera División|1954–55]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1955–56 Tercera División|1955–56]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#D3D3D3;"|[[1956–57 Segunda División|1956–57]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|12th
+!style="background:#efefef;"|
+|-
+|style="background:#D3D3D3;"|[[1957–58 Segunda División|1957–58]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|6th
+!style="background:#efefef;|
+|-
+|style="background:#D3D3D3;"|[[1958–59 Segunda División|1958–59]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|14th
+!style="background:#efefef;"|[[1958–59 Copa del Generalísimo|First round]]
+|-
+|style="background:#D3D3D3;"|[[1959–60 Segunda División|1959–60]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+!style="background:#efefef;"|[[1959–60 Copa del Generalísimo|First round]]
+|}
+|valign="top" width=0%|
+{|  class="wikitable" 
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#D3D3D3;"|[[1960–61 Segunda División|1960–61]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|16th
+!style="background:#efefef;"|[[1960–61 Copa del Generalísimo|First round]]
+|-
+|style="background:#FFD3BD;"|[[1961–62 Tercera División|1961–62]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1962–63 Tercera División|1962–63]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|2nd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1963–64 Tercera División|1963–64]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|3rd
+!style="background:#efefef;"|
+|-
+|style="background:#FFD3BD;"|[[1964–65 Tercera División|1964–65]]
+|style="background:#FFD3BD;"|3
+|style="background:#FFD3BD;"|[[Tercera División|3ª]]
+|style="background:#FFD3BD;"|1st
+!style="background:#efefef;"|
+|-
+|style="background:#D3D3D3;"|[[1965–66 Segunda División|1965–66]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|9th
+!style="background:#efefef;"|[[1965–66 Copa del Generalísimo|First round]]
+|-
+|style="background:#D3D3D3;"|[[1966–67 Segunda División|1966–67]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|6th
+!style="background:#efefef;"|[[1966-67 Copa del Generalísimo|First round]]
+|-
+|style="background:#D3D3D3;"|[[1967–68 Segunda División|1967–68]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|4th
+!style="background:#efefef;"|[[1967–68 Copa del Generalísimo|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[1968–69 Segunda División|1968–69]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|9th
+!style="background:#efefef;"|
+|-
+|style="background:#D3D3D3;"|[[1969–70 Segunda División|1969–70]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|6th
+!style="background:#efefef;|[[1969–70 Copa del Generalísimo|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[1970–71 Segunda División|1970–71]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+!style="background:#efefef;"|[[1970–71 Copa del Generalísimo|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[1971–72 Segunda División|1971–72]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|8th
+!style="background:#efefef;"|[[1971–72 Copa del Generalísimo|Fourth round]]
+|-
+|style="background:#D3D3D3;"|[[1972–73 Segunda División|1972–73]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|11th
+!style="background:#efefef;"|[[1972–73 Copa del Generalísimo|Third round]]
+|-
+|style="background:#D3D3D3;"|[[1973–74 Segunda División|1973–74]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|14th
+!style="background:#efefef;"|[[1973–74 Copa del Generalísimo|Round of 16]]
+|-
+|style="background:#D3D3D3;"|[[1974–75 Segunda División|1974–75]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|8th
+!style="background:#efefef;"|[[1974–75 Copa del Generalísimo|Fourth round]]
+|-
+|style="background:#D3D3D3;"|[[1975–76 Segunda División|1975–76]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|9th
+!style="background:#efefef;"|[[1975–76 Copa del Generalísimo|Second round]]
+|-
+|style="background:#D3D3D3;"|[[1976–77 Segunda División|1976–77]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|3rd
+!style="background:#efefef;"|[[1976–77 Copa del Rey|Third round]]
+|-
+|style="background:#FFEA64;"|[[1977–78 La Liga|1977–78]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|10th
+!style="background:#efefef;"|[[1977–78 Copa del Rey|Third round]]
+|-
+|style="background:#FFEA64;"|[[1978–79 La Liga|1978–79]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|15th
+!style="background:#efefef;"|[[1978–79 Copa del Rey|Round of 16]]
+|-
+|style="background:#FFEA64;"|[[1979–80 La Liga|1979–80]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|16th
+!style="background:#efefef;"|[[1979–80 Copa del Rey|Quarter-finals]]
+|}
+|}
+{|
+|valign="top" width=0%|
+{|  class="wikitable" 
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#D3D3D3;"|[[1980–81 Segunda División|1980–81]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+!style="background:#efefef;"|[[1980–81 Copa del Rey|Quarter-finals]]
+|-
+|style="background:#D3D3D3;"|[[1981–82 Segunda División|1981–82]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|7th
+!style="background:#efefef;"|[[1981–82 Copa del Rey|Semi-finals]]
+|-
+|style="background:#D3D3D3;"|[[1982–83 Segunda División|1982–83]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|9th
+!style="background:#efefef;"|[[1982–83 Copa del Rey|Round of 16]]
+|-
+|style="background:#D3D3D3;"|[[1983–84 Segunda División|1983–84]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|20th
+!style="background:#efefef;"|[[1983–84 Copa del Rey|Third round]]
+|-
+|style="background:#DEC5AB;"|[[1984–85 Segunda División B|1984–85]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|1st
+!style="background:#efefef;"|[[1984–85 Copa del Rey|Third round]]
+|-
+|style="background:#D3D3D3;"|[[1985–86 Segunda División|1985–86]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|15th
+!style="background:#efefef;"|[[1985-86 Copa del Rey|Fourth round]]
+|-
+|style="background:#D3D3D3;"|[[1986–87 Segunda División|1986–87]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+!style="background:#efefef;"|[[1986–87 Copa del Rey|First round]]
+|-
+|style="background:#D3D3D3;"|[[1987–88 Segunda División|1987–88]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+!style="background:#efefef;"|[[1987–88 Copa del Rey|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[1988–89 Segunda División|1988–89]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+!style="background:#efefef;"|[[1988–89 Copa del Rey|First round]]
+|-
+|style="background:#FFEA64;"|[[1989–90 La Liga|1989–90]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|20th
+!style="background:#efefef;"|[[1989–90 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[1990–91 Segunda División|1990–91]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|11th
+!style="background:#efefef;"|[[1990–91 Copa del Rey|Fifth round]]
+|-
+|style="background:#D3D3D3;"|[[1991–92 Segunda División|1991–92]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+!style="background:#efefef;"|[[1991–92 Copa del Rey|Fourth round]]
+|-
+|style="background:#FFEA64;"|[[1992–93 La Liga|1992–93]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|14th
+!style="background:#efefef;"|[[1992–93 Copa del Rey|Fourth round]]
+|-
+|style="background:#FFEA64;"|[[1993–94 La Liga|1993–94]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|17th
+!style="background:#efefef;"|[[1993–94 Copa del Rey|Fourth round]]
+|-
+|style="background:#D3D3D3;"|[[1994–95 Segunda División|1994–95]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+!style="background:#efefef;"|[[1994–95 Copa del Rey|Quarter-finals]]
+|-
+|style="background:#FFEA64;"|[[1995–96 La Liga|1995–96]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|19th
+!style="background:#efefef;"|[[1995–96 Copa del Rey|Third round]]
+|-
+|style="background:#FFEA64;"|[[1996–97 La Liga|1996–97]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|18th
+!style="background:#efefef;"|[[1996–97 Copa del Rey|Quarter-finals]]
+|-
+|style="background:#D3D3D3;"|[[1997–98 Segunda División|1997–98]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|8th
+!style="background:#efefef;"|[[1997–98 Copa del Rey|Second round]]
+|-
+|style="background:#D3D3D3;"|[[1998–99 Segunda División|1998–99]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+!style="background:#efefef;"|[[1998–99 Copa del Rey|First round]]
+|-
+|style="background:#FFEA64;"|[[1999–2000 La Liga|1999–2000]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|9th
+!style="background:#efefef;"|[[1999–2000 Copa del Rey|Quarter-finals]]
+|}
+|valign="top" width=0%|
+{|  class="wikitable" 
+|- style="background:#f0f6fa;"
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#FFEA64;"|[[2000–01 La Liga|2000–01]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|14th
+!style="background:#efefef;"|[[2000–01 Copa del Rey|Round of 16]]
+|-
+|style="background:#FFEA64;"|[[2001–02 La Liga|2001–02]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|11th
+!style="background:#efefef;"|[[2001–02 Copa del Rey|Quarter-finals]]
+|-
+|style="background:#FFEA64;"|[[2002–03 La Liga|2002–03]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|20th
+!style="background:#efefef;"|[[2002–03 Copa del Rey|Round of 64]]
+|-
+|style="background:#D3D3D3;"|[[2003–04 Segunda División|2003–04]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|21st
+!style="background:#efefef;"|[[2003–04 Copa del Rey|Round of 64]]
+|-
+|style="background:#DEC5AB;"|[[2004–05 Segunda División B|2004–05]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|3rd
+!style="background:#efefef;"|[[2004–05 Copa del Rey|Round of 64]]
+|-
+|style="background:#DEC5AB;"|[[2005–06 Segunda División B|2005–06]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|5th
+!style="background:#efefef;"|[[2005–06 Copa del Rey|Third round]]
+|-
+|style="background:#DEC5AB;"|[[2006–07 Segunda División B|2006–07]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|2nd
+!style="background:#efefef;"|[[2006–07 Copa del Rey|Round of 16]]
+|-
+|style="background:#DEC5AB;"|[[2007–08 Segunda División B|2007–08]]
+|style="background:#DEC5AB;"|3
+|style="background:#DEC5AB;"|[[Segunda División B|2ª B]]
+|style="background:#DEC5AB;"|1st
+!style="background:#efefef;"|[[2007–08 Copa del Rey|Third round]]
+|-
+|style="background:#D3D3D3;"|[[2008–09 Segunda División|2008–09]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|5th
+!style="background:#efefef;"|[[2008–09 Copa del Rey|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[2009–10 Segunda División|2009–10]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|11th
+!style="background:#efefef;"|[[2009–10 Copa del Rey|Round of 16]]
+|-
+|style="background:#D3D3D3;"|[[2010–11 Segunda División|2010–11]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|2nd
+!style="background:#efefef;"|[[2010–11 Copa del Rey|Third round]]
+|-
+|style="background:#FFEA64;"|[[2011–12 La Liga|2011–12]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|15th
+!style="background:#efefef;"|[[2011–12 Copa del Rey|Round of 32]]
+|-
+|style="background:#FFEA64;"|[[2012–13 La Liga|2012–13]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|8th
+!style="background:#efefef;"|[[2012–13 Copa del Rey|Round of 32]]
+|-
+|style="background:#FFEA64;"|[[2013–14 La Liga|2013–14]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|12th
+!style="background:#efefef;"|[[2013–14 Copa del Rey|Round of 16]]
+|-
+|style="background:#FFEA64;"|[[2014–15 La Liga|2014–15]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|11th
+!style="background:#efefef;"|[[2014–15 Copa del Rey|Round of 32]]
+|-
+|style="background:#FFEA64;"|[[2015–16 La Liga|2015–16]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|18th
+!style="background:#efefef;"|[[2015–16 Copa del Rey|Round of 16]]
+|-
+|style="background:#D3D3D3;"|[[2016–17 Segunda División|2016–17]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|12th
+!style="background:#efefef;"|[[2016–17 Copa del Rey|Third round]]
+|-
+|style="background:#D3D3D3;"|[[2017–18 Segunda División|2017–18]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|1st
+!style="background:#efefef;"|[[2017–18 Copa del Rey|Second round]]
+|-
+|style="background:#FFEA64;"|[[2018–19 La Liga|2018–19]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|20th
+!style="background:#efefef;"|[[2018–19 Copa del Rey|Round of 32]]
+|-
+|style="background:#D3D3D3;"|[[2019–20 Segunda División|2019–20]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|7th
+!style="background:#efefef;"|[[2019–20 Copa del Rey|Round of 16]]
+|}
+|}
+{| 
+|valign="top" width=0%|
+{|  class="wikitable" 
+|-
+!Season
+!Tier
+!Division
+!Place
+![[Copa del Rey]]
+|-
+|style="background:#D3D3D3;"|[[2020–21 Segunda División|2020–21]]
+|style="background:#D3D3D3;"|2
+|style="background:#D3D3D3;"|[[Segunda División|2ª]]
+|style="background:#D3D3D3;"|6th
+!style="background:#efefef;"|[[2020–21 Copa del Rey|Round of 16]]
+|-
+|style="background:#FFEA64;"|[[2021–22 La Liga|2021–22]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|12th
+!style="background:#efefef;"|[[2021–22 Copa del Rey|Semi-finals]]
+|-
+|style="background:#FFEA64;"|[[2022–23 La Liga|2022–23]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|11th
+!style="background:#efefef;"|[[2022–23 Copa del Rey|Round of 32]]
+|-
+|style="background:#FFEA64;"|[[2023–24 La Liga|2023–24]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|17th
+!style="background:#efefef;"|[[2023–24 Copa del Rey|Round of 16]]
+|-
+|style="background:#FFEA64;"|[[2024–25 La Liga|2024–25]]
+|style="background:#FFEA64;"|1
+|style="background:#FFEA64;"|[[La Liga|1ª]]
+|style="background:#FFEA64;"|
+!style="background:#efefef;"|[[2024–25 Copa del Rey| ]]
+|}
+|}
+----
+*'''22''' seasons in ''[[La Liga]]''
+*'''38''' seasons in [[Segunda División]]
+*'''5''' seasons in [[Segunda División B]]
+*'''11''' seasons in [[Tercera División]] (third level before 1977–78)
+
+==European history==
+{| class="wikitable"
+! Season
+! Round
+! Club
+! Home 
+! Away
+! Aggregate
+|-
+|rowspan="6"|[[2000–01 UEFA Cup]]
+|Qualifying round
+|{{flagicon|AND}} [[Constel·lació Esportiva]]
+|6–0
+|10–0
+|16–0
+|-
+|First round
+|{{flagicon|NOR}} [[Molde FK|Molde]]
+|1–1
+|1–0
+|2–1
+|-
+|Second round
+|{{flagicon|DEN}} [[Viborg FF|Viborg]]
+|1–0
+|1–2
+|2–2 [[Away goals|(a)]]
+|-
+|Third round
+|{{flagicon|RUS}} [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|2–0
+|0–0
+|2–0
+|-
+|Fourth round
+|{{flagicon|FRA}} [[FC Girondins de Bordeaux|Bordeaux]]
+|4–1
+|2–1
+|6–2
+|-
+|Quarter-finals
+|{{flagicon|ESP}} [[Deportivo Alavés|Alavés]]
+|2–1
+|0–3
+|2–4
+|-
+|}
+
+==Current squad==
+{{updated|9 September 2024|<ref>{{cite web|url=http://www.rayovallecano.es/equipo/plantilla/rayo|title=Plantilla Rayo Vallecano de Madrid|publisher=Rayo Vallecano|language=es|access-date=23 September 2022|archive-date=29 July 2017|archive-url=https://web.archive.org/web/20170729020613/http://www.rayovallecano.es/equipo/plantilla/rayo|url-status=live}}</ref>}}
+{{Fs start}}
+{{Fs player|no=1|nat=ESP|pos=GK|name=[[Daniel Cárdenas|Dani Cárdenas]]}}
+{{Fs player|no=2|nat=ROM|pos=DF|name=[[Andrei Rațiu]]}}
+{{Fs player|no=3|nat=ESP|pos=DF|name=[[Pep Chavarría]]}}
+{{Fs player|no=4|nat=ESP|pos=MF|name=[[Pedro Díaz (footballer)|Pedro Díaz]]}}
+{{Fs player|no=5|nat=ESP|pos=DF|name=[[Aridane Hernández]]}}
+{{Fs player|no=6|nat=SEN|pos=MF|name=[[Pathé Ciss]]}}
+{{Fs player|no=7|nat=ESP|pos=MF|name=[[Isi Palazón]]|other=[[captain (association football)|4th captain]]}}
+{{Fs player|no=8|nat=ARG|pos=MF|name=[[Óscar Trejo]]|other=[[Captain (association football)|3rd captain]]}}
+{{Fs player|no=9|nat=ESP|pos=FW|name=[[Raúl de Tomás]]}}
+{{Fs player|no=10|nat=COL|pos=MF|name=[[James Rodríguez]]}}
+{{Fs player|no=11|nat=ANG|pos=FW|name=[[Randy Nteka]]}}
+{{Fs player|no=12|nat=ESP|pos=FW|name=[[Sergi Guardiola]]}}
+{{Fs player|no=13|nat=ARG|pos=GK|name=[[Augusto Batalla]]|other=on loan from [[Club Atlético River Plate|River Plate]]}}
+{{Fs player|no=14|nat=ESP|pos=FW|name=[[Sergio Camello]]}}
+{{Fs mid}}
+{{Fs player|no=15|nat=ESP|pos=MF|name=[[Gerard Gumbau]]|other=on loan from [[Granada CF|Granada]]}}
+{{Fs player|no=16|nat=GHA|pos=DF|name=[[Abdul Mumin]]}}
+{{Fs player|no=17|nat=ESP|pos=MF|name=[[Unai López]]}}
+{{Fs player|no=18|nat=ESP|pos=MF|name=[[Álvaro García (footballer, born 1992)|Álvaro García]]}}
+{{Fs player|no=19|nat=ESP|pos=FW|name=[[Jorge de Frutos]]}}
+{{Fs player|no=20|nat=ALB|pos=DF|name=[[Iván Balliu]]}}
+{{Fs player|no=21|nat=ESP|pos=FW|name=[[Adrián Embarba]]|other=on loan from [[UD Almería|Almería]]}}
+{{Fs player|no=22|nat=URU|pos=DF|name=[[Alfonso Espino]]}}
+{{Fs player|no=23|nat=ESP|pos=MF|name=[[Óscar Valentín]]|other=[[captain (association football)|captain]]}}
+{{Fs player|no=24|nat=FRA|pos=DF|name=[[Florian Lejeune]]}}
+{{Fs player|no=25|nat=ESP|pos=MF|name=[[Joni Montiel]]}}
+{{Fs player|no=27|nat=ESP|pos=DF|name=[[Pelayo Fernández]]}}
+{{Fs player|no=29|nat=ESP|pos=MF|name=[[Diego Méndez]]}}
+{{Fs end}}
+
+===Reserve team===
+{{main|Rayo Vallecano B}}
+{{Fs start}}
+{{Fs player|no=26|nat=ESP|pos=DF|name=[[Marco de las Sías López|Marco de las Sías]]}}
+{{Fs player|no=28|nat=CMR|pos=FW|name=[[Etienne Eto'o (footballer, born 2002)|Etienne Eto'o]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=|nat=ESP|pos=GK|name=[[Miguel Morro|Miguel Ángel Morro]]|other=at [[F.C. Vizela|Vizela]] until 30 June 2025}}
+{{Fs end}}
+
+===Current technical staff===
+{{Fb cs header}}
+{{Fb cs staff |bg=  |p=Head coach |s={{flagicon|ESP}} [[Iñigo Pérez]]}}
+{{Fb cs staff |bg=y |p=Assistant coach |s={{flagicon|ESP}} [[Adrián López]]}}
+{{Fb cs staff |bg=y |p=Kit man |s={{flagicon|ESP}} José Vargas <br/> {{flagicon|ESP}} Kiko Jiménez}}
+{{Fb cs staff |bg=y |p=Delegate |s={{flagicon|ESP}} Miguel Ortiz}}
+{{Fb cs staff |bg=  |p=Goalkeeping coach |s={{flagicon|ESP}} Pedro Moncayo}}
+{{Fb cs staff |bg=y |p=Analyst |s={{flagicon|ESP}} Óscar Díaz}}
+{{Fb cs staff |bg=y |p=Rehab fitness coach |s={{flagicon|ESP}} Sergio Vázquez}}
+{{Fb cs staff |bg=y |p=Physiotherapist |s={{flagicon|ESP}} Marcos Marín <br/> {{flagicon|ESP}} Miguel Ángel Martín}}
+{{Fb cs staff |bg=y |p=Doctor |s={{flagicon|ESP}} Carlos Beceiro <br/> {{flagicon|ESP}} Giovanni Mazzocca}}
+{{Fb cs footer|u=September 2022 |s=[http://www.rayovallecano.es/equipo/plantilla/rayo/3 Rayo Vallecano]|date=May 2018}}
+
+==Notable former players==
+Note: this list includes players that have played at least 100 league games and/or have reached international status.
+{|
+|- style="vertical-align: top;"
+|
+*{{flagicon|AND}} [[Ildefons Lima]]
+*{{flagicon|ARG}} [[Francisco Cerro]]
+*{{flagicon|ARG}} [[Franco Di Santo]]
+*{{flagicon|ARG}} [[Alejandro Domínguez (footballer, born 1981)|Alejandro Domínguez]]
+*{{flagicon|ARG}} [[Leonel Galeano]]
+*{{flagicon|ARG}} [[Paulo Gazzaniga]]
+*{{flagicon|ARG}} [[Sebastián Saja]]
+*{{flagicon|ARM}} [[Aras Özbiliz]]
+*{{flagicon|ANG}} [[Manucho]]
+*{{flagicon|AUT}} [[Toni Polster]]
+*{{flagicon|BIH}} [[Elvir Baljić]]
+*{{flagicon|BIH}} [[Elvir Bolić]]
+*{{flagicon|BRA}} [[Guilherme de Cássio Alves|Guilherme]]
+*{{flagicon|CHI}} [[Jorge Valdivia]]
+*{{flagicon|CHI}} [[Fernando Vergara]]
+*{{flagicon|CHN}} [[Zhang Chengdong]]
+*{{flagicon|COL}} [[Johan Mojica]]
+*{{flagicon|CRC}} [[Hernán Medford]]
+*{{flagicon|CRO}} [[Stjepan Andrijašević]]
+*{{flagicon|DRC}} [[Gaël Kakuta]]
+*{{flagicon|DEN}} [[Søren Andersen]]
+*{{flagicon|DEN}} [[Nicki Bille Nielsen|Nicki Bille]]
+*{{flagicon|ENG}} [[Laurie Cunningham]]
+*{{flagicon|EQG}} [[Sergio Akieme]]
+*{{flagicon|EQG}} [[Iván Zarandona]]
+*{{flagicon|GHA}} [[Derek Boateng]]
+*{{flagicon|GUI}} [[Lass Bangoura]]
+||
+*{{flagicon|ISR}} [[Idan Tal]]
+*{{flagicon|MLI}} [[Ousseynou Cissé]]
+*{{flagicon|MEX}} [[Javier Aquino]]
+*{{flagicon|MEX}} [[Nery Castillo]]
+*{{flagicon|MEX}} [[Guillermo Mendizábal]]
+*{{flagicon|MEX}} [[Hugo Sánchez]]
+*{{flagicon|MNE}} [[Andrija Delibašić]]
+*{{flagicon|NED}} [[Dave van den Bergh]]
+*{{flagicon|NGA}} [[Uche Henry Agbo|Uche Agbo]]
+*{{flagicon|NGA}} [[Wilfred Agbonavbare]]
+*{{flagicon|MKD}} [[Stole Dimitrievski]]
+*{{flagicon|NOR}} [[Jan Berg (footballer, born 1965)|Jan Berg]]
+*{{flagicon|PER}} [[Luis Advíncula]]
+*{{flagicon|PER}} [[Christian Cueva]]
+*{{flagicon|POR}} [[Licá]]
+*{{flagicon|POR}} [[Paulo Torres]]
+*{{flagicon|POR}} [[Zé Castro]]
+*{{flagicon|ROU}} [[Răzvan Raț]]
+*{{flagicon|RUS}} [[Viktor Onopko]]
+*{{flagicon|SEN}} [[Abdoulaye Ba]]
+*{{flagicon|SEN}} [[Mohamed Diamé]]
+*{{flagicon|SRB}} [[Ivan Tomić]]
+*{{flagicon|SRB}} [[Josip Višnjić]]
+*{{flagicon|ESP}} [[Miguel Albiol]]
+*{{flagicon|ESP}} [[Antonio Amaya]]
+*{{flagicon|ESP}} [[Gregorio Benito]]
+*{{flagicon|ESP}} [[Bolo (footballer)|Bolo]]
+||
+*{{flagicon|ESP}} [[Raúl Bravo]]
+*{{flagicon|ESP}} [[Antonio Calderón]]
+*{{flagicon|ESP}} [[Rubén Cano]]
+*{{flagicon|ESP}} [[Luis Cembranos]]
+*{{flagicon|ESP}} [[David Cobeño]]
+*{{flagicon|ESP}} [[Coke (footballer)|Coke]]
+*{{flagicon|ESP}} [[Juan José Collantes]]
+*{{flagicon|ESP}} [[Pedro Contreras]]
+*{{flagicon|ESP}} [[Diego Costa]]
+*{{flagicon|ESP}} [[Jesús Diego Cota|Cota]]
+*{{flagicon|ESP}} [[Ramón de Quintana]]
+*{{flagicon|ESP}} [[Adri Embarba]]
+*{{flagicon|ESP}} [[Félix Barderas Sierra|Felines]]
+*{{flagicon|ESP}} [[Patxi Ferreira]]
+*{{flagicon|ESP}} [[Javi Fuego]]
+*{{flagicon|ESP}} [[Ricardo Gallego]]
+*{{flagicon|ESP}} [[Antonio García Navajas]]
+*{{flagicon|ESP}} [[Antonio Guzmán Núñez|Antonio Guzmán]]
+*{{flagicon|ESP}} [[Pablo Hernández (footballer, born 1985)|Pablo Hernández]]
+*{{flagicon|ESP}} [[Carlos Llorens]]
+*{{flagicon|ESP}} [[Diego Llorente]]
+*{{flagicon|ESP}} [[Julen Lopetegui]]
+*{{flagicon|ESP}} [[Míchel (footballer, born 1975)|Míchel]]
+*{{flagicon|ESP}} [[Michu]]
+*{{flagicon|ESP}} [[José María Movilla]]
+*{{flagicon|ESP}} [[Juan Ramón López Muñiz|Juan Muñiz]]
+*{{flagicon|ESP}} [[Álvaro Negredo]]
+||
+*{{flagicon|ESP}} [[Saúl Ñíguez]]
+*{{flagicon|ESP}} [[Pepín (footballer, born 1959)|Pepín]]
+*{{flagicon|ESP}} [[Roberto Peragón]]
+*{{flagicon|ESP}} [[Piti (footballer)|Piti]]
+*{{flagicon|ESP}} [[Abel Resino]]
+*{{flagicon|ESP}} [[Onésimo Sánchez]]
+*{{flagicon|ESP}} [[Pablo Sanz (footballer, born 1973)|Pablo Sanz]] 
+*{{flagicon|ESP}} [[Mario Suárez (footballer)|Mario Suárez]]
+*{{flagicon|ESP}} [[Raúl Tamudo]]
+*{{flagicon|ESP}} [[Roberto Trashorras]]
+*{{flagicon|ESP}} [[Toni Jiménez]]
+*{{flagicon|ESP}} [[José Luis Veloso]]
+*{{flagicon|UKR}} [[Roman Zozulya]]
+*{{flagicon|USA}} [[Kasey Keller]]
+*{{flagicon|URU}} [[Sebastián Fernández (footballer, born 1985)|Sebastián Fernández]]
+*{{flagicon|URU}} [[Álvaro Gutiérrez (footballer)|Álvaro Gutiérrez]]
+*{{flagicon|URU}} [[Josemir Lujambio]]
+*{{flagicon|URU}} [[Fernando Morena]]
+*{{flagicon|URU}} [[Emiliano Velázquez]]
+*{{flagicon|VEN}} [[Julio Álvarez]]
+*{{flagicon|VEN}} [[Dani Hernández]]
+*{{flagicon|VEN}} [[Miku (footballer)|Miku]]
+*{{flagicon|VEN}} [[Daniel Noriega]]
+|}
+
+==Coaches==
+{|
+|-
+| style="vertical-align:top;"|
+{| class="wikitable"
+|-
+! Dates
+! Name
+|-
+|1944–46
+|{{flagicon|Spain}} Cayetano Sardinero
+|-
+|1946–47
+|{{flagicon|Spain}} Julián Antón
+|-
+|1947–48
+|{{flagicon|Spain}} Luis Pérez
+|-
+|1948–49
+|{{flagicon|Spain}} Tomás Rodríguez Rubio
+|-
+|1949–50
+|{{flagicon|Spain}} Ramón de la Fuente
+|-
+|1950–51
+|{{flagicon|Spain}} Anselmo Nogales
+|-
+|1951–52
+|{{flagicon|Spain}} [[Félix Huete]]
+|-
+|1952–53
+|{{flagicon|Spain}} [[Lorenzo Sánchez Villar]]
+|-
+|1954–55
+|{{flagicon|Spain}} [[Cándido Machado]]
+|-
+|1953–54
+|{{flagicon|Spain}} [[Patricio Sánchez Calleja]]
+|-
+|1954–55
+|{{flagicon|Spain}} [[Manuel Alepuz]]
+|-
+|1955–56
+|{{flagicon|Spain}} [[Cándido Machado]]
+|-
+|1956–58
+|{{flagicon|Spain}} [[Ramón Colón Acevedo|Ramón Colón]]
+|-
+|1958
+|{{flagicon|Spain}} [[Cándido Machado]]
+|-
+|1958–59
+|{{flagicon|Argentina}} [[Lino Taioli]]
+|-
+|1959
+|{{flagicon|Paraguay}} [[Heriberto Herrera]]
+|-
+|1959–60
+|{{flagicon|Spain}} [[Ramón Colón Acevedo|Ramón Colón]]
+|-
+|1960
+|{{flagicon|Spain}} [[Alfonso Aparicio]]
+|-
+|1960–61
+|{{flagicon|Spain}} [[Martín Camino]]
+|-
+|1961
+|{{flagicon|Spain}} [[Ramón Cobo]]
+|-
+|1961
+|{{flagicon|Spain}} [[José Iglesias Fernández|Joseíto]]
+|-
+|1961–64
+|{{flagicon|Spain}} Herrero
+|-
+|1964–67
+|{{flagicon|Spain}} [[Pedro Eguiluz Lamarca|Pedro Eguiluz]]
+|-
+|July 1967 – June 1969
+|{{flagicon|Spain}} [[José Antonio Olmedo]]
+|-
+|July 1969 – Feb 1971
+|{{flagicon|Spain}} [[Manuel Peñalva Usanos|Manuel Peñalva]]
+|-
+|Feb 1971 – Jun 1972
+|{{flagicon|Spain}} [[Enrique Orizaola]]
+|}
+
+| style="vertical-align:top;"|
+{| class="wikitable"
+|-
+! Dates
+! Name
+|-
+|Jul 1972 – Jan 1973
+|{{flagicon|Spain}} [[Manuel Martín Vences|Manuel Vences]]
+|-
+|Jan 1973 – Jun 1974
+|{{flagicon|Spain}} [[José Antonio Olmedo]]
+|-
+|Jun 1974 – Jun 1975
+|{{flagicon|Uruguay}} [[Héctor Núñez]]
+|-
+|Jun 1975 – Feb 1976
+|{{flagicon|Argentina}} {{flagicon|Spain}} [[Alfredo Di Stéfano]]
+|-
+|Feb – Jun 1976
+|{{flagicon|Spain}} [[José Antonio Olmedo]]
+|-
+|Jul 1976 – Jun 1977
+|{{flagicon|Spain}} [[Francisco Javier García Verdugo|García Verdugo]]
+|-
+|Jun 1977 – Jun 1978
+|{{flagicon|Uruguay}} [[Héctor Núñez]]
+|-
+|Jul 1978 – Jun 1979
+|{{flagicon|Spain}} [[Eduardo González Ruiz|Eduardo González]]
+|-
+|Jun 1979 – Feb 1980
+|{{flagicon|Uruguay}} [[Héctor Núñez]]
+|-
+|Feb – Jun 1980
+|{{flagicon|Spain}} [[Rafael Iriondo]]
+|-
+|Jun 1980 – Dec 1981
+|{{flagicon|Spain}} [[Eduardo González Ruiz|Eduardo González]]
+|-
+|Dec 1981 – Jun 1982
+|{{flagicon|Spain}} [[Manuel Peñalva Usanos|Manuel Peñalva]]
+|-
+|Jun 1982 – Jun 1983
+|{{flagicon|Spain}} [[Juan José García Santos|Juanjo García]]
+|-
+|Jul – Nov 1983
+|{{flagicon|Spain}} [[Máximo Hernández Sánchez|Máximo Hernández]]
+|-
+|Nov 1983 – Jun 1984
+|{{flagicon|Spain}} [[Antonio Ruiz Cervilla|Antonio Ruiz]]
+|-
+|1984–85
+|{{flagicon|Spain}} [[Eduardo Caturla]]
+|-
+|1985–87
+||{{flagicon|Uruguay}} [[Héctor Núñez]]
+|-
+|Jul 1987 – Jan 1990
+|{{flagicon|Spain}} [[Félix Barderas Sierra|Felines]]
+|-
+|Jan – Jun 1990
+|{{flagicon|Spain}} [[Emilio Cruz Roldán|Emilio Cruz]]
+|-
+|Jul 1990 – Feb 1992
+|{{flagicon|Spain}} [[Eusebio Ríos]]
+|-
+|Feb 1992 – Jun 1993
+|{{flagicon|Spain}} [[José Antonio Camacho]]
+|-
+|Jul – Nov 1993
+|{{flagicon|Spain}} [[Félix Barderas Sierra|Felines]]
+|-
+|Nov 1993 – Feb 1994
+|{{flagicon|Spain}} [[Fernando Zambrano Sánchez|Fernando Zambrano]]
+|-
+|Feb – Nov 1994
+|{{flagicon|Spain}} [[David Vidal]]
+|-
+|Nov 1994 – Jun 1995
+|{{flagicon|Spain}} [[Francisco García Gómez|Paquito]]
+|-
+|Jun – Oct 1995
+|{{flagicon|Spain}} [[Pedro Maria Zabalza|Pedro Mari Zabalza]]
+|}
+
+| style="vertical-align:top;"|
+{| class="wikitable"
+|-
+! Dates
+! Name
+|-
+|Oct 1995 – Apr 1996
+|{{flagicon|Spain}} [[Marcos Alonso Peña|Marcos Alonso]]
+|-
+|July 1996 – Feb 1997
+|{{flagicon|Spain}} [[Francisco García Gómez|Paquito]]
+|-
+|Feb – Mar 1997
+|{{flagicon|Spain}} [[Fernando Zambrano]] 
+|-
+|Mar – Jun 1997
+|{{flagicon|Spain}} [[Máximo Hernández Sánchez|Máximo Hernández]]
+|-
+|1997–98
+|{{flagicon|Spain}} [[Josu Ortuondo]]
+|-
+|Jul 1998 – Jun 2001
+|{{flagicon|Spain}} [[Juande Ramos]]
+|-
+|Jul – Oct 2001
+|{{flagicon|Spain}} [[Andoni Goikoetxea Olaskoaga|Andoni Goikoetxea]]
+|-
+|Oct 2001 – Jun 2002
+|{{flagicon|Spain}} [[Gregorio Manzano]]
+|-
+|July 2002 – Jan 2003
+|{{flagicon|Spain}} [[Fernando Vázquez]]
+|-
+|Feb – Apr 2003
+|{{flagicon|Paraguay}} [[Gustavo Benítez (footballer, born 1953)|Gustavo Benítez]]
+|-
+|Apr – Jun 2003
+|{{flagicon|Spain}} [[Antonio Iriondo]]
+|-
+|Jun – Nov 2003
+|{{flagicon|Spain}} [[Julen Lopetegui]]
+|-
+|Nov 2003 – Feb 2004
+|{{flagicon|Argentina}} [[Jorge D'Alessandro]]
+|-
+|Feb – Jun 2004
+|{{flagicon|Spain}} [[José Francisco Rojo|Txetxu Rojo]]
+|-
+|Jun 2004 – Jun 2005
+|{{flagicon|Spain}} [[Carlos Orúe]]
+|-
+|Jul 2005 – Jun 2006
+|{{flagicon|Spain}} [[Míchel (footballer, born 1963)|Míchel]]
+|-
+|Jun 2006 – Feb 2010
+|{{flagicon|Spain}} [[Pepe Mel]]
+|-
+|Feb – Jun 2010
+|{{flagicon|Spain}} [[Felipe Miñambres]]
+|-
+|Jul 2010 – Jun 2012
+|{{flagicon|Spain}} [[José Ramón Sandoval]]
+|-
+|Jul 2012 – May 2016
+|{{flagicon|Spain}} [[Paco (footballer)|Paco Jémez]]
+|-
+|Jun – Nov 2016
+|{{flagicon|Spain}} [[José Ramón Sandoval]]
+|-
+|Nov 2016 – Feb 2017
+|{{flagicon|Spain}} [[Rubén Baraja]]
+|-
+|Feb 2017 – Mar 2019
+|{{flagicon|Spain}} [[Míchel (footballer, born 1975)|Míchel]]
+|-
+|Mar 2019 – Aug 2020
+|{{flagicon|Spain}} [[Paco (footballer)|Paco Jémez]]
+|-
+|Aug 2020 – Jun 2023
+|{{flagicon|Spain}} [[Andoni Iraola]]
+|-
+|Jul 2023 –
+|{{flagicon|Spain}} [[Francisco (footballer, born 1978)|Francisco]]
+|}
+|}
+
+==Club presidents==
+{|
+|-
+| style = "vertical-align:top;"|
+{| class="wikitable"
+|-
+! Dates
+! Name
+|-
+|1924–26
+|[[Julián Huerta Priego|Julián Huerta]]
+|-
+|-bgcolor="#EFEFEF"
+|1926–27
+|[[José Montoya Arribas|José Montoya]]
+|-
+|1927–28
+|[[Galo Andrés]]
+|-
+|-bgcolor="#EFEFEF"
+|1929–30
+|[[José Antonio Sánchez (president)|José Antonio Sánchez]]
+|-
+|1930–31
+|[[Anastasio Sánchez]]
+|-
+|-bgcolor="#EFEFEF"
+|1931–36
+|[[Ángel Martínez, "El Cafeto"|Ángel Martínez]]
+|}
+
+| style = "vertical-align:top;"|
+
+{| class="wikitable"
+|-
+! Dates
+! Name
+|-
+|1939–43
+|[[Miguel Rodríguez Alzola]]
+|-
+|-bgcolor="#EFEFEF"
+|1943–46
+|[[Ezequiel Huerta Priego|Ezequiel Huerta]]
+|-
+|1946–48
+|[[José Rodríguez Rubio]]
+|-
+|-bgcolor="#EFEFEF"
+|1948–55
+|[[Miguel Rodríguez Alzola]]
+|-
+|1955–58
+|[[Jerónimo Martínez Fernández|Jerónimo Martínez]]
+|-
+|-bgcolor="#EFEFEF"
+|1958–61
+|[[Tomás Esteras Navalpotro|Tomás Esteras]]
+|}
+
+| style = "vertical-align:top;"|
+
+{| class="wikitable"
+|-
+! Dates
+! Name
+|-
+|1961–65
+|[[Iván Roiz Morante|Iván Roiz]]
+|-
+|-bgcolor="#EFEFEF"
+|1965–73
+|[[Pedro Roiz Cossío|Pedro Roiz]]
+|-
+|1973–78
+|[[Marcelino Gil Blázquez|Marcelino Gil]]
+|-
+|-bgcolor="#EFEFEF"
+|1978–80
+|[[Francisco Encinas Carvallal|Francisco Encinas]]
+|-
+|1980–81
+|[[Luis Quer Méndez|Luis Quer]]
+|-
+|-bgcolor="#EFEFEF"
+|1981–89
+|[[Francisco Fontán de la Llave|Francisco Fontán]]
+|}
+
+| style = "vertical-align:top;"|
+
+{| class="wikitable"
+|-
+! Dates
+! Name
+|-
+|1989–91
+|[[Pedro García Jiménez]]
+|-
+|-bgcolor="#EFEFEF"
+|1991–94
+|[[José María Ruiz Mateos]]
+|-
+|1994–2011
+|[[Teresa Rivero]]
+|-bgcolor="#EFEFEF"
+|2011–
+|[[Raúl Martín Presa]]
+|}
+|}
+
+==Stadium==
+[[File:Estadio de Vallecas.jpg|thumb|Campo de Fútbol de Vallecas]]
+[[Campo de Fútbol de Vallecas]] is a football stadium located on Calle Payaso Fofó 1, Vallecas. Opened on 10 May 1976, at first it was called "New Stadium Vallecas", but in January 2004, 13 years after the arrival of the Ruiz-Mateos family in 1991, it changed denominations, as the wife was also named by her husband, businessman [[José María Ruiz Mateos|José María]], the first woman president of an elite football team.
+
+It has a capacity of 14,708 spectators in an all-seated format and dimensions of 100×67 m. after the enlargement of the width and the reduction of the length of the pitch after the remodelling of the grandstands, compulsory due to the elimination of the fences surrounding the pitch. The pitch is one the smallest in La Liga. Additionally, one of the goal ends does not have a grandstand, just a big wall with information panels.<ref>{{Cite news |last=Lowe |first=Sid |date=2012-02-27 |title=Rayo Vallecano's barrio boys bounce to a different beat in Real defeat |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/blog/2012/feb/27/ray-vallecano-la-liga-blog |access-date=2023-02-10 |issn=0261-3077 |archive-date=2023-02-11 |archive-url=https://web.archive.org/web/20230211001224/https://www.theguardian.com/football/blog/2012/feb/27/ray-vallecano-la-liga-blog |url-status=live }}</ref>
+
+In June 2009, the club announced plans for the construction of a new stadium. Nevertheless, the Autonomous Community of Madrid, owner of the stadium, has not any plan as far as it is known in 2023.
+
+==Club culture and supporters==
+The fans do not have a good relationship with the current owner [[Raúl Martín Presa]] and regularly chant for him to leave.<ref>{{Cite news |last=Lowe |first=Sid |date=2021-12-20 |title=Rayo Vallecano: a mess, 'problem after problem' … and top four in La Liga |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2021/dec/20/rayo-vallecano-mess-problem-top-four-la-liga |access-date=2023-02-11 |issn=0261-3077 |archive-date=2023-02-11 |archive-url=https://web.archive.org/web/20230211001222/https://www.theguardian.com/football/2021/dec/20/rayo-vallecano-mess-problem-top-four-la-liga |url-status=live }}</ref><ref>{{Cite news |last=Lowe |first=Sid |date=2021-09-20 |title=The Tiger who came for free: Falcao is back and scoring in La Liga |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/blog/2021/sep/20/the-tiger-who-came-for-free-radamel-falcao-is-back-and-scoring-in-la-liga-rayo-vallecano |access-date=2023-02-11 |issn=0261-3077 |archive-date=2023-02-11 |archive-url=https://web.archive.org/web/20230211001223/https://www.theguardian.com/football/blog/2021/sep/20/the-tiger-who-came-for-free-radamel-falcao-is-back-and-scoring-in-la-liga-rayo-vallecano |url-status=live }}</ref>
+
+In late March 2012, in support of the [[2011–12 Spanish protests]], the squad decided to take one day off from training to join the demonstrations.<ref>{{cite web|url=http://www.wsc.co.uk/content/view/8471/38/|title=Rayo Vallecano players strike over Spanish austerity cuts|publisher=When Saturday Comes|date=29 March 2012|access-date=30 March 2012|url-status=live|archive-url=https://web.archive.org/web/20120331180800/http://www.wsc.co.uk/content/view/8471/38|archive-date=31 March 2012}}</ref> In 2014, 85-year-old [[Vallecas]] resident Carmen Martínez Ayuso was evicted from her house after living there since the 1960s. Rayo Vallecano and particularly coach [[Paco (footballer)|Paco Jémez]] were touched by her story, and subsequently offered to fund Martínez for the foreseeable future.<ref>{{cite journal|last1=Villalba|first1=Juanjo|title=Spanish Football Team Rescues an Old Lady|journal=Vice Magazine|date=January 2015|volume=13|issue=1|page=15}}</ref>
+
+In February 2017, Ukrainian player [[Roman Zozulya]] left the club after one training session due to chants of "Nazi" by Rayo fans accusing him of belonging to far-right groups; Zozulya denied ever belonging to any far-right groups, and immediately returned to his parent club Real Betis. In 2019, when Zozulya was playing for [[Albacete Balompié|Albacete]], a match was called off at half-time after fans once again sang "Zozulya you are a Nazi".<ref>{{Cite news |last=sport |first=Guardian |date=2019-12-15 |title=Rayo Vallecano match abandoned after 'Nazi' chants; Real Madrid draw |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2019/dec/15/spanish-football-nazi-chants-roman-zozulya-rayo-vallecano-albacete-valencia-real-madrid |access-date=2023-02-10 |issn=0261-3077 |archive-date=2023-02-10 |archive-url=https://web.archive.org/web/20230210014950/https://www.theguardian.com/football/2019/dec/15/spanish-football-nazi-chants-roman-zozulya-rayo-vallecano-albacete-valencia-real-madrid |url-status=live }}</ref>
+
+== Anthems and songs==
+Although most people recognise the supporting songs by ska-punk band [[Ska-P]] (''Rayo Vallecano'' and ''Como un rayo''), Rayo Vallecano has an official anthem which played at their home stadium before matches.
+
+The club is also known for chanting the song "La Vida Pirata" ({{lang-en|"The Pirate Life"}}), a song about pirates, which the ''Bukaneros'' are named after.
+
+'''Spanish:'''
+
+''La vida pirata es la vida mejor (bis)''
+
+''sin trabajar (bis)''
+
+''Sin estudiar (bis)''
+
+''Con la botella de ron (bis)''
+
+''Soy capitán (bis)''
+
+''del Santa Inés (bis)''
+
+''Y en cada puerto tengo una mujer (bis)''
+
+''La rubia es (bis)''
+
+''Fenomenal (bis)''
+
+''Y la morena tampoco esta mal (bis)''
+
+''Las inglesas con su seriedad (bis)''
+
+''Y las francesas que todo lo dan (bis)''
+
+''Si alguna vez (bis)''
+
+''Me he de casar (bis)''
+
+''Me he de casar (bis)''
+
+''Con la del Rayo, una, una y nada más (bis).''
+
+'''English:'''
+
+''''The pirate life is the best life (bis)''
+
+''without working (bis)''
+
+''without studying (bis)''
+
+''With the bottle of rum (bis)''
+
+''I am captain (bis)''
+
+''of the "Santa Inés"' (bis)''
+
+''and in each port, I have a woman (bis) ''
+
+''the blonde is (bis)''
+ 
+''phenomenal (bis)''
+
+''and the brunette is not bad either (bis)''
+
+''The English women with their seriousness (bis)''
+
+''And the French women who give everything (bis)''
+
+''If ever (bis)''
+
+''I have to marry (bis) ''
+
+''I have to marry (bis)''
+
+''with the one of Rayo, one, one and no more (bis)''''
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Rayo Vallecano}}
+*[http://www.rayovallecano.es Official website] {{in lang|es}}
+*[http://www.unionrayo.es Official Radio website] {{in lang|es}}
+*[http://www.vk.com/rayo_vallecano_1924 Official Community VK] {{in lang|ru}}
+*[http://www.futbolme.com/com/index_equipo.asp?id_equipo=461 Futbolme team profile] {{in lang|es}}
+*[http://www.bdfutbol.com/en/e/e5.html BDFutbol team profile]
+*[http://www.pasionporelrayo.com Pasión por el Rayo – Non-official website – Rayo Vallecano news] {{in lang|es}}
+*[http://www.rayoherald.com Rayo Herald – Updated club info] {{in lang|es}}
+
+{{Rayo Vallecano}}
+{{La Liga teamlist}}
+{{Community of Madrid Sports}}
+
+{{Authority control}}
+
+[[Category:Rayo Vallecano| ]]
+[[Category:Football clubs in Madrid]]
+[[Category:Association football clubs established in 1924]]
+[[Category:1924 establishments in Spain]]
+[[Category:Segunda División clubs]]
+[[Category:La Liga clubs]]

@@ -1,0 +1,1245 @@
+{{Use dmy dates|date=July 2024}}
+{{Infobox football club season
+|club               = [[RCD Mallorca]]
+|season             = [[2024–25 in Spanish football|2024–25]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = President
+|chairman           = [[Andy Kohlberg]]
+|ownertitle         = 
+|owner              = 
+|mgrtitle           = Head coach
+|manager            = [[Jagoba Arrasate]]
+|stdtitle           = 
+|stadium            = [[Estadi Mallorca Son Moix]]
+|league             = [[2024–25 La Liga|La Liga]]
+|league result      = 10th
+|cup1               = [[2024–25 Copa del Rey|Copa del Rey]]
+|cup1 result        = Round of 32
+|cup2               = [[2025 Supercopa de España|Supercopa de España]]
+|cup2 result        = Semi-finals
+|league topscorer   = <br>[[Cyle Larin]]<br>[[Vedat Muriqi]]<br>(7 each)
+|season topscorer   = <br>Cyle Larin<br>Vedat Muriqi<br>(7 each)
+|highest attendance = 23,010 vs [[Real Madrid CF|Real Madrid]]
+|lowest attendance  = 
+|average attendance = 18,502<ref>https://www.european-football-statistics.co.uk/attn/archive/esp/aveesp25.htm</ref>
+|largest win        = 
+|largest loss       = Mallorca 1–5 Barcelona
+|pattern_la1        = _mallorca2425h
+|pattern_b1         = _mallorca2425h
+|pattern_ra1        = _mallorca2425h
+|pattern_sh1        = _monterrey1213t1
+|pattern_so1        = _monterrey1213t1
+|leftarm1           = 000000
+|body1              = 000000
+|rightarm1          = 000000
+|shorts1            = 000000
+|socks1             = 000000
+ |pattern_la2 = _mallorca2425a
+ |pattern_b2  = _mallorca2425a
+ |pattern_ra2 = _mallorca2425a
+ |pattern_sh2 = 
+ |pattern_so2 = 
+ |leftarm2    = FFFFFF
+ |body2       = FFFFFF
+ |rightarm2   = FFFFFF
+ |shorts2     = CDFF00
+ |socks2      = CDFF00
+|pattern_la3        = _mallorca2425t
+|pattern_b3         = _mallorca2425t
+|pattern_ra3        = _mallorca2425t
+|pattern_sh3        = 
+|pattern_so3        = _nikestrike24sbL
+|leftarm3           = 68ACFA
+|body3              = 68ACFA
+|rightarm3          = 68ACFA
+|shorts3            = 68ACFA
+|socks3             = 68ACFA
+|prevseason         = [[2023–24 RCD Mallorca season|2023–24]]
+|nextseason         = [[2025–26 RCD Mallorca season|2025–26]]
+}}
+The 2024–25 season was the 109th season in the history of [[RCD Mallorca|Real Club Deportivo Mallorca]], and the club's fourth consecutive season in [[La Liga]]. In addition to the [[2024–25 La Liga|domestic league]], the club participated in the [[2024–25 Copa del Rey|Copa del Rey]] and the [[2025 Supercopa de España|Supercopa de España]].
+
+On 10 June 2024, [[Jagoba Arrasate]] was announced as the team's manager for three seasons.<ref>{{Cite web|url=https://www.besoccer.com/new/official-jagoba-arrasate-becomes-mallorca-s-new-coach-1319092|title=OFFICIAL: Jagoba Arrasate becomes Mallorca's new coach|website=www.besoccer.com}}</ref>
+
+== Players ==
+=== First-team squad ===
+{{updated|17 August 2024}}
+{{Fs start}}
+{{Fs player|no= 1|pos=GK|nat=SVK|name=[[Dominik Greif]]}}
+{{Fs player|no= 2|pos=DF|nat=ESP|name=[[Mateu Morey]]}}
+{{Fs player|no= 3|pos=DF|nat=ESP|name=[[Toni Lato]]}}
+{{Fs player|no= 4|pos=DF|nat=BEL|name=[[Siebe Van der Heyden]]}}
+{{Fs player|no= 5|pos=MF|nat=EQG|name=[[Omar Mascarell]]}}
+{{Fs player|no= 6|pos=DF|nat=ESP|name=[[José Manuel Copete]]}}
+{{Fs player|no= 7|pos=FW|nat=KVX|name=[[Vedat Muriqi]]}}
+{{Fs player|no= 8|pos=MF|nat=ESP|name=[[Manu Morlanes]]}}
+{{Fs player|no= 9|pos=FW|nat=ESP|name=[[Abdón Prats]]}}
+{{Fs player|no=10|pos=MF|nat=ESP|name=[[Sergi Darder]]}}
+{{Fs player|no=11|pos=FW|nat=JPN|name=[[Takuma Asano]]}}
+{{Fs player|no=12|pos=MF|nat=POR|name=[[Samú Costa]]}}
+{{Fs mid}}
+{{Fs player|no=13|pos=GK|nat=ESP|name=[[Leo Román]]}}
+{{Fs player|no=14|pos=MF|nat=ESP|name=[[Dani Rodríguez (footballer, born 1988)|Dani Rodríguez]]|other=[[captain (association football)|vice-captain]]}}
+{{Fs player|no=17|pos=FW|nat=CAN|name=[[Cyle Larin]]}}
+{{Fs player|no=18|pos=MF|nat=ESP|name=[[Antonio Sánchez (footballer, born 1997)|Antonio Sánchez]]}}
+{{Fs player|no=19|pos=FW|nat=ESP|name=[[Javier Llabrés|Javi Llabrés]]}}
+{{Fs player|no=21|pos=DF|nat=ESP|name=[[Antonio Raíllo]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=22|nat=COL|pos=DF|name=[[Johan Mojica]]}}
+{{Fs player|no=23|pos=DF|nat=ESP|name=[[Pablo Maffeo]]}}
+{{Fs player|no=24|pos=DF|nat=SVK|name=[[Martin Valjent]]|other=[[captain (association football)|3rd captain]]}}
+{{Fs player|no=25|pos=GK|nat=ESP|name=[[Iván Cuéllar]]}}
+{{Fs player|no=33|pos=MF|nat=COL|name=[[Daniel Luna]]}}
+{{Fs end}}
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Baba, Iddrisu|{{flagicon|GHA}} [[Iddrisu Baba]]}}
+|{{fbaicon|ESP}} [[UD Almería|Almería]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Gayà, Josep|{{flagicon|ESP}} [[Josep Gayà]]}}
+|{{fbaicon|ESP}} [[SD Amorebieta|Amorebieta]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|1|GK}}
+|{{sort|Román, Leo|{{flagicon|ESP}} [[Leo Román]]}}
+|{{fbaicon|ESP}} [[Real Oviedo|Oviedo]]
+|Loan return
+|{{dts|30 June 2024}}
+|
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Morey, Mateu|{{flagicon|ESP}} [[Mateu Morey]]}}
+|{{fbaicon|GER}} [[Borussia Dortmund]]
+|Free
+|{{dts|5 July 2024}}
+|<ref>{{Cite web|url=https://www.rcdmallorca.es/noticias/mateu-morey-primer-fichaje-de-la-temporada-24-25|title=Mateu Morey, primer fichaje de la temporada 24-25|website=www.rcdmallorca.es}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{flagicon|COL}} [[Johan Mojica]]
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|€1,000,000
+|{{dts|23 July 2024}}
+|<ref>{{Cite web|url=https://onefootball.com/en/news/johan-mojica-cambio-de-club-en-espana-39800239|title=Johan Mojica cambió de club en España|date=23 July 2024|website=OneFootball}}</ref>
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Vidal, Nacho|{{flagicon|ESP}} [[Nacho Vidal (footballer)|Nacho Vidal]]}}
+|{{fbaicon|ESP}} [[CA Osasuna|Osasuna]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{Cite web|url=https://www.marca.com/futbol/mallorca/2024/05/30/66584a28268e3e36328b45fa.html|title=Nacho Vidal se despide del Mallorca, que sigue sin descartar su fichaje|date=30 May 2024|website=MARCA}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Radonjić, Nemanja|{{flagicon|SRB}} [[Nemanja Radonjić]]}}
+|{{fbaicon|ITA}} [[Torino FC|Torino]]
+|Loan return
+|{{dts|30 June 2024}}
+|<ref>{{Cite web|url=https://www.mallorcadiario.com/el-mallorca-no-ejecutara-la-opcion-de-compra-del-serbio-radonjic|title=El Mallorca no ejecutará la opción de compra del serbio Radonjic &#124; mallorcadiario.com}}</ref>
+|-
+| align="center" |{{sort|2|DF}}
+|{{sort|Gayà, Josep|{{flagicon|ESP}} [[Josep Gayà]]}}
+|
+|Contract terminated
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.diariodemallorca.es/rcd-mallorca/2024/06/29/real-mallorca-anuncia-adios-josep-gaya-104552444.html|title=El Real Mallorca anuncia el adiós de Josep Gayà|first=Miguel|last=Chacártegui|date=29 June 2024|website=Diario de Mallorca}}</ref>
+|-
+| align="center" |{{sort|4|FW}}
+|{{sort|Ndiaye, Amath|{{flagicon|SEN}} [[Amath Ndiaye]]}}
+|{{fbaicon|ESP}} [[Real Valladolid|Valladolid]]
+|€2,000,000
+|{{dts|1 July 2024}}
+|<ref>{{Cite web|url=https://www.rcdmallorca.es/en/news/amath-ndiaye-leaves-rcd-mallorca|title=Amath Ndiaye leaves RCD Mallorca|website=www.rcdmallorca.es}}</ref>
+|-
+| align="center" |{{sort|3|MF}}
+|{{sort|Baba, Iddrisu|{{flagicon|GHA}} [[Iddrisu Baba]]}}
+|{{fbaicon|ESP}} [[UD Almería|Almería]]
+|Undisclosed
+|{{dts|4 July 2024}}
+|
+|-
+| align="center" |{{sort|1|GK}}
+|{{flagicon|SRB}} [[Predrag Rajković]]
+|{{fbaicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|€11,000,0000
+|{{dts|5 August 2024}}
+|
+|}
+
+== Friendlies ==
+=== Pre-season ===
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 21 July 2024
+|time = 
+|team1 = [[Crewe Alexandra F.C.|Crewe Alexandra]]
+|score = 1–3
+|report = https://www.rcdmallorca.es/noticias/el-rcd-mallorca-de-arrasate-arranca-con-victoria-1-3
+|team2 = Mallorca
+|goals1 = 
+*[[Lucas Sant|Sant]] {{goal|78}}
+|goals2 =
+*[[Toni Lato|Lato]] {{goal|55}} 
+*[[Marc Domènech (footballer, born 2006)|Domènech]] {{goal|58}} 
+*[[Vedat Muriqi|Muriqi]] {{goal|90}} 
+|stadium = 
+|location = England
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 26 July 2024
+|time = 12:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Barnsley F.C.|Barnsley]]
+|score = 0–1
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = Loughborough University Football Stadium
+|location = [[Loughborough]], England
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 27 July 2024
+|time = 13:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1 = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+|score = 0–1
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = West Bromwich Albion Training Ground
+|location = [[Walsall]], England
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 31 July 2024
+|time = 20:00
+|team1 = [[UD Poblense|Poblense]]
+|score = 0–5
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = Campo Tomeu Serra
+|location = [[Son Bibiloni]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 11:00
+|team1 = [[Burgos CF|Burgos]]
+|score = 0–2
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game#Club football|Friendly]]
+|date = 3 August 2024
+|time = 19:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[CD Mirandés|Mirandés]]
+|score = Cancelled
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = P
+}}
+{{Football box collapsible
+|round = Trofeu Ciutat de Palma
+|date = 10 August 2024
+|time = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Mallorca
+|score = 1–1
+|report = https://www.rcdmallorca.es/en/news/el-bologna-fc-1909-se-lleva-la-46-edicion-del-ciutat-de-palma-por-penaltis
+|team2 = [[Bologna FC 1909|Bologna]]
+|goals1 =
+*[[Takuma Asano|Asano]] {{goal|9}}
+|goals2 =
+*[[Santiago Castro (footballer, born 2004)|Castro]] {{goal|25}}
+|penaltyscore = 5–6
+|penalties1 =
+*[[Vedat Muriqi|Muriqi]] {{penmiss}}
+*[[Antonio Sánchez (footballer, born 1997)|Sánchez]] {{pengoal}}
+*[[Daniel Luna|Luna]] {{pengoal}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{pengoal}}
+*[[Omar Mascarell|Mascarell]] {{pengoal}}
+*[[Pablo Maffeo|Maffeo]] {{pengoal}}
+*[[Toni Lato|Lato]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Riccardo Orsolini|Orsolini]]
+*{{pengoal}} [[Thijs Dallinga|Dallinga]]
+*{{pengoal}} [[Stefan Posch|Posch]]
+*{{penmiss}} [[Remo Freuler|Freuler]]
+*{{pengoal}} [[Giovanni Fabbian|Fabbian]]
+*{{pengoal}} [[Sam Beukema|Beukema]]
+*{{pengoal}} [[Tommaso Corazza|Corazza]]
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 
+|referee = López García ([[Royal Spanish Football Federation|Spain]])
+|result = D
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=3
+|c1=[[2024–25 La Liga|La Liga]] |fm1=18 August 2024 |lm1=23–25 May 2025 |sr1=Matchday 1 |fp1= |w1=12 |d1=8 |l1=13 |f1=31 |a1=38
+|c2=[[2024–25 Copa del Rey|Copa del Rey]] |dm2=3 January 2025 |sr2=Round of 32 |fp2=Round of 32 |w2=0 |d2=0 |l2=1 |f2=0 |a2=3
+|c3=[[2025 Supercopa de España|Supercopa de España]] |dm3=9 January 2025 |sr3=Semi-finals |fp3=Semi-finals |w3=0 |d3=0 |l3=1 |f3=0 |a3=3
+|u=23 April 2025
+|s=[https://int.soccerway.com/teams/spain/real-club-deportivo-mallorca/2027/ Soccerway]
+}}
+
+=== La Liga ===
+{{main|2024–25 La Liga}}
+
+==== League table ====
+{{2024–25 La Liga table|showteam=MLL}}
+
+==== Results summary ====
+{{Fb rs |hw=6 |hd=6 |hl=4 |hgf=16 |hga=16 |aw=6 |ad=2 |al=9 |agf=15 |aga=22 }}
+{{Fb rs footer |u=23 April 2025 |s=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga] |date=June 2024}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b
+| updated=23 April 2025
+| header=Round
+| label1=Ground
+| res1=H/A/H/A/H/A/H/A/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/
+| label2=Result
+| res2=D/L/D/W/L/W/W/W/L/W/D/L/L/W/W/L/W/W/L/L/L/L/D/W/D/D/D/W/L/L/W/D/L/
+| label3=Position
+| pos3=12/16/18/10/13/11/6/6/7/6/7/8/9/8/6/7/6/6/6/6/6/9/10/7/8/8/7/7/9/10/8/7/9/
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color_1=gold|color_2-5=green1|color_6-7=blue1|color_8=yellow1|color_18-20=red1
+| source=[https://www.laliga.com/en-GB/laliga-easports/standing La Liga]
+}}
+
+==== Matches ====
+The league schedule was released on 18 June 2024.<ref>{{cite web|url=https://www.marca.com/futbol/primera-division/2024/06/14/666c12f4e2704e25778b45b1.html|title=El sorteo del calendario de la temporada 2024-25 de LaLiga EA Sports será el 18 de junio|trans-title=The draw for the 2024-25 LaLiga EA Sports season calendar will be on June 18|date=14 June 2024|language=es|website=Marca}}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 18 August 2024
+|time = 21:30 
+|team1 = Mallorca
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-real-madrid-1
+|team2 = [[Real Madrid CF|Real Madrid]]
+|goals1 =
+*[[Pablo Maffeo|Maffeo]] {{yel|45+3}}
+*[[Vedat Muriqi|Muriqi]] {{goal|53}}
+|goals2 =
+*[[Rodrygo]] {{goal|13}}
+*[[Ferland Mendy|Mendy]] {{sentoff|0|90+7}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 23,010
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 2
+|date = 24 August 2024
+|time = 17:00 
+|team1 = [[CA Osasuna|Osasuna]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ca-osasuna-rcd-mallorca-2
+|team2 = Mallorca
+|goals1 =
+*[[Rubén García (footballer, born 1993)|García]] {{goal|55}}
+*[[Jesús Areso|Areso]] {{yel|75}}
+*[[Sergio Herrera (footballer, born 1993)|Herrera]] {{yel|77}}
+|goals2 =
+*[[Cyle Larin|Larin]] {{yel|88}}
+|stadium = [[El Sadar Stadium|El Sadar]]
+|location = [[Pamplona]]
+|attendance = 19,900
+|referee = Adrián Cordero Vega
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 27 August 2024
+|time = 19:00 
+|team1 = Mallorca
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-sevilla-fc-3
+|team2 = [[Sevilla FC|Sevilla]]
+|goals1 =
+|goals2 =
+*[[Djibril Sow|Sow]] {{yel|88}}
+*[[Saúl (footballer, born 1994)|Saúl]] {{sentoff|0|89}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 20,470
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 31 August 2024
+|time = 21:30 
+|team1 = [[CD Leganés|Leganés]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-cd-leganes-rcd-mallorca-4
+|team2 = Mallorca
+|goals1 =
+*[[Yvan Neyou|Neyou]] {{yel|89}}
+|goals2 =
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{goal|43}}
+*[[Manu Morlanes|Morlanes]] {{yel|77}}
+*[[Omar Mascarell|Mascarell]] {{yel|85}}
+*[[Robert Navarro (footballer)|Navarro]] {{yel|90+2}}
+|stadium = [[Estadio Municipal de Butarque]]
+|location = [[Leganés]]
+|attendance = 10,482
+|referee = Mario Melero López
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 14 September 2024
+|time = 14:00 
+|team1 = Mallorca
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-villarreal-cf-5
+|team2 = [[Villarreal CF|Villarreal]]
+|goals1 =
+*[[Samú Costa|Costa]] {{yel|25}}
+*[[Martin Valjent|Valjent]] {{yel|37}}
+*[[Raúl Albiol|Albiol]] {{goal|57|o.g.}}
+*[[Toni Lato|Lato]] {{sentoff|0|69}}
+*[[Valery Fernández|Valery]] {{yel|90+4}}
+|goals2 =
+*[[Logan Costa|Costa]] {{goal|27}}
+*[[Sergi Cardona|Cardona]] {{yel|33}}
+*[[Thierno Barry (footballer, born 2002)|Barry]] {{yel|47}}
+*[[Santi Comesaña|Comesaña]] {{yel|83}}
+*[[Ayoze Pérez|Pérez]] {{goal|90+4}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18,303
+|referee = [[Ricardo de Burgos Bengoetxea]] 
+|result = L
+}}
+{{Football box collapsible
+|round = 7
+|date = 17 September 2024
+|time = 19:00 
+|team1 = Mallorca
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-real-sociedad-7
+|team2 = [[Real Sociedad]]
+|goals1 =
+*[[Abdón Prats|Abdón]] {{goal|36|pen.}}, {{yel|60}}
+|goals2 =
+*[[Beñat Turrientes|Turrientes]] {{yel|54}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 17,132
+|referee = Adrián Cordero Vega
+|result = W
+|note = The date of the match was moved forward due to its conflict with Real Sociedad's participation in the Europa League.<ref>{{Cite web|url=https://www.dazn.com/es-ES/news/f%C3%BAtbol/por-que-se-adelanta-mallorca-vs-real-sociedad-jornada-7-laliga/1tnereny5b1yg1qrvmxhs97z5g|title=¿Por qué se adelanta el Mallorca vs Real Sociedad de la Jornada 7 de LALIGA EA SPORTS 2024/25? &#124; DAZN News ES}}</ref>
+}}
+{{Football box collapsible
+|round = 6
+|date = 23 September 2024
+|time = 21:00 
+|team1 = [[Real Betis]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-betis-rcd-mallorca-6
+|team2 = Mallorca
+|goals1 =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|7}}, {{yel|35}}
+*[[Héctor Bellerín|Bellerín]] {{yel|21}}
+*[[Chimy Ávila|Ávila]] {{yel|34}}
+|goals2 =
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{goal|8}}, {{yel|65}}
+*[[José Manuel Copete|Copete]] {{yel|81}}
+*[[Valery Fernández|Valery]] {{goal|90+3}}
+*[[Mateu Morey|Morey]] {{yel|90+5}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]]
+|attendance = 47,017
+|referee = Víctor García Verdura
+|result = W
+}} 
+{{Football box collapsible
+|round = 8
+|date = 29 September 2024
+|time = 21:00 
+|team1 = [[Real Valladolid|Valladolid]]
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-valladolid-cf-rcd-mallorca-8
+|team2 = Mallorca
+|goals1 =
+*[[Kike Pérez|Pérez]] {{yel|21}}
+*[[Abdulai Juma Bah|Juma Bah]] {{yel|76}}
+*[[Eray Cömert|Cömert]] {{yel|85}}
+*[[Iván Sánchez (footballer)|Sánchez]] {{goal|90+4}}
+|goals2 =
+*[[Manu Morlanes|Morlanes]] {{yel|26}}
+*[[Cyle Larin|Larin]] {{goal|59}}
+*[[Samú Costa|Costa]] {{yel|68}}
+*[[Valery Fernández|Fernández]] {{goal|83}}
+|stadium = [[Estadio José Zorrilla]]
+|location = [[Valladolid]]
+|attendance = 20,338
+|referee = [[José Luis Munuera Montero]]
+|result = W
+}}
+{{Football box collapsible
+|round = 9
+|date = 5 October 2024
+|time = 14:00 
+|team1 = [[RCD Espanyol|Espanyol]]
+|score = 2–1
+|report = https://int.soccerway.com/matches/2024/10/05/spain/primera-division/reial-club-deportiu-espanyol/real-club-deportivo-mallorca/4367426/
+|team2 = Mallorca
+|goals1 =
+*[[Marash Kumbulla|Kumbulla]] {{goal|18}}
+*[[Jofre Carreras|Carreras]] {{goal|47}}
+*[[Pere Milla|Milla]] {{yel|66}}
+|goals2 =
+*[[Johan Mojica|Mojica]] {{yel|58}}
+*[[Samú Costa|Costa]] {{yel|62}}
+*[[Chiquinho (footballer, born 2000)|Chiquinho]] {{yel|65}}
+*[[Antonio Raíllo|Raíllo]] {{goal|68}}
+*[[Omar Mascarell|Mascarell]] {{yel|78}}
+*[[Abdón Prats|Abdón]] {{yel|90}}
+|stadium = [[Stage Front Stadium]]
+|location = [[Cornellà de Llobregat]]
+|attendance = 24,434
+|referee = Francisco Hernández
+|result = L
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2024
+|time = 14:00
+|team1 = Mallorca
+|score = 1–0
+|report = https://int.soccerway.com/matches/2024/10/20/spain/primera-division/real-club-deportivo-mallorca/rayo-vallecano/4367436/
+|team2 = [[Rayo Vallecano]]
+|goals1 =
+*[[Manu Morlanes|Morlanes]] {{yel|38}}
+*[[Vedat Muriqi|Muriqi]] {{goal|75}}
+|goals2 =
+*[[Abdul Mumin|Mumin]] {{yel|37}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18,316
+|referee = Javier Alberola
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 28 October 2024
+|time = 21:00
+|team1 = Mallorca
+|score = 0–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-athletic-club-11
+|team2 = [[Athletic Bilbao]]
+|goals1 =
+*[[Samú Costa|Costa]] {{sentoff|2|10|23}}
+*[[Johan Mojica|Mojica]] {{yel|23}}
+*[[Cyle Larin|Larin]] {{yel|25}}
+*[[Vedat Muriqi|Muriqi]] {{yel|37}}
+|goals2 =
+*[[Aitor Paredes|Paredes]] {{yel|17}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 19,797
+|referee = [[Juan Martínez Munuera]]
+|result = D
+}}
+{{Football box collapsible
+|round = 12
+|date = 1 November 2024
+|time = 21:00
+|team1 = [[Deportivo Alavés|Alavés]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-deportivo-alaves-rcd-mallorca-12
+|team2 = Mallorca
+|goals1 =
+*[[Kike García (Spanish footballer)|García]] {{yel|10}}
+*[[Adrián Pica|Pica]] {{yel|35}}
+*[[Abdel Abqar|Abqar]] {{yel|44}}
+*[[Jon Guridi|Guridi]] {{goal|76}}
+|goals2 =
+*[[Chiquinho (footballer, born 2000)|Chiquinho]] {{yel|53}}
+*[[José Manuel Copete|Copete]] {{yel|90+3}}
+|stadium = [[Mendizorrotza Stadium]]
+|location = [[Vitoria-Gasteiz]]
+|attendance = 17,212
+|referee = Pablo González Fuertes
+|result = L
+}}
+{{Football box collapsible
+|round = 13
+|date = 10 November 2024
+|time = 16:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Mallorca
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-atletico-de-madrid-13
+|team2 = [[Atlético Madrid]]
+|goals1 = 
+*[[Samú Costa|Costa]] {{yel|57}}
+|goals2 =
+*[[Clément Lenglet|Lenglet]] {{yel|10}}
+*[[Julián Alvarez|Alvarez]] {{goal|61}}
+*[[Reinildo Mandava|Mandava]] {{yel|83}}
+*[[Ángel Correa|Correa]] {{yel|90+4}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 19,500
+|referee = [[José María Sánchez Martínez]]
+|result = L
+}}
+{{Football box collapsible
+|round = 14
+|date = 24 November 2024
+|time = 06:30[[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1 = [[UD Las Palmas|Las Palmas]]
+|score = 2–3
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-ud-las-palmas-rcd-mallorca-14
+|team2 = Mallorca
+|goals1 =
+*[[Dário Essugo|Essugo]] {{yel|64}}, {{goal|77}}
+*[[Fábio Silva (footballer, born 2002)|Fábio Silva]] {{goal|83}}
+*[[Jaime Mata|Mata]] {{yel|88}}
+*[[Alberto Moleiro|Moleiro]] {{yel|90+2}}
+*[[Álex Suárez (footballer, born 1993)|Álex Suárez]] {{yel|90+2}}
+|goals2 =
+*[[Manu Morlanes|Morlanes]] {{yel|43}}
+*[[Dani Rodríguez (footballer, born 1988)|Dani Rodríguez]] {{goal|46}}
+*[[Robert Navarro (footballer)|Navarro]] {{goal|56}}
+*[[Antonio Raíllo|Raíllo]] {{yel|68}}
+*[[Vedat Muriqi|Muriqi]] {{sentoff|0|88}}
+*[[Johan Mojica|Mojica]] {{goal|90+1}}
+|stadium = [[Estadio Gran Canaria]]
+|location = [[Las Palmas]]
+|attendance = 22,940
+|referee = [[Alejandro Muñiz Ruiz]]
+|result = W
+}}
+{{Football box collapsible
+|round = 15
+|date = 1 December 2024
+|time = 16:00
+|team1 = Mallorca
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-valencia-cf-15
+|team2 = [[Valencia CF|Valencia]]
+|goals1 =
+*[[Cyle Larin|Larin]] {{goal|45+3}}
+*[[Martin Valjent|Valjent]] {{yel|71}}
+*[[Abdón Prats|Abdón]] {{goal|81}}
+|goals2 =
+*[[Luis Rioja|Rioja]] {{goal|32|pen.}}, {{yel|62}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 17,717
+|referee = [[Alejandro Quintero González]]
+|result = W
+}}
+{{Football box collapsible
+|round = 19
+|date = 4 December 2024
+|time = 19:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Mallorca
+|score = 1–5
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-fc-barcelona-19
+|team2 = [[FC Barcelona|Barcelona]]
+|goals1 =
+*[[Pablo Maffeo|Maffeo]] {{yel|34}}
+*[[Vedat Muriqi|Muriqi]] {{goal|43}}
+*[[Antonio Raíllo|Raíllo]] {{yel|51}}
+*[[Johan Mojica|Mojica]] {{yel|55}}
+*[[Abdón Prats|Abdón]] {{yel|58}}
+|goals2 =
+*[[Pau Cubarsí|Cubarsí]] {{yel|3}}
+*[[Ferran Torres|Torres]] {{goal|12}}
+*[[Marc Casadó|Casadó]] {{yel|23}}
+*[[Pedri]] {{yel|60}}
+*[[Raphinha]] {{goal|56|pen.|74}}
+*[[Frenkie de Jong|De Jong]] {{goal|79}}
+*[[Pau Víctor|Víctor]] {{goal|84}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 22,352
+|referee = [[Jesús Gil Manzano]]
+|result = L
+}}
+{{Football box collapsible
+|round = 16
+|date = 8 December 2024
+|time = 21:00
+|team1 = [[RC Celta de Vigo|Celta Vigo]]
+|score = 2–0
+|report = https://www.laliga.com/en-ES/match/temporada-2024-2025-laliga-ea-sports-rc-celta-rcd-mallorca-16
+|team2 = Mallorca
+|goals1 =
+*[[Hugo Álvarez (footballer, born 2003)|Álvarez]] {{goal|32}}
+*[[Javi Rodríguez (footballer)|Javi Rodríguez]] {{yel|44}}
+*[[Iago Aspas|Aspas]] {{goal|82}}
+|goals2 =
+*[[Antonio Raíllo]] {{sentoff|0|78}}
+|stadium = [[Balaídos]]
+|location = [[Vigo]]
+|attendance = 22,861
+|referee = [[Ricardo De Burgos Bengoetxea]]
+|result = L
+}}
+{{Football box collapsible
+|round = 17
+|date = 14 December 2024
+|time = 16:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Mallorca
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-girona-fc-17
+|team2 = [[Girona FC|Girona]]
+|goals1 =
+*[[Cyle Larin|Larin]] {{goal|20||51}}
+*[[Vedat Muriqi|Muriqi]] {{sentoff|0|32}}
+*[[Manu Morlanes|Morlanes]] {{yel|32}}
+*[[Omar Mascarell|Mascarell]] {{yel|42}}
+*[[José Manuel Copete|Copete]] {{yel|42}}
+*[[Martin Valjent|Valjent]] {{yel|66}}
+*[[Abdón Prats|Abdón]] {{yel|78}}
+|goals2 =
+*[[Donny van de Beek|Van de Beek]] {{goal|7}}
+*[[David López (footballer, born 1989)|D. López]] {{yel|47}}
+*[[Oriol Romeu|Romeu]] {{yel|57}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 15,866
+|referee = Francisco José Hernández Maeso
+|result = W
+}}
+{{Football box collapsible
+|round = 18
+|date = 22 December 2024
+|time = 14:00
+|team1 = [[Getafe CF|Getafe]]
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-getafe-cf-rcd-mallorca-18
+|team2 = Mallorca
+|goals1 =
+*[[Djené]] {{yel|21}}
+*[[Bertuğ Yıldırım|Yıldırım]] {{yel|33}}
+*[[Diego Rico|Rico]] {{yel|79}}
+*[[Juan Berrocal|Berrocal]] {{yel|80}}
+|goals2 =
+*[[Antonio Sánchez (footballer, born 1997)|Sánchez]] {{yel|16}}
+*[[Cyle Larin|Larin]] {{goal|53|pen.}}
+*[[Dominik Greif|Greif]] {{yel|59}}
+*[[Robert Navarro (footballer)|Navarro]] {{yel|87}}
+|stadium = [[Estadio Coliseum]]
+|location = [[Getafe]]
+|attendance = 9,747
+|referee = [[José Luis Munuera Montero]]
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 19 January 2025
+|time = 21:00
+|team1 = [[Villarreal CF|Villarreal]]
+|score = 4–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-villarreal-cf-rcd-mallorca-20
+|team2 = Mallorca
+|goals1 =
+*[[Logan Costa|Costa]] {{goal|20}}
+*[[Álex Baena|Baena]] {{goal|24}}, {{yel|90+2}}
+*[[Dani Parejo|Parejo]] {{goal|26}}
+*[[Yeremy Pino|Pino]] {{goal|28}}
+|goals2 =
+*[[Sergi Darder|Darder]] {{yel|40}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|45+4}}
+*[[Johan Mojica|Mojica]] {{yel|89}}
+|stadium = [[Estadio de la Cerámica]]
+|location = [[Villarreal]]
+|attendance = 14,852
+|referee = [[José Luis Munuera Montero]]
+|result = L
+}}
+{{Football box collapsible
+|round = 21
+|date = 26 January 2025
+|time = 14:00
+|team1 = Mallorca
+|score = 0–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-real-betis-21
+|team2 = [[Real Betis]]
+|goals1 =
+*[[Cyle Larin|Larin]] {{yel|46}}
+*[[Omar Mascarell|Mascarell]] {{yel|48}}, {{sentoff|0|73}}
+|goals2 =
+*[[Abde Ezzalzouli|Ezzalzouli]] {{yel|16}}
+*[[Cédric Bakambu|Bakambu]] {{yel|80}}, {{goal|90+6}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 19,452
+|referee = Javier Alberola Rojas
+|result = L
+}}
+{{Football box collapsible
+|round = 22
+|date = 2 February 2025
+|time = 18:30
+|team1 = [[Atlético Madrid]]
+|score = 2–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-atletico-de-madrid-rcd-mallorca-22
+|team2 = Mallorca
+|goals1 =
+*[[Samuel Lino|Lino]] {{goal|26}}
+*[[Robin Le Normand|Le Normand]] {{yel|70}}
+*[[Conor Gallagher|Gallagher]] {{yel|82}}
+*[[Antoine Griezmann|Griezmann]] {{goal|90+3}}
+|goals2 =
+*[[Martin Valjent|Valjent]] {{yel|65}}
+*[[Robert Navarro (footballer)|Navarro]] {{yel|72}}
+*[[José Manuel Copete|Copete]] {{yel|85}}
+|stadium = [[Metropolitano Stadium|Cívitas Metropolitano]]
+|location = [[Madrid]]
+|attendance = 60,710
+|referee = Víctor García Verdura
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 9 February 2025
+|time = 21:00
+|team1 = Mallorca
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-ca-osasuna-23
+|team2 = [[CA Osasuna|Osasuna]]
+|goals1 =
+*[[Vedat Muriqi|Muriqi]] {{goal|81|pen.}}
+*[[Pablo Maffeo|Maffeo]] {{yel|90}}
+|goals2 =
+*[[Lucas Torró|Torró]] {{yel|35}}
+*[[Alejandro Catena|Catena]] {{yel|79}}
+*[[Flavien Enzo Boyomo|Boyomo]] {{yel|86}}, {{goal|90+4}}
+*[[Aimar Oroz|Oroz]] {{yel|86}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 15,378
+|referee = Adrián Cordero Vega
+|result = D
+}}
+{{Football box collapsible
+|round = 24
+|date = 16 February 2025
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Mallorca
+|score = 3–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-ud-las-palmas-24
+|team2 = [[UD Las Palmas|Las Palmas]]
+|goals1 =
+*[[Vedat Muriqi|Muriqi]] {{goal|7||28}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{goal|35}}
+*[[Cyle Larin|Larin]] {{yel|83}}
+|goals2 =
+*[[Enzo Loiodice|Loiodice]] {{yel|25}}
+*[[Mika Mármol|Mármol]] {{yel|44}}
+*[[Viti (footballer)|Viti]] {{yel|45+1}}
+*[[Stefan Bajčetić|Bajčetić]] {{goal|62}}
+*[[Scott McKenna|McKenna]] {{yel|90+6}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18,475
+|referee = Miguel Ángel Ortiz Arias
+|result = W
+}}
+{{Football box collapsible
+|round = 25
+|date = 23 February 2025
+|time = 21:00
+|team1 = [[Sevilla FC|Sevilla]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-sevilla-fc-rcd-mallorca-25
+|team2 = Mallorca
+|goals1 =
+*[[Kike Salas|Salas]] {{goal|45+2}}
+*[[José Ángel Carmona|Carmona]] {{yel|90}}
+|goals2 =
+*[[Sergi Darder|Darder]] {{yel|44}}
+*[[Johan Mojica|Mojica]] {{yel|60}}
+*[[Antonio Raíllo|Raíllo]] {{yel|71}}
+*[[Martin Valjent|Valjent]] {{goal|90+1}}
+|stadium = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location = [[Seville]]
+|attendance = 35,424
+|referee = Alejandro Muñiz Ruiz
+|result = D
+}}
+{{Football box collapsible
+|round = 26
+|date = 2 March 2025
+|time = 18:30
+|team1 = Mallorca
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-deportivo-alaves-26
+|team2 = [[Deportivo Alavés|Alavés]]
+|goals1 = 
+*[[Takuma Asano|Asano]] {{goal|9}}
+|goals2 = 
+*[[Carles Aleñá|Aleñá]] {{yel|64}}
+*[[Kike García (Spanish footballer)|García]] {{goal|68}}
+*[[Santiago Mouriño|Mouriño]] {{yel|78}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 17.702
+|referee = César Soto Grado
+|result = D
+}}
+{{Football box collapsible
+|round = 27
+|date = 9 March 2025
+|time = 18:30
+|team1 = [[Athletic Bilbao]]
+|score = 1–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-athletic-club-rcd-mallorca-27
+|team2 = Mallorca
+|goals1 = 
+*[[Andoni Gorosabel|Gorosabel]] {{yel|16}}
+*[[Nico Williams|Williams]] {{goal|58}}
+*[[Ernesto Valverde|E.Valverde]] {{yel|62}}
+|goals2 = 
+*[[Antonio Raíllo|Raíllo]] {{goal|56}}, {{yel|90+6}}
+*[[José Manuel Copete|Copete]] {{yel|72}}
+*[[Antonio Sánchez (footballer, born 1997)|Sánchez]] {{yel|86}}
+|stadium = [[San Mamés Stadium (2013)|San Mamés]]
+|location = [[Bilbao]]
+|attendance = 48.203
+|referee = Alejandro José Hernández Hernández
+|result = D
+}}
+{{Football box collapsible
+|round = 28
+|date = 16 March 2025
+|time = 15:15 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Mallorca
+|score = 2–1
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-rcd-espanyol-28
+|team2 = [[RCD Espanyol|Espanyol]]
+|goals1 = 
+*[[Vedat Muriqi|Muriqi]] {{penmiss}} 62, {{goal|90+7|pen.}}
+*[[Takuma Asano|Asano]] {{goal|65}}
+*[[Abdón]] {{penmiss}} 90+1, 
+|goals2 = 
+*[[Vedat Muriqi|Muriqi]] {{goal|53|o.g.}}
+*[[Omar El Hilali|El Hilali]] {{yel|61}}
+*[[Álvaro Aguado|Aguado]] {{yel|90+10}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18.240
+|referee = Alejandro Quintero González
+|result = W
+}}
+{{Football box collapsible
+|round = 29
+|date = 30 March 2025
+|time = 18:30 [[Central European Summer Time|CEDT]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Valencia CF|Valencia]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-valencia-cf-rcd-mallorca-29
+|team2 = Mallorca
+|goals1 = 
+*[[Diego López (footballer, born May 2002)|López]] {{goal|50}}
+*[[Luis Rioja|Rioja]] {{yel|84}}
+*[[Enzo Barrenechea|Barrenechea]] {{yel|85}}
+*[[Dimitri Foulquier|Foulquier]] {{yel|90+4}}
+*[[José Gayà|Gayà]] {{yel|90+7}}
+|goals2 = 
+*[[Antonio Raíllo|Raíllo]] {{yel|12}}
+*[[Sergi Darder|Darder]] {{yel|45+1}}
+*[[Samú Costa|Costa]] {{yel|76}}
+*[[Dani Rodríguez (footballer, born 1988)|Dani]] {{yel|90+10}}
+|stadium = [[Mestalla Stadium|Mestalla]]
+|location = [[Valencia]]
+|attendance = 44.082
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 30
+|date = 6 April 2025
+|time = 18:30 [[Central European Summer Time|CEDT]] ([[UTC+02:00|UTC+2]])
+|team1 = Mallorca
+|score = 1–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-rc-celta-30
+|team2 = [[RC Celta de Vigo|Celta Vigo]]
+|goals1 =*[[Martin Valjent|Valjent]] {{goal|17}}
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|41}}
+*[[Manu Morlanes|Morlanes]] {{yel|45+4}}
+*[[José Manuel Copete|Copete]] {{yel|53}}
+|goals2 = *[[Alfon (footballer)|Alfon]] {{goal|53}}
+*[[Fer López|López]] {{goal|72}}
+|stadium = [[Estadi Mallorca Son Moix]]
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 18.291
+|referee = Francisco José Hernández Maeso
+|result = L
+}}
+{{Football box collapsible
+|round = 31
+|date = 12 April 2025
+|time = 13:00 [[Western European Summer Time|WEST]]
+([[UTC+01:00|UTC+1]])
+|team1 = [[Real Sociedad]]
+|score = 0–2
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-real-sociedad-rcd-mallorca-31
+|team2 = Mallorca
+|goals1 =
+*[[Mikel Oyarzabal|Oyarzabal]] {{yel|71}}
+*[[Martín Zubimendi|Zubimendi]] {{yel|90}}
+*[[Aritz Elustondo|Elustondo]] {{yel|90+2}}
+|goals2 =
+*[[Cyle Larin|Larin]] {{goal|20}}
+*[[Sergi Darder|Darder]] {{goal|47}}
+*[[Pablo Maffeo|Maffeo]] {{yel|90+5}}
+|stadium = [[Anoeta Stadium|Reale Arena]]
+|location = [[San Sebastián]]
+|attendance = 29,181
+|referee = José Luis Montero
+|result = W
+}}
+{{Football box collapsible
+|round      = 32
+|date       = 19 April 2025
+|time       = 18:30 
+|team1      = Mallorca
+|score      = 0–0
+|report     = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-rcd-mallorca-cd-leganes-32
+|team2      = [[CD Leganés|Leganés]]
+|goals1     = 
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|44}}
+*[[Pablo Maffeo|Maffeo]] {{yel|59}}
+|goals2     = 
+*[[Yvan Neyou|Neyou]] {{yel|76}}
+|stadium    = [[Estadi Mallorca Son Moix|Son Moix]]
+|location   = [[Palma de Mallorca]]
+|attendance = 17.404
+|referee    = Alejandro Muñiz Ruiz
+|result     = D
+}}
+{{Football box collapsible
+|round = 33
+|date = 22 April 2025
+|time = 21:30
+|team1 = [[FC Barcelona|Barcelona]]
+|score = 1–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-laliga-ea-sports-fc-barcelona-rcd-mallorca-33
+|team2 = Mallorca
+|goals1 = 
+*[[Dani Olmo|Olmo]] {{goal|46}}
+|goals2 = 
+*[[Samú]] {{yel|25}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]]
+|attendance = 45.602
+|referee = Miguel Ortiz Arias
+|result = L
+}}
+{{Football box collapsible
+|round = 34
+|date = 5 May 2025
+|time = 
+|team1 = Girona
+|score = 1–0
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Girona]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 35
+|date = 10 May 2025
+|time = 
+|team1 = Mallorca
+|score = 2–1
+|report = 
+|team2 = Valladolid
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 36
+|date = 14 May 2025
+|time = 
+|team1 = Real Madrid
+|score = 2–1
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Madrid]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 37
+|date = 18 May 2025
+|time = 
+|team1 = Mallorca
+|score = 1–2
+|report = 
+|team2 = Getafe
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Palma de Mallorca|Palma]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 38
+|date = 24 May 2025
+|time = 
+|team1 = Rayo Vallecano
+|score = 0–0
+|report = 
+|team2 = Mallorca
+|goals1 =
+|goals2 =
+|stadium = 
+|location = [[Madrid]]
+|attendance = 
+|referee = 
+|result = D
+}}
+
+=== Copa del Rey ===
+{{main|2024–25 Copa del Rey}}
+
+{{Football box collapsible
+|round = Round of 32
+|date = 3 January 2025
+|time = 19:00
+|team1 = [[Pontevedra CF|Pontevedra]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-copa-del-rey-pontevedra-cf-rcd-mallorca-4
+|team2 = Mallorca
+|goals1 = 
+*[[Dalisson de Almeida|Almeida]] {{goal|21}}
+*[[Yago Iglesias]] {{yel|25}}
+*[[Yelko Pino]] {{goal|49}}, {{yel|54}}
+*[[Javi Fontán|Fontán]] {{yel|54}}
+*[[Rufo Sánchez|Rufo]] {{goal|72}}
+*[[Edu Sousa|Sousa]] {{yel|75}}
+*[[Pelayo Suárez|Pelayo]] {{yel|89}}
+*[[Iago Novo|Novo]] {{yel|90+5}}
+|goals2 = 
+*[[Dani Rodríguez (footballer, born 1988)|Rodríguez]] {{yel|78}}
+*[[José Copete|Copete]] {{yel|89}}
+|stadium = [[Estadio Municipal de Pasarón]]
+|location = [[Pontevedra]]
+|attendance = 10.292
+|referee = Alejandro Hernández Hernández
+|result = L
+}}
+
+=== Supercopa de España ===
+{{main|2025 Supercopa de España}}
+
+{{Football box collapsible
+|round = [[2025 Supercopa de España#Semi-finals|Semi-finals]]
+|date = 9 January 2025
+|time = 22:00 [[Saudi Arabia Standard Time|SAST]] ([[UTC+03:00|UTC+3]])
+|team1 = [[Real Madrid CF|Real Madrid]]
+|score = 3–0
+|report = https://www.laliga.com/en-GB/match/temporada-2024-2025-supercopa-de-espana-real-madrid-rcd-mallorca-1
+|team2 = Mallorca
+|goals1 = 
+*[[Jude Bellingham|Bellingham]] {{goal|63}}, {{yel|66}}
+*[[Eduardo Camavinga|Camavinga]] {{yel|74}}
+*[[Martin Valjent|Valjent]] {{goal|90+2|o.g.}}
+*[[Rodrygo]] {{goal|90+5}}
+|goals2 = 
+|stadium = [[King Abdullah Sports City]]
+|location = [[Jeddah]], Saudi Arabia
+|attendance = 
+|referee = De Burgos Bengoetxea
+|result = L
+}}
+
+== References ==
+{{Reflist}}
+
+{{RCD Mallorca}}
+{{2024–25 in Spanish football}}
+
+{{DEFAULTSORT:2024-25 RCD Mallorca season}}
+[[Category:RCD Mallorca seasons]]
+[[Category:Spanish football clubs 2024–25 season|Mallorca]]

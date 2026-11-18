@@ -1,0 +1,35 @@
+.si__grid { display: grid; column-gap: var(--sp-5); align-items: center; padding: 0; }
+.si__main { display: flex; flex-direction: column; gap: var(--sp-1); min-width: 0; }
+.si__title { margin: 0; font-size: 96px; line-height: 0.92; white-space: nowrap; display: flex; align-items: center; gap: 20px; }
+/* la palabra del tipo, en BLOQUE del color oficial del club (no texto aclarado); el resto, en blanco al 85 % */
+.si__lead { display: inline-block; padding: 6px 20px 0; border-radius: var(--r-sm); background: var(--club-fill); color: var(--club-ink); }
+.si__rest { color: rgba(255, 255, 255, 0.85); font-weight: 600; }
+.si__who { display: flex; flex-wrap: wrap; align-items: center; gap: 8px var(--sp-2); min-width: 0; }
+.si__pill { font-size: var(--fs-lg); }
+.si__name { font-size: 56px; line-height: 0.95; white-space: nowrap; }
+.si__meta { display: flex; align-items: center; gap: var(--sp-2); margin-top: var(--sp-1); font-size: var(--fs-min); line-height: 1.2; color: var(--c-text-2); white-space: nowrap; }
+.si__other { display: flex; align-items: center; gap: 12px; margin-left: var(--sp-3); font-size: var(--fs-md); color: var(--c-text-2); line-height: 1; white-space: nowrap; }
+.si .si__other-n { font-size: 40px; color: var(--c-text); font-weight: 700; }
+.si__side { display: flex; flex-direction: column; gap: var(--sp-2); min-width: 0; }
+.si__figs { display: flex; gap: var(--sp-4); }
+/* sin tiles: etiqueta de una línea ENCIMA de la cifra de 72 px; el dato protagonista, con filete del club */
+.si__fig { display: flex; flex-direction: column; gap: 4px; width: 300px; padding-left: var(--sp-2); border-left: 6px solid var(--c-line-strong); }
+.si__fig.is-hl { border-left-color: var(--club-edge, var(--club-fill)); }
+.si .si__fig-l { font-family: var(--font-display); font-weight: 600; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); text-transform: uppercase; color: var(--c-text-2); line-height: 1.1; white-space: nowrap; }
+.si .si__fig-v { font-size: var(--fs-stat); line-height: 0.95; color: var(--c-text); }
+.si__fig small { font-family: var(--font-text); font-size: var(--fs-md); font-weight: 500; color: var(--c-text-2); margin: 0 8px; }
+.si__match {
+  display: flex; align-items: center; gap: var(--sp-2); padding: 10px var(--sp-2); border-radius: var(--r-md);
+  background: color-mix(in srgb, var(--club-fill) 55%, transparent);
+}
+.si__match-l { font-family: var(--font-display); font-weight: 700; font-size: var(--fs-sm); letter-spacing: var(--ls-caps); color: var(--c-kicker); line-height: 1.1; flex: none; }
+.si__match-v { display: flex; flex-wrap: wrap; gap: 4px var(--sp-3); }
+.si__m { display: inline-flex; align-items: baseline; gap: 10px; }
+.si .si__m-v { font-size: 40px; line-height: 1; }
+.si__m i { font-style: normal; font-size: var(--fs-md); color: var(--c-text); line-height: 1.1; }
+.si__field > svg { border-radius: var(--r-md); }
+/* sin cabecera de panel: el bloque arranca a 24 px del canto (el escudo, el ámbito y el distintivo van en .si__meta) */
+.si.panel--lower .panel__body { padding-top: var(--sp-3); }
+/* título largo ("FALTA PELIGROSA COMETIDA"): 64 px para no invadir la columna de cifras */
+.si__title--long { font-size: 64px; gap: 14px; }
+.si__title--long .si__lead { padding: 4px 14px 0; }
